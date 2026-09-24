@@ -1,0 +1,6 @@
+import fs from 'node:fs/promises';
+const tabs=await(await fetch('http://localhost:9444/json/list')).json();const tab=tabs.find(t=>t.url.includes('lemonyellow')||t.url.includes('jaipurliterature'))||tabs.find(t=>t.url.includes('jaipurliterature'));
+const ws=new WebSocket(tab.webSocketDebuggerUrl);await new Promise(r=>ws.onopen=r);let id=0;const pending=new Map();ws.onmessage=e=>{const d=JSON.parse(e.data);if(pending.has(d.id)){pending.get(d.id)(d.result);pending.delete(d.id)}};const send=(method,params={})=>new Promise(r=>{pending.set(++id,r);ws.send(JSON.stringify({id,method,params}))});const run=async expression=>(await send('Runtime.evaluate',{expression,returnByValue:true})).result.value;
+await send('Page.enable');await send('Page.bringToFront');await send('Emulation.setDeviceMetricsOverride',{width:1440,height:900,deviceScaleFactor:1,mobile:false});
+console.log(await run("[...document.querySelectorAll('a,button')].filter(e=>false).map(e=>({html:e.outerHTML,rect:e.getBoundingClientRect().toJSON()}))"));
+console.log(await run("[...document.querySelectorAll('h2')].map(e=>({title:e.innerText,height:e.parentElement.parentElement.offsetHeight,width:e.parentElement.parentElement.offsetWidth}))"));await fs.writeFile('research/screenshots/jaipur-proportions.png',Buffer.from((await send('Page.captureScreenshot',{format:'png'})).data,'base64'));ws.close();

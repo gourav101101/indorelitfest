@@ -1,0 +1,13 @@
+const tabs=await(await fetch('http://localhost:9444/json/list')).json();
+const ws=new WebSocket(tabs.find(t=>t.url.includes('127.0.0.1:8008')).webSocketDebuggerUrl);await new Promise(r=>ws.addEventListener('open',r,{once:true}));
+let id=0;const pending=new Map();ws.addEventListener('message',e=>{const d=JSON.parse(e.data);if(pending.has(d.id)){pending.get(d.id)(d);pending.delete(d.id);}});
+const send=(method,params={})=>new Promise(resolve=>{const n=++id;pending.set(n,resolve);ws.send(JSON.stringify({id:n,method,params}));});
+const run=async expression=>(await send('Runtime.evaluate',{expression,returnByValue:true})).result;
+await send('Page.bringToFront');await send('Emulation.setFocusEmulationEnabled',{enabled:true});
+console.log(await run("window.keyLog=[];document.addEventListener('keydown',e=>window.keyLog.push({key:e.key,target:e.target.id,trusted:e.isTrusted}));document.getElementById('experiences').scrollIntoView({block:'start'});document.getElementById('experience-tab-2').click();document.getElementById('experience-tab-2').focus();({focus:document.hasFocus(),active:document.activeElement.id,vertical:document.activeElement.closest('[role=tablist]').getAttribute('aria-orientation')})"));
+await send('Input.dispatchKeyEvent',{type:'keyDown',key:'ArrowDown',code:'ArrowDown',windowsVirtualKeyCode:40});
+await send('Input.dispatchKeyEvent',{type:'keyUp',key:'ArrowDown',code:'ArrowDown',windowsVirtualKeyCode:40});
+await new Promise(r=>setTimeout(r,500));
+console.log(await run("({keys:window.keyLog,active:document.activeElement.id,selected:document.querySelector('.experience-choices [aria-selected=true]').id})"));
+console.log(await run("document.getElementById('experience-tab-2').dispatchEvent(new KeyboardEvent('keydown',{key:'ArrowDown',bubbles:true}));({keys:window.keyLog,active:document.activeElement.id,selected:document.querySelector('.experience-choices [aria-selected=true]').id})"));
+ws.close();

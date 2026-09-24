@@ -1,0 +1,526 @@
+/* Composed scenes: content and artwork share the same canvas. */
+.ilf-scene-wildlife{position:absolute;left:0;bottom:0;width:100%;height:auto;pointer-events:none;z-index:0;opacity:.6}
+.ilf-listen{isolation:isolate;overflow:hidden;padding-bottom:90px}
+.ilf-listen>:not(.ilf-scene-wildlife){position:relative;z-index:1}
+.ilf-listen-card{background:#fff6e8;padding:16px;border-radius:12px}.ilf-attendees{isolation:isolate;overflow:hidden}
+.ilf-attendees::before{content:'“';position:absolute;left:3%;top:6%;font:400 clamp(200px,25vw,430px)/1 Georgia,serif;color:#c944331a;z-index:-1;pointer-events:none}
+@media(min-width:1100px){
+ .ilf-listen{padding:35px 0 75px;min-height:calc(100svh - 94px)}
+ .ilf-listen .ilf-media-rail{gap:28px;max-width:1250px}
+ .ilf-listen .ilf-heading{min-height:110px}.ilf-listen .ilf-intro{margin-bottom:22px}
+ .ilf-listen-cover{max-height:clamp(140px,22svh,220px)}
+ .ilf-attendees .ilf-text-link{align-self:center}
+}
+@media(min-width:1100px) and (max-height:800px){
+ .ilf-listen{padding-block:24px 40px}.ilf-listen-card{padding:12px}.ilf-listen .ilf-media-note{margin:10px 20px}
+}
+@media(max-width:1099px){.ilf-scene-wildlife{opacity:.22}.ilf-listen-card{padding:12px}.ilf-listen{padding-bottom:45px}}
+.ilf-listen-cover{width:100%}
+@media(min-width:1100px){.ilf-listen{padding-bottom:60px}}
+@media(min-width:1100px) and (max-height:800px){
+ .ilf-listen{padding-block:18px 24px}
+ .ilf-listen .ilf-heading{min-height:85px;margin-bottom:10px}
+ .ilf-listen .ilf-intro{font-size:15px;margin-bottom:15px}
+ .ilf-listen-cover{max-height:140px}
+ .ilf-listen-card h3{font-size:20px;margin-bottom:8px}
+ .ilf-listen-card>p{margin-bottom:10px}
+}
+/* Taller hero retained; other scenes keep their previous composition. */
+@media(min-width:1100px){
+ .ilf-hero{--hero-scene-height:clamp(800px,92svh,980px);padding-top:clamp(150px,16svh,190px)}
+ .ilf-hero-sky,.ilf-hero-arch{height:var(--hero-scene-height)}
+ .ilf-hero-arch{width:100%;left:0;transform:none}
+ .ilf-hero-people{width:100%;height:clamp(590px,73svh,800px);min-height:0;max-width:none;left:0;bottom:0;transform:none;object-fit:cover;object-position:center bottom;opacity:1}
+ .ilf-hero-content{width:min(660px,48%);min-height:calc(var(--hero-scene-height) - clamp(150px,16svh,190px));padding-bottom:30px}
+ .ilf-hero h1{font-size:clamp(54px,4vw,76px);margin:22px 0 12px}
+ .ilf-hero h1>span{font-size:clamp(29px,2.1vw,40px)}
+ .ilf-hero-logo{width:120px;height:120px}
+ .ilf-hero .ilf-edition-label{margin-bottom:9px}
+ .ilf-hero .ilf-hero-date{font-size:22px;margin-bottom:6px}
+ .ilf-hero .ilf-hero-venue{font-size:17px}
+ .ilf-hero .ilf-hero-hindi{font-size:20px;margin-bottom:16px}
+ .ilf-hero-foot{margin-top:-18px;padding-bottom:35px}
+}
+@media(min-width:1100px) and (max-width:1450px){
+ .ilf-hero-content{width:560px;max-width:50%}
+}
+
+/* Centred experience layout without an empty divider slot. */
+.ilf-experiences{padding-top:55px;padding-bottom:55px;margin-top:35px}
+@media(max-width:700px){.ilf-experiences{padding-top:40px;padding-bottom:40px}}
+/* About: concise story above a contained, cinematic preview. */
+.ilf-about .ilf-prose{max-width:790px;font-size:16px;line-height:1.65}
+.ilf-about .ilf-prose h3{font-size:23px;line-height:1.4;margin-bottom:26px}
+.ilf-about .ilf-prose p{margin-bottom:20px}
+.ilf-about .ilf-prose .ilf-text-link{font-size:15px;margin-top:0}
+.ilf-about .ilf-film-card{width:min(1050px,calc(100% - 80px));aspect-ratio:16/9;margin-top:35px}
+.ilf-about .ilf-film-caption strong{font-size:32px}
+@media(max-width:700px){.ilf-about .ilf-prose{font-size:15px;padding-inline:24px}.ilf-about .ilf-prose h3{font-size:21px}.ilf-about .ilf-film-card{width:calc(100% - 32px);margin-top:28px}.ilf-about .ilf-film-caption strong{font-size:22px}}
+/* Experience: one clear caption, quiet previews and icon-only navigation. */
+.ilf-carousel-controls [data-ilf-status],.ilf-carousel.is-enhanced .ilf-experience-card>p{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;bottom:auto;right:auto}
+.ilf-carousel-controls button{display:grid;place-items:center;border-radius:6px;transition:background .2s}
+.ilf-carousel-controls button:hover{background:#173b70}
+.ilf-carousel-controls button svg{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.ilf-experiences>.ilf-intro{max-width:660px}
+@media(min-width:1001px){
+ .ilf-carousel{--slide-width:360px;--slide-step:295px;max-width:1040px;margin-block:35px 30px}
+ .ilf-carousel.is-enhanced .ilf-experience-track{height:510px}
+ .ilf-carousel-controls button{top:195px}
+ .ilf-experience-card h3{font-size:25px;max-width:290px;margin-top:20px}
+}
+@media(max-width:700px){.ilf-carousel.is-enhanced .ilf-experience-track{height:415px}.ilf-carousel-controls button{width:42px;height:42px}}
+/* Tactile navigation without autoplay or a visible counter. */
+.ilf-carousel .ilf-experience-track{touch-action:pan-y;cursor:grab;translate:var(--drag-offset,0px) 0;transition:translate .25s ease}
+.ilf-carousel.is-dragging .ilf-experience-track{cursor:grabbing;transition:none;user-select:none}
+.ilf-carousel-dots{display:flex;justify-content:center;gap:4px;margin-top:4px}
+.ilf-carousel-dots button{display:grid;place-items:center;width:36px;height:36px;padding:0;border:0;background:transparent;cursor:pointer;border-radius:50%}
+.ilf-carousel-dots button::after{content:'';width:7px;height:7px;border-radius:10px;background:#173b7040;transition:width .25s,background .25s}
+.ilf-carousel-dots button[aria-pressed=true]::after{width:24px;background:#c94433}
+.ilf-carousel-dots button:hover::after{background:#173b70}
+.ilf-carousel-controls button{border-radius:50%;box-shadow:0 4px 12px #173b7014}
+.ilf-carousel.is-enhanced .ilf-experience-card:not(.is-active){filter:saturate(.65);opacity:.55}
+.ilf-carousel.is-enhanced .ilf-experience-card.is-active .ilf-experience-image{filter:drop-shadow(0 10px 12px #173b7018)}
+.ilf-experience-image:focus-visible{outline-offset:8px}
+@media(prefers-reduced-motion:reduce){.ilf-carousel .ilf-experience-track,.ilf-carousel-dots button::after{transition:none}}
+html:not(.motion-enabled) .ilf-carousel .ilf-experience-track{transition:none}
+/* High-contrast carousel controls remain clear against the artwork. */
+.ilf-carousel-controls button{width:54px;height:54px;background:#173b70;color:#fff;border:2px solid #fff8e8;box-shadow:0 4px 14px #173b7026;display:grid;place-items:center;opacity:1}
+.ilf-carousel-controls button svg{display:block;width:28px;height:28px;stroke:#fff;stroke-width:2.6;fill:none;flex-shrink:0}
+.ilf-carousel-controls button:hover{background:#c94433;color:#fff}
+.ilf-carousel-controls button:focus-visible{outline:3px solid #c94433;outline-offset:4px}
+@media(max-width:700px){.ilf-carousel-controls button{width:46px;height:46px}.ilf-carousel-controls button svg{width:25px;height:25px}.ilf-carousel-controls [data-ilf-prev]{left:8px}.ilf-carousel-controls [data-ilf-next]{right:8px}}
+/* Indore editorial identity: stepped cornices, woven borders and river lines. */
+.ilf-home .ilf-flower,.ilf-home .ilf-card-flower{display:none}
+.ilf-heading{min-height:130px;padding:20px 15px 26px}
+.ilf-heading::after{content:'';position:absolute;bottom:0;left:50%;translate:-50% 0;width:64px;height:5px;background:repeating-linear-gradient(90deg,#c94433 0 12px,transparent 12px 16px)}
+.ilf-heading h2 span{font-family:var(--sans);font-size:17px!important;line-height:1.5;letter-spacing:1.2px;margin-bottom:12px;font-weight:500}
+.ilf-heading h2 strong{font-size:clamp(40px,4vw,60px);line-height:1.12}
+.ilf-experience-image{mask:none;border-radius:5px!important;border:9px solid #d9af70;padding:14px!important;aspect-ratio:400/470;background:#f5e7cf!important;box-shadow:inset 0 0 0 1px #a87547}
+.ilf-experience-image::before{content:'';position:absolute;left:-12px;right:-12px;top:-12px;height:14px;background:#173b70;border-top:3px solid #d9af70}
+.ilf-experience-image svg{display:none!important}
+.ilf-experience-image img{position:static;width:100%;height:100%;border-radius:0;object-fit:cover}
+.ilf-carousel.is-enhanced .ilf-experience-card.is-active .ilf-experience-image{filter:none;box-shadow:0 14px 24px #173b7014}
+.ilf-registration-card{border-radius:8px;min-height:380px;border:1px solid #d4b98d;border-top:5px solid #bd7951;box-shadow:none}
+.ilf-participation-icon{font:500 23px/1 var(--serif);color:#b56b42;border-bottom:1px solid #d4b98d;padding-bottom:12px;margin-bottom:12px}
+.ilf-speaker>div{border-radius:4px;border:0;padding:0;box-shadow:8px 8px 0 #e6d7bd}
+.ilf-speaker img{border-radius:4px;filter:saturate(.9)}
+.ilf-listen{background:#f5e9d6}
+.ilf-listen::after{content:'';position:absolute;bottom:0;left:0;right:0;height:40px;pointer-events:none;background:repeating-linear-gradient(0deg,transparent 0 8px,#2d827915 8px 10px)}
+.ilf-feature-art{border-radius:0!important}
+.ilf-experiences .ilf-heading h2 strong{font-size:clamp(44px,4vw,64px)}
+
+@media(max-width:700px){.ilf-heading{min-height:110px}.ilf-heading h2 span{font-size:14px!important}.ilf-heading h2 strong{font-size:40px}.ilf-hero-arch{width:1060px}.ilf-registration-card{min-height:0}}
+/* The full painted scene meets the header without a colour seam. */
+
+.ilf-final-invite{border-top:8px double #ad713e}
+
+/* Restore the approved hero and illustrated listening backdrop. */
+.ilf-home .ilf-hero .ilf-flower{display:block}
+.ilf-listen{background:#f7dfba}
+.ilf-listen::after{content:none}
+@media(max-width:700px){.ilf-home .ilf-hero .hero-flower-three{display:none}}
+/* Local heritage sits at section edges, separate from the approved hero. */
+.ilf-rajwada-accent,.ilf-ujjain-accent{position:absolute;pointer-events:none;object-fit:contain;z-index:0}
+.ilf-rajwada-accent{left:1.5%;top:200px;width:clamp(110px,14vw,240px);height:auto;opacity:.35}
+.ilf-ujjain-accent{right:0;bottom:0;width:clamp(100px,13vw,210px);height:auto;opacity:.3}
+.ilf-music>.ilf-feature-grid{position:relative;z-index:1}
+.ilf-venue{isolation:isolate;padding-bottom:clamp(240px,25vw,420px)}
+.ilf-narmada-art{position:absolute;left:0;bottom:0;width:100%;height:auto;pointer-events:none;z-index:-1;mask-image:linear-gradient(transparent,#000 20%);object-fit:contain}
+@media(max-width:1200px){.ilf-rajwada-accent{width:110px;left:-40px;opacity:.2}.ilf-ujjain-accent{width:120px;right:-40px;opacity:.22}}
+@media(max-width:700px){.ilf-rajwada-accent{top:65px;width:85px;left:-25px;opacity:.22}.ilf-ujjain-accent{right:0;bottom:0;width:100px;opacity:.25}.ilf-venue{padding-bottom:145px}.ilf-narmada-art{width:100%;min-height:130px;object-fit:cover;object-position:center bottom}}
+/* Focused homepage polish: distinct experiences and a curated photo sequence. */
+.ilf-speaker-edition{display:block;font-size:10px;letter-spacing:1.5px;color:#8b5636;margin-top:18px}
+.ilf-speaker h3{margin-top:8px}
+.ilf-memory-ribbon{width:min(1320px,calc(100% - 64px));margin-inline:auto;display:grid;grid-template-columns:1.3fr 1fr 1fr 1.1fr;gap:18px;overflow:visible;padding:0}
+.ilf-memory-ribbon button{width:100%;min-width:0;transform:none!important;border-radius:8px;overflow:hidden;aspect-ratio:3/4}
+.ilf-memory-ribbon button img{width:100%;height:100%;object-fit:cover}
+.ilf-memory-ribbon button:nth-child(2) img{object-position:55% center}
+.ilf-memory-ribbon button span{font-size:16px;line-height:1.4}
+.ilf-moments{background:#fffdf8}
+.ilf-books{background:#f6eddf}
+.ilf-final-invite{background:#e4ede6;border-top:1px solid #bacfc0;flex-direction:column;text-align:center;gap:25px;padding:60px 24px}
+.ilf-final-invite h2{font-size:clamp(32px,3.2vw,48px);max-width:760px;margin:16px auto 20px;line-height:1.15}
+.ilf-final-invite>div>span{display:block;font-size:17px;line-height:1.7}
+@media(max-width:1000px){.ilf-memory-ribbon{grid-template-columns:repeat(2,1fr);width:calc(100% - 40px);gap:16px}.ilf-memory-ribbon button{aspect-ratio:4/3}}
+@media(max-width:600px){.ilf-memory-ribbon{gap:12px}.ilf-memory-ribbon button{aspect-ratio:3/4}.ilf-memory-ribbon button span{font-size:13px;padding:12px}.ilf-final-invite{padding-block:45px}}
+.ilf-moments,.ilf-moments .ilf-heading h2{color:#173b70}
+.ilf-memory-ribbon{margin-bottom:32px;align-items:stretch}
+.ilf-memory-ribbon button{display:flex;flex-direction:column;aspect-ratio:auto;padding:8px;box-shadow:0 5px 16px #173b7014}
+.ilf-memory-ribbon button img{height:340px;aspect-ratio:auto;flex:none}
+.ilf-memory-ribbon button:nth-child(4) img{object-position:22% center}
+.ilf-memory-ribbon button>span{margin-top:auto;font-size:16px;padding:16px 8px 12px;color:#173b70}
+@media(max-width:1000px){.ilf-memory-ribbon button img{height:260px}}
+@media(max-width:600px){.ilf-memory-ribbon button img{height:180px}.ilf-memory-ribbon button>span{font-size:13px;padding:12px 4px 8px}}
+/* Only decorative scenery changes; all event information remains stationary. */
+.ilf-hero-people[data-hero-scene]{opacity:0;transition:opacity 2.2s ease;will-change:auto}
+.ilf-hero-people[data-hero-scene].is-current{opacity:1}
+.ilf-hero-alternate{mask-image:none}
+@media(prefers-reduced-motion:reduce){.ilf-hero-people[data-hero-scene]{transition:none;animation:none!important}}
+html:not(.motion-enabled) .ilf-hero-people[data-hero-scene]{transition:none;animation:none}
+
+/* Consistent framing: no panning, zooming or moving controls. */
+.ilf-hero-people[data-hero-scene]{translate:none;animation:none!important;object-position:center bottom}
+.ilf-hero-alternate{mask-image:none}
+@media(min-width:1100px){.ilf-hero-people[data-hero-scene]{object-fit:cover}}
+/* Hero refinement: stable scenery, quieter decoration and closer content rhythm. */
+.ilf-home .ilf-hero .ilf-flower{animation:none!important}
+.ilf-hero .ilf-edition-label{margin-bottom:9px}
+.ilf-hero h1{margin-top:22px;margin-bottom:12px}
+.ilf-hero .ilf-hero-hindi{margin-bottom:16px}
+@media(min-width:1100px){
+ .ilf-hero-people[data-hero-scene]{width:100%;height:auto;aspect-ratio:3/1;min-height:0;object-fit:contain;object-position:center bottom;bottom:0}
+ .ilf-hero-content{padding-bottom:25px}
+}
+@media(min-width:701px) and (max-width:1099px){
+ .ilf-hero-people[data-hero-scene]{width:1250px;height:auto;min-height:0;object-fit:contain;left:50%;transform:translateX(-50%);bottom:0}
+}
+@media(max-width:700px){
+ .ilf-hero-people[data-hero-scene]{width:960px;height:320px;min-height:0;left:50%;transform:translateX(-50%);object-fit:contain;bottom:0}
+ .ilf-hero .ilf-edition-label{margin-bottom:12px}
+ .ilf-hero h1{margin-top:24px}
+ .ilf-hero .ilf-hero-hindi{margin-bottom:18px}
+}
+@media(max-width:700px){.ilf-hero-people[data-hero-scene]{width:760px;height:auto;bottom:290px}}
+/* Original literary accents replace the reference-style floral ornaments. */
+.ilf-hero-mark{position:absolute;width:48px;height:48px;pointer-events:none;opacity:.8}
+.ilf-hero-mark-book{left:14%;top:110px;color:#f6bc32;transform:rotate(-12deg)}
+.ilf-hero-mark-pen{right:15%;top:140px;color:#e99975;transform:rotate(8deg)}
+@media(max-width:1099px){.ilf-hero-mark-book{left:8%;top:80px}.ilf-hero-mark-pen{right:8%;top:95px}}
+@media(max-width:700px){.ilf-hero-mark{width:30px;height:30px}.ilf-hero-mark-book{left:7%;top:55px}.ilf-hero-mark-pen{right:7%;top:68px}}
+/* Participation: an illustrated invitation with a compact desktop composition. */
+.ilf-join{position:relative;isolation:isolate;background:#f5ead8;padding:clamp(28px,4vh,46px) 0;overflow:hidden}
+.ilf-join::before{content:"";position:absolute;inset:0;z-index:-1;background:radial-gradient(ellipse at 50% 0,#fffdf8 0,transparent 65%);pointer-events:none}
+.ilf-join .ilf-heading{min-height:0;margin-bottom:12px}
+.ilf-join .ilf-heading h2{margin:0}
+.ilf-join .ilf-heading h2 strong{font-size:clamp(38px,4.2vw,66px);line-height:1.12}
+.ilf-join>.ilf-intro{margin:0 auto 26px;font-size:17px}
+.ilf-join-wrap{width:calc(100% - 80px);max-width:1320px}
+.ilf-attend-card{position:relative;isolation:isolate;overflow:hidden;display:flex;align-items:center;justify-content:space-between;gap:30px;padding:30px 38px;text-align:left;background:#173b70;color:#fff9eb;border:1px solid #254b7e;border-radius:12px;box-shadow:0 12px 30px #173b7012}
+.ilf-attend-card::before{content:"";position:absolute;z-index:-1;right:23%;bottom:-24px;width:240px;height:230px;background:url('/images/rajwada-linework.svg') center bottom/contain no-repeat;filter:brightness(0) invert(1);opacity:.12;pointer-events:none}
+.ilf-attend-card h3{font:500 clamp(32px,3vw,44px)/1.15 var(--serif);color:inherit;margin:0 0 10px}
+.ilf-attend-card p{font-size:17px;margin:0;line-height:1.5}
+.ilf-attend-details{display:flex;flex-wrap:wrap;gap:8px 24px;margin-top:18px!important;color:#f5cd83}
+.ilf-attend-card>.ilf-button{flex-shrink:0;background:#fff4df;color:#173b70;min-height:58px}
+.ilf-attend-card>.ilf-button:hover{background:#f5cd83;color:#173b70}
+.ilf-join-options{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin-top:20px;text-align:left}
+.ilf-join-option{display:flex;flex-direction:column;align-items:flex-start;padding:22px 24px;background:#fffdf8;border:1px solid #e4d4bd;border-radius:10px;min-width:0;transition:border-color .2s,box-shadow .2s}
+.ilf-join-option:hover,.ilf-join-option:focus-within{border-color:#b77d55;box-shadow:0 8px 24px #173b700c}
+.ilf-join-option>svg{box-sizing:content-box;width:30px;height:30px;padding:10px;color:#ae593e;background:#f8eddd;border-radius:50%;margin-bottom:14px}
+.ilf-join-option h3{font:500 clamp(25px,2.1vw,31px)/1.2 var(--serif);color:#173b70;margin:0 0 10px}
+.ilf-join-option p{font-size:16px;line-height:1.5;margin:0 0 16px}
+.ilf-join-option .ilf-text-link{font-size:14px;line-height:1.5;gap:8px;margin-top:auto;min-height:32px}
+@media(min-width:1100px) and (min-height:760px){.ilf-join{min-height:calc(100svh - 94px);display:flex;flex-direction:column;justify-content:center}}
+@media(min-width:1100px) and (max-height:800px){.ilf-join{padding-block:24px}.ilf-join .ilf-heading h2 strong{font-size:48px}.ilf-join>.ilf-intro{margin-bottom:18px}.ilf-attend-card{padding:24px 32px}.ilf-join-option{padding:18px 22px}.ilf-join-option>svg{width:26px;height:26px;padding:8px;margin-bottom:10px}}
+@media(max-width:1099px){.ilf-join-options{grid-template-columns:repeat(2,1fr)}.ilf-attend-card{padding:28px;flex-wrap:wrap}.ilf-attend-card::before{right:0}.ilf-join-wrap{width:calc(100% - 40px)}}
+@media(max-width:600px){.ilf-join{padding-block:38px}.ilf-join>.ilf-intro{font-size:16px;padding-inline:24px}.ilf-attend-card{padding:26px;gap:24px}.ilf-attend-card>.ilf-button{width:100%}.ilf-join-options{grid-template-columns:1fr;gap:14px}.ilf-join-option{display:grid;grid-template-columns:44px 1fr;gap:0 16px;padding:22px}.ilf-join-option>svg{grid-row:1/4;width:26px;height:26px;padding:8px}.ilf-join-option h3,.ilf-join-option p,.ilf-join-option a{grid-column:2}.ilf-join-option .ilf-text-link{justify-self:start}.ilf-attend-details{display:block}.ilf-attend-details span{display:block;margin-top:6px}}
+
+/* A quiet literary courtyard frames the invitation without obscuring the actions. */
+.ilf-join{padding-bottom:125px}
+.ilf-join-art{position:absolute;z-index:-1;left:0;bottom:0;width:100%;height:auto;pointer-events:none;mask-image:linear-gradient(transparent,#000 35%)}
+.ilf-attend-card::before{display:none}
+.ilf-join-wrap{max-width:1200px}
+@media(min-width:1100px){.ilf-join{justify-content:flex-start}.ilf-join-option{padding:18px 22px}.ilf-join-option>svg{margin-bottom:10px}.ilf-attend-card{padding:24px 32px}}
+@media(min-width:1100px) and (max-height:800px){.ilf-join{padding-top:22px;padding-bottom:100px}.ilf-join .ilf-heading h2 strong{font-size:44px}.ilf-join-option>svg{width:22px;height:22px;padding:6px}.ilf-join-option p{font-size:15px}.ilf-attend-card{padding:20px 28px}.ilf-join>.ilf-intro{margin-bottom:16px}}
+@media(max-width:1099px){.ilf-join-art{width:140%;max-width:none;left:-20%}.ilf-join{padding-bottom:125px}}
+@media(max-width:600px){.ilf-join-art{width:210%;left:-55%}.ilf-join{padding-bottom:115px}}
+
+@media(min-width:1100px) and (max-height:800px){.ilf-join{padding-top:12px;padding-bottom:85px}.ilf-join .ilf-heading{margin-bottom:6px}.ilf-join-options{margin-top:14px}.ilf-join-option{padding-block:14px}.ilf-join-option p{margin-bottom:12px}}
+
+/* Shared ivory and an airy woven transition connect story to participation. */
+.ilf-story-transition{height:clamp(140px,11vw,180px);background:#fffdf8;overflow:hidden;pointer-events:none}
+.ilf-story-transition>svg{display:block;width:100%;height:100%}
+.ilf-join::before{background:linear-gradient(#f5ead8 0%,#fffdf800 48%)}
+@media(max-width:700px){.ilf-story-transition{height:85px}.ilf-story-transition>svg{width:160%;margin-left:-30%}}
+
+/* Larger editorial chapters: shared backgrounds and selective transitions. */
+.ilf-about{background:#fffdf8}
+.ilf-voices,.ilf-books,.ilf-music{background:#f8f0e3}
+.ilf-books,.ilf-music{padding-block:clamp(48px,5vw,80px)}
+.ilf-chapter-transition{position:relative;height:clamp(105px,9vw,150px);overflow:hidden;background:var(--transition-start);pointer-events:none}
+.ilf-chapter-transition--literary{--transition-start:#f8f0e3;--transition-end:#fffdf8}
+.ilf-chapter-transition--river{--transition-start:#f7dfba;--transition-end:#fffdf8}
+.ilf-chapter-transition>svg:first-child{width:100%;height:100%;display:block}
+.ilf-chapter-book{position:absolute;width:110px;height:80px;left:12%;top:5px;transform:rotate(-9deg)}
+.ilf-listen,.ilf-sessions{background:#f7dfba}
+.ilf-listen{padding-block:48px 90px;min-height:calc(100svh - 94px)}
+.ilf-listen .ilf-heading{min-height:110px;margin-bottom:24px}
+.ilf-listen .ilf-intro{max-width:850px;font-size:17px;line-height:1.7;margin-bottom:38px}
+.ilf-listen .ilf-media-rail{width:calc(100% - 80px);max-width:1320px;gap:30px}
+.ilf-listen-cover{aspect-ratio:16/10;max-height:240px}
+.ilf-listen-card{padding:18px;border-radius:12px;background:#fff9ef}
+.ilf-listen-card h3{font-size:25px;line-height:1.3}
+.ilf-listen-card>p{font-size:15px;margin-bottom:18px}
+.ilf-scene-wildlife{bottom:0;opacity:.65;mask-image:linear-gradient(transparent,#000 30%)}
+.ilf-sessions{padding-block:35px 55px;border-top:0}
+.ilf-attendees,.ilf-news,.ilf-journal{background:#fffdf8;color:#173b70}
+.ilf-attendees .ilf-heading h2{color:#173b70}
+.ilf-attendee-grid article{background:#faf3e8;border:1px solid #e3d4be;border-radius:12px;padding:32px}
+.ilf-attendee-grid article p{font-size:22px;line-height:1.6}
+.ilf-attendee-grid h3{color:#173b70}
+.ilf-attendee-grid small,.ilf-attendees .ilf-media-note{color:#586576}
+.ilf-attendees>.ilf-text-link{color:#a73b2b}
+.ilf-news{padding-bottom:45px}
+/* Archive photographs and press cards share the festival's paper-and-gold palette. */
+.ilf-moments .ilf-memory-ribbon{grid-template-columns:repeat(4,minmax(0,1fr));gap:24px}
+.ilf-moments .ilf-memory-ribbon button{padding:12px;background:#fffaf0;border:1px solid #dfcfb5;border-radius:100px 100px 12px 12px;box-shadow:0 8px 24px #173b700c;transition:border-color .25s,box-shadow .25s}
+.ilf-moments .ilf-memory-ribbon button img{height:310px;border-radius:90px 90px 4px 4px}
+.ilf-moments .ilf-memory-ribbon button>span{align-items:center;min-height:76px;padding:18px 4px 8px;font-size:18px;line-height:1.35}
+.ilf-moments .ilf-memory-ribbon i{display:grid;place-items:center;flex:0 0 32px;height:32px;border:1px solid #d5b880;border-radius:50%;font:18px/1 sans-serif;color:#b65336;transition:background .25s,color .25s}
+.ilf-moments .ilf-memory-ribbon button:hover,.ilf-moments .ilf-memory-ribbon button:focus-visible{border-color:#bb8b46;box-shadow:0 12px 28px #173b701a}
+.ilf-moments .ilf-memory-ribbon button:hover i,.ilf-moments .ilf-memory-ribbon button:focus-visible i{background:#173b70;color:#fffaf0}
+.ilf-news .ilf-news-grid{gap:20px}
+.ilf-news .ilf-news-grid article{position:relative;padding:30px 26px;border:1px solid #e2d5c2;border-top:3px solid #c99a52;border-radius:5px 5px 18px 5px;background:#fffaf0;box-shadow:0 6px 20px #173b7008;transition:border-color .25s,box-shadow .25s}
+.ilf-news .ilf-news-grid article:hover{border-color:#c99a52;box-shadow:0 10px 26px #173b7012}
+.ilf-news .ilf-news-source{font-size:11px;letter-spacing:1.3px;line-height:1.7;text-transform:uppercase}
+.ilf-news .ilf-news-date{margin:10px 0 22px;padding-bottom:18px;border-bottom:1px solid #ded1bc;letter-spacing:.6px}
+.ilf-news .ilf-news-grid h3{font-size:26px;line-height:1.25}
+.ilf-news .ilf-news-grid .ilf-text-link{margin-top:18px;padding-top:12px}
+.ilf-news .ilf-news-grid .ilf-news-announcement{background:#173b70;color:#fffaf0;border-color:#c99a52}
+.ilf-news-announcement .ilf-news-source,.ilf-news-announcement .ilf-news-date{color:#eed099}
+.ilf-news .ilf-news-announcement h3{color:#fffaf0}
+.ilf-news .ilf-news-announcement .ilf-text-link{color:#ffe0a5;border-color:#c99a52}
+@media(max-width:1000px){.ilf-moments .ilf-memory-ribbon{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}.ilf-moments .ilf-memory-ribbon button img{height:280px}}
+@media(max-width:600px){.ilf-moments .ilf-memory-ribbon{gap:12px}.ilf-moments .ilf-memory-ribbon button{padding:7px;border-radius:65px 65px 10px 10px}.ilf-moments .ilf-memory-ribbon button img{height:190px;border-radius:60px 60px 3px 3px}.ilf-moments .ilf-memory-ribbon button>span{font-size:14px;min-height:72px;gap:5px}.ilf-moments .ilf-memory-ribbon i{flex-basis:25px;height:25px;font-size:15px}.ilf-news .ilf-news-grid article{padding:25px}.ilf-news .ilf-news-grid h3{font-size:25px}}
+.ilf-journal{padding-top:45px}
+.ilf-journal-grid .article-card{background:#f8f0e3}
+.ilf-final-invite{border-top:0;position:relative}
+.ilf-final-invite::before{content:'';height:24px;position:absolute;left:0;right:0;top:0;background:linear-gradient(135deg,#fffdf8 25%,transparent 25%) -12px 0/24px 24px,linear-gradient(225deg,#fffdf8 25%,transparent 25%) -12px 0/24px 24px;pointer-events:none}
+@media(min-width:1100px) and (max-height:800px){.ilf-listen{padding-block:32px 65px}.ilf-listen .ilf-heading{min-height:90px;margin-bottom:18px}.ilf-listen .ilf-intro{font-size:16px;margin-bottom:25px}.ilf-listen-cover{max-height:180px}.ilf-listen-card h3{font-size:22px}}
+@media(max-width:700px){.ilf-chapter-transition{height:80px}.ilf-chapter-book{width:75px;height:55px;left:8%}.ilf-listen{padding-block:38px 65px;min-height:0}.ilf-listen .ilf-heading{min-height:90px}.ilf-listen .ilf-intro{font-size:16px;margin-bottom:26px}.ilf-listen .ilf-media-rail{width:calc(100% - 32px);gap:18px}.ilf-listen-cover{max-height:none}.ilf-listen-card h3{font-size:23px}.ilf-sessions{padding-block:30px 40px}.ilf-attendee-grid article p{font-size:20px}.ilf-attendee-grid article{padding:26px}}
+
+/* Balance the media artwork with a complete desktop view of the actions. */
+@media(min-width:1100px){
+ .ilf-listen{padding-block:30px 55px}
+ .ilf-listen .ilf-heading{min-height:100px;margin-bottom:18px}
+ .ilf-listen .ilf-intro{margin-bottom:26px}
+ .ilf-listen-cover{max-height:190px}
+ .ilf-listen-card{padding:16px}
+ .ilf-listen-card h3{font-size:23px}
+ .ilf-listen-card>small{margin-top:12px;margin-bottom:8px}
+ .ilf-listen-card>p{margin-bottom:12px}
+ .ilf-listen .ilf-media-note{margin-block:12px}
+}
+@media(min-width:1100px) and (max-height:800px){
+ .ilf-listen{padding-block:22px 38px}
+ .ilf-listen .ilf-heading{min-height:85px;margin-bottom:14px}
+ .ilf-listen .ilf-intro{margin-bottom:22px}
+ .ilf-listen-cover{max-height:155px}
+ .ilf-listen-card h3{font-size:21px}
+}
+
+
+/* ═══ Explorer orbit premium keyframes ═══ */
+@keyframes orbit-bloom{0%{opacity:0;transform:rotate(calc(var(--bloom-from,0)*1deg)) translateY(-131px) rotate(calc(var(--bloom-from,0)*-1deg)) scale(.35)}60%{opacity:1;transform:rotate(var(--orbit-r)) translateY(-131px) rotate(var(--orbit-r-inv)) scale(1.06)}100%{transform:rotate(var(--orbit-r)) translateY(-131px) rotate(var(--orbit-r-inv)) scale(var(--orbit-s,1))}}
+@keyframes centre-shimmer{0%,100%{border-color:#efd19a;box-shadow:0 0 0 2px #173b70,0 12px 24px #173b7033}50%{border-color:#f7dba0;box-shadow:0 0 0 2px #173b70,0 0 28px #f5d99040,0 12px 24px #173b7033}}
+@keyframes current-glow{0%,100%{box-shadow:0 0 0 3px #e8bc70,0 0 0 6px #e8bc7022,0 12px 28px #173b7020}50%{box-shadow:0 0 0 4px #f0ca7e,0 0 0 10px #e8bc7035,0 14px 32px #173b7028}}
+
+/* An accessible literary orbit: stationary centre, upright linked tiles. */
+.ilf-explorer{background:#fffdf8;text-align:center;padding:50px 20px 35px;color:#173b70;overflow:hidden}
+.ilf-explorer-intro>span{font-size:12px;letter-spacing:2px;color:#a45439}
+.ilf-explorer h2{font:500 clamp(34px,3.5vw,52px)/1.2 var(--serif);margin:12px 0}
+.ilf-explorer-intro p{font-size:16px;margin:0}
+.ilf-orbit{position:relative;width:600px;height:560px;margin:12px auto}
+.ilf-orbit::before{content:'';position:absolute;inset:70px 90px;border:1px dashed #ceb98d;border-radius:50%}
+.ilf-orbit-centre{position:absolute;width:190px;left:205px;top:180px}
+.ilf-orbit-centre svg{width:190px;height:146px}
+.ilf-orbit-centre span{font-size:11px;letter-spacing:2px;line-height:1.7;display:block}
+.ilf-orbit-link{position:absolute;left:230px;top:210px;width:140px;display:flex;flex-direction:column;align-items:center;gap:8px;transform:rotate(calc(var(--tile)*72deg)) translateY(-210px) rotate(calc(var(--tile)*-72deg));text-decoration:none;color:#173b70}
+.ilf-orbit-link svg{width:100px;height:100px;padding:12px;border-radius:25% 45% 28% 40%;background:#e4ede6;box-shadow:0 5px 15px #173b700c;border:1px solid #cbdcd1}
+.ilf-orbit-link:nth-of-type(2n) svg{background:#f5dfbc;border-color:#e2c698}
+.ilf-orbit-link:nth-of-type(3n) svg{background:#eaded6;border-color:#decac0}
+.ilf-orbit-link span{font-size:14px;font-weight:600;line-height:1.3;background:#fffdf8;padding:3px 5px;border-radius:4px}
+.ilf-orbit-link:hover svg,.ilf-orbit-link:focus-visible svg{border-color:#c94433;box-shadow:0 8px 24px #173b701c}
+.ilf-orbit-link:focus-visible{outline:2px solid #c94433;outline-offset:5px;border-radius:12px}
+.ilf-explorer-controls{display:none;align-items:center;justify-content:center;gap:24px}
+.ilf-explorer.is-orbit-ready .ilf-explorer-controls{display:flex}
+.ilf-explorer-controls button{width:44px;height:44px;border:1px solid #d7c6ad;background:#fffdf8;color:#173b70;border-radius:50%;font-size:24px;cursor:pointer}
+.ilf-explorer-controls button:hover{background:#173b70;color:#fffdf8}
+.ilf-explorer-controls>span{min-width:170px;font:500 23px var(--serif)}
+@media(max-width:700px){.ilf-explorer{padding:35px 0}.ilf-explorer-intro{padding-inline:20px}.ilf-orbit{width:100%;height:auto;display:flex;gap:18px;overflow-x:auto;scroll-snap-type:x mandatory;padding:24px;margin:0;box-sizing:border-box}.ilf-orbit::before,.ilf-orbit-centre{display:none}.ilf-orbit-link{position:static;transform:none!important;flex:0 0 145px;width:145px;scroll-snap-align:center}.ilf-orbit-link svg{width:105px;height:105px}.ilf-explorer-controls{margin-top:10px}.ilf-explorer-controls>span{font-size:20px}}
+
+.ilf-explorer{scroll-margin-top:94px}.ilf-orbit-link.is-current svg{border-color:#ad7750;box-shadow:0 5px 18px #173b7015}
+
+
+/* Painted scenes form one compact composition, replacing the icon wheel. */
+.ilf-explorer{padding-block:14px 30px;position:relative}
+.ilf-explorer-intro>span{display:none}
+.ilf-explorer-intro p{color:#5c6470}
+.ilf-orbit{width:600px;height:460px;margin:0 auto;transform:none}
+.ilf-orbit::before{display:none}
+.ilf-orbit-centre{width:230px;height:230px;left:185px;top:175px;background:url('/images/explorer-illustration-hero.webp') 100% 100%/300% 200%;z-index:2;pointer-events:none;mask-image:radial-gradient(ellipse at center,#000 57%,transparent 73%)}
+.ilf-orbit-link{width:189px;height:189px;left:205.5px;top:139.5px;gap:0;transform:rotate(calc(var(--tile)*72deg)) translateY(-131px) rotate(calc(var(--tile)*-72deg));z-index:1}
+.ilf-orbit-painting{display:block!important;width:189px;height:189px;background-image:url('/images/explorer-illustration-hero.webp')!important;background-size:300% 200%!important;background-position:0 0;border-radius:0!important;padding:0!important;mask-image:radial-gradient(ellipse at center,#000 60%,transparent 74%);transition:filter .25s}
+.ilf-orbit-link:nth-of-type(2) .ilf-orbit-painting{background-position:50% 0}
+.ilf-orbit-link:nth-of-type(3) .ilf-orbit-painting{background-position:100% 0}
+.ilf-orbit-link:nth-of-type(4) .ilf-orbit-painting{background-position:0 100%}
+.ilf-orbit-link:nth-of-type(5) .ilf-orbit-painting{background-position:50% 100%}
+.ilf-orbit-link>span:last-child{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}
+.ilf-orbit-link:focus-visible{z-index:3}
+.ilf-explorer-controls{gap:20px;margin-top:8px}
+.ilf-explorer-controls button{border:0;background:transparent;color:#b65336;font-size:28px}
+@media(max-width:700px){.ilf-orbit{width:100%;height:auto;margin:12px 0 0;padding:12px 24px 20px}.ilf-orbit-link{flex:0 0 210px;height:auto;position:relative;left:auto;top:auto}.ilf-orbit-link>span:last-child{position:static;width:auto;height:auto;clip-path:none;overflow:visible;font-size:16px}.ilf-orbit-centre{display:none}.ilf-explorer-controls{margin-top:0}.ilf-explorer h2{font-size:36px}}
+
+@media(min-width:701px){.ilf-orbit-link{border-radius:50%;clip-path:circle(49%)}}
+
+
+/* Crisp medallions, a single featured link and deliberate circular steps. */
+.ilf-explorer-controls{margin:28px auto 4px;gap:28px;position:relative;z-index:4}
+.ilf-explorer-controls .ilf-orbit-caption{font:500 24px/1.3 var(--serif);min-width:210px;color:#173b70;padding:8px 0}
+.ilf-explorer-controls .ilf-orbit-caption span{font:400 18px var(--sans);color:#b65336;margin-left:8px}
+.ilf-orbit{margin-top:12px}
+.ilf-orbit-link{clip-path:none;border-radius:50%;transition:transform 1200ms cubic-bezier(.22,1,.36,1),box-shadow 600ms ease,filter 500ms ease;opacity:1;filter:none;pointer-events:auto}
+.ilf-orbit-link.is-current{z-index:3}
+.ilf-orbit-painting{mask-image:none;border-radius:50%!important;border:6px solid #f0d8ad;box-shadow:inset 0 0 18px #f5e6c855,0 0 0 2px #b8873a,0 9px 22px #173b7018;background-clip:padding-box;transition:border-color .5s,box-shadow .5s,filter .4s,transform .45s cubic-bezier(.22,1,.36,1)}
+.ilf-orbit-link.is-current .ilf-orbit-painting{border-color:#e8bc70;animation:none}
+.ilf-orbit-centre{z-index:4;top:178px;pointer-events:none}
+.ilf-orbit-link:focus-visible{outline:3px solid #173b70;outline-offset:6px;border-radius:50%}
+.ilf-orbit-link:focus-visible .ilf-orbit-painting{border-color:#f0ca7e;box-shadow:inset 0 0 18px #f5e6c855,0 0 0 3px #c9963e,0 9px 22px #173b7018}
+html:not(.motion-enabled) .ilf-orbit-link{transition:none}
+html:not(.motion-enabled) .ilf-orbit-link.is-current .ilf-orbit-painting{animation:none}
+@media(prefers-reduced-motion:reduce){.ilf-orbit-link{transition:none}.ilf-orbit-link.is-current .ilf-orbit-painting{animation:none}}
+@media(max-width:700px){.ilf-orbit-link{opacity:1;filter:none;pointer-events:auto}.ilf-explorer-controls{gap:12px;margin-top:20px}.ilf-explorer-controls>a{font-size:20px;min-width:190px}.ilf-orbit-painting{width:200px;height:200px}.ilf-orbit-link>span:last-child{margin-top:10px}}
+
+.ilf-explorer:not(.is-orbit-ready) .ilf-orbit-link{opacity:1;filter:none;pointer-events:auto}
+/* Bloom entrance: petals scale in staggered when section becomes visible */
+.ilf-explorer.orbit-blooming .ilf-orbit-link{animation:orbit-bloom .85s cubic-bezier(.22,1,.36,1) forwards;animation-delay:calc(var(--tile) * 120ms)}
+
+
+/* Clear artwork and a more prominent foreground centre. */
+.ilf-orbit-link,.ilf-orbit-link.is-current{opacity:1;filter:none;transition:transform 1200ms cubic-bezier(.22,1,.36,1),box-shadow 600ms ease,filter 500ms ease}
+.ilf-orbit-centre{z-index:6;top:140px;left:183px;width:234px;height:234px;mask-image:radial-gradient(ellipse at center,#000 63%,transparent 73%)}
+@media(prefers-reduced-motion:reduce){.ilf-orbit-link{transition:none}}
+
+/* Foreground emblem stays crisp; the title follows a shallow arc. */
+.ilf-orbit-centre{mask-image:none;border-radius:50%;border:5px solid #efd19a;box-shadow:inset 0 0 0 2px #fff3cd4d,0 0 0 2px #173b70,0 11px 22px #173b7033;background:#0e436c url('/images/indore-literature-festival-logo.webp') center 48%/132px 132px no-repeat;top:144px;left:185px;width:230px;height:230px;overflow:hidden}
+.ilf-orbit-centre::after{content:'';position:absolute;left:50%;bottom:39px;width:136px;height:18px;translate:-50% 0;background:linear-gradient(transparent,#0e436c 85%);pointer-events:none}
+.motion-enabled .ilf-orbit-centre{animation:centre-shimmer 4s ease-in-out infinite}
+html:not(.motion-enabled) .ilf-orbit-centre{animation:none}
+@media(prefers-reduced-motion:reduce){.ilf-orbit-centre{animation:none}}
+.ilf-explorer-controls{gap:0;margin:0 auto -27px;align-items:flex-end;transform:translateY(-18px)}
+.ilf-explorer-controls .ilf-orbit-caption{border:0;padding:0;min-width:0;width:280px;height:85px;display:block}
+.ilf-explorer-controls .ilf-orbit-caption{position:relative;z-index:2}
+.ilf-explorer-controls .ilf-orbit-caption svg{width:100%;height:100%;overflow:visible}
+.ilf-explorer-controls text{fill:#173b70;font:600 21px var(--sans);letter-spacing:.4px}
+.ilf-explorer-controls .ilf-orbit-deco{margin-bottom:-14px;width:150px;height:80px;display:flex;align-items:center;justify-content:center;color:#e88a53;flex:0 0 auto}
+.ilf-explorer-controls .ilf-orbit-deco-left{transform:translate(60px,25px)}
+.ilf-explorer-controls .ilf-orbit-deco-right{transform:translate(-60px,25px)}
+.ilf-explorer-controls .ilf-orbit-deco svg{width:100%;height:100%;display:block;transform:translateY(-8px) scale(.72)}
+.ilf-orbit{margin-top:0}
+.ilf-orbit-painting{transform:none!important;filter:none!important;backface-visibility:hidden;transition:border-color .2s ease,box-shadow .2s ease!important}
+@media(min-width:701px){.ilf-explorer.is-orbit-ready .ilf-orbit-link{pointer-events:none;cursor:default}.ilf-explorer.is-orbit-ready .ilf-orbit-link.is-current{pointer-events:auto;cursor:pointer}.ilf-orbit-link.is-current:hover .ilf-orbit-painting{transform:none!important;filter:none!important;border-color:#f6bc32;box-shadow:inset 0 0 0 2px #fff3cd,0 0 0 3px #ad7750,0 9px 22px #173b7018}.ilf-about{padding-top:8px}}
+@media(max-width:700px){.ilf-explorer{padding-block:14px 10px}.ilf-explorer-controls .ilf-orbit-caption{width:min(230px,62vw);height:72px}.ilf-explorer-controls{gap:0;margin-bottom:-12px}.ilf-explorer-controls text{font-size:19px}.ilf-explorer-controls .ilf-orbit-deco{width:54px;height:52px;margin-bottom:0}.ilf-explorer-controls .ilf-orbit-deco-left{transform:translateX(12px)}.ilf-explorer-controls .ilf-orbit-deco-right{transform:translateX(-12px)}.ilf-orbit{margin:0 0 -8px;padding-bottom:6px;transform:none}}
+
+/* ═══════════════════════════════════════════════════════════
+   HERO COUNTDOWN — compact glass-card digits inside the hero
+   ═══════════════════════════════════════════════════════════ */
+.ilf-countdown{
+  width:100%;max-width:520px;margin:8px auto 22px;text-align:center;
+}
+.ilf-countdown-label{
+  font-size:11px;letter-spacing:3px;text-transform:uppercase;
+  color:var(--ilf-red);font-weight:700;margin:0 0 12px;line-height:1.5;
+}
+.ilf-countdown-blocks{
+  display:flex;align-items:center;justify-content:center;gap:8px;
+}
+.ilf-countdown-sep{
+  font:600 28px/1 var(--serif);color:var(--ilf-navy);opacity:.3;
+  padding-bottom:20px;
+}
+.ilf-countdown-block{
+  display:flex;flex-direction:column;align-items:center;gap:5px;
+  min-width:72px;padding:12px 14px;
+  background:var(--ilf-navy);border-radius:10px;
+  border:2px solid #d9af70;
+  box-shadow:0 4px 16px #173b7018,inset 0 1px 0 #ffffff08;
+  position:relative;perspective:320px;overflow:hidden;
+}
+.ilf-countdown-block>span{
+  font:700 clamp(28px,4vw,38px)/1 var(--serif);color:#fffdf8;
+  font-variant-numeric:tabular-nums;letter-spacing:-1px;
+  min-width:2ch;display:inline-block;
+}
+.ilf-countdown-block small{
+  font-size:9px;letter-spacing:2px;text-transform:uppercase;
+  color:#d4b98d;font-weight:600;
+}
+/* Calendar-style number change. */
+.ilf-countdown-value{position:relative;z-index:1;align-items:center;justify-content:center}
+.ilf-countdown-value[data-value]{display:inline-flex}
+.ilf-countdown-digit{position:relative;display:grid;place-items:center;min-width:.58em;perspective:180px}
+.ilf-countdown-digit>span{grid-area:1/1;display:block;transform-origin:center center;backface-visibility:hidden;will-change:transform,opacity}
+.ilf-countdown-digit.is-preparing .ilf-digit-current{opacity:0}
+.ilf-countdown-digit.is-flipping .ilf-digit-current{animation:ilf-digit-in .52s cubic-bezier(.2,.75,.25,1) both}
+.ilf-digit-old{position:relative;z-index:2;pointer-events:none}
+.ilf-countdown-digit.is-flipping .ilf-digit-old{animation:ilf-digit-out .52s cubic-bezier(.4,0,.3,1) both}
+@keyframes ilf-digit-out{0%,38%{opacity:1;transform:rotateX(0)}100%{opacity:0;transform:rotateX(82deg)}}
+@keyframes ilf-digit-in{0%,38%{opacity:0;transform:rotateX(-82deg)}100%{opacity:1;transform:rotateX(0)}}
+
+/* Arrived state */
+.ilf-countdown.is-arrived .ilf-countdown-blocks{display:none}
+.ilf-countdown.is-arrived .ilf-countdown-label{
+  font-size:18px;letter-spacing:1px;color:var(--ilf-navy);
+  font-family:var(--serif);font-weight:600;margin-bottom:0;
+}
+
+/* Desktop: tighter hero when countdown is present */
+@media(min-width:1100px){
+  .ilf-countdown{margin:8px auto 22px;max-width:480px}
+  .ilf-countdown-block{min-width:80px;padding:14px 16px}
+  .ilf-countdown-block span{font-size:36px}
+  .ilf-countdown-sep{font-size:26px}
+}
+@media(min-width:1100px) and (max-height:800px){
+  .ilf-countdown{margin:2px auto 12px}
+  .ilf-countdown-label{margin-bottom:10px;font-size:10px}
+  .ilf-countdown-block{min-width:68px;padding:10px 12px}
+  .ilf-countdown-block span{font-size:30px}
+  .ilf-countdown-block small{font-size:8px}
+  .ilf-countdown-sep{font-size:22px;padding-bottom:16px}
+}
+/* Mobile: 2×2 grid */
+@media(max-width:700px){
+  .ilf-countdown{margin:6px auto 18px;max-width:300px}
+  .ilf-countdown-label{font-size:10px;margin-bottom:10px;letter-spacing:2.5px}
+  .ilf-countdown-blocks{flex-wrap:wrap;gap:8px}
+  .ilf-countdown-sep{display:none}
+  .ilf-countdown-block{min-width:calc(50% - 6px);flex:1 1 calc(50% - 6px);padding:10px 8px}
+  .ilf-countdown-block span{font-size:30px}
+  .ilf-countdown-block small{font-size:8px;letter-spacing:1.5px}
+}
+@media(prefers-reduced-motion:reduce){.ilf-countdown-digit.is-flipping .ilf-digit-current,.ilf-countdown-digit.is-flipping .ilf-digit-old{animation:none}.ilf-digit-old{display:none}}
+html:not(.motion-enabled) .ilf-countdown-digit.is-flipping .ilf-digit-current,html:not(.motion-enabled) .ilf-countdown-digit.is-flipping .ilf-digit-old{animation:none}
+
+/* Editorial artwork cards for the books and performance chapters. */
+.ilf-books .ilf-feature-art,.ilf-music .ilf-feature-art{position:relative;isolation:isolate;padding:30px 38px 55px}
+.ilf-books .ilf-feature-art::before,.ilf-music .ilf-feature-art::before{content:'';position:absolute;z-index:-2;inset:8px 7% 35px;border:1px solid #bd794d;border-radius:46% 46% 18px 18px;background:#e8c894;transform:rotate(-3deg)}
+.ilf-books .ilf-feature-art::after,.ilf-music .ilf-feature-art::after{content:'';position:absolute;z-index:-1;left:18px;bottom:31px;width:58%;height:35%;border-radius:12px;background:repeating-linear-gradient(135deg,#173b70 0 2px,transparent 2px 11px);opacity:.12;transform:rotate(3deg)}
+.ilf-feature-image{position:relative;aspect-ratio:4/5;overflow:hidden;border:2px solid #efd19a;border-radius:46% 46% 14px 14px;background:#173b70;box-shadow:0 18px 38px #173b7022}
+.ilf-feature-image::after{content:'';position:absolute;inset:0;pointer-events:none;box-shadow:inset 0 0 0 7px #fff8e824;border-radius:inherit}
+.ilf-feature-image img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .7s cubic-bezier(.22,1,.36,1)}
+.ilf-feature-art:hover .ilf-feature-image img{transform:scale(1.025)}
+.ilf-feature-art>.ilf-art-number{position:absolute;z-index:2;left:8px;top:68px;display:grid;place-items:center;width:58px;height:58px;margin:0;border-radius:50%;background:#173b70;color:#fffdf8;border:3px solid #efd19a;font:600 18px/1 var(--serif);box-shadow:0 8px 20px #173b7028}
+.ilf-feature-art>.ilf-art-caption{position:absolute;z-index:2;left:50%;bottom:16px;translate:-50% 0;display:block;width:min(76%,360px);margin:0;padding:12px 22px;background:#fffaf0;border:1px solid #d7ae75;border-radius:5px;text-align:center;color:var(--ilf-navy);box-shadow:0 8px 22px #173b7017}
+.ilf-art-caption small{display:block;margin-bottom:5px;color:#b65336;font-size:9px;font-weight:700;letter-spacing:1.6px;line-height:1.4}
+.ilf-art-caption b{display:block;color:#173b70;font-size:17px;font-weight:500;line-height:1.35}
+.ilf-music .ilf-feature-art::before{background:#b9d5ca;border-color:#36786b;transform:rotate(3deg)}
+.ilf-music .ilf-feature-art::after{left:auto;right:18px;background:repeating-linear-gradient(45deg,#36786b 0 2px,transparent 2px 11px);transform:rotate(-3deg)}
+.ilf-music .ilf-feature-image{border-color:#9dbfb2}
+.ilf-music .ilf-art-number{left:auto;right:8px;background:#36786b;border-color:#dce9e4}
+@media(max-width:760px){.ilf-books .ilf-feature-art,.ilf-music .ilf-feature-art{max-width:440px;padding:24px 28px 48px}.ilf-feature-image{aspect-ratio:1/1.1}.ilf-art-number{width:48px;height:48px;top:55px;left:5px;font-size:16px}.ilf-music .ilf-art-number{left:auto;right:5px}.ilf-art-caption{bottom:10px;width:75%;padding:10px 15px}.ilf-art-caption b{font-size:15px}}
+
+/* Indore food motifs replace generic floral decoration. */
+.ilf-food-ornament{position:absolute;z-index:1;width:clamp(72px,7vw,118px);height:auto;object-fit:contain;pointer-events:none;user-select:none;filter:drop-shadow(0 8px 13px #173b7018);animation:ilf-food-spin 22s linear infinite;transform-origin:center}
+.ilf-food-jalebi{animation-duration:18s}
+.ilf-food-poha{animation-direction:reverse;animation-duration:26s}
+.ilf-food-about{right:5%;top:120px}
+.ilf-food-registration{left:3%;top:175px;width:clamp(86px,8vw,132px)}
+.ilf-food-voices{right:4%;top:105px;width:clamp(66px,6vw,102px)}
+.ilf-food-journal{left:3%;top:115px;width:clamp(78px,7vw,116px)}
+.ilf-food-explorer-one{left:7%;top:145px;width:clamp(70px,6.5vw,106px)}
+.ilf-food-explorer-two{right:8%;top:105px;width:clamp(60px,5.5vw,92px);animation-duration:20s}
+.ilf-food-explorer-three{left:16%;bottom:65px;width:clamp(48px,4.5vw,76px);animation-duration:24s;animation-direction:reverse}
+@keyframes ilf-food-spin{to{transform:rotate(360deg)}}
+@media(max-width:900px){.ilf-food-ornament{width:72px;opacity:.82}.ilf-food-about,.ilf-food-voices{right:10px}.ilf-food-registration,.ilf-food-journal{left:8px}.ilf-food-explorer-one{left:8px;top:175px}.ilf-food-explorer-two{right:8px;top:125px}.ilf-food-explorer-three{display:none}}
+@media(max-width:600px){.ilf-food-ornament{width:58px;opacity:.72}.ilf-food-about{top:72px}.ilf-food-registration{top:95px}.ilf-food-voices{top:65px}.ilf-food-journal{top:72px}.ilf-food-explorer-one{top:135px}.ilf-food-explorer-two{top:92px;width:50px}}
+@media(prefers-reduced-motion:reduce){.ilf-food-ornament{animation:none}}

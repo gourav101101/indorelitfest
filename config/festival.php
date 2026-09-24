@@ -1,0 +1,26 @@
+<?php
+return [
+    'name' => 'Indore Literature Festival',
+    'tagline' => 'Let the legacy of literature grow…',
+    'dates' => env('FESTIVAL_DATES') ?: '27–29 November 2026',
+    'venue' => env('FESTIVAL_VENUE') ?: 'Daly College, Indore',
+    'edition' => 12,
+    'poster' => env('FESTIVAL_POSTER'),
+    'email' => 'indorelitfest@gmail.com',
+    'phone' => '+91 94254 10345',
+    'address' => '413, Krishna Business Centre, near Medanta Hospital, Vijay Nagar, Indore – 452010',
+    'youtube' => 'https://www.youtube.com/HelloHindustan/',
+    'twitter' => 'https://twitter.com/indorelitfest/',
+    'instagram' => 'https://www.instagram.com/indorelitfest/',
+    'facebook' => 'https://www.facebook.com/indorelitfest/',
+    'film' => env('FESTIVAL_FILM'),
+    'schedule' => 'legacy/Indore Literature Festival 2025 Schedule & e-invite.pdf',
+    'speaker_archive' => 'legacy/Speakers 2024 - Indore Literature Festival.pdf',
+    'forms' => [
+        ['name'=>'Festival registration','description'=>'A place for every reader, thinker and curious mind. Join us at Daly College for three days of literature, conversation and discovery.','icon'=>'01','url'=>env('FESTIVAL_REGISTRATION_URL') ?: 'https://forms.gle/SH2gXWhEKokRSwEA6'],
+        ['name'=>'Open mic','description'=>'Bring your poetry, stories and spoken words to the festival. Share your interest in taking the stage through the open mic form.','icon'=>'02','url'=>env('FESTIVAL_OPEN_MIC_URL') ?: 'https://forms.gle/UTP3dukT4reDac867'],
+        ['name'=>'Stall booking','description'=>'Be part of the festival marketplace. Send the team your stall booking enquiry and introduce your books, products or creative work.','icon'=>'03','url'=>env('FESTIVAL_STALL_URL') ?: 'https://forms.gle/BkTuSAir9gymZU9P6'],
+        ['name'=>'Volunteer','description'=>'Help bring the festival to life. Join the people who welcome our community and support the experience behind the scenes.','icon'=>'04','url'=>env('FESTIVAL_VOLUNTEER_URL') ?: 'https://forms.gle/by5xS5RTGjEJfMBFA'],
+        ['name'=>'Internship','description'=>'Discover the work behind a literature festival. Apply to learn with the team and contribute to the making of the 12th edition.','icon'=>'05','url'=>env('FESTIVAL_INTERNSHIP_URL') ?: 'https://forms.gle/htJKDyAMbKi6erHh9'],
+    ],
+];

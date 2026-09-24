@@ -1,0 +1,871 @@
+[
+  {
+    "name": "No horizontal overflow or broken images 1920x930",
+    "passed": true,
+    "detail": {
+      "width": 1920,
+      "scrollWidth": 1905,
+      "navFont": "19px",
+      "available": 826,
+      "scenes": [
+        {
+          "id": "welcome",
+          "height": 826
+        },
+        {
+          "id": "festival",
+          "height": 826
+        },
+        {
+          "id": "voices",
+          "height": 826
+        },
+        {
+          "id": "experiences",
+          "height": 826
+        },
+        {
+          "id": "programme",
+          "height": 826
+        },
+        {
+          "id": "memories",
+          "height": 826
+        },
+        {
+          "id": "stories",
+          "height": 826
+        },
+        {
+          "id": "join",
+          "height": 826
+        }
+      ],
+      "broken": []
+    }
+  },
+  {
+    "name": "Readable navigation 1920px",
+    "passed": true,
+    "detail": "19px"
+  },
+  {
+    "name": "Every chapter fits available desktop height 1920x930",
+    "passed": true,
+    "detail": {
+      "available": 826,
+      "scenes": [
+        {
+          "id": "welcome",
+          "height": 826
+        },
+        {
+          "id": "festival",
+          "height": 826
+        },
+        {
+          "id": "voices",
+          "height": 826
+        },
+        {
+          "id": "experiences",
+          "height": 826
+        },
+        {
+          "id": "programme",
+          "height": 826
+        },
+        {
+          "id": "memories",
+          "height": 826
+        },
+        {
+          "id": "stories",
+          "height": 826
+        },
+        {
+          "id": "join",
+          "height": 826
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hero text and art do not overlap 1920px",
+    "passed": true,
+    "detail": {
+      "copy": 968.203125,
+      "art": 1008.203125,
+      "bottom": 930,
+      "height": 930
+    }
+  },
+  {
+    "name": "All tab selections fit desktop 1920x930",
+    "passed": true,
+    "detail": [
+      {
+        "tab": "experience-tab-0",
+        "height": 826
+      },
+      {
+        "tab": "experience-tab-1",
+        "height": 826
+      },
+      {
+        "tab": "experience-tab-2",
+        "height": 826
+      },
+      {
+        "tab": "experience-tab-3",
+        "height": 826
+      },
+      {
+        "tab": "chapter-tab-0",
+        "height": 826
+      },
+      {
+        "tab": "chapter-tab-1",
+        "height": 826
+      },
+      {
+        "tab": "chapter-tab-2",
+        "height": 826
+      }
+    ]
+  },
+  {
+    "name": "Chapter festival aligns below header",
+    "passed": true,
+    "detail": {
+      "top": 104,
+      "bottom": 930,
+      "header": 104,
+      "active": "#festival"
+    }
+  },
+  {
+    "name": "Chapter voices aligns below header",
+    "passed": true,
+    "detail": {
+      "top": 104,
+      "bottom": 930,
+      "header": 104,
+      "active": "#voices"
+    }
+  },
+  {
+    "name": "Chapter experiences aligns below header",
+    "passed": true,
+    "detail": {
+      "top": 104,
+      "bottom": 930,
+      "header": 104,
+      "active": "#experiences"
+    }
+  },
+  {
+    "name": "Chapter programme aligns below header",
+    "passed": true,
+    "detail": {
+      "top": 104,
+      "bottom": 930,
+      "header": 104,
+      "active": "#programme"
+    }
+  },
+  {
+    "name": "Chapter memories aligns below header",
+    "passed": true,
+    "detail": {
+      "top": 104,
+      "bottom": 930,
+      "header": 104,
+      "active": "#memories"
+    }
+  },
+  {
+    "name": "Chapter stories aligns below header",
+    "passed": true,
+    "detail": {
+      "top": 104,
+      "bottom": 930,
+      "header": 104,
+      "active": "#stories"
+    }
+  },
+  {
+    "name": "Chapter join aligns below header",
+    "passed": true,
+    "detail": {
+      "top": 104,
+      "bottom": 930,
+      "header": 104,
+      "active": "#join"
+    }
+  },
+  {
+    "name": "No horizontal overflow or broken images 1366x768",
+    "passed": true,
+    "detail": {
+      "width": 1366,
+      "scrollWidth": 1351,
+      "navFont": "16px",
+      "available": 664,
+      "scenes": [
+        {
+          "id": "welcome",
+          "height": 664
+        },
+        {
+          "id": "festival",
+          "height": 664
+        },
+        {
+          "id": "voices",
+          "height": 664
+        },
+        {
+          "id": "experiences",
+          "height": 664
+        },
+        {
+          "id": "programme",
+          "height": 664
+        },
+        {
+          "id": "memories",
+          "height": 664
+        },
+        {
+          "id": "stories",
+          "height": 664
+        },
+        {
+          "id": "join",
+          "height": 664
+        }
+      ],
+      "broken": []
+    }
+  },
+  {
+    "name": "Readable navigation 1366px",
+    "passed": true,
+    "detail": "16px"
+  },
+  {
+    "name": "Every chapter fits available desktop height 1366x768",
+    "passed": true,
+    "detail": {
+      "available": 664,
+      "scenes": [
+        {
+          "id": "welcome",
+          "height": 664
+        },
+        {
+          "id": "festival",
+          "height": 664
+        },
+        {
+          "id": "voices",
+          "height": 664
+        },
+        {
+          "id": "experiences",
+          "height": 664
+        },
+        {
+          "id": "programme",
+          "height": 664
+        },
+        {
+          "id": "memories",
+          "height": 664
+        },
+        {
+          "id": "stories",
+          "height": 664
+        },
+        {
+          "id": "join",
+          "height": 664
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hero text and art do not overlap 1366px",
+    "passed": true,
+    "detail": {
+      "copy": 689.09375,
+      "art": 719.09375,
+      "bottom": 768,
+      "height": 768
+    }
+  },
+  {
+    "name": "All tab selections fit desktop 1366x768",
+    "passed": true,
+    "detail": [
+      {
+        "tab": "experience-tab-0",
+        "height": 664
+      },
+      {
+        "tab": "experience-tab-1",
+        "height": 664
+      },
+      {
+        "tab": "experience-tab-2",
+        "height": 664
+      },
+      {
+        "tab": "experience-tab-3",
+        "height": 664
+      },
+      {
+        "tab": "chapter-tab-0",
+        "height": 664
+      },
+      {
+        "tab": "chapter-tab-1",
+        "height": 664
+      },
+      {
+        "tab": "chapter-tab-2",
+        "height": 664
+      }
+    ]
+  },
+  {
+    "name": "No horizontal overflow or broken images 1536x864",
+    "passed": true,
+    "detail": {
+      "width": 1536,
+      "scrollWidth": 1521,
+      "navFont": "16.896px",
+      "available": 760,
+      "scenes": [
+        {
+          "id": "welcome",
+          "height": 760
+        },
+        {
+          "id": "festival",
+          "height": 760
+        },
+        {
+          "id": "voices",
+          "height": 760
+        },
+        {
+          "id": "experiences",
+          "height": 760
+        },
+        {
+          "id": "programme",
+          "height": 760
+        },
+        {
+          "id": "memories",
+          "height": 760
+        },
+        {
+          "id": "stories",
+          "height": 760
+        },
+        {
+          "id": "join",
+          "height": 760
+        }
+      ],
+      "broken": []
+    }
+  },
+  {
+    "name": "Readable navigation 1536px",
+    "passed": true,
+    "detail": "16.896px"
+  },
+  {
+    "name": "Every chapter fits available desktop height 1536x864",
+    "passed": true,
+    "detail": {
+      "available": 760,
+      "scenes": [
+        {
+          "id": "welcome",
+          "height": 760
+        },
+        {
+          "id": "festival",
+          "height": 760
+        },
+        {
+          "id": "voices",
+          "height": 760
+        },
+        {
+          "id": "experiences",
+          "height": 760
+        },
+        {
+          "id": "programme",
+          "height": 760
+        },
+        {
+          "id": "memories",
+          "height": 760
+        },
+        {
+          "id": "stories",
+          "height": 760
+        },
+        {
+          "id": "join",
+          "height": 760
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hero text and art do not overlap 1536px",
+    "passed": true,
+    "detail": {
+      "copy": 772.328125,
+      "art": 812.328125,
+      "bottom": 864,
+      "height": 864
+    }
+  },
+  {
+    "name": "All tab selections fit desktop 1536x864",
+    "passed": true,
+    "detail": [
+      {
+        "tab": "experience-tab-0",
+        "height": 760
+      },
+      {
+        "tab": "experience-tab-1",
+        "height": 760
+      },
+      {
+        "tab": "experience-tab-2",
+        "height": 760
+      },
+      {
+        "tab": "experience-tab-3",
+        "height": 760
+      },
+      {
+        "tab": "chapter-tab-0",
+        "height": 760
+      },
+      {
+        "tab": "chapter-tab-1",
+        "height": 760
+      },
+      {
+        "tab": "chapter-tab-2",
+        "height": 760
+      }
+    ]
+  },
+  {
+    "name": "No horizontal overflow or broken images 1280x720",
+    "passed": true,
+    "detail": {
+      "width": 1280,
+      "scrollWidth": 1265,
+      "navFont": "16px",
+      "available": 616,
+      "scenes": [
+        {
+          "id": "welcome",
+          "height": 616
+        },
+        {
+          "id": "festival",
+          "height": 616
+        },
+        {
+          "id": "voices",
+          "height": 616
+        },
+        {
+          "id": "experiences",
+          "height": 616
+        },
+        {
+          "id": "programme",
+          "height": 616
+        },
+        {
+          "id": "memories",
+          "height": 616
+        },
+        {
+          "id": "stories",
+          "height": 616
+        },
+        {
+          "id": "join",
+          "height": 616
+        }
+      ],
+      "broken": []
+    }
+  },
+  {
+    "name": "Readable navigation 1280px",
+    "passed": true,
+    "detail": "16px"
+  },
+  {
+    "name": "Every chapter fits available desktop height 1280x720",
+    "passed": true,
+    "detail": {
+      "available": 616,
+      "scenes": [
+        {
+          "id": "welcome",
+          "height": 616
+        },
+        {
+          "id": "festival",
+          "height": 616
+        },
+        {
+          "id": "voices",
+          "height": 616
+        },
+        {
+          "id": "experiences",
+          "height": 616
+        },
+        {
+          "id": "programme",
+          "height": 616
+        },
+        {
+          "id": "memories",
+          "height": 616
+        },
+        {
+          "id": "stories",
+          "height": 616
+        },
+        {
+          "id": "join",
+          "height": 616
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hero text and art do not overlap 1280px",
+    "passed": true,
+    "detail": {
+      "copy": 644.046875,
+      "art": 674.046875,
+      "bottom": 720,
+      "height": 720
+    }
+  },
+  {
+    "name": "All tab selections fit desktop 1280x720",
+    "passed": true,
+    "detail": [
+      {
+        "tab": "experience-tab-0",
+        "height": 616
+      },
+      {
+        "tab": "experience-tab-1",
+        "height": 616
+      },
+      {
+        "tab": "experience-tab-2",
+        "height": 616
+      },
+      {
+        "tab": "experience-tab-3",
+        "height": 616
+      },
+      {
+        "tab": "chapter-tab-0",
+        "height": 616
+      },
+      {
+        "tab": "chapter-tab-1",
+        "height": 616
+      },
+      {
+        "tab": "chapter-tab-2",
+        "height": 616
+      }
+    ]
+  },
+  {
+    "name": "No horizontal overflow or broken images 1920x1080",
+    "passed": true,
+    "detail": {
+      "width": 1920,
+      "scrollWidth": 1905,
+      "navFont": "19px",
+      "available": 976,
+      "scenes": [
+        {
+          "id": "welcome",
+          "height": 976
+        },
+        {
+          "id": "festival",
+          "height": 976
+        },
+        {
+          "id": "voices",
+          "height": 976
+        },
+        {
+          "id": "experiences",
+          "height": 976
+        },
+        {
+          "id": "programme",
+          "height": 976
+        },
+        {
+          "id": "memories",
+          "height": 976
+        },
+        {
+          "id": "stories",
+          "height": 976
+        },
+        {
+          "id": "join",
+          "height": 976
+        }
+      ],
+      "broken": []
+    }
+  },
+  {
+    "name": "Readable navigation 1920px",
+    "passed": true,
+    "detail": "19px"
+  },
+  {
+    "name": "Every chapter fits available desktop height 1920x1080",
+    "passed": true,
+    "detail": {
+      "available": 976,
+      "scenes": [
+        {
+          "id": "welcome",
+          "height": 976
+        },
+        {
+          "id": "festival",
+          "height": 976
+        },
+        {
+          "id": "voices",
+          "height": 976
+        },
+        {
+          "id": "experiences",
+          "height": 976
+        },
+        {
+          "id": "programme",
+          "height": 976
+        },
+        {
+          "id": "memories",
+          "height": 976
+        },
+        {
+          "id": "stories",
+          "height": 976
+        },
+        {
+          "id": "join",
+          "height": 976
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hero text and art do not overlap 1920px",
+    "passed": true,
+    "detail": {
+      "copy": 968.203125,
+      "art": 1008.203125,
+      "bottom": 1080,
+      "height": 1080
+    }
+  },
+  {
+    "name": "All tab selections fit desktop 1920x1080",
+    "passed": true,
+    "detail": [
+      {
+        "tab": "experience-tab-0",
+        "height": 976
+      },
+      {
+        "tab": "experience-tab-1",
+        "height": 976
+      },
+      {
+        "tab": "experience-tab-2",
+        "height": 976
+      },
+      {
+        "tab": "experience-tab-3",
+        "height": 976
+      },
+      {
+        "tab": "chapter-tab-0",
+        "height": 976
+      },
+      {
+        "tab": "chapter-tab-1",
+        "height": 976
+      },
+      {
+        "tab": "chapter-tab-2",
+        "height": 976
+      }
+    ]
+  },
+  {
+    "name": "No horizontal overflow or broken images 390x844",
+    "passed": true,
+    "detail": {
+      "width": 390,
+      "scrollWidth": 390,
+      "navFont": "18px",
+      "available": 756,
+      "scenes": [
+        {
+          "id": "welcome",
+          "height": 985.25
+        },
+        {
+          "id": "festival",
+          "height": 1078.171875
+        },
+        {
+          "id": "voices",
+          "height": 1154.875
+        },
+        {
+          "id": "experiences",
+          "height": 971.765625
+        },
+        {
+          "id": "programme",
+          "height": 951.328125
+        },
+        {
+          "id": "memories",
+          "height": 869.953125
+        },
+        {
+          "id": "stories",
+          "height": 1506
+        },
+        {
+          "id": "join",
+          "height": 908.5
+        }
+      ],
+      "broken": []
+    }
+  },
+  {
+    "name": "Mobile navigation opens",
+    "passed": true
+  },
+  {
+    "name": "No horizontal overflow or broken images 360x740",
+    "passed": true,
+    "detail": {
+      "width": 360,
+      "scrollWidth": 360,
+      "navFont": "18px",
+      "available": 652,
+      "scenes": [
+        {
+          "id": "welcome",
+          "height": 971.375
+        },
+        {
+          "id": "festival",
+          "height": 1118.328125
+        },
+        {
+          "id": "voices",
+          "height": 1066.53125
+        },
+        {
+          "id": "experiences",
+          "height": 989.484375
+        },
+        {
+          "id": "programme",
+          "height": 942.609375
+        },
+        {
+          "id": "memories",
+          "height": 887.1875
+        },
+        {
+          "id": "stories",
+          "height": 1497.28125
+        },
+        {
+          "id": "join",
+          "height": 908.5
+        }
+      ],
+      "broken": []
+    }
+  },
+  {
+    "name": "Malwa content removed from homepage; separate link retained",
+    "passed": true
+  },
+  {
+    "name": "Experience selection reveals associated panel",
+    "passed": true
+  },
+  {
+    "name": "Vertical tabs support keyboard navigation",
+    "passed": true,
+    "detail": {
+      "focus": "experience-tab-3",
+      "selected": "experience-tab-3"
+    }
+  },
+  {
+    "name": "Reduced motion disables scroll snapping and decorative motion",
+    "passed": true,
+    "detail": {
+      "snap": "none",
+      "motion": "",
+      "pref": true
+    }
+  },
+  {
+    "name": "No JavaScript exceptions",
+    "passed": true,
+    "detail": []
+  }
+]

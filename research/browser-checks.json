@@ -1,0 +1,175 @@
+[
+  {
+    "name": "Mobile menu opens",
+    "passed": true
+  },
+  {
+    "name": "Escape closes menu and restores focus",
+    "passed": true
+  },
+  {
+    "name": "Speaker search finds the correct profile",
+    "passed": true
+  },
+  {
+    "name": "Search has an honest empty state",
+    "passed": true
+  },
+  {
+    "name": "Journal search works",
+    "passed": true
+  },
+  {
+    "name": "Photo opens in native modal",
+    "passed": true
+  },
+  {
+    "name": "Photo closes and focus returns",
+    "passed": true
+  },
+  {
+    "name": "/ at 360px",
+    "passed": true,
+    "detail": {
+      "width": 360,
+      "scrollWidth": 360,
+      "h1": true,
+      "blankTargets": 0
+    }
+  },
+  {
+    "name": "/ at 768px",
+    "passed": true,
+    "detail": {
+      "width": 768,
+      "scrollWidth": 753,
+      "h1": true,
+      "blankTargets": 0
+    }
+  },
+  {
+    "name": "/speakers at 390px",
+    "passed": true,
+    "detail": {
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": true,
+      "blankTargets": 0
+    }
+  },
+  {
+    "name": "/gallery at 390px",
+    "passed": true,
+    "detail": {
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": true,
+      "blankTargets": 0
+    }
+  },
+  {
+    "name": "/journal at 1440px",
+    "passed": true,
+    "detail": {
+      "width": 1440,
+      "scrollWidth": 1425,
+      "h1": true,
+      "blankTargets": 0
+    }
+  },
+  {
+    "name": "/journal/day-one at 390px",
+    "passed": true,
+    "detail": {
+      "width": 1248,
+      "scrollWidth": 1248,
+      "h1": true,
+      "blankTargets": 0
+    }
+  },
+  {
+    "name": "/participate at 390px",
+    "passed": true,
+    "detail": {
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": true,
+      "blankTargets": 0
+    }
+  },
+  {
+    "name": "/contact at 390px",
+    "passed": true,
+    "detail": {
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": true,
+      "blankTargets": 0
+    }
+  },
+  {
+    "name": "/malwa at 390px",
+    "passed": true,
+    "detail": {
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": true,
+      "blankTargets": 0
+    }
+  },
+  {
+    "name": "/schedule at 390px",
+    "passed": true,
+    "detail": {
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": true,
+      "blankTargets": 0
+    }
+  },
+  {
+    "name": "Gallery initially shows 24 photos",
+    "passed": true
+  },
+  {
+    "name": "Day filter isolates day two",
+    "passed": true
+  },
+  {
+    "name": "Next photo updates counter",
+    "passed": true
+  },
+  {
+    "name": "Left arrow navigates photos",
+    "passed": true
+  },
+  {
+    "name": "English biography is default",
+    "passed": true
+  },
+  {
+    "name": "Hindi biography switch works",
+    "passed": true
+  },
+  {
+    "name": "Journal categories work",
+    "passed": true
+  },
+  {
+    "name": "More stories reveals all 16 articles",
+    "passed": true
+  },
+  {
+    "name": "FAQ opens with useful answer",
+    "passed": true
+  },
+  {
+    "name": "Enquiry requires message and name",
+    "passed": true
+  },
+  {
+    "name": "No JavaScript exceptions",
+    "passed": true,
+    "detail": []
+  }
+]

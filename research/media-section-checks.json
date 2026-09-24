@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Media links use nine specific recordings 1440",
+    "passed": true
+  },
+  {
+    "name": "Media images loaded 1440",
+    "passed": true
+  },
+  {
+    "name": "No horizontal page overflow 1440",
+    "passed": true
+  },
+  {
+    "name": "Attendee source and summary label visible 1440",
+    "passed": true
+  },
+  {
+    "name": "News has announcement and three sourced stories 1440",
+    "passed": true
+  },
+  {
+    "name": "Media links use nine specific recordings 390",
+    "passed": true
+  },
+  {
+    "name": "Media images loaded 390",
+    "passed": true
+  },
+  {
+    "name": "No horizontal page overflow 390",
+    "passed": true
+  },
+  {
+    "name": "Attendee source and summary label visible 390",
+    "passed": true
+  },
+  {
+    "name": "News has announcement and three sourced stories 390",
+    "passed": true
+  },
+  {
+    "name": "No JavaScript exceptions",
+    "passed": true,
+    "detail": []
+  }
+]

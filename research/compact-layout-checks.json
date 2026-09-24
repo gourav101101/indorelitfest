@@ -1,0 +1,150 @@
+[
+  {
+    "name": "podcasts fits 1920",
+    "passed": true,
+    "detail": {
+      "height": 836,
+      "available": 836
+    }
+  },
+  {
+    "name": "attendees fits 1920",
+    "passed": true,
+    "detail": {
+      "height": 830,
+      "available": 836
+    }
+  },
+  {
+    "name": "news-updates fits 1920",
+    "passed": true,
+    "detail": {
+      "height": 830,
+      "available": 836
+    }
+  },
+  {
+    "name": "voices fits 1920",
+    "passed": true,
+    "detail": {
+      "height": 830,
+      "available": 836
+    }
+  },
+  {
+    "name": "journal fits 1920",
+    "passed": true,
+    "detail": {
+      "height": 830,
+      "available": 836
+    }
+  },
+  {
+    "name": "No overflow 1920",
+    "passed": true
+  },
+  {
+    "name": "podcasts fits 1440",
+    "passed": true,
+    "detail": {
+      "height": 806,
+      "available": 806
+    }
+  },
+  {
+    "name": "attendees fits 1440",
+    "passed": true,
+    "detail": {
+      "height": 800,
+      "available": 806
+    }
+  },
+  {
+    "name": "news-updates fits 1440",
+    "passed": true,
+    "detail": {
+      "height": 800,
+      "available": 806
+    }
+  },
+  {
+    "name": "voices fits 1440",
+    "passed": true,
+    "detail": {
+      "height": 800,
+      "available": 806
+    }
+  },
+  {
+    "name": "journal fits 1440",
+    "passed": true,
+    "detail": {
+      "height": 800,
+      "available": 806
+    }
+  },
+  {
+    "name": "No overflow 1440",
+    "passed": true
+  },
+  {
+    "name": "podcasts fits 1366",
+    "passed": true,
+    "detail": {
+      "height": 674,
+      "available": 674
+    }
+  },
+  {
+    "name": "attendees fits 1366",
+    "passed": true,
+    "detail": {
+      "height": 668,
+      "available": 674
+    }
+  },
+  {
+    "name": "news-updates fits 1366",
+    "passed": true,
+    "detail": {
+      "height": 668,
+      "available": 674
+    }
+  },
+  {
+    "name": "voices fits 1366",
+    "passed": true,
+    "detail": {
+      "height": 668,
+      "available": 674
+    }
+  },
+  {
+    "name": "journal fits 1366",
+    "passed": true,
+    "detail": {
+      "height": 668,
+      "available": 674
+    }
+  },
+  {
+    "name": "No overflow 1366",
+    "passed": true
+  },
+  {
+    "name": "No overflow 390",
+    "passed": true
+  },
+  {
+    "name": "Divider image loads",
+    "passed": true
+  },
+  {
+    "name": "Button has no corner ornament",
+    "passed": true
+  },
+  {
+    "name": "Button has no looping animation",
+    "passed": true
+  }
+]

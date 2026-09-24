@@ -1,0 +1,14 @@
+/vendor/
+/node_modules/
+/.env
+/public/hot
+/public/build/
+/storage/**/*.log
+/storage/framework/
+/bootstrap/cache/*.php
+/browser-reference-profile/
+/research/legacy/
+/database/*.sqlite
+/phpunit.result.cache
+/.phpunit.result.cache
+/public/images/*-original.png

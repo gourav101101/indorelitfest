@@ -1,0 +1,6 @@
+2026/09/22-12:05:20.445 3e0c Reusing MANIFEST D:\indorelitfest\browser-identity-review\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/09/22-12:05:20.446 3e0c Recovering log #4
+2026/09/22-12:05:20.446 3e0c Reusing old log D:\indorelitfest\browser-identity-review\Default\EdgeCoupons/coupons_data.db/000004.log 
+2026/09/22-12:05:47.198 3c24 Level-0 table #8: started
+2026/09/22-12:05:47.210 3c24 Level-0 table #8: 683376 bytes OK
+2026/09/22-12:05:47.216 3c24 Delete type=0 #4

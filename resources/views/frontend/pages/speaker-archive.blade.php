@@ -1,0 +1,6 @@
+@extends('frontend.layouts.app')
+@section('content')
+@include('frontend.partials.page-heading',['kicker'=>'A LEGACY OF REMARKABLE VOICES','intro'=>'Every edition adds another chapter. Explore the speaker collections from our past festivals.'])
+<section class="container section"><div class="archive-options"><a href="{{ route('speakers') }}" class="archive-panel"><span class="eyebrow">11TH EDITION</span><strong>2025</strong><h2>Voices of a memorable year.</h2><span class="text-link">Browse 36 profiles ↗</span></a><a href="{{ asset($festival['speaker_archive']) }}" class="archive-panel"><span class="eyebrow">SPEAKER COLLECTION · PDF</span><strong>2024</strong><h2>A chapter worth revisiting.</h2><span class="text-link">Open the speaker archive ↗</span></a></div><p class="muted">Looking for an earlier speaker? <a href="{{ route('contact') }}">Get in touch with the festival team.</a></p></section>
+<section class="container archive-embed"><div class="section-heading"><h2>The 2024 <em>collection.</em></h2><a class="text-link" href="{{ asset($festival['speaker_archive']) }}" download>Download speaker archive ↓</a></div><object data="{{ asset($festival['speaker_archive']) }}" type="application/pdf" aria-label="2024 speaker archive"><p><a href="{{ asset($festival['speaker_archive']) }}">Open the 2024 speaker archive PDF</a></p></object></section>@endsection
+
