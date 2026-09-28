@@ -13,22 +13,7 @@ if (home && 'IntersectionObserver' in window) {
     if (target.getBoundingClientRect().top > innerHeight) target.classList.add('ilf-awaiting');
     observer.observe(target);
   });
-  const progress = document.createElement('div');
-  progress.className = 'ilf-reading-progress';
-  progress.setAttribute('aria-hidden','true');
-  document.body.append(progress);
-  let frame;
-  function updateProgress() {
-    if (frame) return;
-    frame = requestAnimationFrame(() => {
-      const range = document.documentElement.scrollHeight - innerHeight;
-      progress.style.setProperty('--reading-progress',range > 0 ? Math.min(1,Math.max(0,scrollY / range)) : 0);
-      frame = null;
-    });
-  }
-  window.addEventListener('scroll',updateProgress,{passive:true});
-  window.addEventListener('resize',updateProgress,{passive:true});
-  updateProgress();
+
 }
 // Homepage-specific controls. The carousel never auto-advances.
 document.querySelectorAll('.ilf-nav-menu').forEach(menu => {

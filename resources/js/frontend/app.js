@@ -150,16 +150,6 @@ document.querySelectorAll('[data-share]').forEach(button => button.addEventListe
   try { await navigator.clipboard.writeText(button.dataset.share); if (status) status.textContent = 'Link copied'; }
   catch { if (status) status.textContent = 'Copy the address from your browser to share this page.'; }
 }));
-const readingBody = document.querySelector('[data-reading-body]');
-const progress = document.querySelector('.reading-progress span');
-function updateReading() {
-  if (!readingBody || !progress) return;
-  const bounds = readingBody.getBoundingClientRect();
-  progress.style.width = `${Math.min(100, Math.max(0, (innerHeight - bounds.top) / bounds.height * 100))}%`;
-}
-window.addEventListener('scroll', updateReading, {passive:true});
-window.addEventListener('resize', updateReading); updateReading();
-
 document.querySelector('[data-enquiry]')?.addEventListener('submit', event => {
   event.preventDefault();
   const form = event.currentTarget;

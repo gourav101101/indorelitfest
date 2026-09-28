@@ -9,7 +9,7 @@ html{scroll-padding-top:var(--header-height)}
 .explore-panel{padding-block:38px}
 .explore-panel a{font-size:17px;line-height:1.6}
 .explore-panel .eyebrow{font-size:11px}
-.reading-progress{top:var(--header-height)}
+
 .chapter-progress{position:fixed;left:0;right:0;top:var(--header-height);height:2px;z-index:31;pointer-events:none}
 .chapter-progress>span{display:block;height:100%;background:var(--red);width:0;transform-origin:left}
 .festival-home{background:var(--chapter-paper)}

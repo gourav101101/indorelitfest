@@ -201,6 +201,11 @@ body.festival-site .festival-chapter .article-card h3{line-height:1.6}
 body.festival-site .festival-chapter .article-title{max-width:1040px;background:radial-gradient(ellipse at center,#fff0d6,transparent 70%)}
 body.festival-site .festival-chapter .article-title h1{font-size:clamp(28px,3vw,42px);line-height:1.6}
 body.festival-site .festival-chapter .story-cover{border:8px solid #eddbb6;border-radius:16px;overflow:hidden;background:#fff3dc}
+/* Keep framed artwork and the reading columns visibly separate on every story. */
+body.festival-site .festival-chapter .story-layout{margin-top:clamp(28px,4vw,56px);padding-bottom:clamp(32px,4vw,64px);row-gap:32px}
+body.festival-site .festival-chapter .story-layout .article-body{margin-block:0}
+body.festival-site .festival-chapter .story-layout .article-body>p:first-child{margin-top:0}
+body.festival-site .festival-chapter .story-layout .article-body>p:last-child{margin-bottom:0}
 body.festival-site .festival-chapter .story-aside{padding:24px;background:#fbf1df;border-radius:12px;align-self:start}
 body.festival-site .festival-chapter :is(.gallery-feature,.film-placeholder,.festival-video){border:7px solid #e6bc70;border-radius:100px 100px 12px 12px;overflow:hidden}
 body.festival-site .festival-chapter .season-card{background:#fff3dc;border:1px solid #dfbf87;border-radius:10px;min-height:215px}
@@ -211,6 +216,9 @@ body.festival-site .festival-chapter .gallery-item{border:5px solid #f0dfbf;bord
 body.festival-site .festival-chapter .gallery-summary{margin-bottom:28px}
 body.festival-site .festival-chapter .gallery-summary p{margin:0}
 body.festival-site .festival-chapter .empty-state{border:1px solid #dfbf87;border-radius:18px;background:#fff5e4;padding:60px 24px}
+.speaker-announcement-actions{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:20px 32px;margin-top:28px}
+.speaker-announcement-actions>a{margin:0;max-width:100%}
+@media(max-width:700px){.speaker-announcement-actions{flex-direction:column;gap:20px}.speaker-announcement-actions .text-link{min-height:44px;display:inline-flex;align-items:center}}
 body.festival-site .festival-chapter .journey-grid article{border-top:3px solid var(--ilf-gold);background:#fff5e4;padding:32px;border-radius:0 0 12px 12px}
 
 /* Visit, participation, contact and community carry the illustrated setting. */
@@ -226,6 +234,10 @@ body.festival-site .festival-chapter .participation-card h2{font-size:32px;line-
 body.festival-site .festival-chapter .participation-card .button{margin-top:auto}
 body.festival-site .festival-chapter .participation-card:first-child{background:#fff0d1;border-color:#dca951}
 body.festival-site .festival-chapter .notice{padding:30px;border:1px solid #dfbf87;background:#fff3dc;border-radius:12px}
+body.festival-site .festival-chapter .participation-stories+.form-help{margin-top:clamp(28px,4vw,48px)}
+body.festival-site .festival-chapter .legacy-names+.section-heading{margin-top:clamp(36px,5vw,64px)}
+body.festival-site .festival-chapter .festival-document+.schedule-book{margin-top:clamp(28px,4vw,48px)}
+body.festival-site .festival-chapter .schedule-book>summary{padding-block:16px;font-size:16px;line-height:1.5;cursor:pointer}
 body.festival-site .festival-chapter :is(.visit-facts,.contact-note,.press-contact){border:1px solid #dfbf87;border-top:5px solid var(--ilf-gold);background:#fff3dc;border-radius:12px;padding:36px}
 body.festival-site .festival-chapter .visit-facts,body.festival-site .festival-chapter .media-resources>a{background:var(--ilf-navy);color:white}
 body.festival-site .festival-chapter .media-resources h3{color:white}

@@ -1,7 +1,7 @@
 @extends('frontend.layouts.app')
 @section('content')
 <div class="detail-chapter-bar"><div class="container"><a href="{{ route('journal') }}">← The festival journal</a><span>STORIES THAT STAY WITH US</span></div></div>
-<div class="reading-progress" aria-hidden="true"><span></span></div>
+
 <article class="article-detail">
     <div class="container article-title">
         <p class="eyebrow">{{ $article['category'] }} · 2025 EDITION · {{ $article['minutes'] }} MIN READ</p>
