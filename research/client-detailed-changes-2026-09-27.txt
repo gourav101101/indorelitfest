@@ -1,0 +1,38 @@
+Detailed Changes
+
+1. Background Image is of Roopmati Mahal - Mandu, can be changed to the bulding of Daly College, with the same sketchy effect
+2. Love the concept of countdown to the festival, a digital watch
+3. Near the logo on the top, this line should come, "India's Most Vibrant Literature Festival" and the dates, "27-29th November 2026 @Daly College"
+4. Very nice dynamics of the rotating indori snacks
+5. When we are saying, "Meet the voices", we should be showing a collage of 2-3 prominent speakers in the similar sketch art format
+6. On the program is good
+7. again festival moments should be a real photo of people at our stall arena, where they are talking and then add it in the same sketch art
+8. Take part, should be an image of a volunteer standing in between the crowd, where the black t-shirt and ILF logo on it is visible, in the same sketch art form, will be giving the images.
+9. logo in the centre should be the new one in the rotating column
+10. in "About the festival", the main focus should be the legacy of literature that the festival carries, not Indore as a city in particular. Indore should be in focus only in Discover Malwa page
+11. just below it is a video file, that would be the 11 years journey video, which should be a youtube link
+12. wherever the website is loading, we can create an animation of a book with turning pages, whenever someone clicks on a new page, this should pop, so that the speed of processing is shown with an illusion of fast loading in the form of this animation
+13. in "Be a part of the Festival", there is shown Indore, Peacock, Books, Lady, Man, River and Rajwada in the background, this image can be changed to something relatable to participation, maybe we can add ai adaptations of real festival photos and add it in the background collage, in this page we are talking about Volunteering, Registering, Interning, and Booking a Stall, so the similar images can taken from our archives, and can be given the apt artistic effect using ai
+14. These forms are not opening, so kindly look into it, they should be properly opening
+15. In the home page where we have mentioned Festival Voices, these should be particularly the list of all the prominent festival voices over the years, from the starting, 2015 till now, the same page of Our Past Speakers would be the landing page here, with 4-5 main speakers mentioned here in the home page.
+16. Apart from the last year's speakers, whose full intro we are having, we would also be needing to attach full intros to past speakers' profile as well, both in hindi and english
+17. rather than using "Explore the 2025 Speakers, we will mention 2026 Speakers", which will open to 2026 Speakers and their profiles, till then we can add, "The Speaker List of 2026 will be out soon", until the list is actually announced
+18. in the new ideas space, the image needs to be edited, only the buildings that appear far through the window, it can be the scene of desai lake of Daly College.
+19. when we are mentioning open mic, then only the pics of open mic participants should be used, not of the main speakers
+20. in "what our attendees have to say", we have experience of many people, we can add them, some are in Sticky notes, some in videos, and some in publications, we can attach those as well
+21. in the blog page, the thumbnail, tho very good and pretty, but should be the same with the actual speaker image in it, for eg, if the blog is on Sharmishtha Mukherjee, then we can add her session pic in this artistic ai thumbnail. That will bring more authenticity.
+22. If the blog is in english, we have to give the title and content in english, same for hindi.
+23. Social with us, should be connect with us, an all the social icons should be used here, for all the medias
+24. We did not mention anywhere that we've crossed a milestone of 90k+ subscribers on youtube
+25. Produced by Hello Hindustan, exact logo will be used here
+26. if we can use "Flipbook" for PDF Schedule, kindly do that
+27. In gallery, the placement is perfect, exactly what was required, but the images are reordered in between days, day 1 images are also there in day2, so whatever order we give, kindly maintain that.
+28. where Chapter 1, 2... is written, it should be Season 1, Season 2,....
+29. No need for another page, "Browse the photo archive", kindly remove this page 
+30. Liked the concept of Discover Malwa, we can also add other cities of the state as well, like, ,Maheshwar, Dhar, Narmadapuram, Ratlam etc. 
+31. There should be a column for Volunteers specifically, with pics of volunteers at different areas of the fest, we also have some real life experiences that volunteers have shared with us, we can add those here, with a para about what Volunteering at ILF is all about. 
+32. Similarly for interns, stalls, and open mic
+33. Prominent Speaker names all over the years, In its past editions, renowned personalities such as Ruskin Bond, Narendra Kohli, Javed Akhtar, Shabana Azmi, Amish Tripathi, Devdutt Pattnaik, Ashwin Sanghi, Piyush Mishra, Anupam Kher, Kabir Bedi, Annu Kapoor, Deepti Naval, Tarek Fatah, Kishwar Naheed, Taslima Nasreen, Vikram Sampath, Anand Ranganathan, J. Sai Deepak, Neelesh Misra, Mame Khan, Neeraj Aarya’s Kabir Cafe, Gopaldas Neeraj, Raghuvir Chaudhari, Malini Avasthi, Laxmi Narayan Tripathi, Chetan Bhagat, Sonam Wangchuk, Gitanjali J. Angmo, Aabid Soorti, Dr. Kumar Vishwas, Bhawana Somaaya, Vivek Ranjan Agnihotri, Vinay Sahastrabuddhe, Uday Mahurkar, Rahgir, Pyschoshayar - Abhi Munde, Paritosh Tripathi, Divya Prakash Dubey, Sharmistha Mukherjee, Vasundhara, Anshu Gupta, Arun Kamal, Chitra Mudgal, Mamta Kaalia, Rajeev Dogra, Manoj Muntashir, Neelima Dalmia, Naresh Saxena, Gautam Chikarmane, Philippa Kaye, and many more have enlightened us with their enriching and profound words. attach their hindi and english profiles and they should be primarily highlighted on the website
+
+Let me know the total list of pages on the website, along with their titles and links.
+All the content and images that are required, kindly let us know.

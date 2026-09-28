@@ -1,9 +1,9 @@
-<details class="explore-menu">
+<details class="explore-menu {{ request()->routeIs('experiences','visit','community','media','film','faq','contact') ? 'has-current-page' : '' }}">
     <summary>Explore <span aria-hidden="true">＋</span></summary>
     <div class="explore-panel">
         <div class="explore-intro"><span class="eyebrow">FOLLOW YOUR CURIOSITY</span><p>A festival.<br><em>A whole world.</em></p><span lang="hi">मिलते हैं इंदौर में।</span></div>
-        <div><span class="eyebrow">EXPERIENCE</span><a href="{{ route('experiences') }}">Inside the festival ↗</a><a href="{{ route('visit') }}">Plan your visit ↗</a><a href="{{ route('malwa') }}">Discover Malwa ↗</a></div>
-        <div><span class="eyebrow">BECOME PART OF IT</span><a href="{{ route('community') }}">Community & collaborations ↗</a><a href="{{ route('participate') }}">Volunteer & participate ↗</a><a href="{{ route('media') }}">Media room ↗</a></div>
-        <div><span class="eyebrow">KEEP EXPLORING</span><a href="{{ route('film') }}">Watch & discover ↗</a><a href="{{ route('speakers.archive') }}">Speaker archives ↗</a><a href="{{ route('faq') }}">Visitor FAQs ↗</a><a href="{{ route('contact') }}">Contact us ↗</a></div>
+        <div><span class="eyebrow">EXPERIENCE</span><a href="{{ route('experiences') }}" @if(request()->routeIs('experiences')) aria-current="page" @endif>Inside the festival ↗</a><a href="{{ route('visit') }}" @if(request()->routeIs('visit')) aria-current="page" @endif>Plan your visit ↗</a><a href="{{ route('malwa') }}" @if(request()->routeIs('malwa')) aria-current="page" @endif>Discover Malwa ↗</a></div>
+        <div><span class="eyebrow">BECOME PART OF IT</span><a href="{{ route('community') }}" @if(request()->routeIs('community')) aria-current="page" @endif>Community & collaborations ↗</a><a href="{{ route('participate') }}" @if(request()->routeIs('participate')) aria-current="page" @endif>Volunteer & participate ↗</a><a href="{{ route('media') }}" @if(request()->routeIs('media')) aria-current="page" @endif>Media room ↗</a></div>
+        <div><span class="eyebrow">KEEP EXPLORING</span><a href="{{ route('film') }}" @if(request()->routeIs('film')) aria-current="page" @endif>Watch & discover ↗</a><a href="{{ route('speakers.archive') }}" @if(request()->routeIs('speakers.archive')) aria-current="page" @endif>Speaker archives ↗</a><a href="{{ route('faq') }}" @if(request()->routeIs('faq')) aria-current="page" @endif>Visitor FAQs ↗</a><a href="{{ route('contact') }}" @if(request()->routeIs('contact')) aria-current="page" @endif>Contact us ↗</a></div>
     </div>
 </details>

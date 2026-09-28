@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+		<meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+        <meta property="og:url" content="https://indorelitfest.in/about.php/" /> 
+        <meta property="og:title" content="Indore Literature Festival - About Us" />
+    
+        <meta property="og:image" content="https://indorelitfest.in/images/archive-2017/5.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:width" content="400" />
+        <meta property="og:image:height" content="300" />
+        <meta property="og:image:alt" content="LitFest" />
+    
+        <meta property="og:description" content="Come Let's Celebrate Central India's Largest Literary Fest"/>
+    
+        <meta property="og:type" content="website"/>
+    
+        <meta name="keywords" content="Indore Literature Festival, Indore Lit Fest, ILF, Literature, Poet, Poems, Writers, Lit Fest, Festival, Culture, Music, Bloggers, Indore, Philosophy, Memoirs, Bibliography, Books, Verse">
+        <meta name="description" content="Indore Literature Festival ‘Central India’s Largest Literary Meet’ is the signature event of Indore City which offers a unique opportunity to hear some of the greatest contemporary literary stalwarts together on a single platform that brings diverse thoughts & opinions, and upholds freedom of thought & expression during the three-day mega event.">
+                                        
+		<title>Blog</title>
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Dosis">
+    
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Maven Pro">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tenali Ramakrishna">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Philosopher">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Alegreya Sans SC">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Molengo">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Reem Kufi">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Imprima">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Harmattan">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Numans">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Harmattan">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Work Sans">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Stalemate">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open Sans Condensed">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Arapey">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Ovo">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Marcellus SC">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Marcellus">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Raleway:400,800,300">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic">
+    
+        <link rel="icon" type="image/png" href="images/new-icon.svg">
+    
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+        <link href="css/queries-468.css" rel="stylesheet">
+        
+        <script type="text/javascript" src="js/modernizr.custom.js"></script>
+    
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic' rel='stylesheet' type='text/css' />
+    
+</head>
+	
+<body>
+    
+    <div id="wrapper"> 
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+    
+ 
+    
+<!------------------------------------------------------HEADER------------------------------------------------------>
+
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+    
+<section class="header-1">
+    <div class="container-fluid">
+        <div class="row">
+            
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 home-icon">
+                <h4><a href="https://indorelitfest.in/">HOME<!---i class="fa fa-home  fa-2x" aria-hidden="true"></i---></a></h4>
+            </div>
+            
+            <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7 title-top">
+                <h3>India's Most Vibrant Literature Festival • 14th, 15th, 16th November 2025</h3>
+            </div>
+            
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 social-icons">
+            
+            <div class="">
+                          
+                <a href="https://www.facebook.com/indorelitfest/" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
+                                    
+                <a href="https://twitter.com/indorelitfest/" target="_blank"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+                                     
+                <a href="https://www.youtube.com/channel/UC-X_XLb6XkJ4iW4EpDtb56A/" target="_blank"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
+                                      
+                <a href="https://www.instagram.com/indorelitfest/" target="_blank"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+                
+                <a href="mailto:hellohindustan@gmail.com" target="_blank"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a>
+                                   
+            </div>
+                
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+  <style>
+.nav-1 li ul {
+  display: none;
+  position: absolute;
+  background: #0f4871;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ccc;
+  color:#fff;
+}
+
+.nav-1 li:hover ul {
+  display: block;
+}
+
+.nav-1 li ul li a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+  color: #fff;
+  white-space: nowrap;
+}
+</style>
+
+<section class="header-2">
+    <div class="container-fluid">
+        
+        <div class="row">
+                    
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 nav-titles">
+           
+				<nav class="menu">
+                    
+					<ul class="nav-1">
+                        <li><img src="images/ILF_2018_Title.png" alt=""></li>
+                        <li><a href="about.php" >about us</a></li>
+                        <li><a href="speakers.php" >speakers</a></li>
+                        <!--<li><a href="Speakers 2024 - Indore Literature Festival.pdf" >speakers</a></li>-->
+                        
+                        <li><a href="schedule.php">schedule</a>
+                            <ul>
+                           <li><a href="Indore Literature Festival 2025 Schedule & e-invite.pdf" target="_blank">PDF</a></li></ul>
+                        </li>
+                        
+                        
+                        <li><a href="blog.php">Blog</a></li>
+                        
+                        <li><a href="https://www.instagram.com/indorelitfest/" target="_blank">gallery</a></li>
+                        
+                        <li><a href="contact.php">contact</a></li>
+                        <li><img src="images/ILF_2018_Mono.png" alt=""></li>
+                    </ul>
+                    
+				</nav>
+                
+                <div class="hello-hindustan-logo">
+                    <img src="" alt=""><a href="https://docs.google.com/forms/d/e/1FAIpQLSccGcf4FFrBaDbdVOFAA4LxlolmNRllt-lGUP33SWRZwrql5w/viewform?usp=pp_url" target="_blank">Open Mic</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVkgFkATcKABDDgrje5A7Arp8urxHhDV48Jxp8XiQJ-hj_qA/viewform?usp=pp_url" target="_blank">Stall Booking</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeC2_zdG6zmX2H4mO-V8s4hG1FpyvoSsJYwi25iPWMwjRajwA/viewform?usp=pp_url" target="_blank">ILF Registration</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSetWyC6O9IX9vNdiAs2pt8LlpFdl33u_5_XbjKgPjlc11TPSA/viewform?usp=pp_url" target="_blank">Internship</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSftWoreuIQPF7BiEji6k690g3zwjEvVfquOB0vmijjT3WNsnQ/viewform?usp=pp_url" target="_blank">Volunteer</a>
+                </div>
+                
+            </div>
+            
+        </div>
+
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+
+<section class="mob-top-banner">
+    <div class="container-fluid">
+        
+        <ul>
+            
+            <li><a href="index.php"><img src="images/ILF2021-header-mob.png" alt=""></a></li>
+        
+            <li class="mob-banner-tab"><a href="about.php">about</a></li>
+        
+            <li class="mob-banner-tab"><a href="speakers.php" >speakers</a></li>
+        
+            <li class="mob-banner-tab"><a href="Indore Literature Festival 2025 Schedule & e-invite.pdf" >schedule</a></li>
+            
+            <li class="mob-banner-tab"><a href="blog.php" >Blog</a></li>
+            
+            
+            
+            <li class="mob-banner-tab"><a href="contact.php">contact</a></li>
+            
+            </br><span><a href="https://docs.google.com/forms/d/e/1FAIpQLSccGcf4FFrBaDbdVOFAA4LxlolmNRllt-lGUP33SWRZwrql5w/viewform?usp=pp_url" target="_blank">Open Mic</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVkgFkATcKABDDgrje5A7Arp8urxHhDV48Jxp8XiQJ-hj_qA/viewform?usp=pp_url" target="_blank">Stall Booking</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSetWyC6O9IX9vNdiAs2pt8LlpFdl33u_5_XbjKgPjlc11TPSA/viewform?usp=pp_url" target="_blank">Internship</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSftWoreuIQPF7BiEji6k690g3zwjEvVfquOB0vmijjT3WNsnQ/viewform?usp=pp_url" target="_blank">Volunteer</a></br><a href="https://docs.google.com/forms/d/e/1FAIpQLSeC2_zdG6zmX2H4mO-V8s4hG1FpyvoSsJYwi25iPWMwjRajwA/viewform?usp=pp_url" target="_blank">ILF Registration</a></span>
+            
+        </ul>
+        
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+        
+<!--<section class="about-photo-top d-none">-->
+<!--    <div class="container-fluid">-->
+        
+<!--        <div class="row">-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-1">-->
+                
+<!--            </div>-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-2">-->
+                
+<!--            </div>-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-3">-->
+                
+<!--            </div>-->
+            
+<!--        </div>-->
+
+<!--    </div>-->
+<!--</section>-->
+     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+
+<section class="about-ilf" style="padding:50px 0; background:#f7f6e8;">
+    <div class="container" style="max-width:900px; margin:auto;">
+
+
+<div id="full-budding-authors" style="margin-top:80px; margin-bottom:80px;">
+    <h2 style="font-size:32px; color:#002b5c;">भारतीय सौम्य संपदा की सुगंध </h2>
+    <hr style="border:0; height:2px; background:#002b5c; width:120px; margin-bottom:20px;">
+
+<p style="font-size:17px; line-height:30px; color:#333; text-align:justify;">  
+भारतीय सौम्य संपदा की सुगंध<br><br>
+
+
+
+विनय सहस्रबुद्धे एक भारतीय राजनेता, लेखक और सामाजिक चिंतक थे, जिनकी शैक्षणिक पृष्ठभूमि अत्यंत समृद्ध थी। उनकी गहन, विश्लेषणात्मक और संतुलित सोच ने भारतीय जनता पार्टी (भाजपा) की वैचारिक दिशा और नीतिगत विमर्श को आकार देने में महत्वपूर्ण भूमिका निभाई। नागपुर में जन्मे और पले-बढ़े सहस्रबुद्धे बचपन से ही राजनीति, विचारधारा और समाज के अध्ययन के प्रति जिज्ञासु थे। उन्होंने मुंबई विश्वविद्यालय से राजनीति विज्ञान में पीएच.डी. की उपाधि प्राप्त की।
+<br><br>
+राष्ट्रीय स्वयंसेवक संघ (आरएसएस) से उनके दीर्घकालिक जुड़ाव ने शासन, नैतिकता और राष्ट्रनिर्माण के प्रति उनके दृष्टिकोण को एक आधार दिया, जिसने आगे चलकर उनके राजनीतिक दर्शन को आकार प्रदान किया। महाराष्ट्र से राज्यसभा सदस्य (2016–2022) के रूप में सहस्रबुद्धे ने अपनी बौद्धिक स्पष्टता, सरल संवाद शैली और रचनात्मक संसदीय भागीदारी के लिए व्यापक सम्मान अर्जित किया। वे भारतीय सांस्कृतिक संबंध परिषद (ICCR) के अध्यक्ष भी रहे, जहाँ उन्होंने भारत की सांस्कृतिक कूटनीति और सॉफ्ट पावर को नई दिशा देने का प्रयास किया। भाजपा में राष्ट्रीय उपाध्यक्ष के रूप में उन्होंने वैचारिक प्रशिक्षण और संगठनात्मक मार्गदर्शन में महत्वपूर्ण भूमिका निभाई। शासन, नैतिकता और लोकतंत्र पर उनकी पुस्तकों ने भी उन्हें एक गहन चिंतक के रूप में स्थापित किया।
+<br><br>
+इंदौर लिटरेचर फेस्टिवल में दौरान डॉ. सहस्रबुद्धे का विशेष सत्र “सॉफ्ट पावर” पर आधारित था, उन्होंने बताया कि “सॉफ्ट पावर” शब्द जोसेफ एस. नाई जूनियर द्वारा दिया गया था। जोसेफ के अनुसार किसी देश की वह क्षमता, जिसके माध्यम से वह बिना दबाव के, केवल अपनी संस्कृति, राजनीतिक मूल्यों और विदेश नीति के आकर्षण से दूसरों को प्रभावित कर सके—उसी को सॉफ्ट पावर कहा जाता है। सहस्रबुद्धे के अनुसार, सॉफ्ट पावर हार्ड पावर से आगे है, क्योंकि यह मन और भावनाओं में स्थान बनाती है
+
+<br><br>
+प्रधानमंत्री नरेंद्र मोदी का विभिन्न देशों की यात्राओं के दौरान उन देशों के साथ भारत के व्यक्तिगत और ऐतिहासिक संबंधों का उल्लेख करना एक सोचा-समझा कूटनीतिक प्रयास है। उनके अनुसार, यह तरीका न केवल सॉफ्ट पावर को स्थापित करता है बल्कि देशों के बीच विश्वास और आत्मीयता भी बढ़ाता है।
+हर देश में रिश्ते बनाना संघ के संस्कारों का भी हिस्सा है, जिसे नरेंद्र मोदी सहज रूप से अपनाते हैं। “सौम्य संपदा” संघ के आधार स्तंभों में से एक है, और प्रधानमंत्री इस संपदा को वैश्विक स्तर पर साझा करना चाहते हैं ताकि भारतीय संस्कृति और पहचान संरक्षित रहे। इसी कारण प्रधानमंत्री जहाँ भी जाते हैं, हिंदी में ही संवाद करना पसंद करते हैं—क्योंकि वे भारतीय संस्कृति को पश्चिमी प्रभाव में खोने नहीं देना चाहते।   
+<br><br>
+डॉ. सहस्रबुद्धे ने सत्र में बताया कि भारत और विभिन्न देशों के बीच अनेक ऐतिहासिक रिश्ते सदियों पुराने हैं। हाल ही में प्रधानमंत्री दक्षिण कोरिया गए थे, जहाँ की महारानी का अयोध्या से संबंध बताया जाता है। प्रधानमंत्री मोदी इस तथ्य से पहले से परिचित थे क्योंकि वे प्रत्येक देश की यात्रा से पहले उस देश का विस्तृत अध्ययन करते हैं
+<br><br>
+उन्होंने डॉ. भीमराव आंबेडकर के विचार का उल्लेख करते हुए कहा कि आंबेडकर ने भी  भारतीय संस्कृति को एक “कॉमन वेल”—सामूहिक भंडार—की तरह बताया था। उसी भावना के साथ प्रधानमंत्री दुनिया को संस्कृति के माध्यम से जोड़ने का प्रयास कर रहे हैं।     
+<br><br>
+डॉ. सहस्रबुद्धे ने अपना एक दिलचस्प अनुभव साझा करते हुए बताया कि जब वे अंतरराष्ट्रीय सम्मेलन के लिए ईरान गए, तो वहाँ के लोगों ने उन्हें भारत से गहरे  सांस्कृतिक की जानकारी दी, क्योंकि वे महर्षि पाणिनि को मानते हैं—जिन्हें संस्कृत का संस्थापक भी माना जाता है। फ़ारसी और संस्कृत के बीच के संबंध इसी साझा विरासत की ओर संकेत करते हैं।          
+<br><br>
+उन्होंने कहा कि यह गर्व की बात है कि तेहरान विश्वविद्यालय में आज भी वेद और उपनिषद पढ़ाए जाते हैं, पर यह शर्म की बात भी है कि भारत में ऐसी कोई आधुनिक विश्वविद्यालय नहीं है जहाँ इन ग्रंथों का औपचारिक अध्ययन हो।
+<br><br>
+डॉ. सहस्रबुद्धे ने कहा कि दुनिया में भारत की एक अलग पहचान है और उसे जीवित रखने के लिए हमें अपनी संस्कृति का साथ देना चाहिए। “कल्चरल फ्लैटनिंग” यानी पूरी दुनिया का एक जैसा हो जाना—भारतीय युवाओं को पश्चिमी संस्कृति की ओर खींचता है। लेकिन यदि सब एक जैसे हो जाएँगे, तो दुनिया उतनी सुंदर नहीं रहेगी।    
+<br><br>
+भारत की विविधता ही उसकी सबसे बड़ी शक्ति है—और इसी विविधता की वजह से हमारे यहाँ लोकतंत्र एक प्राकृतिक व्यवस्था की तरह फलता-फूलता है। हमारी आध्यात्मिक जड़ों और सर्वस्वीकार की परंपरा के कारण ही लोकतंत्र भारत में सफल है।   
+<br><br>
+दुनिया को योग भारत ने दिया, और आज 177 देशों ने इसकी महत्ता को स्वीकार किया है। यह इसलिए संभव हुआ क्योंकि पहले भारत ने कभी योग को दुनिया के सामने आत्मविश्वास के साथ प्रस्तुत नहीं किया था। प्रधानमंत्री मोदी की पहल और सांस्कृतिक संपदा पर उनके विश्वास के कारण आज योग एक वैश्विक शक्ति बन गया है।
+उन्होंने बताया कि यह पहली बार नहीं है जब भारत ने वैश्विक स्तर पर कोई सांस्कृतिक आंदोलन खड़ा किया हो—2 अक्टूबर को अंतरराष्ट्रीय अहिंसा दिवस घोषित किया गया था, लेकिन इसकी जानकारी बहुत कम लोगों को थी। इसके विपरीत योग आज एक जीवनशैली बनकर दुनिया में स्थापित है
+<br><br>
+कथक, भरतनाट्यम जैसी भारतीय कलाएँ और योग जैसी अवधारणाएँ भारत की सांस्कृतिक ताकत हैं, जिन्हें भारत के लोग स्वयं कम पहचानते हैं, जबकि दुनिया इन्हें सम्मान देती है। उन्होंने कहा कि अब समय आ गया है कि भारत अपनी बौद्धिक विरासत को समझे और दुनिया के सामने आत्मविश्वास से प्रस्तुत करे। भारतीय फिल्मों का अनुवाद और भाषा विनिमय जैसे प्रयास भारत की सांस्कृतिक पहुँच को और बढ़ा सकते हैं।
+    </p>
+</div>
+
+
+    </div>
+</section>
+
+
+    </div>
+</section>
+ 
+        
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+        
+<section class="about-photo-bottom">
+    <div class="container-fluid">
+        
+        <div class="row">
+                    
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-4">
+                
+            </div>
+                    
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-5">
+                
+            </div>
+                    
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-6">
+                
+            </div>
+            
+        </div>
+
+    </div>
+</section>        
+
+<div class="mob-end-footer">
+            
+    <h1>Hello Hindustan News and Network</h1>
+    <h2>413 Krishna Business Center, near Medanta Hospital<br>
+            Vijay Nagar, Indore (Madhya Pradesh)<br>
+    Email: hellohindustan@gmail.com</h2>
+    <br>
+    <p>Copyright &copy; Indore Literature Festival</p>
+            
+</div>
+     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+    
+<section class="end-footer">
+    
+    <div class="venue">
+        <h1>VENUE</h1>
+        <p>Daly College</br>1, Residency Area</br>Indore, Madhya Pradesh 452001</p></br>
+        
+    <span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=bci8NL9xU0NwKqUxyD8kKO42sqwGCcWg4A3Ph8gbJEAyIaSehaTjC7o4EMTI"></script></span>
+        
+            <!---i class="fa fa-whatsapp" aria-hidden="true"></i><span> 623-288-1181</span></p---->
+    </div>
+
+</section>
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>    
+<!------------------------------------------------------STROLLING-PEBBLE------------------------------------------------------>
+    </div>
+    
+</body>
+
+    
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+        <script type="text/javascript" src="js/jquery.eislideshow.js"></script>
+        <script type="text/javascript">
+            $(function() {
+                $('#ei-slider').eislideshow({
+					animation			: 'center',
+					autoplay			: true,
+					slideshow_interval	: 3000,
+					titlesFactor		: 0
+                });
+            });
+        </script>
+    
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'p3plzcpnl506634'},{'dcenter':'p3'},{'cp_id':'10098793'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script></html>

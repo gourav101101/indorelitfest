@@ -1,6 +1,6 @@
 @extends('frontend.layouts.app')
 @section('content')
-<div class="journal-heading-wrap"><div class="floating-pictures" aria-hidden="true"><img src="{{ $image('legacy/images/slideshow-main/3.jpg') }}" alt=""><img src="{{ $image('legacy/images/slideshow-main/4.jpg') }}" alt=""><img src="{{ $image('legacy/images/daythree/daythree13.jpeg') }}" alt=""></div>@include('frontend.partials.page-heading',['kicker'=>'IDEAS THAT LIVE BEYOND THE FESTIVAL','intro'=>'Notes from the stage. Reflections from the audience. Stories worth carrying home.'])</div>
+@include('frontend.partials.page-heading',['kicker'=>'IDEAS THAT LIVE BEYOND THE FESTIVAL','intro'=>'Notes from the stage. Reflections from the audience. Stories worth carrying home.'])
 <section class="container section">
     @php($featured=$articles[0])
     <a class="journal-feature" href="{{ route('article',$featured['slug']) }}"><img src="{{ $image($featured['image']) }}" alt="Illustrated books and writing materials" width="800" height="530"><div><span class="eyebrow">THE FESTIVAL DIARY · {{ $featured['minutes'] }} MIN READ</span><h2 lang="hi">{{ $featured['title'] }}</h2><p lang="hi">{{ $featured['excerpt'] }}</p><span class="text-link">Step into the story ↗</span></div></a>

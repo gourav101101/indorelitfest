@@ -1,4 +1,31 @@
-﻿# Client brief coverage and content record
+# Client brief coverage and content record
+
+> Implementation update, 28 September: [completed work and all remaining points](client-changes-delivery-2026-09-28.md), [updated page inventory](website-page-inventory-2026-09-28.md), and [client-ready material request](client-message-remaining-2026-09-28.md). This update supersedes the older status and requests below.
+
+
+> New brief, 27 September 2026: [all 33 client changes, feasibility and required materials](client-changes-2026-09-27.md), plus [the complete page inventory](website-page-inventory-2026-09-27.md). This is the current planning reference. The new requests are reviewed, not yet implemented.
+
+> Latest content request: [Old website recovery and remaining client details ? 26 September 2026](legacy-content-recovery-2026-09-26.md). This supersedes older missing-material lists below. The new logo is supplied, and 2024 archive source profiles have now been recovered.
+
+## Current status — 26 September 2026
+
+Speaker archives now use Gallery-style year cards with working 2024 (23 profiles) and 2025 (36 profiles) directories. The 2024 portraits and biographies were recovered from the legacy PDF; image-only Hindi biographies use source-based summaries. Speaker PDF links/viewers are removed. Earlier years await source content. See [the recovery and implementation record](legacy-content-recovery-2026-09-26.md).
+
+The homepage visual identity now extends to all inner-page templates: illustrated arches, navy/ivory/gold colours, framed portraits and cards, shared footer, and clearer document access. The compact navbar keeps its approved spacing. Explore destinations now show their active state; mobile menu labels announce Open/Close correctly and closing the menu also closes its dropdown.
+
+Completed review: 80 public URLs at desktop and phone widths, 31 browser interaction checks, and 7 application tests (219 assertions). Navigation follow-up also passed lint, production build and application tests. See [all-page visual review](site-visual-review.md) and [the preview gallery](../research/site-review/index.html).
+
+### Still needs client material or launch configuration
+
+- [ ] Original 2026 announcement poster and approved campaign artwork/copy.
+- [ ] Main festival film, poster frame and captions; a higher-resolution official logo is also desirable.
+- [ ] Approved 2026 programme and speaker information when ready to announce. The current directory/programme remain the 2025 archive.
+- [ ] Verified year assignments for older gallery photographs and any additional approved photos.
+- [ ] Review of inconsistent legacy biographies, organiser statistics, credits and final contact details.
+- [ ] Production domain/hosting details, deployment configuration and final staging review. The live website has not been deployed by this work.
+
+Dates, venue and all five supplied registration forms are already implemented. These are not outstanding requests. The records below describe earlier passes; this status takes precedence where older notes differ.
+
 
 Reviewed: 18 September 2026. Source brief: `C:/Users/ADIN/Downloads/Website Redesign Doc (1).pdf`, two pages. Extracted text: `research/client-brief.txt`. The user's latest direction narrows the regional focus from all Madhya Pradesh to **Indore and Malwa**.
 

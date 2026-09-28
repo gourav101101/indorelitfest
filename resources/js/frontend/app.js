@@ -1,14 +1,19 @@
 import './festival.js';
 const menuButton = document.querySelector('.menu-toggle');
 const navigation = document.querySelector('#navigation');
+function setMenuOpen(open) {
+  menuButton?.setAttribute('aria-expanded', String(open));
+  const label = menuButton?.querySelector('.sr-only');
+  if (label) label.textContent = open ? 'Close menu' : 'Open menu';
+  navigation?.classList.toggle('is-open', open);
+  if (!open) navigation?.querySelectorAll('details[open]').forEach(menu => { menu.open = false; });
+}
 function closeMenu() {
-  menuButton?.setAttribute('aria-expanded', 'false');
-  navigation?.classList.remove('is-open');
+  setMenuOpen(false);
 }
 menuButton?.addEventListener('click', () => {
   const open = menuButton.getAttribute('aria-expanded') !== 'true';
-  menuButton.setAttribute('aria-expanded', String(open));
-  navigation.classList.toggle('is-open', open);
+  setMenuOpen(open);
 });
 document.addEventListener('keydown', (event) => {
   if (event.key === 'Escape' && menuButton?.getAttribute('aria-expanded') === 'true') {
@@ -20,7 +25,7 @@ document.addEventListener('click', (event) => {
   if (!event.target.closest('.site-header')) closeMenu();
 });
 navigation?.querySelectorAll('a').forEach((link) => link.addEventListener('click', closeMenu));
-window.matchMedia('(min-width: 1181px)').addEventListener('change', closeMenu);
+window.matchMedia('(min-width: 1400px)').addEventListener('change', closeMenu);
 
 document.querySelectorAll('[data-filter]').forEach((input) => {
   const cards = [...document.querySelectorAll(input.dataset.filter)];
@@ -164,3 +169,5 @@ document.querySelector('[data-enquiry]')?.addEventListener('submit', event => {
   window.location.href = `mailto:${form.dataset.email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
   form.querySelector('[data-enquiry-status]').textContent = 'Your email app should open a draft. If it does not, email us directly using the address above. Nothing has been sent by this website.';
 });
+
+import './client-refinements.js';

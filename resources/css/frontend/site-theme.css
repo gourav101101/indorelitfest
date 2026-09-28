@@ -1,0 +1,351 @@
+@import './client-refinements.css';
+/* Shared festival identity, following the illustrated 2026 homepage. */
+:root{--ilf-navy:#173b70;--ilf-red:#c94433;--ilf-gold:#f6bc32;--ilf-ivory:#fffdf8;--ilf-peach:#ffebce;--blue:var(--ilf-navy);--red:var(--ilf-red);--cream:var(--ilf-ivory);--paper:#fbf1df;--line:#e5d5b9;--header-height:94px}
+.festival-site{background:var(--ilf-ivory);color:#242d38}
+.festival-site .site-header.ilf-header{height:var(--header-height);min-height:var(--header-height);padding:0 max(32px,calc((100vw - 1560px)/2));gap:36px;background:var(--ilf-navy);border:0;box-shadow:0 4px 20px #102e5714}
+.festival-site .ilf-header .official-brand img{width:74px;height:74px;object-fit:contain}
+.festival-site .ilf-header #navigation{gap:clamp(24px,1.8vw,34px)}
+.festival-site .ilf-header #navigation>a:not(.header-cta),.festival-site .ilf-header .explore-menu>summary{font-size:16px;font-weight:500;line-height:1.5;color:white;white-space:nowrap;padding-block:16px}
+.festival-site .ilf-header #navigation>a:not(.header-cta):hover,.festival-site .ilf-header #navigation>a[aria-current]:not(.header-cta),.festival-site .ilf-header .explore-menu>summary:hover{color:var(--ilf-gold)}
+.festival-site .ilf-header #navigation>a[aria-current]:not(.header-cta){text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:9px}
+.festival-site .ilf-header .header-cta{font:600 16px/1.4 var(--serif);padding:14px 22px;min-height:50px;margin-left:8px;background:var(--ilf-red);color:white;border-radius:6px;gap:18px}
+.festival-site .ilf-header .header-cta:hover{background:#a93427}
+.festival-site .ilf-header .explore-menu.has-current-page>summary{color:var(--ilf-gold);text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:9px}
+.festival-site .ilf-header .explore-panel a[aria-current=page]{color:#a73729;text-decoration:underline;text-underline-offset:5px}
+.festival-site .ilf-header .explore-panel{background:var(--ilf-ivory);color:var(--ink);border-top:3px solid var(--ilf-gold);padding:38px max(32px,calc((100vw - 1440px)/2));gap:40px}
+.festival-site .ilf-header .explore-panel a{font-size:17px;padding-block:12px}
+.festival-site .ilf-header .mobile-menu-extra{color:white;border-color:#ffffff35}
+.festival-site .ilf-header .mobile-menu-extra p{color:var(--ilf-gold)}
+.festival-site .ilf-header :focus-visible,.festival-site .ilf-footer :focus-visible{outline:3px solid var(--ilf-gold);outline-offset:5px}
+
+/* Spacious chapter openings retain each page's own content and purpose. */
+.festival-site:not(.page-home) .container{width:min(1280px,calc(100% - 96px))}
+.festival-site:not(.page-home) .section{padding-block:80px}
+.festival-site .page-heading{position:relative;isolation:isolate;overflow:hidden;text-align:center;padding:30px 0 76px;background:linear-gradient(180deg,#fff6e7,var(--ilf-peach));border-bottom:1px solid #dfbb84}
+.festival-site .page-heading::after{content:"";position:absolute;z-index:-1;inset:28px 28px -130px;border:1px solid #c9975340;border-radius:48% 48% 0 0;pointer-events:none}
+.festival-site .page-heading .breadcrumb{display:inline-block;font-size:13px;margin-bottom:38px;color:#586271}
+.festival-site .page-heading a.breadcrumb:hover{color:var(--ilf-red)}
+.festival-site .page-heading .eyebrow{font-size:12px;letter-spacing:2.4px;color:var(--ilf-red);margin:0 0 20px}
+.festival-site .page-heading h1{font-size:clamp(44px,4.7vw,72px);font-weight:500;line-height:1.12;max-width:1000px;margin:0 auto 24px;letter-spacing:-.035em;text-wrap:balance}
+.festival-site .page-heading .intro{font-size:19px;line-height:1.8;max-width:760px;margin:0 auto;color:#4c535c;text-wrap:pretty}
+.festival-site .page-heading .heading-flower{color:var(--ilf-red);opacity:.12;font-size:150px;right:4%;bottom:-46px;top:auto}
+.festival-site:not(.page-home) .button{font-size:16px;min-height:54px;padding:16px 24px;border-radius:6px}
+.festival-site:not(.page-home) .eyebrow{line-height:1.6}
+.festival-site:not(.page-home) :is(.about-lead,.malwa-intro,.visit-overview,.community-lead,.experience-opening){gap:clamp(32px,5vw,80px);align-items:center}
+.festival-site:not(.page-home) :is(.about-lead,.malwa-intro,.experience-opening)>img{border-radius:120px 120px 12px 12px;border:6px solid #f6e5c7}
+.festival-site:not(.page-home) :is(.about-content article,.place-card,.participation-card,.contact-note,.visit-facts,.media-resources>a){border:1px solid var(--line);border-radius:16px;background:#fff9ee;padding:clamp(26px,3vw,44px)}
+.festival-site:not(.page-home) :is(.place-grid,.participation-grid,.media-resources){gap:28px}
+.festival-site:not(.page-home) .speaker-grid{gap:44px 28px}
+.festival-site:not(.page-home) .speaker-card .speaker-photo{border-radius:110px 110px 12px 12px;background:#f7e7cd}
+.festival-site:not(.page-home) .speaker-card h3{font-size:clamp(23px,2vw,28px);margin-top:20px}
+.festival-site:not(.page-home) .speaker-card p{font-size:15px;line-height:1.65}
+.festival-site:not(.page-home) .article-card{padding-bottom:24px;border-bottom:2px solid #edc77f}
+.festival-site:not(.page-home) .article-card img{border-radius:14px}
+.festival-site:not(.page-home) .filter-toolbar{gap:24px;flex-wrap:wrap;margin-bottom:28px}
+.festival-site:not(.page-home) .tabs a{font-size:16px;padding:13px 18px}
+.festival-site:not(.page-home) .search-field input{font-size:16px;border-radius:6px;background:white}
+.festival-site:not(.page-home) .profile{gap:clamp(32px,5vw,80px)}
+.festival-site:not(.page-home) .profile-photo>img{border-radius:120px 120px 12px 12px}
+.festival-site:not(.page-home) .article-title{padding-block:64px 40px}
+.festival-site:not(.page-home) .article-body{font-size:19px;line-height:1.95}
+.festival-site:not(.page-home) .faq-list details{border-color:var(--line)}
+.festival-site:not(.page-home) .faq-list summary{font-size:20px;padding-block:24px}
+.festival-site .footer-discover{padding-block:38px;gap:24px;border-top:1px solid var(--line)}
+.festival-site .footer-discover a{font-size:17px}
+.festival-invitation-banner{text-align:center;padding:70px 24px 56px;background:#fff5e4}
+.festival-invitation-banner .eyebrow{color:var(--ilf-red);font-size:11px;letter-spacing:2px}
+.festival-invitation-banner h2{font-size:clamp(36px,4vw,56px);font-weight:500;line-height:1.2;margin-bottom:24px}
+.festival-invitation-banner p:not(.eyebrow){font-size:17px}
+.festival-site>.ilf-story-divider{height:110px;overflow:hidden;background:#fff5e4}
+.festival-site>.ilf-story-divider svg{display:block;width:100%;height:110px}
+
+/* One footer for every festival chapter. */
+.festival-site .ilf-footer{background:var(--ilf-navy);color:white}
+.festival-site .ilf-social{padding:36px 24px;display:flex;justify-content:center;align-items:center;gap:36px;border-bottom:1px solid #ffffff26}
+.festival-site .ilf-social p{font:24px/1.4 var(--serif);margin:0 16px 0 0}
+.festival-site .ilf-social a{font-size:16px}
+.festival-site .ilf-footer-grid{width:min(1440px,calc(100% - 96px));margin-inline:auto;display:grid;grid-template-columns:1.2fr .8fr .9fr 1fr 1.2fr;gap:40px;padding-block:70px}
+.festival-site .ilf-footer-grid h2{font:500 23px/1.3 var(--serif);color:var(--ilf-gold);letter-spacing:0;margin:0 0 26px}
+.festival-site .ilf-footer-grid a{display:block;font-size:15px;line-height:1.7;margin-bottom:14px;overflow-wrap:anywhere}
+.festival-site .ilf-footer-grid a:hover,.festival-site .ilf-social a:hover{color:var(--ilf-gold)}
+.festival-site .ilf-footer-grid p,.festival-site .ilf-footer-grid small{font-size:14px;line-height:1.8;margin:8px 0 20px;color:#e0e6f0}
+.festival-site .ilf-produced img{width:90px;height:90px;margin-bottom:25px}
+.festival-site .ilf-produced strong{font-size:26px;color:var(--ilf-gold)}
+.festival-site .ilf-produced small{display:block}
+.festival-site .ilf-footer-bottom{border-top:1px solid #ffffff26;padding:26px max(32px,calc((100vw - 1440px)/2));display:flex;justify-content:space-between;gap:20px;font-size:13px;color:#dee6f3}
+
+@media(min-width:1400px){
+ .festival-site .ilf-header .menu-toggle{display:none}
+ .festival-site .ilf-header #navigation{display:flex;position:static;overflow:visible;max-height:none}
+}
+@media(max-width:1399px){
+ :root{--header-height:84px}
+ .festival-site .site-header.ilf-header{padding-inline:28px;justify-content:space-between}
+ .festival-site .ilf-header .official-brand img{width:68px;height:68px}
+ .festival-site .ilf-header .menu-toggle{display:flex;color:white;border-color:#ffffff60;width:48px;height:48px;flex-direction:column;justify-content:center;gap:7px;background:none;border-radius:50%;padding:13px}
+ .festival-site .ilf-header .menu-toggle>span:not(.sr-only){height:1px;width:20px;background:white}
+ .festival-site .ilf-header .menu-toggle[aria-expanded=true]>span:first-child{transform:translateY(4px) rotate(45deg)}
+ .festival-site .ilf-header .menu-toggle[aria-expanded=true]>span:nth-child(2){transform:translateY(-4px) rotate(-45deg)}
+ .festival-site .ilf-header #navigation{display:none;position:absolute;top:100%;left:0;right:0;background:var(--ilf-navy);padding:24px 32px 32px;max-height:calc(100dvh - var(--header-height));overflow-y:auto;gap:6px;border-bottom:1px solid #ffffff30}
+ .festival-site .ilf-header #navigation.is-open{display:flex;flex-direction:column;align-items:stretch}
+ .festival-site .ilf-header #navigation>a:not(.header-cta),.festival-site .ilf-header .explore-menu>summary{font-size:18px;padding:14px 0}
+ .festival-site .ilf-header .header-cta{margin:18px 0 0}
+ .festival-site .ilf-header .explore-panel{position:static;grid-template-columns:1fr 1fr;padding:24px;gap:24px;border-radius:6px;box-shadow:none}
+ .festival-site .ilf-header .explore-intro{display:none}
+ .festival-site .ilf-header .mobile-menu-extra{display:flex;flex-wrap:wrap;gap:20px;padding-top:24px;border-top:1px solid #ffffff35;margin-top:20px}
+ .festival-site .ilf-header .mobile-menu-extra p{width:100%;margin:0}
+ .festival-site .ilf-footer-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:36px}
+}
+@media(max-width:700px){
+ :root{--header-height:78px}
+ .festival-site .site-header.ilf-header{padding-inline:20px}
+ .festival-site .ilf-header .official-brand img{width:62px;height:62px}
+ .festival-site .ilf-header #navigation{padding:18px 24px 28px}
+ .festival-site .ilf-header .explore-panel{grid-template-columns:1fr;padding:22px;gap:20px}
+ .festival-site .ilf-header .explore-panel a{font-size:16px}
+ .festival-site:not(.page-home) .container{width:calc(100% - 40px)}
+ .festival-site:not(.page-home) .section{padding-block:48px}
+ .festival-site .page-heading{padding:24px 0 48px}
+ .festival-site .page-heading::after{inset:18px 10px -90px}
+ .festival-site .page-heading .breadcrumb{font-size:11px;margin-bottom:28px}
+ .festival-site .page-heading .eyebrow{font-size:10px;letter-spacing:1.6px}
+ .festival-site .page-heading h1{font-size:42px;overflow-wrap:anywhere}
+ .festival-site .page-heading .intro{font-size:17px;line-height:1.75}
+ .festival-site .page-heading .heading-flower{font-size:100px}
+ .festival-site:not(.page-home) .speaker-grid{gap:30px 18px}
+ .festival-site:not(.page-home) .speaker-card h3{font-size:23px}
+ .festival-site:not(.page-home) .speaker-card p{font-size:13px}
+ .festival-site:not(.page-home) .tabs{display:flex;flex-wrap:wrap}
+ .festival-site:not(.page-home) .tabs a{font-size:14px;padding:12px}
+ .festival-site:not(.page-home) .article-title{padding-block:40px 28px}
+ .festival-site:not(.page-home) .article-body{font-size:17px}
+ .festival-site .footer-discover{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+ .festival-site .footer-discover a{font-size:15px}
+ .festival-invitation-banner{padding:50px 0 36px}
+ .festival-invitation-banner p:not(.eyebrow){font-size:15px}
+ .festival-site .ilf-social{flex-wrap:wrap;gap:24px;padding:30px 20px}
+ .festival-site .ilf-social p{width:100%;text-align:center;margin:0}
+ .festival-site .ilf-social a{font-size:14px}
+ .festival-site .ilf-footer-grid{width:calc(100% - 40px);grid-template-columns:repeat(2,minmax(0,1fr));gap:32px 22px;padding-block:44px}
+ .festival-site .ilf-produced{grid-column:1/-1}
+ .festival-site .ilf-footer-grid h2{font-size:21px;margin-bottom:18px}
+ .festival-site .ilf-footer-grid a{font-size:14px}
+ .festival-site .ilf-footer-bottom{padding:24px 20px;flex-direction:column;font-size:12px;gap:10px}
+}
+
+/* Illustrated chapter openings use the same arch, palette and artwork as Home. */
+.festival-site .page-heading.chapter-hero{padding:0;min-height:550px;background:var(--ilf-navy);border:0;display:flex;flex-direction:column;align-items:center;isolation:isolate}
+.festival-site .page-heading.chapter-hero::after{display:none}
+.chapter-breadcrumb{position:relative;z-index:3;display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:10px;font-size:12px;line-height:1.6;color:#e7edf5;padding-block:20px}
+.chapter-breadcrumb a:hover{color:var(--ilf-gold)}
+.chapter-breadcrumb>span:last-child{max-width:80%;overflow-wrap:anywhere}
+.chapter-canopy{position:absolute;z-index:-1;left:0;bottom:-1px;width:100%;height:calc(100% - 58px);pointer-events:none}
+.chapter-copy{position:relative;z-index:2;width:min(680px,52%);padding:130px 0 34px;margin:auto;}
+.festival-site .chapter-hero .eyebrow{font-size:10px;letter-spacing:1.8px;margin-bottom:18px;color:#a73729}
+.festival-site .chapter-hero h1{font-size:clamp(38px,3.7vw,58px);line-height:1.13;margin-bottom:20px}
+.festival-site .chapter-hero .intro{font-size:17px;line-height:1.75;max-width:600px;color:#424d59}
+.chapter-flourish{display:block;color:var(--ilf-red);font-size:24px;line-height:1;margin-top:22px}
+.chapter-art{position:absolute;z-index:1;bottom:0;left:0;width:100%;height:clamp(200px,17vw,280px);pointer-events:none;overflow:hidden;mask-image:linear-gradient(to bottom,#000 90%,transparent 100%)}
+.chapter-art img{position:absolute;bottom:0;height:100%;width:auto;max-width:none}
+.chapter-art-left{left:0;clip-path:inset(0 55% 0 0)}
+.chapter-art-right{right:0;clip-path:inset(0 0 0 55%)}
+.festival-chapter{background:var(--ilf-ivory)}
+body.festival-site .festival-chapter>.section{padding-block:64px}
+body.festival-site .festival-chapter :is(.section-heading h2,.about-lead h2,.malwa-intro h2,.experience-opening h2,.visit-overview h2,.community-lead h2,.media-lead h2,.contact-grid h2,.enquiry-section h2,.faq-section h2){font-weight:500;line-height:1.16;letter-spacing:-.035em}
+body.festival-site .festival-chapter .section-heading{padding-bottom:24px;border-bottom:1px solid #d8b777;margin-bottom:34px;position:relative}
+body.festival-site .festival-chapter .section-heading::after{content:'✦';position:absolute;bottom:-14px;left:50%;color:var(--ilf-red);background:var(--ilf-ivory);padding:0 16px;font-size:19px}
+body.festival-site .festival-chapter .button{font-family:var(--serif);font-weight:600;border-radius:5px;gap:20px}
+body.festival-site .festival-chapter .button-blue{background:var(--ilf-red);color:white}
+body.festival-site .festival-chapter .button-blue:hover{background:#a93427}
+body.festival-site .festival-chapter .text-link{font-size:15px;line-height:1.6;color:#a73729;border-color:#c9443355}
+body.festival-site .festival-chapter :is(.filter-toolbar,.gallery-summary){padding:22px 24px;background:#fbf1df;border:1px solid #e7d0a5;border-radius:10px}
+body.festival-site .festival-chapter .filter-toolbar{margin-bottom:22px}
+body.festival-site .festival-chapter .filter-pills{flex-wrap:wrap;gap:10px}
+body.festival-site .festival-chapter .filter-pills button{font-size:14px;min-height:44px;border-radius:5px;padding:10px 17px}
+body.festival-site .festival-chapter .filter-pills button[aria-pressed=true]{background:var(--ilf-navy);color:white;border-color:var(--ilf-navy)}
+body.festival-site .festival-chapter .result-count{font-size:13px;color:#59616b}
+
+/* People and the archive: portrait frames and warm, legible year cards. */
+body.festival-site .festival-chapter .speaker-card{padding:14px 14px 20px;border:1px solid #e7d0a5;border-radius:150px 150px 10px 10px;background:#fff8ea;transition:box-shadow .2s,transform .2s;text-align:center}
+body.festival-site .festival-chapter .speaker-card:hover{box-shadow:0 12px 24px #173b7012;transform:translateY(-4px)}
+body.festival-site .festival-chapter .speaker-card .speaker-photo{border:3px solid #dfb564;border-radius:135px 135px 6px 6px}
+body.festival-site .festival-chapter .speaker-card h3{font-size:25px;line-height:1.25;margin:18px 0 10px}
+body.festival-site .festival-chapter .speaker-card p{margin:0;color:#59616b}
+body.festival-site .festival-chapter .archive-panel{border-radius:90px 90px 12px 12px;border:1px solid #d8b777;text-align:center;background:#fff3da;padding:52px 30px 38px}
+body.festival-site .festival-chapter .archive-panel:nth-child(2){background:#f5e8d5}
+body.festival-site .festival-chapter :is(.archive-embed object,.schedule-pdf){border:8px solid #ead4ac;border-radius:12px;background:#f8eedc}
+.detail-chapter-bar{background:var(--ilf-navy);color:white;border-bottom:4px solid var(--ilf-gold)}
+.detail-chapter-bar>.container{display:flex;align-items:center;justify-content:space-between;gap:20px;padding-block:22px;font-size:14px}
+.detail-chapter-bar span{font-size:10px;letter-spacing:2px;color:#f7d572}
+.detail-chapter-bar a:hover{color:var(--ilf-gold)}
+.festival-document{display:grid;grid-template-columns:1fr 1.15fr;align-items:center;gap:44px;padding:28px;border:1px solid #dfbf87;border-radius:16px;background:#fff3dc}
+.festival-document>img{width:100%;aspect-ratio:1.2;object-fit:cover;border-radius:100px 100px 8px 8px}
+.festival-document h2{font-size:38px;line-height:1.2}
+.festival-document p:not(.eyebrow){font-size:17px;line-height:1.8}
+.document-actions{display:flex;flex-wrap:wrap;align-items:center;gap:22px;margin-top:28px}
+.document-reader{margin:24px 0 64px;border:1px solid #dfbf87;border-radius:8px;background:#fff7e8}
+.document-reader summary{cursor:pointer;padding:20px 24px;font-size:17px;color:var(--ilf-navy)}
+.document-reader object{display:block;margin:0!important;border:0!important;border-top:1px solid #dfbf87!important;border-radius:0 0 8px 8px!important}
+body.festival-site .festival-chapter .profile{align-items:start;background:radial-gradient(ellipse at 0 0,#fff0d6,transparent 65%)}
+body.festival-site .festival-chapter .profile-photo{padding:14px;border:1px solid #d8b777;border-radius:150px 150px 12px 12px;background:#fff3dc}
+body.festival-site .festival-chapter .profile-photo>img{border:4px solid #d8b777}
+body.festival-site .festival-chapter .profile h1{font-size:clamp(36px,4vw,60px);line-height:1.2;text-wrap:balance}
+body.festival-site .festival-chapter .biography{font-size:17px;line-height:1.9}
+body.festival-site .festival-chapter .profile-pagination{padding:30px;background:#fbf1df;border:1px solid #e7d0a5;border-radius:12px;margin-bottom:64px}
+
+/* Stories, memories and films keep their own useful browsing layouts. */
+body.festival-site .festival-chapter .journal-feature{padding:26px;gap:38px;margin-bottom:48px;border:1px solid #dfbf87;border-radius:16px;background:#fff3dc}
+body.festival-site .festival-chapter .journal-feature img{border-radius:100px 100px 8px 8px;aspect-ratio:1.2}
+body.festival-site .festival-chapter .article-card{padding:18px 18px 24px;border:1px solid #e7d0a5;border-radius:12px;background:#fff9ed}
+body.festival-site .festival-chapter .article-card h3{line-height:1.6}
+body.festival-site .festival-chapter .article-title{max-width:1040px;background:radial-gradient(ellipse at center,#fff0d6,transparent 70%)}
+body.festival-site .festival-chapter .article-title h1{font-size:clamp(28px,3vw,42px);line-height:1.6}
+body.festival-site .festival-chapter .story-cover{border:8px solid #eddbb6;border-radius:16px;overflow:hidden;background:#fff3dc}
+body.festival-site .festival-chapter .story-aside{padding:24px;background:#fbf1df;border-radius:12px;align-self:start}
+body.festival-site .festival-chapter :is(.gallery-feature,.film-placeholder,.festival-video){border:7px solid #e6bc70;border-radius:100px 100px 12px 12px;overflow:hidden}
+body.festival-site .festival-chapter .season-card{background:#fff3dc;border:1px solid #dfbf87;border-radius:10px;min-height:215px}
+body.festival-site .festival-chapter .season-card.is-pending{opacity:1;color:#666258;background:#f8f1e5}
+body.festival-site .festival-chapter .season-card.is-pending .season-year{color:#827461}
+body.festival-site .festival-chapter .season-card.is-pending i{opacity:.4}
+body.festival-site .festival-chapter .gallery-item{border:5px solid #f0dfbf;border-radius:10px;overflow:hidden}
+body.festival-site .festival-chapter .gallery-summary{margin-bottom:28px}
+body.festival-site .festival-chapter .gallery-summary p{margin:0}
+body.festival-site .festival-chapter .empty-state{border:1px solid #dfbf87;border-radius:18px;background:#fff5e4;padding:60px 24px}
+body.festival-site .festival-chapter .journey-grid article{border-top:3px solid var(--ilf-gold);background:#fff5e4;padding:32px;border-radius:0 0 12px 12px}
+
+/* Visit, participation, contact and community carry the illustrated setting. */
+body.festival-site .festival-chapter :is(.about-lead,.malwa-intro,.experience-opening){position:relative}
+body.festival-site .festival-chapter :is(.about-lead,.malwa-intro,.experience-opening)>img{border:8px solid #e6bc70;outline:1px solid #c99a4d;outline-offset:5px;border-radius:130px 130px 12px 12px}
+body.festival-site .festival-chapter .about-content article{position:relative;padding:40px;background:#fff6e6;border:1px solid #dfbf87;margin-bottom:28px;border-radius:12px}
+body.festival-site .festival-chapter .about-content article::before{content:'✦';float:right;color:#c9443370;font-size:30px}
+body.festival-site .festival-chapter .community-art{background:linear-gradient(0deg,#173b70ef,#173b7040),url('/images/conversation-art.webp') center/cover;border:7px solid #e6bc70;border-radius:150px 150px 12px 12px}
+body.festival-site .festival-chapter .community-art>span{display:none}
+body.festival-site .festival-chapter :is(.planning-grid article,.place-card,.participation-card,.media-resources>a){background:#fff6e6;border:1px solid #dfbf87;border-top:4px solid #e6bc70;border-radius:12px;padding:32px}
+body.festival-site .festival-chapter .participation-card{display:flex;flex-direction:column;align-items:flex-start;position:relative}
+body.festival-site .festival-chapter .participation-card h2{font-size:32px;line-height:1.2}
+body.festival-site .festival-chapter .participation-card .button{margin-top:auto}
+body.festival-site .festival-chapter .participation-card:first-child{background:#fff0d1;border-color:#dca951}
+body.festival-site .festival-chapter .notice{padding:30px;border:1px solid #dfbf87;background:#fff3dc;border-radius:12px}
+body.festival-site .festival-chapter :is(.visit-facts,.contact-note,.press-contact){border:1px solid #dfbf87;border-top:5px solid var(--ilf-gold);background:#fff3dc;border-radius:12px;padding:36px}
+body.festival-site .festival-chapter .visit-facts,body.festival-site .festival-chapter .media-resources>a{background:var(--ilf-navy);color:white}
+body.festival-site .festival-chapter .media-resources h3{color:white}
+body.festival-site .festival-chapter .media-resources>a:hover{background:#234d81}
+body.festival-site .festival-chapter .experience-story-image{padding:10px;background:#f9ebce;border:1px solid #dfbf87;border-radius:90px 90px 12px 12px}
+body.festival-site .festival-chapter .experience-story-image img{border-radius:80px 80px 8px 8px}
+body.festival-site .festival-chapter .experience-jumps a{font-size:14px;min-height:44px;padding:10px 16px;border-radius:5px;background:#fff3dc;border-color:#dfbf87}
+body.festival-site .festival-chapter .regional-note{border:1px solid #dfbf87;border-radius:12px;background:#fff3dc url('/images/rajwada-linework.svg') right bottom/180px auto no-repeat;padding:54px 30px}
+body.festival-site .festival-chapter .enquiry-section form{padding:32px;background:#fff3dc;border:1px solid #dfbf87;border-radius:12px}
+body.festival-site .festival-chapter .enquiry-section :is(input,select,textarea){background:var(--ilf-ivory);border:1px solid #bca581;border-radius:5px;font-size:16px}
+body.festival-site .festival-chapter .faq-list details{padding:0 24px;border:1px solid #dfbf87;border-radius:8px;background:#fff7e8;margin-bottom:14px}
+body.festival-site .festival-chapter .faq-list details[open]{background:#fff0d1;border-color:#c99a4d}
+body.festival-site .festival-chapter .faq-list summary{font-size:18px;line-height:1.5;padding:22px 0;min-height:64px}
+body.festival-site .festival-chapter .faq-list details p{font-size:16px;color:#4b525c;margin:0 0 24px}
+.chapter-ribbon{padding:30px 24px;display:flex;align-items:center;justify-content:center;gap:26px;border-block:1px solid #e2c795;background:#fbf1df;color:var(--ilf-navy)}
+.chapter-ribbon svg{width:52px;height:44px;color:#b87b35}
+.chapter-ribbon span{font-size:11px;letter-spacing:2px}
+.chapter-ribbon span[lang]{font-size:16px;letter-spacing:0;color:#a73729}
+.festival-site .festival-invitation-banner{background:#f4e8cc url('/images/participation-courtyard-divider.webp') center bottom/cover no-repeat;padding:76px 0 130px}
+.festival-invitation-banner>.container{max-width:680px}
+
+@media(max-width:1000px){
+ .festival-site .page-heading.chapter-hero{min-height:520px}
+ .chapter-canopy{width:1440px;max-width:none;left:50%;transform:translateX(-50%)}
+ .chapter-copy{width:min(650px,76%);padding-top:120px}
+ .chapter-art{height:160px}
+ .festival-site .chapter-hero h1{font-size:46px}
+ body.festival-site .festival-chapter .speaker-card h3{font-size:23px}
+}
+@media(max-width:700px){
+ .festival-document{grid-template-columns:1fr;gap:26px;padding:20px}
+ .festival-document>img{aspect-ratio:1.6;border-radius:65px 65px 6px 6px}
+ .festival-document h2{font-size:30px}
+ .festival-document p:not(.eyebrow){font-size:16px}
+ .document-reader summary{font-size:16px;padding:18px}
+ .festival-site .page-heading.chapter-hero{min-height:0;background:var(--ilf-ivory);border-bottom:1px solid #dfbf87}
+ .chapter-breadcrumb{background:var(--ilf-navy);width:100%!important;padding:16px 20px;font-size:11px}
+ .chapter-canopy{display:none}
+ .chapter-copy{width:calc(100% - 44px);padding:45px 0 8px}
+ .chapter-copy::before{content:'✦';display:block;font-size:28px;color:#c68b34;margin-bottom:18px}
+ .festival-site .chapter-hero h1{font-size:38px;line-height:1.16;overflow-wrap:normal}
+ .festival-site .chapter-hero .eyebrow{font-size:9px;letter-spacing:1.5px}
+ .festival-site .chapter-hero .intro{font-size:16px;line-height:1.8}
+ .chapter-flourish{display:none}
+ .chapter-art{position:relative;left:0;width:100%;height:130px;margin-top:18px}
+ body.festival-site .festival-chapter>.section{padding-block:44px}
+ body.festival-site .festival-chapter :is(.filter-toolbar,.gallery-summary){padding:18px;gap:18px}
+ body.festival-site .festival-chapter .filter-toolbar>*{max-width:100%}
+ body.festival-site .festival-chapter .filter-pills button{font-size:13px;padding-inline:12px}
+ body.festival-site .festival-chapter .speaker-card{padding:7px 7px 16px}
+ body.festival-site .festival-chapter .speaker-card h3{font-size:21px;overflow-wrap:anywhere}
+ body.festival-site .festival-chapter .speaker-card p{font-size:12px}
+ body.festival-site .festival-chapter .speaker-grid{gap:24px 14px}
+ body.festival-site .festival-chapter .journal-feature{padding:18px;gap:24px}
+ body.festival-site .festival-chapter .article-card{padding:14px 14px 20px}
+ body.festival-site .festival-chapter .story-cover{border-width:4px;border-radius:8px}
+ body.festival-site .festival-chapter .profile-pagination{padding:22px;margin-bottom:44px}
+ body.festival-site .festival-chapter :is(.planning-grid article,.place-card,.participation-card,.media-resources>a,.visit-facts,.contact-note,.press-contact,.about-content article,.enquiry-section form){padding:26px}
+ body.festival-site .festival-chapter .participation-card h2{font-size:29px}
+ body.festival-site .festival-chapter .faq-list summary{font-size:16px}
+ body.festival-site .festival-chapter .faq-list details p{font-size:15px}
+ body.festival-site .festival-chapter .regional-note{background-size:100px auto}
+ .detail-chapter-bar>.container{flex-wrap:wrap;padding-block:18px;gap:12px}
+ .detail-chapter-bar span{font-size:9px;letter-spacing:1.2px}
+ .chapter-ribbon{flex-wrap:wrap;gap:14px;text-align:center}
+ .chapter-ribbon svg{width:40px}
+ .chapter-ribbon span[lang]{width:100%}
+ .festival-site .festival-invitation-banner{padding:50px 0 160px;background-size:auto 320px;background-repeat:no-repeat;background-color:#f4e8cc}
+ .festival-invitation-banner>.container{width:calc(100% - 40px)}
+}
+@media(prefers-reduced-motion:reduce){body.festival-site .festival-chapter .speaker-card{transition:none}body.festival-site .festival-chapter .speaker-card:hover{transform:none}}
+
+/* The official badge hangs just below the compact navigation bar. */
+.festival-site .ilf-header .festival-badge{position:relative;align-self:flex-start;margin-top:12px;z-index:2;border-radius:50%;background:white;box-shadow:0 5px 14px #102e5726}
+.festival-site .ilf-header .festival-badge img{width:104px;height:104px;object-fit:contain;border-radius:50%}
+@media(max-width:1399px){
+ .festival-site .ilf-header .festival-badge{margin-top:10px}
+ .festival-site .ilf-header .festival-badge img{width:92px;height:92px}
+ .festival-site .ilf-header #navigation.is-open{padding-top:34px}
+}
+@media(max-width:700px){
+ .festival-site .ilf-header .festival-badge{margin-top:9px}
+ .festival-site .ilf-header .festival-badge img{width:84px;height:84px}
+}
+
+/* Preserve the supplied circular logo throughout the site. */
+.festival-site .ilf-hero-logo,.festival-site .ilf-produced img,.festival-site .footer-brand.official-brand img{border-radius:50%;background:white}
+
+/* Keep the client's exact event wording beside the badge as one brand lockup. */
+.youtube-celebration{width:min(1240px,calc(100% - 64px));margin:64px auto;display:grid;grid-template-columns:240px 1fr auto;gap:40px;align-items:center;padding:44px;background:#173b70;border:1px solid #365882;border-radius:20px;color:#fffdf8;box-shadow:0 12px 35px #173b7010;text-align:left}
+.youtube-celebration-count{display:flex;flex-direction:column;align-items:center;gap:6px;border-right:1px solid #ffffff30;padding-right:36px}
+.youtube-celebration-platform{display:flex;align-items:center;gap:9px;font-size:15px;font-weight:600}.youtube-celebration-platform svg{width:32px;height:24px;color:#f6ca63}
+.youtube-celebration-count>strong{font:700 clamp(70px,7vw,108px)/1.1 var(--serif);letter-spacing:-5px;color:#f6ca63}.youtube-celebration-count>strong>span{font-size:.55em;vertical-align:top;line-height:1.5;letter-spacing:0}
+.youtube-celebration-label{font-size:10px;letter-spacing:1.6px;color:#e5ebf3}
+.youtube-celebration-copy .youtube-celebration-kicker{font-size:10px;letter-spacing:1.8px;color:#f6ca63;margin:0 0 14px}
+.youtube-celebration-copy h2{font:400 clamp(28px,2.8vw,40px)/1.15 var(--serif);color:#fffdf8;margin:0 0 16px;letter-spacing:-.6px}.youtube-celebration-copy h2 em{color:#f6ca63}
+.youtube-celebration-copy>p:last-child{font-size:14px;line-height:1.75;color:#dce5f1;margin:0;max-width:490px}.youtube-celebration-copy strong{color:#fffdf8}
+.youtube-celebration-link{display:inline-flex;align-items:center;justify-content:center;gap:18px;background:#f6ca63;color:#173b70;border-radius:6px;padding:16px 20px;font-size:13px;font-weight:700;white-space:nowrap}.youtube-celebration-link:hover{background:#ffe0a0;color:#173b70}.youtube-celebration-link:focus-visible{outline:3px solid #fff;outline-offset:5px}
+@media(max-width:1100px){.youtube-celebration{grid-template-columns:190px 1fr;gap:24px;padding:32px}.youtube-celebration-count{grid-row:span 2;padding-right:24px}.youtube-celebration-link{justify-self:start}}
+@media(max-width:600px){.youtube-celebration{width:calc(100% - 32px);grid-template-columns:1fr;gap:24px;padding:28px 24px;margin:40px auto;text-align:center}.youtube-celebration-count{grid-row:auto;border-right:0;border-bottom:1px solid #ffffff30;padding:0 0 24px}.youtube-celebration-count>strong{font-size:92px}.youtube-celebration-link{justify-self:stretch;white-space:normal}.youtube-celebration-copy h2{font-size:31px}.youtube-celebration-copy .youtube-celebration-kicker{line-height:1.6}}
+.festival-site .site-header.ilf-header{gap:24px}
+.header-brand-copy{flex:0 0 230px;display:flex;flex-direction:column;gap:7px;min-width:0;text-align:left}
+.header-brand-copy strong{color:#f6ca63;font-size:15px;font-weight:600;line-height:1.35;letter-spacing:.1px;text-wrap:balance}
+.header-brand-copy>span{color:#e5ebf3;font-size:12px;line-height:1.5;font-weight:400}
+@media(min-width:1400px){.festival-site .ilf-header #navigation{margin-left:auto;gap:22px}}
+@media(min-width:1400px) and (max-width:1599px){
+ .festival-site .site-header.ilf-header{gap:18px;padding-inline:28px}
+ .header-brand-copy{flex-basis:205px}.header-brand-copy strong{font-size:14px}.header-brand-copy>span{font-size:11px}
+ .festival-site .ilf-header .festival-badge img{width:88px;height:88px}
+ .festival-site .ilf-header #navigation{gap:16px}
+ .festival-site .ilf-header #navigation>a:not(.header-cta),.festival-site .ilf-header .explore-menu>summary{font-size:14px}
+ .festival-site .ilf-header .header-cta{font-size:14px;padding:12px 16px;gap:12px;margin-left:0}
+}
+@media(max-width:1399px){.header-brand-copy{flex:1;max-width:300px;margin-right:auto}.festival-site .ilf-header .menu-toggle{flex-shrink:0}}
+@media(max-width:700px){
+ .festival-site .site-header.ilf-header{gap:12px;padding-inline:16px}
+ .festival-site .ilf-header .festival-badge img{width:72px;height:72px}
+ .header-brand-copy{gap:5px}.header-brand-copy strong{font-size:12px;line-height:1.4}.header-brand-copy>span{font-size:10px;line-height:1.45}
+ .festival-site .ilf-header .menu-toggle{width:44px;height:44px;padding:11px}
+}
+@media(max-width:359px){.festival-site .site-header.ilf-header{gap:10px;padding-inline:12px}.festival-site .ilf-header .festival-badge img{width:62px;height:62px}.header-brand-copy strong{font-size:11px}.header-brand-copy>span{font-size:9px}}
+
+

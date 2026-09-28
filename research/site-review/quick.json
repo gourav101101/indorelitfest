@@ -1,0 +1,64 @@
+{
+  "results": [
+    {
+      "path": "/",
+      "slug": "home",
+      "status": 200,
+      "views": [
+        {
+          "width": 1440,
+          "title": "Let the legacy ofliterature grow.",
+          "overflow": false,
+          "broken": [],
+          "header": true,
+          "footer": true,
+          "h1Count": 1,
+          "height": 13774
+        },
+        {
+          "width": 390,
+          "title": "Let the legacy ofliterature grow.",
+          "overflow": false,
+          "broken": [],
+          "header": true,
+          "footer": true,
+          "h1Count": 1,
+          "height": 20344
+        }
+      ],
+      "title": "Let the legacy ofliterature grow.",
+      "overviewCapped": false
+    },
+    {
+      "path": "/about",
+      "slug": "about",
+      "status": 200,
+      "views": [
+        {
+          "width": 1440,
+          "title": "A city. A story. A shared love.",
+          "overflow": false,
+          "broken": [],
+          "header": true,
+          "footer": true,
+          "h1Count": 1,
+          "height": 5336
+        },
+        {
+          "width": 390,
+          "title": "A city. A story. A shared love.",
+          "overflow": false,
+          "broken": [],
+          "header": true,
+          "footer": true,
+          "h1Count": 1,
+          "height": 8194
+        }
+      ],
+      "title": "A city. A story. A shared love.",
+      "overviewCapped": false
+    }
+  ],
+  "errors": [],
+  "failures": 0
+}

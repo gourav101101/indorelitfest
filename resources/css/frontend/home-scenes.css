@@ -391,9 +391,9 @@ html:not(.motion-enabled) .ilf-orbit-link.is-current .ilf-orbit-painting{animati
 @media(prefers-reduced-motion:reduce){.ilf-orbit-link{transition:none}}
 
 /* Foreground emblem stays crisp; the title follows a shallow arc. */
-.ilf-orbit-centre{mask-image:none;border-radius:50%;border:5px solid #efd19a;box-shadow:inset 0 0 0 2px #fff3cd4d,0 0 0 2px #173b70,0 11px 22px #173b7033;background:#0e436c url('/images/indore-literature-festival-logo.webp') center 48%/132px 132px no-repeat;top:144px;left:185px;width:230px;height:230px;overflow:hidden}
-.ilf-orbit-centre::after{content:'';position:absolute;left:50%;bottom:39px;width:136px;height:18px;translate:-50% 0;background:linear-gradient(transparent,#0e436c 85%);pointer-events:none}
-.motion-enabled .ilf-orbit-centre{animation:centre-shimmer 4s ease-in-out infinite}
+.ilf-orbit-centre{mask-image:none;border-radius:0;border:0;box-shadow:none;background:transparent url('/images/indore-literature-festival-badge.png') center/contain no-repeat;top:144px;left:185px;width:230px;height:230px;overflow:visible}
+.ilf-orbit-centre::after{content:none}
+.motion-enabled .ilf-orbit-centre{animation:none}
 html:not(.motion-enabled) .ilf-orbit-centre{animation:none}
 @media(prefers-reduced-motion:reduce){.ilf-orbit-centre{animation:none}}
 .ilf-explorer-controls{gap:0;margin:0 auto -27px;align-items:flex-end;transform:translateY(-18px)}
@@ -524,3 +524,28 @@ html:not(.motion-enabled) .ilf-countdown-digit.is-flipping .ilf-digit-current,ht
 @media(max-width:900px){.ilf-food-ornament{width:72px;opacity:.82}.ilf-food-about,.ilf-food-voices{right:10px}.ilf-food-registration,.ilf-food-journal{left:8px}.ilf-food-explorer-one{left:8px;top:175px}.ilf-food-explorer-two{right:8px;top:125px}.ilf-food-explorer-three{display:none}}
 @media(max-width:600px){.ilf-food-ornament{width:58px;opacity:.72}.ilf-food-about{top:72px}.ilf-food-registration{top:95px}.ilf-food-voices{top:65px}.ilf-food-journal{top:72px}.ilf-food-explorer-one{top:135px}.ilf-food-explorer-two{top:92px;width:50px}}
 @media(prefers-reduced-motion:reduce){.ilf-food-ornament{animation:none}}
+
+/* Phone hero: keep the invitation visible without a two-row countdown. */
+@media(max-width:700px){
+ .ilf-home .ilf-hero{padding-top:92px;padding-bottom:24px}
+ .ilf-home .ilf-hero-content{width:calc(100% - 36px);min-height:0}
+ .ilf-home .ilf-hero-logo{width:82px;height:82px}
+ .ilf-home .ilf-hero .ilf-edition-label{font-size:9px;letter-spacing:2.5px;margin:10px 0 12px}
+ .ilf-home .ilf-hero .ilf-hero-date{font-size:clamp(16px,4.6vw,19px);margin-bottom:6px}
+ .ilf-home .ilf-hero .ilf-hero-venue{font-size:13px;letter-spacing:.3px}
+ .ilf-home .ilf-hero h1{font-size:clamp(37px,11vw,48px);letter-spacing:-1.5px;margin:22px 0 12px}
+ .ilf-home .ilf-hero h1>span{font-size:25px;letter-spacing:-.6px;line-height:1.4}
+ .ilf-home .ilf-hero .ilf-hero-hindi{font-size:14px;max-width:300px;margin-bottom:18px;padding-inline:6px}
+ .ilf-home .ilf-countdown{max-width:330px;margin:0 auto 20px}
+ .ilf-home .ilf-countdown-label{font-size:9px;letter-spacing:2px;margin-bottom:10px}
+ .ilf-home .ilf-countdown-blocks{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:7px}
+ .ilf-home .ilf-countdown-block{min-width:0;padding:11px 4px;gap:6px;border-width:1px;border-radius:7px;box-shadow:none}
+ .ilf-home .ilf-countdown-block span{font-size:27px}
+ .ilf-home .ilf-countdown-block small{font-size:8px;letter-spacing:1px}
+ .ilf-home .ilf-countdown-sep{display:none}
+ .ilf-home .ilf-hero-content>.ilf-button{min-height:54px;width:min(100%,300px);font-size:17px;padding:15px 20px}
+ .ilf-home .ilf-hero-sky,.ilf-home .ilf-hero-arch{height:580px}
+ .ilf-home .ilf-hero-people[data-hero-scene]{width:650px;bottom:240px}
+ .ilf-home .ilf-hero-mark-book{top:40px}
+ .ilf-home .ilf-hero-mark-pen{top:50px}
+}

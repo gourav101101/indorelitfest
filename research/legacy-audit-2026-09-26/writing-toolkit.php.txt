@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+		<meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+        <meta property="og:url" content="https://indorelitfest.in/about.php/" /> 
+        <meta property="og:title" content="Indore Literature Festival - About Us" />
+    
+        <meta property="og:image" content="https://indorelitfest.in/images/archive-2017/5.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:width" content="400" />
+        <meta property="og:image:height" content="300" />
+        <meta property="og:image:alt" content="LitFest" />
+    
+        <meta property="og:description" content="Come Let's Celebrate Central India's Largest Literary Fest"/>
+    
+        <meta property="og:type" content="website"/>
+    
+        <meta name="keywords" content="Indore Literature Festival, Indore Lit Fest, ILF, Literature, Poet, Poems, Writers, Lit Fest, Festival, Culture, Music, Bloggers, Indore, Philosophy, Memoirs, Bibliography, Books, Verse">
+        <meta name="description" content="Indore Literature Festival ‘Central India’s Largest Literary Meet’ is the signature event of Indore City which offers a unique opportunity to hear some of the greatest contemporary literary stalwarts together on a single platform that brings diverse thoughts & opinions, and upholds freedom of thought & expression during the three-day mega event.">
+                                        
+		<title>Blog</title>
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Dosis">
+    
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Maven Pro">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tenali Ramakrishna">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Philosopher">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Alegreya Sans SC">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Molengo">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Reem Kufi">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Imprima">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Harmattan">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Numans">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Harmattan">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Work Sans">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Stalemate">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open Sans Condensed">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Arapey">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Ovo">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Marcellus SC">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Marcellus">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Raleway:400,800,300">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic">
+    
+        <link rel="icon" type="image/png" href="images/new-icon.svg">
+    
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+        <link href="css/queries-468.css" rel="stylesheet">
+        
+        <script type="text/javascript" src="js/modernizr.custom.js"></script>
+    
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic' rel='stylesheet' type='text/css' />
+    
+</head>
+	
+<body>
+    
+    <div id="wrapper"> 
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+    
+ 
+    
+<!------------------------------------------------------HEADER------------------------------------------------------>
+
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+    
+<section class="header-1">
+    <div class="container-fluid">
+        <div class="row">
+            
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 home-icon">
+                <h4><a href="https://indorelitfest.in/">HOME<!---i class="fa fa-home  fa-2x" aria-hidden="true"></i---></a></h4>
+            </div>
+            
+            <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7 title-top">
+                <h3>India's Most Vibrant Literature Festival • 14th, 15th, 16th November 2025</h3>
+            </div>
+            
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 social-icons">
+            
+            <div class="">
+                          
+                <a href="https://www.facebook.com/indorelitfest/" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
+                                    
+                <a href="https://twitter.com/indorelitfest/" target="_blank"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+                                     
+                <a href="https://www.youtube.com/channel/UC-X_XLb6XkJ4iW4EpDtb56A/" target="_blank"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
+                                      
+                <a href="https://www.instagram.com/indorelitfest/" target="_blank"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+                
+                <a href="mailto:hellohindustan@gmail.com" target="_blank"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a>
+                                   
+            </div>
+                
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+  <style>
+.nav-1 li ul {
+  display: none;
+  position: absolute;
+  background: #0f4871;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ccc;
+  color:#fff;
+}
+
+.nav-1 li:hover ul {
+  display: block;
+}
+
+.nav-1 li ul li a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+  color: #fff;
+  white-space: nowrap;
+}
+</style>
+
+<section class="header-2">
+    <div class="container-fluid">
+        
+        <div class="row">
+                    
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 nav-titles">
+           
+				<nav class="menu">
+                    
+					<ul class="nav-1">
+                        <li><img src="images/ILF_2018_Title.png" alt=""></li>
+                        <li><a href="about.php" >about us</a></li>
+                        <li><a href="speakers.php" >speakers</a></li>
+                        <!--<li><a href="Speakers 2024 - Indore Literature Festival.pdf" >speakers</a></li>-->
+                        
+                        <li><a href="schedule.php">schedule</a>
+                            <ul>
+                           <li><a href="Indore Literature Festival 2025 Schedule & e-invite.pdf" target="_blank">PDF</a></li></ul>
+                        </li>
+                        
+                        
+                        <li><a href="blog.php">Blog</a></li>
+                        
+                        <li><a href="https://www.instagram.com/indorelitfest/" target="_blank">gallery</a></li>
+                        
+                        <li><a href="contact.php">contact</a></li>
+                        <li><img src="images/ILF_2018_Mono.png" alt=""></li>
+                    </ul>
+                    
+				</nav>
+                
+                <div class="hello-hindustan-logo">
+                    <img src="" alt=""><a href="https://docs.google.com/forms/d/e/1FAIpQLSccGcf4FFrBaDbdVOFAA4LxlolmNRllt-lGUP33SWRZwrql5w/viewform?usp=pp_url" target="_blank">Open Mic</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVkgFkATcKABDDgrje5A7Arp8urxHhDV48Jxp8XiQJ-hj_qA/viewform?usp=pp_url" target="_blank">Stall Booking</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeC2_zdG6zmX2H4mO-V8s4hG1FpyvoSsJYwi25iPWMwjRajwA/viewform?usp=pp_url" target="_blank">ILF Registration</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSetWyC6O9IX9vNdiAs2pt8LlpFdl33u_5_XbjKgPjlc11TPSA/viewform?usp=pp_url" target="_blank">Internship</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSftWoreuIQPF7BiEji6k690g3zwjEvVfquOB0vmijjT3WNsnQ/viewform?usp=pp_url" target="_blank">Volunteer</a>
+                </div>
+                
+            </div>
+            
+        </div>
+
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+
+<section class="mob-top-banner">
+    <div class="container-fluid">
+        
+        <ul>
+            
+            <li><a href="index.php"><img src="images/ILF2021-header-mob.png" alt=""></a></li>
+        
+            <li class="mob-banner-tab"><a href="about.php">about</a></li>
+        
+            <li class="mob-banner-tab"><a href="speakers.php" >speakers</a></li>
+        
+            <li class="mob-banner-tab"><a href="Indore Literature Festival 2025 Schedule & e-invite.pdf" >schedule</a></li>
+            
+            <li class="mob-banner-tab"><a href="blog.php" >Blog</a></li>
+            
+            
+            
+            <li class="mob-banner-tab"><a href="contact.php">contact</a></li>
+            
+            </br><span><a href="https://docs.google.com/forms/d/e/1FAIpQLSccGcf4FFrBaDbdVOFAA4LxlolmNRllt-lGUP33SWRZwrql5w/viewform?usp=pp_url" target="_blank">Open Mic</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVkgFkATcKABDDgrje5A7Arp8urxHhDV48Jxp8XiQJ-hj_qA/viewform?usp=pp_url" target="_blank">Stall Booking</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSetWyC6O9IX9vNdiAs2pt8LlpFdl33u_5_XbjKgPjlc11TPSA/viewform?usp=pp_url" target="_blank">Internship</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSftWoreuIQPF7BiEji6k690g3zwjEvVfquOB0vmijjT3WNsnQ/viewform?usp=pp_url" target="_blank">Volunteer</a></br><a href="https://docs.google.com/forms/d/e/1FAIpQLSeC2_zdG6zmX2H4mO-V8s4hG1FpyvoSsJYwi25iPWMwjRajwA/viewform?usp=pp_url" target="_blank">ILF Registration</a></span>
+            
+        </ul>
+        
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+        
+<!--<section class="about-photo-top d-none">-->
+<!--    <div class="container-fluid">-->
+        
+<!--        <div class="row">-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-1">-->
+                
+<!--            </div>-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-2">-->
+                
+<!--            </div>-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-3">-->
+                
+<!--            </div>-->
+            
+<!--        </div>-->
+
+<!--    </div>-->
+<!--</section>-->
+     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+
+<section class="about-ilf" style="padding:50px 0; background:#f7f6e8;">
+    <div class="container" style="max-width:900px; margin:auto;">
+
+
+<div id="full-writing-toolkit" style="margin-top:80px; margin-bottom:80px;">
+    <h2 style="font-size:32px; color:#002b5c;">राइटिंग टूलकिट – </h2>
+    <hr style="border:0; height:2px; background:#002b5c; width:120px; margin-bottom:20px;">
+
+    <p style="font-size:17px; line-height:30px; color:#333; text-align:justify;">
+
+राइटिंग टूलकिट<br>
+इंदौर साहित्य महोत्सवके“राइटिंग टूलकिट”सत्र में आएविशेषज्ञोंने लेखन से जुड़े कई महत्वपूर्ण विषयों पर सरल और समझने योग्य तरीके से बात की। उन्होंने बताया कि लिखने की प्रेरणा कहाँ से मिलती है, अपनी लिखने की शैली कैसे बनती है, और जब मन न लगे या कुछ सूझे नहीं (राइटर्स ब्लॉक) तो उससे कैसे निपटा जाए।
+<br><br>
+एक विशेषज्ञ ने अपने लेखन की शुरुआत से जुड़े अनुभव साझा करते हुए बताया कि कठिन दौर में, अस्पताल के माहौल में, अचानक रोज़मर्रा की ज़िंदगी में दिखने वाले कुछ अनजाने लोगों ने उनकी कल्पना को जन्म दिया और वहीं से उनकी कहानियाँ आकार लेने लगीं। उन्होंने कहा कि वे दैनिक जीवन की छोटी-छोटी घटनाओं में कथाएँ ढूँढते हैं और उन्हें शब्दों में पिरोते हैं।
+<br><br>
+दूसरे विशेषज्ञ ने कहा कि साहित्य अपनी चमक तभी बनाए रख सकता है जब इंदौर साहित्य महोत्सवजैसेआयोजन लगातार होते रहें। उनके अनुसार, लेखन मूल रूप से सार्थक शब्दों का चयन है—शब्द जो मिलकर एक रचना को जीवन देते हैं। उनका मानना है कि एक अच्छे लेखक के पास शब्दों का समृद्ध भंडार होना चाहिए, जिससे वह अपनी कल्पनाओं को सहजता से व्यक्त कर सके।
+<br><br>
+विशेषज्ञों ने कहा किलेखन में अलग–अलग साधनों की बहुत महत्त्वपूर्ण भूमिका होती है। आज तकनीक बहुत आगे बढ़ चुकी है, शोध करने में एआई मदद करता है, और चैटजीपीटी जैसे साधन कई बार काम आसान बना देते हैं। लेकिन उन्होंने साफ़ कहा किएआई इंसान की तरह नहीं लिख सकता,क्योंकि इंसान अपने अनुभव, अपनी भावनाएँ और अपनी नज़र से कहानी बनाता है। यह बात कोई मशीन नहीं कर सकती।
+<br><br>
+एक विशेषज्ञ ने अपना अनुभव बताते हुए कहा कि उन्हें एक समय टाइपराइटर से लिखने का बहुत शौक हुआ। वे टाइपराइटर लाए भी, लेकिन उससेतरीका अलग होने के कारण वे उससे ठीक से लिख नहीं पाए। फिर अपनी इच्छा पूरी करने के लिए उन्होंने ऐसा कीबोर्ड लिया जो टाइपराइटर जैसी आवाज़ करता है। उन्होंने कहा कितकनीक इतनी आगे बढ़ गई है कि अब हमारी छोटी–छोटी पसंद भी पूरी हो सकती है,लेकिन लिखने का असली भाव तो इंसान के भीतर होता है।उन्होंने बताया कि अपनी पहली किताब उन्होंने एकडेटिंग ऐपके अनुभव पर लिखी थी। इसके लिए उन्होंने खुद वह ऐप इस्तेमाल किया, उसे समझा, और कई बातें वहीं से सीखीं। ऐसे निजी अनुभवएआई नहीं दे सकता, क्योंकि हर कहानी लेखक की अपनी दुनिया से निकलती है।
+<br><br>
+सत्र मेंराइटर्स ब्लॉकपर भी खुलकर बात हुई। विशेषज्ञों ने कहा कि ऐसा होना बिल्कुल सामान्य है कि आप लिखने बैठें और मन न लगे या कोई विचार ठीक न लगे। यह हर लेखक के साथ होता है।उन्होंने बताया कि ऐसे समय में वे किसी कठोर नियम का पालन नहीं करते और न ही परेशान होते हैं। उनके अनुसार, लिखना एक तरह का “बुखार” है—जब आता है, तभी आप सही से लिख पाते हैं।
+<br><br>
+बेहतर लिखने के लिए उन्होंने सलाह दी कि लेखक को थोड़ासूझ-बूझ वाला और सावधानहोना चाहिए, मन में आने वाले हर विचार को पहले लिख लें, फिर उसे ठीक करें, कई बार पढ़ें, और तब तक बदलते रहें जब तक वह बिल्कुल सही न लगे।
+
+    </p>
+</div>
+
+
+    </div>
+</section>
+
+
+    </div>
+</section>
+ 
+        
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+        
+<section class="about-photo-bottom">
+    <div class="container-fluid">
+        
+        <div class="row">
+                    
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-4">
+                
+            </div>
+                    
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-5">
+                
+            </div>
+                    
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-6">
+                
+            </div>
+            
+        </div>
+
+    </div>
+</section>        
+
+<div class="mob-end-footer">
+            
+    <h1>Hello Hindustan News and Network</h1>
+    <h2>413 Krishna Business Center, near Medanta Hospital<br>
+            Vijay Nagar, Indore (Madhya Pradesh)<br>
+    Email: hellohindustan@gmail.com</h2>
+    <br>
+    <p>Copyright &copy; Indore Literature Festival</p>
+            
+</div>
+     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+    
+<section class="end-footer">
+    
+    <div class="venue">
+        <h1>VENUE</h1>
+        <p>Daly College</br>1, Residency Area</br>Indore, Madhya Pradesh 452001</p></br>
+        
+    <span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=bci8NL9xU0NwKqUxyD8kKO42sqwGCcWg4A3Ph8gbJEAyIaSehaTjC7o4EMTI"></script></span>
+        
+            <!---i class="fa fa-whatsapp" aria-hidden="true"></i><span> 623-288-1181</span></p---->
+    </div>
+
+</section>
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>    
+<!------------------------------------------------------STROLLING-PEBBLE------------------------------------------------------>
+    </div>
+    
+</body>
+
+    
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+        <script type="text/javascript" src="js/jquery.eislideshow.js"></script>
+        <script type="text/javascript">
+            $(function() {
+                $('#ei-slider').eislideshow({
+					animation			: 'center',
+					autoplay			: true,
+					slideshow_interval	: 3000,
+					titlesFactor		: 0
+                });
+            });
+        </script>
+    
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'p3plzcpnl506634'},{'dcenter':'p3'},{'cp_id':'10098793'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script></html>

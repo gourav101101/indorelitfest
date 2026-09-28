@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+		<meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+        <meta property="og:url" content="https://indorelitfest.in/about.php/" /> 
+        <meta property="og:title" content="Indore Literature Festival - About Us" />
+    
+        <meta property="og:image" content="https://indorelitfest.in/images/archive-2017/5.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:width" content="400" />
+        <meta property="og:image:height" content="300" />
+        <meta property="og:image:alt" content="LitFest" />
+    
+        <meta property="og:description" content="Come Let's Celebrate Central India's Largest Literary Fest"/>
+    
+        <meta property="og:type" content="website"/>
+    
+        <meta name="keywords" content="Indore Literature Festival, Indore Lit Fest, ILF, Literature, Poet, Poems, Writers, Lit Fest, Festival, Culture, Music, Bloggers, Indore, Philosophy, Memoirs, Bibliography, Books, Verse">
+        <meta name="description" content="Indore Literature Festival ‘Central India’s Largest Literary Meet’ is the signature event of Indore City which offers a unique opportunity to hear some of the greatest contemporary literary stalwarts together on a single platform that brings diverse thoughts & opinions, and upholds freedom of thought & expression during the three-day mega event.">
+                                        
+		<title>Blog</title>
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Dosis">
+    
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Maven Pro">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tenali Ramakrishna">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Philosopher">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Alegreya Sans SC">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Molengo">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Reem Kufi">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Imprima">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Harmattan">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Numans">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Harmattan">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Work Sans">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Stalemate">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open Sans Condensed">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Arapey">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Ovo">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Marcellus SC">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Marcellus">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Raleway:400,800,300">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic">
+    
+        <link rel="icon" type="image/png" href="images/new-icon.svg">
+    
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+        <link href="css/queries-468.css" rel="stylesheet">
+        
+        <script type="text/javascript" src="js/modernizr.custom.js"></script>
+    
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic' rel='stylesheet' type='text/css' />
+    
+</head>
+	
+<body>
+    
+    <div id="wrapper"> 
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+    
+ 
+    
+<!------------------------------------------------------HEADER------------------------------------------------------>
+
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+    
+<section class="header-1">
+    <div class="container-fluid">
+        <div class="row">
+            
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 home-icon">
+                <h4><a href="https://indorelitfest.in/">HOME<!---i class="fa fa-home  fa-2x" aria-hidden="true"></i---></a></h4>
+            </div>
+            
+            <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7 title-top">
+                <h3>India's Most Vibrant Literature Festival • 14th, 15th, 16th November 2025</h3>
+            </div>
+            
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 social-icons">
+            
+            <div class="">
+                          
+                <a href="https://www.facebook.com/indorelitfest/" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
+                                    
+                <a href="https://twitter.com/indorelitfest/" target="_blank"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+                                     
+                <a href="https://www.youtube.com/channel/UC-X_XLb6XkJ4iW4EpDtb56A/" target="_blank"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
+                                      
+                <a href="https://www.instagram.com/indorelitfest/" target="_blank"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+                
+                <a href="mailto:hellohindustan@gmail.com" target="_blank"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a>
+                                   
+            </div>
+                
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+  <style>
+.nav-1 li ul {
+  display: none;
+  position: absolute;
+  background: #0f4871;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ccc;
+  color:#fff;
+}
+
+.nav-1 li:hover ul {
+  display: block;
+}
+
+.nav-1 li ul li a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+  color: #fff;
+  white-space: nowrap;
+}
+</style>
+
+<section class="header-2">
+    <div class="container-fluid">
+        
+        <div class="row">
+                    
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 nav-titles">
+           
+				<nav class="menu">
+                    
+					<ul class="nav-1">
+                        <li><img src="images/ILF_2018_Title.png" alt=""></li>
+                        <li><a href="about.php" >about us</a></li>
+                        <li><a href="speakers.php" >speakers</a></li>
+                        <!--<li><a href="Speakers 2024 - Indore Literature Festival.pdf" >speakers</a></li>-->
+                        
+                        <li><a href="schedule.php">schedule</a>
+                            <ul>
+                           <li><a href="Indore Literature Festival 2025 Schedule & e-invite.pdf" target="_blank">PDF</a></li></ul>
+                        </li>
+                        
+                        
+                        <li><a href="blog.php">Blog</a></li>
+                        
+                        <li><a href="https://www.instagram.com/indorelitfest/" target="_blank">gallery</a></li>
+                        
+                        <li><a href="contact.php">contact</a></li>
+                        <li><img src="images/ILF_2018_Mono.png" alt=""></li>
+                    </ul>
+                    
+				</nav>
+                
+                <div class="hello-hindustan-logo">
+                    <img src="" alt=""><a href="https://docs.google.com/forms/d/e/1FAIpQLSccGcf4FFrBaDbdVOFAA4LxlolmNRllt-lGUP33SWRZwrql5w/viewform?usp=pp_url" target="_blank">Open Mic</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVkgFkATcKABDDgrje5A7Arp8urxHhDV48Jxp8XiQJ-hj_qA/viewform?usp=pp_url" target="_blank">Stall Booking</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeC2_zdG6zmX2H4mO-V8s4hG1FpyvoSsJYwi25iPWMwjRajwA/viewform?usp=pp_url" target="_blank">ILF Registration</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSetWyC6O9IX9vNdiAs2pt8LlpFdl33u_5_XbjKgPjlc11TPSA/viewform?usp=pp_url" target="_blank">Internship</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSftWoreuIQPF7BiEji6k690g3zwjEvVfquOB0vmijjT3WNsnQ/viewform?usp=pp_url" target="_blank">Volunteer</a>
+                </div>
+                
+            </div>
+            
+        </div>
+
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+
+<section class="mob-top-banner">
+    <div class="container-fluid">
+        
+        <ul>
+            
+            <li><a href="index.php"><img src="images/ILF2021-header-mob.png" alt=""></a></li>
+        
+            <li class="mob-banner-tab"><a href="about.php">about</a></li>
+        
+            <li class="mob-banner-tab"><a href="speakers.php" >speakers</a></li>
+        
+            <li class="mob-banner-tab"><a href="Indore Literature Festival 2025 Schedule & e-invite.pdf" >schedule</a></li>
+            
+            <li class="mob-banner-tab"><a href="blog.php" >Blog</a></li>
+            
+            
+            
+            <li class="mob-banner-tab"><a href="contact.php">contact</a></li>
+            
+            </br><span><a href="https://docs.google.com/forms/d/e/1FAIpQLSccGcf4FFrBaDbdVOFAA4LxlolmNRllt-lGUP33SWRZwrql5w/viewform?usp=pp_url" target="_blank">Open Mic</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVkgFkATcKABDDgrje5A7Arp8urxHhDV48Jxp8XiQJ-hj_qA/viewform?usp=pp_url" target="_blank">Stall Booking</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSetWyC6O9IX9vNdiAs2pt8LlpFdl33u_5_XbjKgPjlc11TPSA/viewform?usp=pp_url" target="_blank">Internship</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSftWoreuIQPF7BiEji6k690g3zwjEvVfquOB0vmijjT3WNsnQ/viewform?usp=pp_url" target="_blank">Volunteer</a></br><a href="https://docs.google.com/forms/d/e/1FAIpQLSeC2_zdG6zmX2H4mO-V8s4hG1FpyvoSsJYwi25iPWMwjRajwA/viewform?usp=pp_url" target="_blank">ILF Registration</a></span>
+            
+        </ul>
+        
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+        
+<!--<section class="about-photo-top d-none">-->
+<!--    <div class="container-fluid">-->
+        
+<!--        <div class="row">-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-1">-->
+                
+<!--            </div>-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-2">-->
+                
+<!--            </div>-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-3">-->
+                
+<!--            </div>-->
+            
+<!--        </div>-->
+
+<!--    </div>-->
+<!--</section>-->
+     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+
+<section class="about-ilf" style="padding:50px 0; background:#f7f6e8;">
+    <div class="container" style="max-width:900px; margin:auto;">
+
+
+<div id="full-uday-mahurkar" style="margin-top:80px; margin-bottom:80px;">
+    <h2 style="font-size:32px; color:#002b5c;">फिल्मों और वेब श्रंखलाओं में फैलती अश्लीलता का संकट – </h2>
+    <hr style="border:0; height:2px; background:#002b5c; width:120px; margin-bottom:20px;">
+
+    <p style="font-size:17px; line-height:30px; color:#333; text-align:justify;">
+
+फिल्मों और वेब श्रंखलाओं में फैलती अश्लीलता का संकट<br>
+उदय माहूरकर एक प्रतिष्ठित भारतीय पत्रकार, लेखक और राजनीतिक विश्लेषक हैं, जिनका करियर तीन दशकों से अधिक समय से भारत के राजनीतिक और सामाजिक परिदृश्य के गहन अध्ययन और विश्लेषण से जुड़ा रहा है। उन्हें भारतीय पत्रकारिता की सबसे विश्वसनीय आवाज़ों में माना जाता है। इंदौर साहित्य उत्सव में उन्होंने एक अत्यंत गंभीर और आज के समय में अत्यावश्यक विषय पर अपने विचार रखे। उन्होंने कहा कि “फिल्मों और वेब श्रंखलाओं में फैलती अश्लीलता का संकट” अब केवल चिंता का नहीं, बल्कि सीधे समाज पर प्रभाव डालने वाला विषय बन चुका है। उनके अनुसार इस विषय पर चर्चा होना और समाधान खोजना बेहद आवश्यक है, क्योंकि आजकल की फिल्मों और वेब श्रंखलाओं की कंटेंट हमारे युवाओं को भटका रही है। पहले के समय में लोग परिवार के साथ बैठकर दूरदर्शन देखते थे। रामायण और महाभारत जैसे धारावाहिक परिवारों को जोड़कर रखते थे। लेकिन अब समय पूरी तरह बदल चुका है और अधिकांश फिल्में तथा वेब श्रंखलाएँ केवल मोबाइल पर अकेले में देखने योग्य रह गई हैं। ऐसा कंटेंट बढ़ रहा है जिसे परिवार के साथ बैठकर देख पाना संभव ही नहीं रह गया है।
+<br><br>
+पिछले ग्यारह वर्षों में यह स्थिति पूरे देश में चिंताजनक रूप से बदल गई है। देश प्रौद्योगिकी और विकास में दोगुनी रफ्तार से आगे बढ़ रहा है और अनुमान है कि वर्ष 2037 तक भारत एक महान राष्ट्र के रूप में खड़ा होगा, लेकिन इसके साथ यह भी डर है कि सांस्कृतिक रूप से देश कमजोर हो जाएगा। मोबाइल, जो कभी सीखने और ज्ञान पाने का माध्यम था, आज अश्लीलता का सबसे बड़ा माध्यम बन चुका है।
+<br><br>
+माहूरकर ने यह भी कहा कि यह बेहद महत्वपूर्ण तथ्य है कि सत्तर से अस्सी प्रतिशत रेप अश्लील कंटेंट और उसकी आदतों से बढ़ रहे हैं। उनके अनुसार भारत में एक सांस्कृतिक युद्ध चल रहा है। संतों ने भारत को विश्वगुरु के रूप में देखने की बात कही थी, लेकिन आज भारत अपने उस लक्ष्य से दूर जाता दिख रहा है। लोगो का मन दूषित हो रहा है। उन्होंने कड़े शब्दों में कहा कि घटिया अश्लील कंटेंट की वजह से ऐसी भयावह घटनाएँ सामने आ रही हैं जिनमें भाई बहन का, पिता बेटी का रेप कर रहा है। यह स्थिति राष्ट्र के लिए अत्यंत गंभीर है। रेप रोकने वाले सामाजिक कार्यकर्ता भी इस बात से सहमत हैं कि अश्लीलता की लत समाज को भीतर से खोखला कर रही है। आज ऐसा समय है कि किसी पर भी भरोसा करना मुश्किल हो गया है। सुबह मंदिर जाने वाला व्यक्ति भी शाम को अश्लील कंटेंट देख रहा है। देश के लोग तेज़ी से इस गंभीर सामाजिक बीमारी का शिकार बनते जा रहे हैं।
+<br><br>
+उन्होंने कहा कि ऐसे समय में हमें सिंगापुर जैसे देशों से सीखने की आवश्यकता है, जहाँ अश्लीलता पर बहुत बड़े स्तर पर नियंत्रण प्राप्त किया गया है। भारत की जनता में यह जागरूकता फैलानी चाहिए कि इस गंदगी को रोका जाए और इसके विरुद्ध समाज एकजुट होकर सामने आए। जनता सुझाव दे कि किस प्रकार ऐसे अशोभनीय चित्रण और कंटेंट पर रोक लगाई जा सकती है। यदि समय रहते इस पर कठोर नियम और कानून नहीं बनाए गए, तो भारत की संस्कृति खो जाएगी। इसलिए आवश्यक है कि लोग एकजुट होकर इस बुराई का विरोध करें और इसे समाप्त करने के लिए ज़िम्मेदारी उठाएँ।
+<br><br>
+माहूरकर ने कहा कि संसार के सोलह देशों ने अश्लील कंटेंट के विरोध में कठोर कदम उठाए हैं और बच्चों को ऐसी कंटेंट से बचाने के लिए सख्त प्रतिबंध लगाए हैं। इंग्लैंड भी ऐसे देशों में शामिल है। भारत को भी इन देशों की तरह इस सामाजिक आतंकवाद पर रोक लगाने का संकल्प लेना चाहिए, क्योंकि अश्लीलता किसी आतंक से कम नहीं है और इस पर रोक लगाना अत्यंत आवश्यक हो चुका है। बच्चों के लिए अभिभावक नियंत्रण लगाना एक छोटा कदम है, लेकिन इस बीमारी को समाप्त करने के लिए समस्या को मूल से खत्म करना होगा। समाज को एकजुट होकर बॉलीवुडपर दबाव बनाना चाहिए, क्योंकि बॉलीवुड इस समस्या को और बढ़ावा दे रहा है। ए एल टी बालाजी, उल्लू जैसे मंचों पर अंकुश लगाया जाना चाहिएजो अश्लीलता को सहारा दे रहे हैं, इन परकठोर नियंत्रण आवश्यक है। ऐसे कानून बनने चाहिए जिनके तहत सेवाएँ देने वाले प्रदाता स्वयं इस प्रकार की कंटेंट को चलने ही न दें, और यदि ऐसा कंटेंट प्रसारित होती है तो उन पर तुरंत कार्रवाई हो। ऐसे संयंत्र और कृत्रिम बुद्धि आधारित व्यवस्था विकसित की जानी चाहिए जो अशोभनीय कंटेंट को स्वतः रोक सके, क्योंकि अश्लीलता का यह फैलाव देश पर बम गिरने से भी अधिक खतरनाक है। यह लोगों को शारीरिक नहीं बल्कि मानसिक रूप से अत्यधिक क्षति पहुँचाता है।
+<br><br>
+उनका कहना है कि जिस प्रकार फिल्मों के लिए एक जांच मंडल है, उसी प्रकार वेब मंचों के लिए भी एक जांच मंडल होना चाहिए, क्योंकि फिल्मो की स्थिति भी अत्यंत संतोषजनक नहीं है। “ऐनिमल” जैसी फिल्मे समाज को क्या संदेश देना चाहती हैं, यह प्रश्न उठाना आवश्यक है।
+<br><br>
+उन्होंने कहा कि शासन, अभिभावक और जनता को मिलकर इस गंभीर समस्या को प्राथमिकता बनाना चाहिए, क्योंकि यदि ऐसा न किया गया तो देश की विकास यात्रा असफल हो जाएगी। एक परिवार के रूप में हम आठ से बीस वर्ष के बच्चों को संस्कार दे सकते हैं, परंतु आज हर किसी के हाथ में मोबाइल है और जिसके हाथ में यह उपकरण है, वह आसानी से अशोभनीय कंटेंट तक पहुँच सकता है। इस अश्लीलता के बाजार में कोई नैतिकता शेष नहीं है।
+<br><br>
+उदय माहूरकर कहते है कि यदि छत्रपति शिवाजी महाराज समस्याओं से डर जाते, तो मुगल शासन का अंत कभी नहीं हो पाता। यदि हम शिवाजी को आदर्श मानते हैं तो उनकी तरह सोचना और इस युद्ध से पीछे न हटना आवश्यक है। शासन द्वारा दो सौ पचास वेब मंचों पर नियंत्रण स्थापित किया जाना इस आंदोलन की दिशा में एक बड़ा कदम है, किंतु लक्ष्य इस समस्या को जड़ से समाप्त करना ही होना चाहिए। संसार के सोलह देशों ने अश्लीलता पर प्रतिबंध लगाया है और भारत भी ऐसा कर सकता है।
+<br><br>
+अंत में उदय माहूरकर ने यह अपील की कि जिस प्रकार प्रधानमंत्री ने पाकिस्तान के विरुद्ध संघर्ष में निर्णायक भूमिका निभाई है, वह सराहनीय है; परंतु देश के भीतर संस्कृति और अश्लीलता मेंजो युद्ध चल रहा है, उस पर भी ध्यान देना उतना ही आवश्यक है। राष्ट्र के युवा और बच्चे देश का भविष्य हैं और उन्हें इस सामाजिक संकट से बचाना अधिक महत्वपूर्ण है। यह ऐसा विषय है जिस पर सभी पंथ और सम्प्रदाय एकमत हैं।
+<br><br>
+उन्होंने कहा कि इंदौर जिस प्रकार स्वच्छता के लिए प्रसिद्ध है, उसी प्रकार उसे सांस्कृतिक स्वच्छता का केंद्र भी बनना चाहिए और इस गंदगी का पूर्ण विरोध करना चाहिए।
+
+    </p>
+</div>
+
+
+    </div>
+</section>
+
+
+    </div>
+</section>
+ 
+        
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+        
+<!--<section class="about-photo-bottom">-->
+<!--    <div class="container-fluid">-->
+        
+<!--        <div class="row">-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-4">-->
+                
+<!--            </div>-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-5">-->
+                
+<!--            </div>-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-6">-->
+                
+<!--            </div>-->
+            
+<!--        </div>-->
+
+<!--    </div>-->
+<!--</section>        -->
+<section class="about-photo-bottom2">
+    <div class="container-fluid px-0">
+        <div class="row g-0">
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/ambi1.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/ambi2.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/ambi3.jpeg" alt="">
+            </div>
+            
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/ambi4.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/ambi5.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/ambi6.jpeg" alt="">
+            </div>
+            
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/ambi7.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/ambi8.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/ambi9.jpeg" alt="">
+            </div>
+             <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/ambi10.jpeg" alt="">
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="mob-end-footer">
+            
+    <h1>Hello Hindustan News and Network</h1>
+    <h2>413 Krishna Business Center, near Medanta Hospital<br>
+            Vijay Nagar, Indore (Madhya Pradesh)<br>
+    Email: hellohindustan@gmail.com</h2>
+    <br>
+    <p>Copyright &copy; Indore Literature Festival</p>
+            
+</div>
+     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+    
+<section class="end-footer">
+    
+    <div class="venue">
+        <h1>VENUE</h1>
+        <p>Daly College</br>1, Residency Area</br>Indore, Madhya Pradesh 452001</p></br>
+        
+    <span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=bci8NL9xU0NwKqUxyD8kKO42sqwGCcWg4A3Ph8gbJEAyIaSehaTjC7o4EMTI"></script></span>
+        
+            <!---i class="fa fa-whatsapp" aria-hidden="true"></i><span> 623-288-1181</span></p---->
+    </div>
+
+</section>
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>    
+<!------------------------------------------------------STROLLING-PEBBLE------------------------------------------------------>
+    </div>
+    
+</body>
+
+    
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+        <script type="text/javascript" src="js/jquery.eislideshow.js"></script>
+        <script type="text/javascript">
+            $(function() {
+                $('#ei-slider').eislideshow({
+					animation			: 'center',
+					autoplay			: true,
+					slideshow_interval	: 3000,
+					titlesFactor		: 0
+                });
+            });
+        </script>
+    
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'p3plzcpnl506634'},{'dcenter':'p3'},{'cp_id':'10098793'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script></html>

@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+		<meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+        <meta property="og:url" content="https://indorelitfest.in/about.php/" /> 
+        <meta property="og:title" content="Indore Literature Festival - About Us" />
+    
+        <meta property="og:image" content="https://indorelitfest.in/images/archive-2017/5.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:width" content="400" />
+        <meta property="og:image:height" content="300" />
+        <meta property="og:image:alt" content="LitFest" />
+    
+        <meta property="og:description" content="Come Let's Celebrate Central India's Largest Literary Fest"/>
+    
+        <meta property="og:type" content="website"/>
+    
+        <meta name="keywords" content="Indore Literature Festival, Indore Lit Fest, ILF, Literature, Poet, Poems, Writers, Lit Fest, Festival, Culture, Music, Bloggers, Indore, Philosophy, Memoirs, Bibliography, Books, Verse">
+        <meta name="description" content="Indore Literature Festival ‘Central India’s Largest Literary Meet’ is the signature event of Indore City which offers a unique opportunity to hear some of the greatest contemporary literary stalwarts together on a single platform that brings diverse thoughts & opinions, and upholds freedom of thought & expression during the three-day mega event.">
+                                        
+		<title>Blog</title>
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Dosis">
+    
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Maven Pro">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tenali Ramakrishna">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Philosopher">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Alegreya Sans SC">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Molengo">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Reem Kufi">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Imprima">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Harmattan">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Numans">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Harmattan">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Work Sans">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Stalemate">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open Sans Condensed">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Arapey">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Ovo">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Marcellus SC">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Marcellus">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Raleway:400,800,300">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic">
+    
+        <link rel="icon" type="image/png" href="images/new-icon.svg">
+    
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+        <link href="css/queries-468.css" rel="stylesheet">
+        
+        <script type="text/javascript" src="js/modernizr.custom.js"></script>
+    
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic' rel='stylesheet' type='text/css' />
+    
+</head>
+	
+<body>
+    
+    <div id="wrapper"> 
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+    
+ 
+    
+<!------------------------------------------------------HEADER------------------------------------------------------>
+
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+    
+<section class="header-1">
+    <div class="container-fluid">
+        <div class="row">
+            
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 home-icon">
+                <h4><a href="https://indorelitfest.in/">HOME<!---i class="fa fa-home  fa-2x" aria-hidden="true"></i---></a></h4>
+            </div>
+            
+            <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7 title-top">
+                <h3>India's Most Vibrant Literature Festival • 14th, 15th, 16th November 2025</h3>
+            </div>
+            
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 social-icons">
+            
+            <div class="">
+                          
+                <a href="https://www.facebook.com/indorelitfest/" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
+                                    
+                <a href="https://twitter.com/indorelitfest/" target="_blank"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+                                     
+                <a href="https://www.youtube.com/channel/UC-X_XLb6XkJ4iW4EpDtb56A/" target="_blank"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
+                                      
+                <a href="https://www.instagram.com/indorelitfest/" target="_blank"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+                
+                <a href="mailto:hellohindustan@gmail.com" target="_blank"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a>
+                                   
+            </div>
+                
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+  <style>
+.nav-1 li ul {
+  display: none;
+  position: absolute;
+  background: #0f4871;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ccc;
+  color:#fff;
+}
+
+.nav-1 li:hover ul {
+  display: block;
+}
+
+.nav-1 li ul li a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+  color: #fff;
+  white-space: nowrap;
+}
+</style>
+
+<section class="header-2">
+    <div class="container-fluid">
+        
+        <div class="row">
+                    
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 nav-titles">
+           
+				<nav class="menu">
+                    
+					<ul class="nav-1">
+                        <li><img src="images/ILF_2018_Title.png" alt=""></li>
+                        <li><a href="about.php" >about us</a></li>
+                        <li><a href="speakers.php" >speakers</a></li>
+                        <!--<li><a href="Speakers 2024 - Indore Literature Festival.pdf" >speakers</a></li>-->
+                        
+                        <li><a href="schedule.php">schedule</a>
+                            <ul>
+                           <li><a href="Indore Literature Festival 2025 Schedule & e-invite.pdf" target="_blank">PDF</a></li></ul>
+                        </li>
+                        
+                        
+                        <li><a href="blog.php">Blog</a></li>
+                        
+                        <li><a href="https://www.instagram.com/indorelitfest/" target="_blank">gallery</a></li>
+                        
+                        <li><a href="contact.php">contact</a></li>
+                        <li><img src="images/ILF_2018_Mono.png" alt=""></li>
+                    </ul>
+                    
+				</nav>
+                
+                <div class="hello-hindustan-logo">
+                    <img src="" alt=""><a href="https://docs.google.com/forms/d/e/1FAIpQLSccGcf4FFrBaDbdVOFAA4LxlolmNRllt-lGUP33SWRZwrql5w/viewform?usp=pp_url" target="_blank">Open Mic</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVkgFkATcKABDDgrje5A7Arp8urxHhDV48Jxp8XiQJ-hj_qA/viewform?usp=pp_url" target="_blank">Stall Booking</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeC2_zdG6zmX2H4mO-V8s4hG1FpyvoSsJYwi25iPWMwjRajwA/viewform?usp=pp_url" target="_blank">ILF Registration</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSetWyC6O9IX9vNdiAs2pt8LlpFdl33u_5_XbjKgPjlc11TPSA/viewform?usp=pp_url" target="_blank">Internship</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSftWoreuIQPF7BiEji6k690g3zwjEvVfquOB0vmijjT3WNsnQ/viewform?usp=pp_url" target="_blank">Volunteer</a>
+                </div>
+                
+            </div>
+            
+        </div>
+
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+
+<section class="mob-top-banner">
+    <div class="container-fluid">
+        
+        <ul>
+            
+            <li><a href="index.php"><img src="images/ILF2021-header-mob.png" alt=""></a></li>
+        
+            <li class="mob-banner-tab"><a href="about.php">about</a></li>
+        
+            <li class="mob-banner-tab"><a href="speakers.php" >speakers</a></li>
+        
+            <li class="mob-banner-tab"><a href="Indore Literature Festival 2025 Schedule & e-invite.pdf" >schedule</a></li>
+            
+            <li class="mob-banner-tab"><a href="blog.php" >Blog</a></li>
+            
+            
+            
+            <li class="mob-banner-tab"><a href="contact.php">contact</a></li>
+            
+            </br><span><a href="https://docs.google.com/forms/d/e/1FAIpQLSccGcf4FFrBaDbdVOFAA4LxlolmNRllt-lGUP33SWRZwrql5w/viewform?usp=pp_url" target="_blank">Open Mic</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVkgFkATcKABDDgrje5A7Arp8urxHhDV48Jxp8XiQJ-hj_qA/viewform?usp=pp_url" target="_blank">Stall Booking</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSetWyC6O9IX9vNdiAs2pt8LlpFdl33u_5_XbjKgPjlc11TPSA/viewform?usp=pp_url" target="_blank">Internship</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSftWoreuIQPF7BiEji6k690g3zwjEvVfquOB0vmijjT3WNsnQ/viewform?usp=pp_url" target="_blank">Volunteer</a></br><a href="https://docs.google.com/forms/d/e/1FAIpQLSeC2_zdG6zmX2H4mO-V8s4hG1FpyvoSsJYwi25iPWMwjRajwA/viewform?usp=pp_url" target="_blank">ILF Registration</a></span>
+            
+        </ul>
+        
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+        
+<!--<section class="about-photo-top d-none">-->
+<!--    <div class="container-fluid">-->
+        
+<!--        <div class="row">-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-1">-->
+                
+<!--            </div>-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-2">-->
+                
+<!--            </div>-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-3">-->
+                
+<!--            </div>-->
+            
+<!--        </div>-->
+
+<!--    </div>-->
+<!--</section>-->
+     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+
+<section class="about-ilf" style="padding:50px 0; background:#f7f6e8;">
+    <div class="container" style="max-width:900px; margin:auto;">
+
+
+<div id="full-budding-authors" style="margin-top:80px; margin-bottom:80px;">
+    <h2 style="font-size:32px; color:#002b5c;">        संकल्प से बदल दी सूरत 
+ </h2>
+    <hr style="border:0; height:2px; background:#002b5c; width:120px; margin-bottom:20px;">
+
+<p style="font-size:17px; line-height:30px; color:#333; text-align:justify;">  
+        संकल्प से बदल दी सूरत 
+<br><br>
+ 
+डॉ. विकास दवे भारतीय साहित्य जगत का एक ऐसा नाम हैं जिन्होंने न सिर्फ़ साहित्य को अपने कर्म से समृद्ध किया, बल्कि मध्य प्रदेश में हिंदी को पुनर्स्थापित करने में भी एक महत्वपूर्ण भूमिका निभाई। वे साहित्यकार, पत्रकार और वर्तमान में मध्य प्रदेश साहित्य अकादमी के निदेशक हैं। 2020 में इस पद पर नियुक्त होने के बाद उनका कार्यकाल 2026 तक बढ़ाया गया। हिंदी साहित्य में स्नातकोत्तर, एम.फिल. और बाल पत्रकारिता में पीएच.डी. की उपाधि प्राप्त करने वाले डॉ. दवे लंबे समय तक बच्चों की मासिक पत्रिका ‘देवपुत्र’ के संपादक रहे और उन्होंने पूरे 26 वर्षों तक बाल साहित्य और बाल पत्रकारिता के क्षेत्र में अनवरत योगदान दिया। इसके साथ ही ‘सेवा प्रेरणा’ और ‘युवा दर्पण’ जैसी पत्रिकाओं को भी उन्होंने संपादकीय सहयोग प्रदान किया तथा सामाजिक विषयों, बाल कथाओं और पत्रकारिता पर आधारित कई पुस्तकें लिखीं।                  
+<br><br>
+हालाँकि मध्य प्रदेश में साहित्यिक परिवर्तन और हिंदी की प्रतिष्ठा को लेकर उनका नाम अक्सर अग्रिम पंक्ति में लिया जाता है, लेकिन इंदौर साहित्य महोत्सव में अपने सत्र की शुरुआत उन्होंने इस स्वीकारोक्ति से की कि इन सभी कार्यों का श्रेय अकेले उन्हें नहीं दिया जाना चाहिए। उनका कहना था कि जो कुछ भी हुआ है, वह पूरी तरह टीम के सामूहिक प्रयास का परिणाम है। उन्होंने हेडगेवार जी का उदाहरण देते हुए कहा कि उन्होंने कभी ‘मैं’ शब्द का उपयोग नहीं किया और उसी भावना के आधार पर दवे जी भी मानते हैं कि उनके कार्यकाल में साहित्य के लिए जो परिवर्तन आए हैं, वे समिति और अकादमी द्वारा किए गए कार्यों के कारण संभव हुए। उनका विश्वास है कि वे अकेले इन उपलब्धियों का श्रेय नहीं ले सकते, क्योंकि उन्होंने केवल अपने कर्तव्यों का पालन किया है।          
+<br><br>
+अपने कार्यकाल की एक महत्वपूर्ण घटना का वर्णन करते हुए उन्होंने बताया कि जब उन्हें ज्ञात हुआ कि संत-कवि महामति प्राणनाथ को मानने वाले सबसे अधिक लोग मध्य प्रदेश में गुना के पास एक गाँव में रहते हैं, तो वे वहाँ पहुँचे और तीन संतों को बुलाकर एक कार्यक्रम आयोजित करने की इच्छा जताई। गाँव वालों से बात करने पर वे तैयार हो गए। गाँव की आबादी लगभग दो हजार थी, लेकिन जब उन्होंने कार्यक्रम में आने वालों की संख्या के बारे में पूछा, तो गाँववालों ने बताया कि पाँच से सात हज़ार लोगों के आने की संभावना है। उन्हें मालूम था कि मध्य प्रदेश के लोगों में साहित्य के प्रति रुचि है, लेकिन कितनी गहरी है—यह उन्हें उसी दिन समझ आया। गाँववासियों ने न केवल कार्यक्रम को अत्यंत सफल बनाया, बल्कि आने वाले प्रत्येक साहित्यप्रेमी के भोजन की व्यवस्था भी स्वयं की, जिसमें सब्ज़ी–पूरी से लेकर पूरी व्यवस्था गाँव के लोगों द्वारा की गई थी। इस अनुभव ने उन्हें यह एहसास कराया कि साहित्य आज भी समाज से दूर नहीं हुआ है; बस हम अक्सर यह मान लेते हैं कि लोगों का साहित्य से संबंध कम हो गया है।       
+<br><br>
+मध्य प्रदेश साहित्य अकादमी के निदेशक बनने के बाद उनका पहला प्रयास यह रहा कि पिछले वर्षों में जिन लोगों को सम्मानित किया गया था, लेकिन सम्मान अभी तक उन तक नहीं पहुँचा था, उन्हें उनके सम्मान भेजे जाएँ। दवे जी कहते हैं कि इन सम्मान को पहुँचाना उनके लिए एक प्रकार का ऋण था जिसे उन्होंने पूरा किया। उनका स्वभाव काम को लगातार चलाने का नहीं बल्कि उसे तेज़ी से पूरा करने का है। यही कारण है कि उन्होंने साहित्य अकादमी के काम को भी उसी गति से आगे बढ़ाने का प्रयास किया। सम्मान भेजने का काम आसान नहीं था। उन्होंने इस संबंध में एक विस्तृत नोटशीट तैयार की और सभी आवश्यक हस्ताक्षर करवाकर इसे संभव बनाया।      
+<br><br>
+अपने कार्यकाल में असफलताओं के बारे में पूछे जाने पर उन्होंने कहा कि उन्होंने असफलता जैसी कोई चीज़ नहीं देखी। हाँ, शुरुआत में कुछ भ्रम था और कुछ लोग उन्हें हताश करने की कोशिश भी करते थे, लेकिन समय के साथ वे इस निष्कर्ष पर पहुँचे कि दूसरों की राह पर चलकर आगे नहीं बढ़ा जा सकता। उन्होंने साफ़ कहा कि जब उनका चयन होना था, तब भी कोशिश की गई कि कोई ‘गैर-शासी’ व्यक्ति इस पद पर न बैठे, लेकिन जैसे विपरीत परिस्थितियों में भी श्रीकृष्ण ने जन्म लिया था, वैसे ही वे भी इस भूमिका तक पहुँचे और फिर पारदर्शिता के साथ काम करते हुए अकादमी में प्रभाव डालने की कोशिश की। जैसे हर राज्य का मुख्यमंत्री योगी आदित्यनाथ नहीं हो सकता, वैसे ही हर अकादमी में डॉ. दवे नहीं हो सकते, लेकिन उनका मानना है कि कुर्सियों पर ऐसे लोग होना आवश्यक है जो सही निश्चय और दृढ़ता के साथ कार्य करें।                         
+<br><br>
+वे मध्य प्रदेश की साहित्यिक और भाषाई विविधता का विशेष उल्लेख करते हैं। उनका कहना है कि यह प्रदेश न केवल हिंदी का केंद्र है, बल्कि संस्कृत, उर्दू, पंजाबी, सिंधी और मराठी जैसी भाषाओं की अकादमियाँ भी यहाँ सक्रिय हैं। हिंदी का क्षेत्र व्यापक है, इसलिए हिंदी के स्वर अधिक दिखते हैं, परंतु इस विविधता में प्रत्येक भाषा अपनी उपस्थिति बनाए हुए है। दवे जी लोगों को प्रेरित करते हैं कि अपने क्षेत्र में होने वाले भाषा और साहित्य से संबंधित प्रत्येक कार्यक्रम में भाग लेना चाहिए ताकि साहित्य आगे बढ़े और साहित्य का प्रेम जीवित रहे।   <br><br>
+उन्होंने साहित्य अकादमी की इमारत में बिना अतिरिक्त खर्च के साहित्यकार कोश तैयार किया, ग्रंथालय और वाचनालय की संकल्पना को पूरा किया और कार्यालय में इतने परिवर्तन किए कि आज उसे पहले की तरह पहचानना कठिन है। फिर भी वे और कार्य करना चाहते हैं, जैसे कि ग्रंथालय का डिजिटलीकरण और ऐसी वेबसाइट का निर्माण जिसमें मध्य प्रदेश के हर साहित्यकार की जानकारी और उनकी पुस्तकें पीडीएफ स्वरूप में उपलब्ध हों, ताकि साहित्य नई पीढ़ियों तक पहुँच सके। अपने लक्ष्यों पर बात करते हुए वे कहते हैं कि वो बहुत सारे नए मोर्चे खोलने में विश्वास नहीं रखते, बल्कि पुराने अधूरे कार्यों को पूरा करने में ध्यान देते हैं। अंततः उनका प्रयास यही है कि साहित्य अकादमी में उनका योगदान एक सही दिशा स्थापित करने का हो जिसके बाद चाहे जो भी आए, साहित्य अपने लक्ष्य कि ओर आगे बढ़ता रहे। वे चाहते हैं कि लोग सतर्क रहें, अपने प्रदेश के साहित्यकारों, बोलियों और जनजातीय रचनाकारों को प्रोत्साहित करें, उनका सम्मान करें—क्योंकि यही भविष्य के लिए सबसे सकारात्मक कदम होगा।
+
+    </p>
+</div>
+
+
+    </div>
+</section>
+
+
+    </div>
+</section>
+ 
+        
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+        
+<section class="about-photo-bottom">
+    <div class="container-fluid">
+        
+        <div class="row">
+                    
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-4">
+                
+            </div>
+                    
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-5">
+                
+            </div>
+                    
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-6">
+                
+            </div>
+            
+        </div>
+
+    </div>
+</section>        
+
+<div class="mob-end-footer">
+            
+    <h1>Hello Hindustan News and Network</h1>
+    <h2>413 Krishna Business Center, near Medanta Hospital<br>
+            Vijay Nagar, Indore (Madhya Pradesh)<br>
+    Email: hellohindustan@gmail.com</h2>
+    <br>
+    <p>Copyright &copy; Indore Literature Festival</p>
+            
+</div>
+     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+    
+<section class="end-footer">
+    
+    <div class="venue">
+        <h1>VENUE</h1>
+        <p>Daly College</br>1, Residency Area</br>Indore, Madhya Pradesh 452001</p></br>
+        
+    <span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=bci8NL9xU0NwKqUxyD8kKO42sqwGCcWg4A3Ph8gbJEAyIaSehaTjC7o4EMTI"></script></span>
+        
+            <!---i class="fa fa-whatsapp" aria-hidden="true"></i><span> 623-288-1181</span></p---->
+    </div>
+
+</section>
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>    
+<!------------------------------------------------------STROLLING-PEBBLE------------------------------------------------------>
+    </div>
+    
+</body>
+
+    
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+        <script type="text/javascript" src="js/jquery.eislideshow.js"></script>
+        <script type="text/javascript">
+            $(function() {
+                $('#ei-slider').eislideshow({
+					animation			: 'center',
+					autoplay			: true,
+					slideshow_interval	: 3000,
+					titlesFactor		: 0
+                });
+            });
+        </script>
+    
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'p3plzcpnl506634'},{'dcenter':'p3'},{'cp_id':'10098793'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script></html>

@@ -12,3 +12,5 @@
 /phpunit.result.cache
 /.phpunit.result.cache
 /public/images/*-original.png
+/research/.chrome-client-review/
+/research/.pdf-extract-tools/node_modules/

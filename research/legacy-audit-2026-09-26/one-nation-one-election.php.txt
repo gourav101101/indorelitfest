@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+		<meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+        <meta property="og:url" content="https://indorelitfest.in/about.php/" /> 
+        <meta property="og:title" content="Indore Literature Festival - About Us" />
+    
+        <meta property="og:image" content="https://indorelitfest.in/images/archive-2017/5.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:width" content="400" />
+        <meta property="og:image:height" content="300" />
+        <meta property="og:image:alt" content="LitFest" />
+    
+        <meta property="og:description" content="Come Let's Celebrate Central India's Largest Literary Fest"/>
+    
+        <meta property="og:type" content="website"/>
+    
+        <meta name="keywords" content="Indore Literature Festival, Indore Lit Fest, ILF, Literature, Poet, Poems, Writers, Lit Fest, Festival, Culture, Music, Bloggers, Indore, Philosophy, Memoirs, Bibliography, Books, Verse">
+        <meta name="description" content="Indore Literature Festival ‘Central India’s Largest Literary Meet’ is the signature event of Indore City which offers a unique opportunity to hear some of the greatest contemporary literary stalwarts together on a single platform that brings diverse thoughts & opinions, and upholds freedom of thought & expression during the three-day mega event.">
+                                        
+		<title>Blog</title>
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Dosis">
+    
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Maven Pro">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tenali Ramakrishna">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Philosopher">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Alegreya Sans SC">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Molengo">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Reem Kufi">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Imprima">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Harmattan">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Numans">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Harmattan">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Work Sans">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Stalemate">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open Sans Condensed">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Arapey">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Ovo">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Marcellus SC">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Marcellus">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Raleway:400,800,300">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic">
+    
+        <link rel="icon" type="image/png" href="images/new-icon.svg">
+    
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+        <link href="css/queries-468.css" rel="stylesheet">
+        
+        <script type="text/javascript" src="js/modernizr.custom.js"></script>
+    
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic' rel='stylesheet' type='text/css' />
+    
+</head>
+	
+<body>
+    
+    <div id="wrapper"> 
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+    
+ 
+    
+<!------------------------------------------------------HEADER------------------------------------------------------>
+
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+    
+<section class="header-1">
+    <div class="container-fluid">
+        <div class="row">
+            
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 home-icon">
+                <h4><a href="https://indorelitfest.in/">HOME<!---i class="fa fa-home  fa-2x" aria-hidden="true"></i---></a></h4>
+            </div>
+            
+            <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7 title-top">
+                <h3>India's Most Vibrant Literature Festival • 14th, 15th, 16th November 2025</h3>
+            </div>
+            
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 social-icons">
+            
+            <div class="">
+                          
+                <a href="https://www.facebook.com/indorelitfest/" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
+                                    
+                <a href="https://twitter.com/indorelitfest/" target="_blank"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+                                     
+                <a href="https://www.youtube.com/channel/UC-X_XLb6XkJ4iW4EpDtb56A/" target="_blank"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
+                                      
+                <a href="https://www.instagram.com/indorelitfest/" target="_blank"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+                
+                <a href="mailto:hellohindustan@gmail.com" target="_blank"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a>
+                                   
+            </div>
+                
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+  <style>
+.nav-1 li ul {
+  display: none;
+  position: absolute;
+  background: #0f4871;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ccc;
+  color:#fff;
+}
+
+.nav-1 li:hover ul {
+  display: block;
+}
+
+.nav-1 li ul li a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+  color: #fff;
+  white-space: nowrap;
+}
+</style>
+
+<section class="header-2">
+    <div class="container-fluid">
+        
+        <div class="row">
+                    
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 nav-titles">
+           
+				<nav class="menu">
+                    
+					<ul class="nav-1">
+                        <li><img src="images/ILF_2018_Title.png" alt=""></li>
+                        <li><a href="about.php" >about us</a></li>
+                        <li><a href="speakers.php" >speakers</a></li>
+                        <!--<li><a href="Speakers 2024 - Indore Literature Festival.pdf" >speakers</a></li>-->
+                        
+                        <li><a href="schedule.php">schedule</a>
+                            <ul>
+                           <li><a href="Indore Literature Festival 2025 Schedule & e-invite.pdf" target="_blank">PDF</a></li></ul>
+                        </li>
+                        
+                        
+                        <li><a href="blog.php">Blog</a></li>
+                        
+                        <li><a href="https://www.instagram.com/indorelitfest/" target="_blank">gallery</a></li>
+                        
+                        <li><a href="contact.php">contact</a></li>
+                        <li><img src="images/ILF_2018_Mono.png" alt=""></li>
+                    </ul>
+                    
+				</nav>
+                
+                <div class="hello-hindustan-logo">
+                    <img src="" alt=""><a href="https://docs.google.com/forms/d/e/1FAIpQLSccGcf4FFrBaDbdVOFAA4LxlolmNRllt-lGUP33SWRZwrql5w/viewform?usp=pp_url" target="_blank">Open Mic</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVkgFkATcKABDDgrje5A7Arp8urxHhDV48Jxp8XiQJ-hj_qA/viewform?usp=pp_url" target="_blank">Stall Booking</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeC2_zdG6zmX2H4mO-V8s4hG1FpyvoSsJYwi25iPWMwjRajwA/viewform?usp=pp_url" target="_blank">ILF Registration</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSetWyC6O9IX9vNdiAs2pt8LlpFdl33u_5_XbjKgPjlc11TPSA/viewform?usp=pp_url" target="_blank">Internship</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSftWoreuIQPF7BiEji6k690g3zwjEvVfquOB0vmijjT3WNsnQ/viewform?usp=pp_url" target="_blank">Volunteer</a>
+                </div>
+                
+            </div>
+            
+        </div>
+
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+
+<section class="mob-top-banner">
+    <div class="container-fluid">
+        
+        <ul>
+            
+            <li><a href="index.php"><img src="images/ILF2021-header-mob.png" alt=""></a></li>
+        
+            <li class="mob-banner-tab"><a href="about.php">about</a></li>
+        
+            <li class="mob-banner-tab"><a href="speakers.php" >speakers</a></li>
+        
+            <li class="mob-banner-tab"><a href="Indore Literature Festival 2025 Schedule & e-invite.pdf" >schedule</a></li>
+            
+            <li class="mob-banner-tab"><a href="blog.php" >Blog</a></li>
+            
+            
+            
+            <li class="mob-banner-tab"><a href="contact.php">contact</a></li>
+            
+            </br><span><a href="https://docs.google.com/forms/d/e/1FAIpQLSccGcf4FFrBaDbdVOFAA4LxlolmNRllt-lGUP33SWRZwrql5w/viewform?usp=pp_url" target="_blank">Open Mic</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVkgFkATcKABDDgrje5A7Arp8urxHhDV48Jxp8XiQJ-hj_qA/viewform?usp=pp_url" target="_blank">Stall Booking</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSetWyC6O9IX9vNdiAs2pt8LlpFdl33u_5_XbjKgPjlc11TPSA/viewform?usp=pp_url" target="_blank">Internship</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSftWoreuIQPF7BiEji6k690g3zwjEvVfquOB0vmijjT3WNsnQ/viewform?usp=pp_url" target="_blank">Volunteer</a></br><a href="https://docs.google.com/forms/d/e/1FAIpQLSeC2_zdG6zmX2H4mO-V8s4hG1FpyvoSsJYwi25iPWMwjRajwA/viewform?usp=pp_url" target="_blank">ILF Registration</a></span>
+            
+        </ul>
+        
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+        
+<!--<section class="about-photo-top d-none">-->
+<!--    <div class="container-fluid">-->
+        
+<!--        <div class="row">-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-1">-->
+                
+<!--            </div>-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-2">-->
+                
+<!--            </div>-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-3">-->
+                
+<!--            </div>-->
+            
+<!--        </div>-->
+
+<!--    </div>-->
+<!--</section>-->
+     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+
+<section class="about-ilf" style="padding:50px 0; background:#f7f6e8;">
+    <div class="container" style="max-width:900px; margin:auto;">
+
+
+<div id="full-one-nation-one-election" style="margin-top:80px; margin-bottom:80px;">
+    <h2 style="font-size:32px; color:#002b5c;">लोकतंत्र का नया अध्याय : एक राष्ट्र–एक चुनाव – </h2>
+    <hr style="border:0; height:2px; background:#002b5c; width:120px; margin-bottom:20px;">
+
+    <p style="font-size:17px; line-height:30px; color:#333; text-align:justify;">
+
+डॉ. प्रतीक श्रीवास्तव, हर्षिता दवे, डॉ. शोभा जैन<br>
+लोकतंत्र का नया अध्याय : एक राष्ट्र–एक चुनाव<br>
+इंदौर साहित्य महोत्सव में “लोकतंत्र का नया अध्याय : एक राष्ट्र–एक चुनाव” विषय पर एक अत्यंत महत्वपूर्ण और ज्ञानवर्धक सत्र आयोजित किया गया, जिसमें विविध क्षेत्रों से आए विशेषज्ञों ने इस पहल के लाभ, हानि और व्यवहारिक चुनौतियों पर विस्तृत चर्चा की। सत्र का उद्देश्य यह समझना था कि क्या सभी चुनाव—पंचायत से लेकर लोकसभा तक—एक ही तिथि पर कराए जाने की व्यवस्था देश और नागरिकों के लिए अधिक सुगम, आर्थिक रूप से लाभदायक और प्रशासनिक दृष्टि से प्रभावी हो सकती है।
+<br><br>
+‘एक राष्ट्र–एक चुनाव’ की मूल अवधारणा को समझाते हुए हुई। आज देश में अलग-अलग स्तरों के चुनाव वर्षभर कहीं न कहीं चलते रहते हैं, जिसके कारण प्रशासन, वित्त और शिक्षा जैसी महत्वपूर्ण व्यवस्थाएँ बार-बार प्रभावित होती हैं। यदि सभी चुनाव एक साथ कराए जाएँ, तो न केवल सरकारी खर्च कम होगा बल्कि जनता और सरकारी मशीनरी दोनों पर बोझ भी घटेगा। विशेषज्ञों ने बताया कि यह कोई बिल्कुल नई व्यवस्था नहीं है। भारत में 1951 से 1967 तक इसी प्रणाली का पालन किया जाता था। देश तब नवजात गणराज्य था, संसाधन सीमित थे और साक्षरता केवल 20% के आसपास थी, फिर भी पहले मुख्य चुनाव आयुक्त सुकुमार सेन ने इसे अत्यंत सफलतापूर्वक संचालित किया था। बाद में राज्यों के बनने और सीमाओं में बदलाव के कारण यह व्यवस्था स्थिर नहीं रह सकी और धीर-धीरे अलग-अलग चुनावों की प्रणाली विकसित हो गई।
+<br><br>
+डॉ. शोभा जैन, जो 400 से अधिक समीक्षाओं और पत्रों की लेखिका हैं तथा मध्यप्रदेश हिंदी साहित्य अकादमी द्वारा सम्मानित की जा चुकी हैं, इस व्यवस्था को “व्यवस्था से अधिक आम आदमी की सुविधा” का सूत्र मानती हैं। उनके अनुसार सरकार ने विस्तृत शोध के बाद 129वें संविधान संशोधन का प्रस्ताव तैयार किया है और लगभग 10–11 देशों का अध्ययन करने के बाद यह निर्णय लिया गया है कि भारत के लिए यह मॉडल व्यावहारिक हो सकता है। उन्होंने कहा कि विकसित देशों में अनुशासन और तय समय पर चुनाव होने की संस्कृति है। अमेरिका में चुनाव की निश्चित तारीख है, इंडोनेशिया ने 2019 में बड़े पैमाने पर संयुक्त चुनाव कराए, नेपाल ने भी 2015 में ऐसी प्रक्रिया अपनाई। भारत के पास आज पर्याप्त संसाधन और तकनीकी क्षमता है, इसलिए व्यवस्था को सुव्यवस्थित करना पहले से अधिक संभव है।
+<br><br>
+डॉ. जैन ने यह भी उल्लेख किया कि बार-बार होने वाले चुनावों का सबसे अधिक बोझ शिक्षा व्यवस्था पर पड़ता है, क्योंकि हर चुनाव में बड़ी संख्या में शिक्षकों को ड्यूटी में लगाया जाता है और स्कूलों की कक्षाएँ बाधित होती हैं। उन्होंने प्रधानमंत्री द्वारा शिक्षकों को चुनाव ड्यूटी से मुक्त रखने की बात को अत्यंत आवश्यक और दूरदर्शी कदम बताया। उनका मानना है कि यदि चुनाव एकसाथ हों तो आचार संहिता बार-बार लागू नहीं होगी, जिससे विकास कार्यों की गति प्रभावित नहीं होगी। उन्होंने महाराष्ट्र का उदाहरण देते हुए कहा कि वहाँ 307 दिनों तक आचार संहिता लागू रहने से विकास कार्य ठप पड़े रहे, जो ‘एक राष्ट्र–एक चुनाव’ की आवश्यकता को और स्पष्ट करता है।
+<br><br>
+डॉ. ममता चंद्रशेखर ने इस पहल को भारत की ऐतिहासिक यात्रा और वर्तमान विकासशील सोच से जोड़ते हुए कहा कि इतिहास अक्सर स्वयं को दोहराता है, और भारत ने पहले भी यह व्यवस्था अपनाई है। उनके अनुसार मतदान को स्विट्ज़रलैंड की तरह प्रेरक और उत्साहजनक अनुभव के रूप में विकसित किया जाना चाहिए, ताकि नागरिक मतदान को केवल छुट्टी का अवसर न, बल्कि सामूहिक जिम्मेदारी का क्षण समझें। उन्होंने कहा कि यदि चुनाव पाँच साल में एक बार नियमित और एकसाथ हों, तो धन और मानव संसाधन दोनों की बचत होगी, और विद्यालयों व कॉलेजों के संचालन पर अनावश्यक प्रभाव नहीं पड़ेगा। वे मानती हैं कि अनुशासित और संगठित व्यवस्था अपनाकर भारत 2037 तक विकसित राष्ट्र बनने की दिशा में अपनी गति को और तेज कर सकता है।
+<br><br>
+हर्षिता दवे, जो 100 से अधिक डिबेट्स की विजेता, महिला मध्य प्रदेश पीएससी में प्रथम स्थान प्राप्तकर्ता और वर्तमान में डिप्टी कलेक्टर हैं, ने इस पहल को लोकतांत्रिक समन्वय का प्रतीक बताते हुए कहा कि लोकतंत्र एक ऐसा गुलदस्ता है जिसमें हर दिल को साथ रखना पड़ता है। उन्होंने बताया कि ‘एक राष्ट्र–एक चुनाव’ कानूनी रूप से संभव है, पर इसके लिए राज्यों की सहमति, संविधानिक व्याख्या, संसाधनों के प्रबंधन और चुनाव आयोग की तैयारी जैसे कई पहलुओं पर गंभीर विचार आवश्यक है। उन्होंने यह भी कहा कि परिवर्तन हमेशा चुनौतियों के साथ आता है, लेकिन यदि चुनाव आयोग एकल मतदाता सूची, तकनीकी समन्वय और प्रशासनिक संसाधनों की तैयारी को सुव्यवस्थित कर दे, तो यह व्यवस्था प्रभावी रूप से लागू हो सकती है।
+<br><br>
+उनका यह भी मानना था कि 1957, 1962 और 1967 में जब चुनाव एकसाथ हुए थे, तो एक ही दल की स्थिर सरकारें बनीं, जिससे नीतियों में निरंतरता और शासन की गति बढ़ी।
+<br><br>
+सत्र में जहाँ कई विशेषज्ञों ने“एक राष्ट्र–एक चुनाव”को एकसकारात्मक कदम बताया, वहींडॉ. प्रतीक श्रीवास्तवने इसके खतरे और लोकतांत्रिक चुनौतियों पर महत्वपूर्ण सवाल उठाए। सत्र में डॉ. प्रतीक श्रीवास्तव ने कहा कि भारत का लोकतंत्र अभी परिपक्व नहीं हुआ है। आज भी वोट धर्म और जाति के नाम पर डाले जाते हैं, शराब, पायल और पैसों के बदले खरीदे जाते हैं, और रिश्वत देकर मतदाताओं को प्रभावित किया जाता है। भारत में फूलन देवी जैसे लोग सांसद बन जाते है । उन्होंने कहा कि भारत जैसे विविध देश में हर राज्य की समस्या अलग है—नागालैंड के सांसद की चुनौतियाँ किसी अन्य राज्य से बिल्कुल भिन्न हो सकती हैं, इसलिए पूरे देश को एक ही दिन निर्णय लेने को मजबूर करना लोकतांत्रिक परिपक्वता की कमी के कारण जोखिमभरा है।
+<br><br>
+मतदाता विकास, GDP या कर्ज जैसे आँकड़ों पर नहीं, बल्कि भावनाओं और भ्रमित करने वाले प्रचार पर वोट करते हैं। ऐसे में राष्ट्रीय नेता की लहर पर राज्य का नेता चुन लिया जाएगा और संसद व सरकारें खरीदी जा सकेंगी। जब तक मतदाता जागरूक, शिक्षित और लोकतांत्रिक रूप से परिपक्व नहीं होते, तब तक यह निर्णय जल्दबाज़ी और तानाशाही की ओर बढ़ने वाला कदम साबित हो सकता है।
+<br><br>
+इस सत्र में उपस्थित विशेषज्ञों के विचारों से स्पष्ट हुआ कि ‘एक राष्ट्र–एक चुनाव’ न केवल एक प्रशासनिक प्रयोग है, बल्कि समय, संसाधन और ऊर्जा की बचत का एक व्यापक राष्ट्रीय मॉडल भी बन सकता है। हालाँकि इसके संवैधानिक, राजनीतिक और व्यावहारिक पहलुओं पर गहन विचार आवश्यक है, परंतु यदि यह प्रणाली लागू होती है, तो यह देश में अनुशासन, विकास और प्रशासनिक दक्षता को एक नई दिशा दे सकती है।
+
+    </p>
+</div>
+
+
+    </div>
+</section>
+
+
+    </div>
+</section>
+ 
+        
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+        
+<!--<section class="about-photo-bottom">-->
+<!--    <div class="container-fluid">-->
+        
+<!--        <div class="row">-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-4">-->
+                
+<!--            </div>-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-5">-->
+                
+<!--            </div>-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-6">-->
+                
+<!--            </div>-->
+            
+<!--        </div>-->
+
+<!--    </div>-->
+<!--</section>        -->
+<section class="about-photo-bottom2">
+    <div class="container-fluid px-0">
+        <div class="row g-0">
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/loktantra1.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/loktantra2.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/loktantra3.jpeg" alt="">
+            </div>
+            
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/loktantra4.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/loktantra5.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/loktantra6.jpeg" alt="">
+            </div>
+            
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/loktantra7.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/loktantra8.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/blog-images/loktantra9.jpeg" alt="">
+            </div>
+           
+        </div>
+    </div>
+</section>
+<div class="mob-end-footer">
+            
+    <h1>Hello Hindustan News and Network</h1>
+    <h2>413 Krishna Business Center, near Medanta Hospital<br>
+            Vijay Nagar, Indore (Madhya Pradesh)<br>
+    Email: hellohindustan@gmail.com</h2>
+    <br>
+    <p>Copyright &copy; Indore Literature Festival</p>
+            
+</div>
+     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+    
+<section class="end-footer">
+    
+    <div class="venue">
+        <h1>VENUE</h1>
+        <p>Daly College</br>1, Residency Area</br>Indore, Madhya Pradesh 452001</p></br>
+        
+    <span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=bci8NL9xU0NwKqUxyD8kKO42sqwGCcWg4A3Ph8gbJEAyIaSehaTjC7o4EMTI"></script></span>
+        
+            <!---i class="fa fa-whatsapp" aria-hidden="true"></i><span> 623-288-1181</span></p---->
+    </div>
+
+</section>
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>    
+<!------------------------------------------------------STROLLING-PEBBLE------------------------------------------------------>
+    </div>
+    
+</body>
+
+    
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+        <script type="text/javascript" src="js/jquery.eislideshow.js"></script>
+        <script type="text/javascript">
+            $(function() {
+                $('#ei-slider').eislideshow({
+					animation			: 'center',
+					autoplay			: true,
+					slideshow_interval	: 3000,
+					titlesFactor		: 0
+                });
+            });
+        </script>
+    
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'p3plzcpnl506634'},{'dcenter':'p3'},{'cp_id':'10098793'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script></html>

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "volunteers",
+    "title": "Volunteer at ILF",
+    "form": 3,
+    "icon": "✳",
+    "copy": "A festival is made by the people who help it happen. Volunteering brings you closer to the readers, conversations and shared effort behind ILF. Bring your curiosity, care and willingness to work with the team.",
+    "detail": "Use the volunteer form to introduce yourself. The organising team will share the available roles and arrangements."
+  },
+  {
+    "id": "internships",
+    "title": "Learn behind the scenes",
+    "form": 4,
+    "icon": "✎",
+    "copy": "An internship offers a closer look at how a literary festival comes together—from preparation to the experience of welcoming a community of readers. Share your interests and skills, and explore how you can contribute.",
+    "detail": "Apply through the internship form. Role details, duration and selection are confirmed by the festival team."
+  },
+  {
+    "id": "stalls",
+    "title": "Bring your stall to the festival",
+    "form": 2,
+    "image": "legacy/images/daytwo/daytwo15.jpeg",
+    "alt": "Visitors browsing books at a festival stall",
+    "copy": "Books, independent ideas and conversations belong together. The stall arena gives publishers, booksellers and creative exhibitors a place to meet readers and introduce their work.",
+    "detail": "Tell the team about your stall through the booking enquiry form. Availability and booking arrangements are confirmed directly."
+  },
+  {
+    "id": "open-mic",
+    "title": "Your words. Your microphone.",
+    "form": 1,
+    "icon": "♬",
+    "copy": "Share a poem, a story or a piece of spoken word with a listening audience. Open Mic is a space for participating voices to step forward and become part of the festival.",
+    "detail": "Apply using the Open Mic form. Google may ask you to sign in. If you cannot access it, contact the team using the help details below.",
+    "experience": {
+      "name": "Yash",
+      "year": 2025,
+      "text": "An attendee and Open Mic participant who appreciated the opportunity to share his poetry with an appreciative audience.",
+      "source": "https://www.agniban.com/indore-literature-festival-was-success-with-over-5000-spectators-attending-the-final-day-dancing-to-the-songs-of-rahgir/"
+    }
+  }
+]

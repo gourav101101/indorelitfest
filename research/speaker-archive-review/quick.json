@@ -1,0 +1,35 @@
+{
+  "results": [
+    {
+      "path": "/schedule",
+      "slug": "schedule",
+      "status": 200,
+      "views": [
+        {
+          "width": 1440,
+          "title": "Make room for a good story",
+          "overflow": false,
+          "broken": [],
+          "header": true,
+          "footer": true,
+          "h1Count": 1,
+          "height": 5353
+        },
+        {
+          "width": 390,
+          "title": "Make room for a good story",
+          "overflow": false,
+          "broken": [],
+          "header": true,
+          "footer": true,
+          "h1Count": 1,
+          "height": 5996
+        }
+      ],
+      "title": "Make room for a good story",
+      "overviewCapped": false
+    }
+  ],
+  "errors": [],
+  "failures": 0
+}

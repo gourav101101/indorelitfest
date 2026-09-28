@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+		<meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+        <meta property="og:url" content="https://indorelitfest.in/about.php/" /> 
+        <meta property="og:title" content="Indore Literature Festival - About Us" />
+    
+        <meta property="og:image" content="https://indorelitfest.in/images/archive-2017/5.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:width" content="400" />
+        <meta property="og:image:height" content="300" />
+        <meta property="og:image:alt" content="LitFest" />
+    
+        <meta property="og:description" content="Come Let's Celebrate Central India's Largest Literary Fest"/>
+    
+        <meta property="og:type" content="website"/>
+    
+        <meta name="keywords" content="Indore Literature Festival, Indore Lit Fest, ILF, Literature, Poet, Poems, Writers, Lit Fest, Festival, Culture, Music, Bloggers, Indore, Philosophy, Memoirs, Bibliography, Books, Verse">
+        <meta name="description" content="Indore Literature Festival ‘Central India’s Largest Literary Meet’ is the signature event of Indore City which offers a unique opportunity to hear some of the greatest contemporary literary stalwarts together on a single platform that brings diverse thoughts & opinions, and upholds freedom of thought & expression during the three-day mega event.">
+                                        
+		<title>Blog</title>
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Dosis">
+    
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Maven Pro">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tenali Ramakrishna">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Philosopher">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Alegreya Sans SC">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Molengo">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Reem Kufi">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Imprima">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Harmattan">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Numans">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Harmattan">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Work Sans">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Stalemate">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open Sans Condensed">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Arapey">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Ovo">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Marcellus SC">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Marcellus">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Raleway:400,800,300">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic">
+    
+        <link rel="icon" type="image/png" href="images/new-icon.svg">
+    
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+        <link href="css/queries-468.css" rel="stylesheet">
+        
+        <script type="text/javascript" src="js/modernizr.custom.js"></script>
+    
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic' rel='stylesheet' type='text/css' />
+    
+</head>
+	
+<body>
+    
+    <div id="wrapper"> 
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+    
+ 
+    
+<!------------------------------------------------------HEADER------------------------------------------------------>
+
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+    
+<section class="header-1">
+    <div class="container-fluid">
+        <div class="row">
+            
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 home-icon">
+                <h4><a href="https://indorelitfest.in/">HOME<!---i class="fa fa-home  fa-2x" aria-hidden="true"></i---></a></h4>
+            </div>
+            
+            <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7 title-top">
+                <h3>India's Most Vibrant Literature Festival • 14th, 15th, 16th November 2025</h3>
+            </div>
+            
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 social-icons">
+            
+            <div class="">
+                          
+                <a href="https://www.facebook.com/indorelitfest/" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
+                                    
+                <a href="https://twitter.com/indorelitfest/" target="_blank"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+                                     
+                <a href="https://www.youtube.com/channel/UC-X_XLb6XkJ4iW4EpDtb56A/" target="_blank"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
+                                      
+                <a href="https://www.instagram.com/indorelitfest/" target="_blank"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+                
+                <a href="mailto:hellohindustan@gmail.com" target="_blank"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a>
+                                   
+            </div>
+                
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+  <style>
+.nav-1 li ul {
+  display: none;
+  position: absolute;
+  background: #0f4871;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ccc;
+  color:#fff;
+}
+
+.nav-1 li:hover ul {
+  display: block;
+}
+
+.nav-1 li ul li a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+  color: #fff;
+  white-space: nowrap;
+}
+</style>
+
+<section class="header-2">
+    <div class="container-fluid">
+        
+        <div class="row">
+                    
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 nav-titles">
+           
+				<nav class="menu">
+                    
+					<ul class="nav-1">
+                        <li><img src="images/ILF_2018_Title.png" alt=""></li>
+                        <li><a href="about.php" >about us</a></li>
+                        <li><a href="speakers.php" >speakers</a></li>
+                        <!--<li><a href="Speakers 2024 - Indore Literature Festival.pdf" >speakers</a></li>-->
+                        
+                        <li><a href="schedule.php">schedule</a>
+                            <ul>
+                           <li><a href="Indore Literature Festival 2025 Schedule & e-invite.pdf" target="_blank">PDF</a></li></ul>
+                        </li>
+                        
+                        
+                        <li><a href="blog.php">Blog</a></li>
+                        
+                        <li><a href="https://www.instagram.com/indorelitfest/" target="_blank">gallery</a></li>
+                        
+                        <li><a href="contact.php">contact</a></li>
+                        <li><img src="images/ILF_2018_Mono.png" alt=""></li>
+                    </ul>
+                    
+				</nav>
+                
+                <div class="hello-hindustan-logo">
+                    <img src="" alt=""><a href="https://docs.google.com/forms/d/e/1FAIpQLSccGcf4FFrBaDbdVOFAA4LxlolmNRllt-lGUP33SWRZwrql5w/viewform?usp=pp_url" target="_blank">Open Mic</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVkgFkATcKABDDgrje5A7Arp8urxHhDV48Jxp8XiQJ-hj_qA/viewform?usp=pp_url" target="_blank">Stall Booking</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeC2_zdG6zmX2H4mO-V8s4hG1FpyvoSsJYwi25iPWMwjRajwA/viewform?usp=pp_url" target="_blank">ILF Registration</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSetWyC6O9IX9vNdiAs2pt8LlpFdl33u_5_XbjKgPjlc11TPSA/viewform?usp=pp_url" target="_blank">Internship</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSftWoreuIQPF7BiEji6k690g3zwjEvVfquOB0vmijjT3WNsnQ/viewform?usp=pp_url" target="_blank">Volunteer</a>
+                </div>
+                
+            </div>
+            
+        </div>
+
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+
+<section class="mob-top-banner">
+    <div class="container-fluid">
+        
+        <ul>
+            
+            <li><a href="index.php"><img src="images/ILF2021-header-mob.png" alt=""></a></li>
+        
+            <li class="mob-banner-tab"><a href="about.php">about</a></li>
+        
+            <li class="mob-banner-tab"><a href="speakers.php" >speakers</a></li>
+        
+            <li class="mob-banner-tab"><a href="Indore Literature Festival 2025 Schedule & e-invite.pdf" >schedule</a></li>
+            
+            <li class="mob-banner-tab"><a href="blog.php" >Blog</a></li>
+            
+            
+            
+            <li class="mob-banner-tab"><a href="contact.php">contact</a></li>
+            
+            </br><span><a href="https://docs.google.com/forms/d/e/1FAIpQLSccGcf4FFrBaDbdVOFAA4LxlolmNRllt-lGUP33SWRZwrql5w/viewform?usp=pp_url" target="_blank">Open Mic</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVkgFkATcKABDDgrje5A7Arp8urxHhDV48Jxp8XiQJ-hj_qA/viewform?usp=pp_url" target="_blank">Stall Booking</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSetWyC6O9IX9vNdiAs2pt8LlpFdl33u_5_XbjKgPjlc11TPSA/viewform?usp=pp_url" target="_blank">Internship</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSftWoreuIQPF7BiEji6k690g3zwjEvVfquOB0vmijjT3WNsnQ/viewform?usp=pp_url" target="_blank">Volunteer</a></br><a href="https://docs.google.com/forms/d/e/1FAIpQLSeC2_zdG6zmX2H4mO-V8s4hG1FpyvoSsJYwi25iPWMwjRajwA/viewform?usp=pp_url" target="_blank">ILF Registration</a></span>
+            
+        </ul>
+        
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+        
+<!--<section class="about-photo-top d-none">-->
+<!--    <div class="container-fluid">-->
+        
+<!--        <div class="row">-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-1">-->
+                
+<!--            </div>-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-2">-->
+                
+<!--            </div>-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-3">-->
+                
+<!--            </div>-->
+            
+<!--        </div>-->
+
+<!--    </div>-->
+<!--</section>-->
+     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+
+<section class="about-ilf" style="padding:50px 0; background:#f7f6e8;">
+    <div class="container" style="max-width:900px; margin:auto;">
+
+
+<div id="full-day3" style="margin-top:80px; margin-bottom:80px;">
+    <h2 style="font-size:32px; color:#002b5c;">इंदौर लिटरेचर फेस्टिवल – Day 3 </h2>
+    <hr style="border:0; height:2px; background:#002b5c; width:120px; margin-bottom:20px;">
+
+    <p style="font-size:17px; line-height:30px; color:#333; text-align:justify;">
+        इंदौर लिटरेचर फेस्टिवल के तीसरे और अंतिम दिन भी साहित्य, संगीत और संवाद का खूबसूरत संगम वही ऊर्जा के साथ दिखाई दिया। अंतिम दिन होने के बावजूद न दर्शकों का उत्साह कम हुआ और न ही आयोजकों की लगन में कोई कमी आई। सुबह से ही बड़ी संख्या में लोग पहुँचते रहे और हर सत्र में भीड़ लगातार बढ़ती गई। माहौल एक उत्सव जैसा था—जहाँ किताबें, कला, संगीत, कहानियाँ और विचार एक ही छत के नीचे जीवन्त हो उठे। इस बार तीन दिनों में पाँच हज़ार से अधिक लोगों की उपस्थिति ने यह साबित कर दिया कि इंदौर में हर उम्र और हर वर्ग के लोग साहित्य को केवल पढ़ते नहीं, बल्कि उसे जीते हैं।
+        <br><br>
+        दिन की शुरुआत “इंदौर की सरगम” से हुई, जिसमें शहर के बाल कलाकारों ने अपनी मधुर आवाज़ और मनमोहक सुरों से माहौल को संगीत की मिठास से भर दिया। उनकी सटीक ताल, सहज मुस्कान और आत्मविश्वास भरे प्रदर्शन ने दर्शकों के कदम भी थिरकने पर मजबूर कर दिए। इसके बाद हुए “गीत गुंजन” सत्र में स्थानीय कवयित्रियों ने अपनी कविताओं के ज़रिये अपने जीवन की भावनाओं, संबंधों और सूक्ष्मताओं को बेहद सुंदर ढंग से प्रस्तुत किया।
+        <br><br>
+        इसके आगे मंच पर आए युवा रचनाकार—नई पीढ़ी के वे लेखक जिनकी यात्राएँ और कहानियाँ खुद में प्रेरणा थीं। नविशा गुप्ता, जो 9वीं कक्षा की छात्रा होते हुए भी तीन पुस्तकें लिख चुकी हैं, ने अपनी लेखन–यात्रा के अनुभव साझा किए। उनके साथ थीं अदिति श्रीवास्तव, जो कॉर्पोरेट नौकरी के बीच अपनी रचनात्मकता को शब्दों में पिरोने का प्रयास करती हैं। इन दोनों ने यह साबित किया कि लेखक बनने की कोई तय उम्र या श्रेणी नहीं होती—बस सही प्रेरणा और संवेदना हो तो लेखन जीवन का हिस्सा भी बन जाता है और जीवन को सुंदर भी बना देता है। इसके बाद “मधुरिमा के मयूर पंख” सत्र में कविता की मिठास, संवेदना और विविधता का अद्भुत संगम देखने को मिला, जहाँ घरेलू जीवन से लेकर दुनिया तक और हिंदी से लेकर मालवी तक—हर स्वर ने दर्शकों का दिल जीत लिया।
+        <br><br>
+        दोपहर में शर्मिष्ठा मुखर्जी का सत्र आकर्षण का केंद्र रहा। पूर्व राष्ट्रपति प्रणब मुखर्जी की पुत्री, स्वयं राजनीतिज्ञ और लेखिका, शर्मिष्ठा ने अपनी पुस्तक “प्रणब माय फादर” के बहाने पिता के व्यक्तित्व, अनुशासन, सादगी और निजी क्षणों को भावुकता और सहजता से साझा किया। दर्शकों ने बड़े ध्यान से उनके अनुभवों को सुना। इसके बाद मुकेश नेमा, उर्मिला शिरीष और अजय भूषण शुक्ल ने “मेरा रचना धर्म” सत्र में अपनी लेखन–यात्रा पर रोचक बातचीत की, जिसमें संजीदगी और हास्य दोनों की अनूठी छाप देखने को मिली। इनके तुरंत बाद प्रसिद्ध गायक राहगीर ने अपनी संघर्ष–यात्रा सुनाई, जिसने श्रोताओं को भावुक भी किया और प्रेरित भी।
+        <br><br>
+        दोपहर बाद रागिनी मोदी के साथ आध्यात्मिकता और लेखन पर एक दिलचस्प संवाद हुआ। फिर “लोक बनाम लाइक” सत्र में अंकुश कुमार और संजय शेफर्ड ने डिजिटल युग में लोक संस्कृति और सोशल मीडिया की चमक–दमक के बीच सही संतुलन कैसे बनाया जाए, इस पर व्यावहारिक विचार रखे। “कलम और कविता” में शिक्षाविदों ने समाज, शिक्षा और जीवन से जुड़ी कविताएँ सुनाकर सभागार में चिंतन का माहौल बना दिया। उदय महुरकर के सत्र “फिल्मों और वेबसीरीज में अश्लीलता का संकट” ने आधुनिक मनोरंजन माध्यमों पर महत्वपूर्ण सवाल उठाए। इसके बाद प्रखर श्रीवास्तव ने “इतिहास लेखन की विसंगतियाँ” पर अपने तीखे, तथ्यपूर्ण और अत्यंत आवश्यक विचार रखे, जबकि प्रदीप भंडारी ने “बदलती डेमोग्राफी के खतरे” पर गंभीर चर्चा की और समकालीन परिदृश्य के अनेक आयामों को सामने रखा।
+        <br><br>
+        शाम के सत्रों में मनोज राजन त्रिपाठी ने बताया कि अपराध कथाएँ आज स्क्रीन पर किस तरह नए रूप और गति के साथ उतर रही हैं। दिव्य प्रकाश दुबे का “कहानी की पाठशाला” कार्यक्रम का सबसे लोकप्रिय सत्र रहा, जिसमें उन्होंने कहानी कहने की कला, पात्रों की बुनावट, भावनाओं के निर्माण और लेखन की तकनीकें बेहद सरल और सहज भाषा में समझाईं। युवा दर्शकों की भारी उपस्थिति ने इस सत्र को और जीवंत बना दिया।
+        <br><br>
+        कार्यक्रम का समापन शहर के वरिष्ठ साहित्यकारों के सम्मान से हुआ, जिसने पूरे माहौल में गरिमा और परंपरा का स्पर्श जोड़ दिया। इसके बाद सोशल इन्फ्लुएंसर्स के साथ मज़ेदार बातचीत का सत्र हुआ, जिसने युवाओं को खूब आकर्षित किया। अंत में एक ऊर्जावान म्यूज़िक कॉन्सर्ट में राहगीर ने “कच्चा घड़ा” जैसी अपनी लोकप्रिय रचनाओं के साथ ऐसा माहौल बनाया कि दर्शक देर तक झूमते रहे।
+        <br><br>
+        तीन दिवसीय इंदौर लिटरेचर फेस्टिवल केवल एक आयोजन नहीं था—यह एक यात्रा थी जिसमें हँसी थी, भावनाएँ थीं, विचार थे, और ज्ञान की अनेक धाराएँ। अलग-अलग प्रदेशों, शहरों, भाषाओं, पेशों और उम्र के लोग एक मंच पर इस तरह जुटे जैसे साहित्य ही वह पुल हो जो सबको जोडती है। भारत जहाँ एक ओर टेक्नोलॉजी और AI के साथ तेज़ी से आगे बढ़ रहा है, वहीं दूसरी ओर अपनी संस्कृति और साहित्य को संभालकर भी चल रहा है। यही संतुलन समाज की असली सुंदरता है, और यही इस फेस्टिवल की आत्मा भी। यह आयोजन एक ऐसी डोर है, जो हर साल और भी मजबूत होकर युवाओं और आधुनिक समाज को अपनी सांस्कृतिक जड़ों से जोड़ती है—और इंदौर के अपार प्रेम के कारण आने वाले वर्षों में भी ऐसे ही लौटती रहेगी।
+        <br><br>
+        अंत में आयोजक समिति के प्रमुख श्री प्रवीण शर्मा ने आभार व्यक्त करते हुए कहा, “इंदौर लिटरेचर फेस्टिवल सीज़न 11 को जिस प्यार, सम्मान और अपार ऊर्जा से इंदौरवासियों ने अपनाया, उसके लिए मैं हृदय से आभारी हूँ। तीन दिनों तक साहित्य, कला, संगीत और संवाद को जिस भाव से आपने जिया, उसने साबित कर दिया कि इंदौर की सांस्कृतिक आत्मा कितनी समृद्ध है। सभी लेखकों, कलाकारों, वक्ताओं, स्वयंसेवकों और दर्शकों का धन्यवाद—आप सबके सहयोग से यह फेस्टिवल और भी उजला हुआ। हम अगले वर्ष और नई ऊँचाइयों और अनुभवों के साथ फिर मिलेंगे।””
+    </p>
+</div>
+
+
+    </div>
+</section>
+
+
+    </div>
+</section>
+ 
+        
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+        
+<!--<section class="about-photo-bottom">-->
+<!--    <div class="container-fluid">-->
+        
+<!--        <div class="row">-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-4">-->
+                
+<!--            </div>-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-5">-->
+                
+<!--            </div>-->
+                    
+<!--            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 about-photo-6">-->
+                
+<!--            </div>-->
+            
+<!--        </div>-->
+
+<!--    </div>-->
+<!--</section>        -->
+<section class="about-photo-bottom2">
+    <div class="container-fluid px-0">
+        <div class="row g-0">
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/daythree/daythree.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/daythree/daythree2.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/daythree/daythree3.jpeg" alt="">
+            </div>
+            
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/daythree/daythree4.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/daythree/daythree5.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/daythree/daythree6.jpeg" alt="">
+            </div>
+            
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/daythree/daythree7.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/daythree/daythree8.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/daythree/daythree9.jpeg" alt="">
+            </div>
+            
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/daythree/daythree10.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/daythree/daythree11.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/daythree/daythree12.jpeg" alt="">
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/daythree/daythree13.jpeg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">
+                <img src="images/daythree/daythree14.jpeg" alt="">
+            </div>
+            
+            <!--<div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">-->
+            <!--    <img src="images/daythree/daythree15.jpeg" alt="">-->
+            <!--</div>-->
+
+            <!--<div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">-->
+            <!--    <img src="images/daythree/daythree16.jpeg" alt="">-->
+            <!--</div>-->
+
+            <!--<div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">-->
+            <!--    <img src="images/daythree/daythree17.jpeg" alt="">-->
+            <!--</div>-->
+            
+            <!--<div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">-->
+            <!--    <img src="images/daythree/daythree18.jpeg" alt="">-->
+            <!--</div>-->
+
+            <!--<div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">-->
+            <!--    <img src="images/daythree/daythree19.jpeg" alt="">-->
+            <!--</div>-->
+              
+            <!-- <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">-->
+            <!--    <img src="images/daythree/daythree20.jpeg" alt="">-->
+            <!--</div>-->
+            
+            <!-- <div class="col-lg-4 col-md-4 col-sm-6 col-12 photo-item">-->
+            <!--    <img src="images/daythree/daythree21.jpeg" alt="">-->
+            <!--</div>-->
+
+
+        </div>
+    </div>
+</section>
+<div class="mob-end-footer">
+            
+    <h1>Hello Hindustan News and Network</h1>
+    <h2>413 Krishna Business Center, near Medanta Hospital<br>
+            Vijay Nagar, Indore (Madhya Pradesh)<br>
+    Email: hellohindustan@gmail.com</h2>
+    <br>
+    <p>Copyright &copy; Indore Literature Festival</p>
+            
+</div>
+     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+    
+<section class="end-footer">
+    
+    <div class="venue">
+        <h1>VENUE</h1>
+        <p>Daly College</br>1, Residency Area</br>Indore, Madhya Pradesh 452001</p></br>
+        
+    <span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=bci8NL9xU0NwKqUxyD8kKO42sqwGCcWg4A3Ph8gbJEAyIaSehaTjC7o4EMTI"></script></span>
+        
+            <!---i class="fa fa-whatsapp" aria-hidden="true"></i><span> 623-288-1181</span></p---->
+    </div>
+
+</section>
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>    
+<!------------------------------------------------------STROLLING-PEBBLE------------------------------------------------------>
+    </div>
+    
+</body>
+
+    
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+        <script type="text/javascript" src="js/jquery.eislideshow.js"></script>
+        <script type="text/javascript">
+            $(function() {
+                $('#ei-slider').eislideshow({
+					animation			: 'center',
+					autoplay			: true,
+					slideshow_interval	: 3000,
+					titlesFactor		: 0
+                });
+            });
+        </script>
+    
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'p3plzcpnl506634'},{'dcenter':'p3'},{'cp_id':'10098793'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script></html>

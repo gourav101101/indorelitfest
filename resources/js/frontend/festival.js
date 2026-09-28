@@ -87,10 +87,6 @@ document.addEventListener('click', event => { if (explore && !explore.contains(e
 document.addEventListener('keydown', event => {
   if (event.key==='Escape' && explore?.open) { explore.open=false; explore.querySelector('summary').focus(); }
 });
-document.querySelector('.menu-toggle')?.addEventListener('click', () => {
-  if (document.querySelector('.menu-toggle').getAttribute('aria-expanded')==='false' && explore) explore.open=false;
-});
-
 // Track real document scrolling, without intercepting wheel or touch input.
 const homeScenes = [...document.querySelectorAll('[data-home-scene]')];
 if (homeScenes.length) {

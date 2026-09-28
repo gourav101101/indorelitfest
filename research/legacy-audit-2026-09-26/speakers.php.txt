@@ -1,0 +1,1685 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+		<meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+        <meta property="og:url" content="https://indorelitfest.in/about.php/" /> 
+        <meta property="og:title" content="Indore Literature Festival - About Us" />
+    
+        <meta property="og:image" content="https://indorelitfest.in/images/archive-2017/5.jpg" />
+
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:width" content="400" />
+        <meta property="og:image:height" content="300" />
+        <meta property="og:image:alt" content="LitFest" />
+    
+        <meta property="og:description" content="Come Let's Celebrate Central India's Largest Literary Fest"/>
+    
+        <meta property="og:type" content="website"/>
+    
+        <meta name="keywords" content="Indore Literature Festival, Indore Lit Fest, ILF, Literature, Poet, Poems, Writers, Lit Fest, Festival, Culture, Music, Bloggers, Indore, Philosophy, Memoirs, Bibliography, Books, Verse">
+        <meta name="description" content="Indore Literature Festival ‘Central India’s Largest Literary Meet’ is the signature event of Indore City which offers a unique opportunity to hear some of the greatest contemporary literary stalwarts together on a single platform that brings diverse thoughts & opinions, and upholds freedom of thought & expression during the three-day mega event.">
+                                        
+		<title>Speakers</title>
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Dosis">
+    
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Maven Pro">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tenali Ramakrishna">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Philosopher">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Alegreya Sans SC">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Molengo">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Reem Kufi">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Imprima">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Harmattan">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Numans">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Harmattan">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Work Sans">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Stalemate">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open Sans Condensed">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Arapey">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Ovo">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Marcellus SC">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Marcellus">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Raleway:400,800,300">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic">
+    
+        <link rel="icon" type="image/png" href="images/new-icon.svg">
+    
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+        <link href="css/queries-468.css" rel="stylesheet">
+        
+        <script type="text/javascript" src="js/modernizr.custom.js"></script>
+    
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic' rel='stylesheet' type='text/css' />
+    
+</head>
+<body>
+    <div id="wrapper"> 
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+    
+ 
+    
+<!------------------------------------------------------HEADER------------------------------------------------------>
+
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+    
+<section class="header-1">
+    <div class="container-fluid">
+        <div class="row">
+            
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 home-icon">
+                <h4><a href="https://indorelitfest.in/">HOME<!---i class="fa fa-home  fa-2x" aria-hidden="true"></i---></a></h4>
+            </div>
+            
+            <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7 title-top">
+                <h3>India's Most Vibrant Literature Festival • 14th, 15th, 16th November 2025</h3>
+            </div>
+            
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 social-icons">
+            
+            <div class="">
+                          
+                <a href="https://www.facebook.com/indorelitfest/" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
+                                    
+                <a href="https://twitter.com/indorelitfest/" target="_blank"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+                                     
+                <a href="https://www.youtube.com/channel/UC-X_XLb6XkJ4iW4EpDtb56A/" target="_blank"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
+                                      
+                <a href="https://www.instagram.com/indorelitfest/" target="_blank"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+                
+                <a href="mailto:hellohindustan@gmail.com" target="_blank"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a>
+                                   
+            </div>
+                
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+  <style>
+.nav-1 li ul {
+  display: none;
+  position: absolute;
+  background: #0f4871;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ccc;
+  color:#fff;
+}
+
+.nav-1 li:hover ul {
+  display: block;
+}
+
+.nav-1 li ul li a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+  color: #fff;
+  white-space: nowrap;
+}
+</style>
+
+<section class="header-2">
+    <div class="container-fluid">
+        
+        <div class="row">
+                    
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 nav-titles">
+           
+				<nav class="menu">
+                    
+					<ul class="nav-1">
+                        <li><img src="images/ILF_2018_Title.png" alt=""></li>
+                        <li><a href="about.php" >about us</a></li>
+                        <li><a href="speakers.php" >speakers</a></li>
+                        <!--<li><a href="Speakers 2024 - Indore Literature Festival.pdf" >speakers</a></li>-->
+                        
+                        <li><a href="schedule.php">schedule</a>
+                            <ul>
+                           <li><a href="Indore Literature Festival 2025 Schedule & e-invite.pdf" target="_blank">PDF</a></li></ul>
+                        </li>
+                        
+                        
+                        <li><a href="blog.php">Blog</a></li>
+                        
+                        <li><a href="https://www.instagram.com/indorelitfest/" target="_blank">gallery</a></li>
+                        
+                        <li><a href="contact.php">contact</a></li>
+                        <li><img src="images/ILF_2018_Mono.png" alt=""></li>
+                    </ul>
+                    
+				</nav>
+                
+                <div class="hello-hindustan-logo">
+                    <img src="" alt=""><a href="https://docs.google.com/forms/d/e/1FAIpQLSccGcf4FFrBaDbdVOFAA4LxlolmNRllt-lGUP33SWRZwrql5w/viewform?usp=pp_url" target="_blank">Open Mic</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVkgFkATcKABDDgrje5A7Arp8urxHhDV48Jxp8XiQJ-hj_qA/viewform?usp=pp_url" target="_blank">Stall Booking</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeC2_zdG6zmX2H4mO-V8s4hG1FpyvoSsJYwi25iPWMwjRajwA/viewform?usp=pp_url" target="_blank">ILF Registration</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSetWyC6O9IX9vNdiAs2pt8LlpFdl33u_5_XbjKgPjlc11TPSA/viewform?usp=pp_url" target="_blank">Internship</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSftWoreuIQPF7BiEji6k690g3zwjEvVfquOB0vmijjT3WNsnQ/viewform?usp=pp_url" target="_blank">Volunteer</a>
+                </div>
+                
+            </div>
+            
+        </div>
+
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+
+<section class="mob-top-banner">
+    <div class="container-fluid">
+        
+        <ul>
+            
+            <li><a href="index.php"><img src="images/ILF2021-header-mob.png" alt=""></a></li>
+        
+            <li class="mob-banner-tab"><a href="about.php">about</a></li>
+        
+            <li class="mob-banner-tab"><a href="speakers.php" >speakers</a></li>
+        
+            <li class="mob-banner-tab"><a href="Indore Literature Festival 2025 Schedule & e-invite.pdf" >schedule</a></li>
+            
+            <li class="mob-banner-tab"><a href="blog.php" >Blog</a></li>
+            
+            
+            
+            <li class="mob-banner-tab"><a href="contact.php">contact</a></li>
+            
+            </br><span><a href="https://docs.google.com/forms/d/e/1FAIpQLSccGcf4FFrBaDbdVOFAA4LxlolmNRllt-lGUP33SWRZwrql5w/viewform?usp=pp_url" target="_blank">Open Mic</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVkgFkATcKABDDgrje5A7Arp8urxHhDV48Jxp8XiQJ-hj_qA/viewform?usp=pp_url" target="_blank">Stall Booking</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSetWyC6O9IX9vNdiAs2pt8LlpFdl33u_5_XbjKgPjlc11TPSA/viewform?usp=pp_url" target="_blank">Internship</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSftWoreuIQPF7BiEji6k690g3zwjEvVfquOB0vmijjT3WNsnQ/viewform?usp=pp_url" target="_blank">Volunteer</a></br><a href="https://docs.google.com/forms/d/e/1FAIpQLSeC2_zdG6zmX2H4mO-V8s4hG1FpyvoSsJYwi25iPWMwjRajwA/viewform?usp=pp_url" target="_blank">ILF Registration</a></span>
+            
+        </ul>
+        
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+        
+  
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+        
+
+<!-- START: Indore Literature Festival — Multiple Profiles (namespaced, non-conflicting) -->
+<div class="ilf-profiles-list" aria-label="Indore Literature Festival — Profiles">
+  <style>
+    /* Scoped styles for ilf-profiles-list only */
+    .ilf-profiles-list { box-sizing: border-box; padding: 40px 12px; background: linear-gradient(#fff7e6,#ffdede); font-family: "Segoe UI", Arial, sans-serif; color: #222; }
+    .ilf-person { max-width: 1200px; margin: 28px auto; box-sizing: border-box; background: linear-gradient(#fff7e6, #ffdede); padding: 20px; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.06); }
+    .ilf-row { display:flex; gap:24px; align-items:flex-start; flex-wrap:wrap; box-sizing:border-box; }
+    .ilf-left { flex:0 0 320px; max-width:320px; display:flex; flex-direction:column; align-items:flex-start; box-sizing:border-box; }
+    .ilf-frame { background: linear-gradient(90deg,#b71c1c 0%, #ffb74d 60%); border-radius:26px; padding:12px; display:inline-block; box-sizing:border-box; }
+    .ilf-photo { display:block; width:280px; height:auto; border-radius:18px; object-fit:cover; box-shadow:0 8px 20px rgba(0,0,0,0.12); }
+    .ilf-name-badge { width:100%; background: linear-gradient(90deg,#ffb74d,#f9a825); padding:16px; border-radius:6px; margin-top:12px; box-sizing:border-box; text-align:left; }
+    .ilf-name { font-family: Helvetica, Arial, sans-serif; font-weight:800; font-size:18px; color:#0b0b0b; margin:0 0 6px 0; line-height:1; }
+    .ilf-role { font-family: Helvetica, Arial, sans-serif; font-weight:700; font-size:15px; color:#8a1f1f; margin:0; }
+
+    .ilf-right { flex:1 1 420px; min-width:260px; box-sizing:border-box; }
+    .ilf-content { font-size:15px; line-height:1.7; text-align:justify; margin:0 0 14px 0; color:#222; }
+    .ilf-sep { border:none; border-top:1px solid #e0e0e0; margin:18px 0; }
+    .ilf-hindi { 
+        /*font-family: "Noto Sans Devanagari", Mangal, Arial, sans-serif; */
+        /*font-size:15px; */
+        line-height:1.9; 
+        text-align:justify; 
+        margin:0 0 14px 0; 
+        color:#222; 
+    }
+    .ilf-quote { font-family: Georgia, serif; font-size:16px; color:#8a1f1f; font-style:italic; text-align:center; margin-top:16px; }
+
+    /* responsive */
+    @media (max-width:860px){
+      .ilf-left { max-width:100%; flex:0 0 auto; align-items:center; }
+      .ilf-frame { padding:10px; }
+      .ilf-photo { width:240px; border-radius:14px; }
+      .ilf-name-badge { text-align:center; }
+      .ilf-name { font-size:26px; }
+      .ilf-content, .ilf-hindi { font-size:15px; line-height:1.6; }
+    }
+    
+ /* 🟢 This addition won’t break your existing CSS */
+
+  .img-wrapper {
+    position: relative;
+    display: inline-block;
+  }
+
+  .video-overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+    z-index: 2;
+  }
+
+  .img-wrapper:hover .video-overlay {
+    opacity: 1;
+    pointer-events: auto;
+    cursor: pointer;
+  }
+
+  .play-btn {
+    font-size: 38px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    padding: 18px;
+  }
+
+  .hover-video {
+    /*position: absolute;*/
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: none;
+    z-index: 3; /* 🟢 ensures video appears above image */
+  }
+
+  .close-btn {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    font-size: 24px;
+    line-height: 24px;
+    padding: 5px 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 4; /* 🟢 stays above video */
+    display: none;
+  }
+
+  .close-btn:hover {
+    background: rgba(0, 0, 0, 0.8);
+  }
+  </style>
+
+
+  <!-- Vivek Ranjan Agnihotri -->
+  <article class="ilf-person" id="vivek-ranjan-agnihotri" style="margin-top: 150px;">
+  <div class="ilf-row">
+    <div class="ilf-left" aria-hidden="false">
+     <div class="ilf-frame">
+  <div class="img-wrapper">
+    <img class="ilf-photo" src="images/1.jpeg" alt="Vivek Ranjan Agnihotri">
+    
+    <!-- Play overlay (shows only on hover) -->
+    <div class="video-overlay">
+      <div class="play-btn">▶</div>
+    </div>
+    
+    <!-- Video inside same frame -->
+    <video class="hover-video" src="videos/Vivek_ranjan_agnihotri.mp4" preload="metadata"></video>
+    
+    <!-- Close button -->
+    <div class="close-btn">×</div>
+  </div>
+</div>
+      <div class="ilf-name-badge">
+        <div class="ilf-name">Vivek Ranjan Agnihotri</div>
+        <div class="ilf-role">Filmmaker • Author • Visionary</div>
+      </div>
+    </div>
+
+    <div class="ilf-right">
+      <p class="ilf-content">
+        A renowned novelist, a creative mentor and a National Award-winning filmmaker, Vivek Agnihotri is regarded as a potent visionary in Indian cinema and literature. Vivek has always sought the truth and raised awareness across the country, from his early days in advertising to his well-received directing endeavours. His films, including Buddha in a Traffic Jam, The Tashkent Files, The Kashmir Files and The Vaccine War have addressed complex socio-political issues questioning liberty and morality with luminous artistic expression. Notably, The Kashmir Files received the Nargis Dutt Award for the Best Feature Film on National Integration and The Vaccine War has fixed its place in the Academy of Motion Picture Arts & Science Library's Core Collection. 
+        Beyond filmmaking, Vivek has established himself as a cultural illuminator with his literary creations and thought provoking ideas including Urban Naxals, Who Killed Shastri and The Book of Life, Agnihotri keeps inspiring audiences by his transformative art of storytelling and creative consciousness.
+      </p>
+
+      <p class="ilf-hindi">
+        विवेक रंजन अग्निहोत्री<br>
+        मध्यप्रदेश के ग्वालियर में जन्मे, ख्यात फिल्मकार श्री विवेक रंजन अग्निहोत्री का नाम, बॉलीवुड के उन फिल्मकारों में शुमार है, जिन्होंने सार्थक फिल्मों का निर्माण किया। इन्होंने अपने करियर की शुरुआत एक एड एजेंसी से की थी और फिर इन्होंने टीवी शोज का निर्माण और निर्देशन किया। ये कहाँ आ गए हम, रिश्ते, सैटरडे सस्पेंस, एक्स ज़ोन, संभव, अनुबंध आदि के लिए इन्होंने काम किया। इनका फिल्मी करियर 2005 में "चॉकलेट : डीप डार्क सीक्रेट्स" से शुरू हुआ। ज्वलंत मुद्दों को लेकर निष्पक्ष नज़रिया इनकी फिल्मों में साफ नज़र आता है। जिन विषयों से सब बचना चाहते हैं, यह उसी यथार्थ को, तथ्यों के साथ, फिल्मों के माध्यम से बेनकाब करते हैं। इनकी हालिया फिल्म बंगाल फाइल्स, 1940 के दशक में, आजादी के पूर्व बंगाल की भूमि पर हुई सांप्रदायिक हिंसा और नरसंहार की सच्ची घटनाओं पर आधारित है। विवेक अग्निहोत्री को उनके काम के लिए कई पुरस्कार मिल चुके हैं। इनकी ब्लॉक बस्टर फिल्म द कश्मीर फाइल्स को कई कैटेगरीज के राष्ट्रीय व अंतरराष्ट्रीय मंचों पर पुरस्कार प्राप्त हुए, वहीं इनकी ताशकंद फाइल्स को सर्वश्रेष्ठ पटकथा लेखन का पुरस्कार प्राप्त हुआ। फिल्म जगत में इनके योगदान के लिए इन्हें मध्यप्रदेश सरकार द्वारा राष्ट्रीय किशोर कुमार पुरस्कार से नवाज़ा गया है। यथार्थवादी सिनेमा के रचयिता श्री विवेक रंजन अग्निहोत्री का इंदौर लिटरेचर फेस्टिवल में स्वागत है।
+      </p>
+
+      <p class="ilf-quote">“From Ink to Inspiration- Enlightening Mind through Stories.”</p>
+    </div>
+  </div>
+</article>
+
+
+  
+    <!-- Abhijeet Munde -->
+  <article class="ilf-person" id="abhijeet-munde">
+    <div class="ilf-row">
+      <div class="ilf-left" aria-hidden="false">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Abhi-Munde.jpeg" alt="Abhijeet Munde">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Abhijeet Munde</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          In the midst of Ram Mandir Pran Pratishtha Ceremony scheduled to take place in Ayodhya on January 22, social media was flooded with the heartfelt poem. The poem, uploaded on December 25 to the YouTube channel “Psycho Shayar”, crossed six lakh views within four days. The poem was created and performed by Abhijeet Balkrishna Munde, a new voice in poetry who has been captivating audiences under the name Abhi Munde/ Psycho Shayar in recent years. 
+          Originating from Ambajogai in Maharashtra’s Marathwada region, Munde’s artistic journey began as a painter and rangoli artist. While pursuing engineering from a government college in Jalgaon, he started writing poems during his second year. A dynamic individual Abhi Munde has also authored Shambhugattha, the biography of Chhatrapati Sambhaji Maharaj, son of Chhatrapati Shivaji Maharaj. Additionally, he is a Marathi stand-up comedian who blends history and humour skillfully with deep emotions. With his exceptional artistic talent of appealing the heart of the audience, Munde established himself as a lyrical storyteller of the new generation.
+        </p>
+
+        <p class="ilf-hindi">
+          अयोध्या में 22 जनवरी को होने वाले राम मंदिर प्राण प्रतिष्ठा समारोह के बीच, सोशल मीडिया पर एक भावपूर्ण कविता ने लोगों का दिल जीत लिया। यह कविता 25 दिसंबर को “Psycho Shayar” नामक यूट्यूब चैनल पर अपलोड की गई थी, और मात्र चार दिनों में इसने छह लाख से अधिक व्यूज़ पार कर लिए। यह कविता अभिजीत बालकृष्ण मुंडे द्वारा रची और प्रस्तुत की गई थी — जो हाल के वर्षों में “अभी मुंडे / सायको शायर” नाम से अपनी कविताओं से दर्शकों को मंत्रमुग्ध कर रहे हैं।
+          महाराष्ट्र के मराठवाड़ा क्षेत्र के अंबाजोगाई से आने वाले मुंडे की कला यात्रा एक चित्रकार और रंगोली कलाकार के रूप में शुरू हुई। जलगांव के एक सरकारी कॉलेज से इंजीनियरिंग की पढ़ाई करते समय, उन्होंने अपने दूसरे वर्ष में कविता लिखना शुरू किया।
+          बहुमुखी प्रतिभा के धनी अभी मुंडे ने “शंभुगाथा” नामक पुस्तक भी लिखी है, जो छत्रपति शिवाजी महाराज के पुत्र छत्रपति संभाजी महाराज की जीवनी है। इसके अतिरिक्त, वे एक मराठी स्टैंड-अप कॉमेडियन भी हैं, जो इतिहास और हास्य को गहन भावनाओं के साथ कुशलता से जोड़ते हैं। अपनी असाधारण कलात्मकता और दर्शकों के हृदय को छू लेने वाली प्रस्तुति के कारण, मुंडे ने नई पीढ़ी के एक गीतात्मक कहानीकार के रूप में अपनी पहचान स्थापित की है।
+        </p>
+
+        <p class="ilf-quote">“Crossing the Boundaries of Technology to Embrace the Eternity of Art."</p>
+      </div>
+    </div>
+  </article>
+ 
+    <!-- Rahgir -->
+  <article class="ilf-person" id="rahgir">
+    <div class="ilf-row">
+      <div class="ilf-left">
+          <div class="ilf-frame">
+  <div class="img-wrapper">
+    <img class="ilf-photo" src="images/Rahgir.jpeg" alt="Rahgir">
+    
+    <!-- Play overlay (shows only on hover) -->
+    <div class="video-overlay">
+      <div class="play-btn">▶</div>
+    </div>
+    
+    <!-- Video inside same frame -->
+    <video class="hover-video" src="videos/rahgir .mp4" preload="metadata"></video>
+    
+    <!-- Close button -->
+    <div class="close-btn">×</div>
+  </div>
+</div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Rahgir</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Rahgir, born on 18th May 1993, known by his inspired persona Rahgir, is a well-known singer, songwriter and composer whose melodies resonate with the story of the heart. He was born and brought up in the serene town of Khandela, Sikar, Rajasthan. After completing his early education at Indira Senior Secondary School, he earned a Bachelor’s degree in Electronics and Communication from Lovely Professional University, Punjab. Rahgir left the job after working for 1.5 years as a Software Engineer at Accenture and began dancing to the beats of his own soul. He began performing at local cafes and clubs in Pune before commencing his professional journey under the stage name Rahgir.
+          His original compositions were the reason for his fame, leading to concerts across India. His ode to valour, Maharana Ji, immortalizes the legendary Maharana Pratap. Since then, Rahgir’s music has crossed boundaries, winning hearts internationally, a testament to the timeless language of melody. His music stands as a bridge between art and truth, where melodies become memories and memories are reborn through melodies. Each note he sings becomes a dialogue between heritage and humanity.
+        </p>
+
+        <p class="ilf-hindi">
+          राहगिर, जिनका जन्म 18 मई 1993 को हुआ, अपने प्रेरणादायक व्यक्तित्व “राहगिर” के नाम से जाने जाते हैं। वे एक प्रसिद्ध गायक, गीतकार और संगीतकार हैं, जिनकी धुनें दिल की कहानियों को बयां करती हैं। राजस्थान के सीकर जिले के शांत नगर खंडेला में जन्मे और पले-बढ़े राहगिर ने अपनी प्रारंभिक शिक्षा इंदिरा सीनियर सेकेंडरी स्कूल से प्राप्त की। इसके बाद उन्होंने लवली प्रोफेशनल यूनिवर्सिटी, पंजाब से इलेक्ट्रॉनिक्स एंड कम्युनिकेशन में स्नातक की डिग्री हासिल की।
+          राहगिर ने 1.5 वर्ष तक एक्सेंचर में सॉफ्टवेयर इंजीनियर के रूप में कार्य करने के बाद अपनी नौकरी छोड़ दी और अपने आत्मा की धुनों पर नृत्य करना शुरू किया। उन्होंने पुणे के स्थानीय कैफ़े और क्लबों में प्रदर्शन करते हुए अपने संगीत सफर की शुरुआत की, और बाद में अपने स्टेज नाम “राहगिर” के तहत पेशेवर रूप से आगे बढ़े।
+          उनकी लोकप्रियता का कारण उनके मौलिक गीत रहे, जिन्होंने उन्हें पूरे भारत में कॉन्सर्ट करने का अवसर दिलाया। उनकी वीरता को समर्पित रचना “महाराणा जी” ने महान महाराणा प्रताप को अमर बना दिया। तब से राहगिर का संगीत सीमाओं को पार करते हुए अंतरराष्ट्रीय स्तर पर भी दिल जीत चुका है — यह धुनों की कालातीत भाषा का प्रमाण है।
+          उनका संगीत कला और सत्य के बीच एक सेतु के समान है, जहाँ धुनें यादों में बदल जाती हैं और यादें फिर से धुनों के रूप में जन्म लेती हैं। उनके गाए गए हर सुर में विरासत और मानवता के बीच एक संवाद झलकता है।
+        </p>
+
+        <p class="ilf-quote">“From Winning Hearts to Echoing Forever in the Melodies of Memory.”</p>
+      </div>
+    </div>
+  </article>
+  
+  <!-- Vinay Sahasrabuddhe -->
+  <article class="ilf-person" id="vinay-sahasrabuddhe">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Vinay-Sahasrabuddhe.jpeg" alt="Vinay Sahasrabuddhe">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Vinay Sahasrabuddhe</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Vinay Sahasrabuddhe was an Indian politician, author, and social thinker with a rich academic background. His critical and analytical thinking played a vital role in shaping the ideological and policy discourse of the Bharatiya Janata Party (BJP). Born and brought up in Nagpur, he developed a deep interest in political thought from an early age and went on to earn a Ph.D. in Political Science from the University of Mumbai. His association with the Rashtriya Swayamsevak Sangh (RSS) shaped his ideas on governance, ethics, and nation-building, which later became the foundation of his political philosophy.
+          As a Member of Parliament in the Rajya Sabha representing Maharashtra (2016–2022), Sahasrabuddhe earned wide respect for his intellectual clarity and constructive participation in parliamentary debates. He also served as the President of the Indian Council for Cultural Relations (ICCR), where he worked to strengthen India’s cultural diplomacy and promote the country’s soft power globally. Within the BJP, he held the position of National Vice President, guiding ideological and training programs for party workers. Apart from his political career, he authored several books and essays on governance, ethics, and democracy, including Beyond a Billion Ballots and The Innovation Republic. Remembered as a scholar-politician, Sahasrabuddhe’s life reflected a rare combination of intellect, humility, and devotion to public service.
+        </p>
+
+        <p class="ilf-hindi">
+          विनय सहस्रबुद्धे एक भारतीय राजनेता, लेखक और सामाजिक चिंतक थे, जिनका शैक्षणिक पृष्ठभूमि अत्यंत समृद्ध थी। उनकी गहन और विश्लेषणात्मक सोच ने भारतीय जनता पार्टी (भाजपा) की वैचारिक दिशा और नीतिगत विमर्श को आकार देने में महत्वपूर्ण भूमिका निभाई। नागपुर में जन्मे और पले-बढ़े सहस्रबुद्धे को बचपन से ही राजनीति और विचारधारा में गहरी रुचि थी। उन्होंने मुंबई विश्वविद्यालय से राजनीति विज्ञान में पीएच.डी. की उपाधि प्राप्त की। राष्ट्रीय स्वयंसेवक संघ (आरएसएस) से उनके जुड़ाव ने शासन, नैतिकता और राष्ट्रनिर्माण के प्रति उनके विचारों को दिशा दी, जो आगे चलकर उनके राजनीतिक दर्शन की आधारशिला बनी। महाराष्ट्र से राज्यसभा सदस्य (2016–2022) के रूप में, सहस्रबुद्धे ने अपनी बौद्धिक स्पष्टता और रचनात्मक संसदीय भागीदारी के लिए व्यापक सम्मान अर्जित किया। वे भारतीय सांस्कृतिक संबंध परिषद (ICCR) के अध्यक्ष भी रहे, जहाँ उन्होंने भारत की सांस्कृतिक कूटनीति को सशक्त बनाने और देश की सॉफ्ट पावर को विश्व स्तर पर बढ़ावा देने के लिए कार्य किया। भाजपा में उन्होंने राष्ट्रीय उपाध्यक्ष का पद संभाला और पार्टी कार्यकर्ताओं के लिए वैचारिक और प्रशिक्षण कार्यक्रमों का मार्गदर्शन किया। अपनी राजनीतिक यात्रा के अतिरिक्त, उन्होंने शासन, नैतिकता और लोकतंत्र पर कई पुस्तकों और निबंधों की रचना की, जिनमें “बियॉन्ड अ बिलियन बैलेट्स” और “द इनोवेशन रिपब्लिक” प्रमुख हैं। एक विद्वान-राजनेता के रूप में याद किए जाने वाले विनय सहस्रबुद्धे का जीवन बुद्धिमत्ता, विनम्रता और लोकसेवा के प्रति समर्पण का अनूठा संगम था।
+        </p>
+
+        <p class="ilf-quote">“Strengthening Democracy through Knowledge and Culture.”</p>
+      </div>
+    </div>
+  </article>
+  
+    <!-- Sharmistha Mukherjee -->
+  <article class="ilf-person" id="sharmistha-mukherjee">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Sharmistha-Mukherjee.jpeg" alt="Sharmistha Mukherjee">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Sharmistha Mukherjee</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Sharmistha Mukherjee is an Indian politician, classical dancer, and author. She was born to the 13th President of India, Late Pranab Mukherjee, and Suvra Mukherjee. Inheriting the qualities to serve the public, Sharmistha has made her mark in both the fields of art and public life. 
+          A trained Kathak dancer, she glorified the prosperous Indian heritage before the world with her grace. She entered politics and associated herself with the Indian National Congress, and she has served as the Spokesperson of the Delhi Pradesh Congress Committee, openly holding discussions on governance, gender equality, and democracy. Sharmistha Mukherjee, following her father’s footsteps, is also an author and columnist whose ink writes fearlessly about political and cultural issues. She is a remarkable amalgamation of intellect, culture, and public service.
+        </p>
+
+        <p class="ilf-hindi">
+          शर्मिष्ठा मुखर्जी एक भारतीय राजनेता, शास्त्रीय नृत्यांगना और लेखिका हैं। वे भारत के 13वें राष्ट्रपति स्वर्गीय प्रणब मुखर्जी और सुव्रा मुखर्जी की पुत्री हैं। जनसेवा का गुण विरासत में पाकर, शर्मिष्ठा ने कला और सार्वजनिक जीवन — दोनों क्षेत्रों में अपनी विशिष्ट पहचान बनाई है।
+          प्रशिक्षित कथक नृत्यांगना के रूप में उन्होंने अपनी गरिमा और प्रतिभा से विश्व मंच पर भारत की समृद्ध सांस्कृतिक धरोहर को उजागर किया। इसके बाद उन्होंने राजनीति में प्रवेश किया और भारतीय राष्ट्रीय कांग्रेस से जुड़ीं। उन्होंने दिल्ली प्रदेश कांग्रेस समिति की प्रवक्ता के रूप में कार्य करते हुए शासन, लैंगिक समानता और लोकतंत्र जैसे महत्वपूर्ण विषयों पर खुलकर विचार प्रस्तुत किए।
+          अपने पिता के पदचिह्नों पर चलते हुए, शर्मिष्ठा मुखर्जी एक लेखिका और स्तंभकार भी हैं, जो निडरता से राजनीतिक और सांस्कृतिक मुद्दों पर लेखन करती हैं।
+        </p>
+
+        <p class="ilf-quote">“Following the Legacy of Her Patron—From Serving the Public to Celebrating Art.”</p>
+      </div>
+    </div>
+  </article>
+
+    <!-- Vasundhara -->
+  <article class="ilf-person" id="vasundhara">
+    <div class="ilf-row">
+      <div class="ilf-left">
+             <div class="ilf-frame">
+  <div class="img-wrapper">
+    <img class="ilf-photo" src="images/Vasundhara.jpeg" alt="Vasundhara">
+    
+    <!-- Play overlay (shows only on hover) -->
+    <div class="video-overlay">
+      <div class="play-btn">▶</div>
+    </div>
+    
+    <!-- Video inside same frame -->
+    <video class="hover-video" src="videos/VASUNDHARA.mp4" preload="metadata"></video>
+    
+    <!-- Close button -->
+    <div class="close-btn">×</div>
+  </div>
+</div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Vasundhara</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Vasundhara is an Indian actor and Westland author, recognized for her versatility and creative depth. With roots in theatre and cinema, she has established herself as a compelling performer known for her expressive artistry and emotional authenticity. As an author, Vasundhara extends her artistic sensibility to the written word, exploring themes of identity, relationships, and the complexities of human experience.
+          Her association with Westland Publications reflects her growing influence in contemporary Indian literature. Balancing her passion for both acting and writing, Vasundhara continues to captivate audiences and readers alike through her nuanced storytelling and powerful performances.
+        </p>
+
+        <p class="ilf-hindi">
+          वसुंधरा एक भारतीय अभिनेत्री और वेस्टलैंड प्रकाशन की लेखिका हैं, जो अपनी बहुमुखी प्रतिभा और रचनात्मक गहराई के लिए जानी जाती हैं। रंगमंच और सिनेमा से जुड़ी जड़ों के साथ, उन्होंने एक सशक्त कलाकार के रूप में अपनी पहचान बनाई है, जो अपने भावपूर्ण अभिनय और सच्ची संवेदनशीलता के लिए सराही जाती हैं। लेखक के रूप में वसुंधरा अपनी कलात्मक दृष्टि को शब्दों के माध्यम से अभिव्यक्त करती हैं, जहाँ वे पहचान, संबंधों और मानवीय अनुभवों की जटिलताओं जैसे विषयों का अन्वेषण करती हैं।
+          वेस्टलैंड पब्लिकेशन्स से उनका जुड़ाव समकालीन भारतीय साहित्य में उनके बढ़ते प्रभाव को दर्शाता है। अभिनय और लेखन — दोनों के प्रति अपने जुनून को संतुलित करते हुए, वसुंधरा अपनी सूक्ष्म कहानी कहने की शैली और प्रभावशाली प्रस्तुतियों के माध्यम से दर्शकों और पाठकों को समान रूप से मोहित करती रहती हैं।
+        </p>
+
+        <p class="ilf-quote">“From Chaos Outside to the Complexities within the Human Mind.”</p>
+      </div>
+    </div>
+  </article>
+
+ 
+  <!-- Paritosh Tripathi -->
+  <article class="ilf-person" id="paritosh-tripathi">
+    <div class="ilf-row">
+      <div class="ilf-left">
+         <div class="ilf-frame">
+  <div class="img-wrapper">
+    <img class="ilf-photo" src="images/Paritosh-tripathi.png" alt="Paritosh-tripathi">
+    
+    <!-- Play overlay (shows only on hover) -->
+    <div class="video-overlay">
+      <div class="play-btn">▶</div>
+    </div>
+    
+    <!-- Video inside same frame -->
+    <video class="hover-video" src="videos/paritosh tripathi FF.mp4" preload="metadata"></video>
+    
+    <!-- Close button -->
+    <div class="close-btn">×</div>
+  </div>
+</div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Paritosh Tripathi</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Paritosh Tripathi is an Indian actor, comedian, and television host celebrated for his charming personality and effortless sense of humor. Originally from Deoria, Uttar Pradesh, he gained popularity in the entertainment industry with his quick wit and relatable stage presence. He rose to fame as the charismatic and humorous host of the popular television show Super Dancer, where he became fondly known as “TRP Mama.”
+          Beyond hosting, Paritosh has displayed his versatility through various acting roles in Bollywood films such as Lukka Chuppi, Kaashi in Search of Ganga, and Banaras Vanilla. His unique blend of comedy, emotion, and storytelling continues to captivate audiences across screens. His journey from theatre to television stands as a testament to his dedication and passion for the performing arts.
+        </p>
+
+        <p class="ilf-hindi">
+          परीतोष त्रिपाठी एक भारतीय अभिनेता, कॉमेडियन और टेलीविज़न होस्ट हैं, जो अपनी मनमोहक व्यक्तित्व और सहज हास्य शैली के लिए प्रसिद्ध हैं। उत्तर प्रदेश के देवरिया जिले से आने वाले परीतोष ने अपनी तीव्र बुद्धि और सहज मंच उपस्थिति के ज़रिए मनोरंजन जगत में विशेष पहचान बनाई। उन्होंने लोकप्रिय टेलीविज़न शो सुपर डांसर के करिश्माई और हास्यपूर्ण होस्ट के रूप में ख्याति प्राप्त की, जहाँ दर्शक उन्हें स्नेहपूर्वक “टीआरपी मामा” के नाम से जानते हैं।
+          संचालन के अलावा, परीतोष ने बॉलीवुड की कई फिल्मों जैसे लुका छुपी, काशी: इन सर्च ऑफ गंगा और बनारस वनीला में अपने अभिनय कौशल का परिचय दिया है। हास्य, भावना और कहानी कहने की उनकी विशिष्ट शैली आज भी दर्शकों को हर माध्यम पर आकर्षित करती है।
+        </p>
+
+        <p class="ilf-quote">“Where Art is the Dish and Humour is the Essence.”</p>
+      </div>
+    </div>
+  </article>
+
+
+    <!-- Ashutosh Agnihotri -->
+  <article class="ilf-person" id="ashutosh-agnihotri">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Ashutosh-Agnihotri.jpeg" alt="Ashutosh Agnihotri">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Ashutosh Agnihotri</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Ashutosh Agnihotri is a distinguished Indian Administrative Service (IAS) officer of the 1999 batch from the Assam-Meghalaya cadre. Born on 11 March 1974 in Kanpur, Uttar Pradesh, he holds a strong academic background with a Master’s degree in English Literature and an MSc in Public Management and Governance from the London School of Economics and Political Science. Over the years, he has served in various key administrative roles, including positions in the Government of Assam and the Ministry of Home Affairs. His leadership journey includes serving as Commissioner and Secretary in multiple departments and later as Chairman and Managing Director of the Food Corporation of India (FCI). In 2025, he took charge as the Chairman of the Central Warehousing Corporation (CWC), continuing his commitment to efficient governance and public service.
+          Beyond his administrative achievements, Ashutosh Agnihotri is also a poet and author, reflecting his deep sensitivity and creative spirit. His book Kuch Adhure Shabd showcases his introspective side and offers a glimpse into his understanding of human emotions and experiences. Balancing intellect, empathy and discipline, he stands as an example of how bureaucratic efficiency and artistic depth can harmoniously coexist.
+        </p>
+
+        <p class="ilf-hindi">
+          आशुतोष अग्निहोत्री एक सृजनशील एवं बहुआयामी व्यक्तित्व के धनी हैं, जिनकी लेखनी में सौंदर्य, संवेदना और गहराई का अद्भुत संगम दिखाई देता है। 1999 बैच के भारतीय प्रशासनिक सेवा (IAS) अधिकारी के रूप में उन्होंने अखिल भारतीय रैंक 26 प्राप्त की। वर्तमान में वे भारतीय खाद्य निगम (FCI) के अध्यक्ष एवं प्रबंध निदेशक (CMD) के रूप में अतिरिक्त सचिव के पदमान पर कार्यरत हैं। इससे पूर्व वे गृह मंत्रालय में अतिरिक्त सचिव तथा संयुक्त सचिव के रूप में कार्य कर चुके हैं। असम शासन में भी उन्होंने आयुक्त एवं सचिव के रूप में गृह, उद्योग, वाणिज्य, परिवहन तथा खेल एवं युवा कल्याण जैसे विभागों का सफल संचालन किया। असम के अनेक जिलों में जिलाधिकारी रहते हुए उन्होंने प्रशासन को जनसेवा का माध्यम बनाया। 11 मार्च 1974 को कानपुर नगर में जन्मे आशुतोष अग्निहोत्री ने भारतीय प्रशासनिक सेवा में प्रवेश से पूर्व अंग्रेज़ी साहित्य में स्नातकोत्तर (एम.ए.) किया तथा लंदन स्कूल ऑफ इकोनॉमिक्स से पब्लिक मैनेजमेंट एंड गवर्नेंस में स्नातकोत्तर उपाधि प्राप्त की। उनकी रचनाएँ — ओस की थपकी, स्पंदन, कुच्छ अधूरे शब्द, कलर्स ऑफ माई वॉल: नॉट विद द सेम ब्रश, लव, लाइफ एंड लॉन्गिंग, पीस ऑफ माइंड तथा लुकिंग एट द स्काईज़ AND Biyond — उनकी संवेदनशील आत्मा की झंकार हैं। वे बाह्य जगत की हलचलों के प्रति सजग हैं और अंतर्मन की निस्तब्धता के भी ज्ञाता। संक्षेप में कहा जा सकता है कि आशुतोष अग्निहोत्री में कर्म और कलम दोनों के प्रति गहरी श्रद्धा है। प्रशासक की दृढ़ता और कवि की कोमलता, दोनों एक ही व्यक्तित्व में समरस होकर मानो लोकसेवा को साहित्य का रूप दे देती हैं।
+        </p>
+
+        <p class="ilf-quote">“Building a World of Harmony- Balancing Intellect and Empathy”</p>
+      </div>
+    </div>
+  </article>
+
+    <!-- Pradeep Bhandari -->
+  <article class="ilf-person" id="pradeep-bhandari">
+    <div class="ilf-row">
+      <div class="ilf-left">
+       <div class="ilf-frame">
+  <div class="img-wrapper">
+    <img class="ilf-photo" src="images/Pradeep-Bhandari.jpeg" alt="pradeep-bhandari">
+    
+    <!-- Play overlay (shows only on hover) -->
+    <div class="video-overlay">
+      <div class="play-btn">▶</div>
+    </div>
+    
+    <!-- Video inside same frame -->
+    <video class="hover-video" src="videos/pradeep bhandari_final.mp4" preload="metadata"></video>
+    
+    <!-- Close button -->
+    <div class="close-btn">×</div>
+  </div>
+</div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Pradeep Bhandari</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Pradeep Bhandari is a well-known Indian journalist, political analyst, and storyteller whose energy and curiosity have made him one of the most recognizable faces in modern Indian media. Born and brought up in Indore, Madhya Pradesh, he began his journey not in a newsroom but in an engineering classroom, earning his degree in Electronics and Communication from the Manipal Institute of Technology. His passion for public dialogue and understanding people’s voices on the ground led him to create Jan Ki Baat, a digital platform that connects politics with the pulse of ordinary citizens. His lively, fearless reporting style on channels like Republic TV, Republic Bharat, India News, and Zee News helped redefine how television journalism captures India’s elections and social moods.
+          Beyond the screen, Bhandari is also a writer and thinker. His books Modi Mandate 2019: Dispatches from Ground Zero and Modi 3.0: Bigger, Higher, Stronger, reflect his firsthand experiences and deep engagement with India’s political landscape. In 2024, his journey took a new turn when he became the National Spokesperson of the Bharatiya Janata Party (BJP), marking his move from analyzing politics to actively participating in it. Known for his confidence, conviction and connection with the masses, Pradeep Bhandari continues to be a bridge between the voice of the people and the corridors of power.
+        </p>
+
+        <p class="ilf-hindi">
+          प्रदीप भंडारी
+          भारतीय जनता पार्टी के वरिष्ठ राष्ट्रीय प्रवक्ता, जिनका चयन दल के इतिहास में सर्वाधिक युवा प्रवक्ताओं में हुआ है। उन्होंने वर्ष 2025 के दिल्ली विधानसभा चुनाव में केन्द्रीय प्रचार-समिति के प्रमुख सदस्य के रूप में महत्त्वपूर्ण भूमिका निभाई, जिसके परिणामस्वरूप दल को बीस वर्षों पश्चात सत्ता प्राप्ति का सौभाग्य मिला। राजनीति के क्षेत्र में सक्रिय होने से पूर्व श्री भंडारी देश के प्रमुख जनमत विश्लेषक (psephologist) के रूप में सुविख्यात रहे। उन्होंने भारत के चार सौ से अधिक लोकसभा निर्वाचन क्षेत्रों की यात्रा कर जनमानस का निकट से अध्ययन किया। उनके अनुभव और दृष्टि दो सर्वाधिक चर्चित ग्रंथों के रूप में प्रकाशित होकर व्यापक पाठकवर्ग तक पहुँचे हैं। साथ ही वे एक प्रखर प्रसारण पत्रकार के रूप में भी ख्यात हैं, जिनका संवाद सदैव तथ्यों की दृढ़ता और राष्ट्रभावना की स्पष्टता से ओत-प्रोत रहता है।
+        </p>
+
+        <p class="ilf-quote">“Connecting Grassroots Voices to the Wall of Influence.”</p>
+      </div>
+    </div>
+  </article>
+ 
+   <!-- Dr. Ambi Parameswaran -->
+  <article class="ilf-person" id="dr-ambi-parameswaran">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+  <div class="img-wrapper">
+    <img class="ilf-photo" src="images/Ambi-Parameswaran.jpeg" alt="dr-ambi-parameswaran">
+    
+    <!-- Play overlay (shows only on hover) -->
+    <div class="video-overlay">
+      <div class="play-btn">▶</div>
+    </div>
+    
+    <!-- Video inside same frame -->
+    <video class="hover-video" src="videos/ambi parameshwaran.mp4" preload="metadata"></video>
+    
+    <!-- Close button -->
+    <div class="close-btn">×</div>
+  </div>
+</div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Dr. Ambi Parameswaran</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Dr. Ambi Parameswaran is a distinguished Indian author, advertising veteran, and branding expert whose career spans over three decades in the field of marketing and communications. A former Executive Director and CEO of FCB Ulka Advertising, he has played a pivotal role in shaping some of India’s most memorable advertising campaigns, blending creativity with a deep understanding of Indian culture and consumer behavior. An alumnus of IIM Calcutta, he later earned his Ph.D. from IIT Bombay, where his research explored the intersection of religion, culture and marketing themes that continue to influence his professional and literary pursuits.
+          As an author, Dr. Parameswaran has written several acclaimed books, including For God’s Sake: An Adman on the Business of Religion, Nawabs, Nudes, Noodles: India Through 50 Years of Advertising, Sponge: Leadership Lessons I Learnt from My Clients, and Spring: Bouncing Back from Rejection. A celebrated TEDx speaker, leadership coach, and visiting faculty member at premier institutions, he remains an influential voice in understanding how India’s social, cultural, and spiritual fabric shapes its markets and mindsets.
+        </p>
+
+        <p class="ilf-hindi">
+          डॉ. अंबी परमे‍श्वरन : जहाँ संस्कृति मिलती है रूपांतरण से
+
+          विज्ञापन-जगत के सुविख्यात शिल्पी और भारत की सांस्कृतिक चेतना को बाज़ार की भाषा में रूप देने वाले विलक्षण व्यक्तित्व हैं डॉ. अंबी परमे‍श्वरन। तीन दशकों से अधिक समय तक उन्होंने भारतीय विज्ञापन की आत्मा को परखा, गढ़ा और निखारा। एफसीबी उल्का के मुख्य कार्यकारी पद पर रहते हुए उन्होंने सृजनशीलता को भारतीय जीवन-मूल्यों से जोड़ा और उपभोक्ता के मनोभावों को समझने की नई दृष्टि दी। आई.आई.एम. कोलकाता से शिक्षा प्राप्त कर तथा आई.आई.टी. बॉम्बे से डॉक्टरेट लेकर उन्होंने धर्म, संस्कृति और विपणन के अदृश्य सूत्रों को अनुसंधान का विषय बनाया, वही सूत्र आज उनके लेखन और विचारों में सहज प्रवाहित हैं। लेखक के रूप में उनकी कृतियाँ For God’s Sake, Nawabs, Nudes, Noodles, Sponge और Spring केवल पुस्तकेँ नहीं, बल्कि भारतीय समाज के बदलते संस्कारों का दर्पण हैं। वक्ता, मार्गदर्शक और विचारक डॉ. परमे‍श्वरन आज भी उस सेतु के समान हैं जो संस्कृति को परिवर्तन से जोड़ता है।
+        </p>
+
+        <p class="ilf-quote">“Where Culture Meets Transformation.”</p>
+      </div>
+    </div>
+  </article>
+ 
+    <!-- Divya Prakash Dubey -->
+  <article class="ilf-person" id="divya-prakash-dubey">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Divya-Prakash-Dubey.jpeg" alt="Divya Prakash Dubey">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Divya Prakash Dubey</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Divya Prakash Dubey is a prominent contemporary Hindi author, lyricist and storyteller whose works have brought a refreshing modern sensibility to Hindi literature. Hailing from Lucknow, Uttar Pradesh, he began his professional journey as an engineer and management graduate but soon turned toward his true calling; writing. His narratives, known for their realism and emotional depth, beautifully portray the everyday experiences of urban India i.e. the complexities of love, ambition, identity, and belonging. Among his most acclaimed works are Terms & Conditions Apply, Masala Chai, October Junction, and Ibnebatuti, all of which reflect his ability to blend simplicity with profound insight.
+          Apart from his literary contributions, Divya Prakash Dubey has also established himself as a lyricist and performer who has revitalized Hindi storytelling for contemporary audiences. Through his popular Kahani Café sessions, YouTube performances, and appearances at literary festivals, he has encouraged young readers and listeners to rediscover the beauty and emotional richness of the Hindi language. With his distinct narrative voice that bridges the gap between tradition and modernity, Dubey continues to shape the evolving landscape of Indian literature and inspire a new generation of readers.
+        </p>
+
+        <p class="ilf-hindi">
+          दिव्य प्रकाश दुबे : शब्दों के नवप्रवर्तक
+
+          लखनऊ की मिट्टी से उठे दिव्य प्रकाश दुबे आज की हिंदी कथा-संवेदना के तेजस्वी स्वर हैं। अभियंता और प्रबंधक के रूप में आरंभ हुआ उनका जीवन शब्दों की साधना में रूपांतरित हुआ। उनके लेखन में महानगरों के जीवन-संघर्ष, प्रेम, आकांक्षा और पहचान की धड़कन सजीव हो उठती है। Terms & Conditions Apply, Masala Chai, October Junction और Ibnebatuti जैसी कृतियाँ उनकी सरल भाषा और गहन दृष्टि का प्रमाण हैं। कथाकार ही नहीं, वे गीतकार और मंच-संचारक भी हैं जिन्होंने Kahani Café और जनमंचों पर हिंदी कथा-कला को नया युग दिया। उनकी वाणी में यथार्थ की ज्वाला है जो परंपरा और आधुनिकता के बीच पुल बनाती है।
+        </p>
+
+        <p class="ilf-quote">“An Innovator by Profession and an Innovator of Words by Passion.”</p>
+      </div>
+    </div>
+  </article>
+  
+    <!-- Vijay Manohar Tiwari -->
+  <article class="ilf-person" id="vijay-manohar-tiwari">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Vijay-Manohar-Tiwari.png" alt="Vijay Manohar Tiwari">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Vijay Manohar Tiwari</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Vijay Manohar Tiwari -
+          Vijay Manohar Tiwari is a distinguished and sensitive voice in contemporary Indian journalism whose work reflects both intellectual depth and heartfelt engagement with the realities of Indian life. A gold medalist from the second batch of Makhanlal Chaturvedi National University of Journalism and Communication, he holds a Master’s degree in Mathematics with First Division but found his true calling in the world of words. In 2025, he was appointed as the Vice-Chancellor of the same university, marking a full-circle journey in his illustrious career. With over twenty-five years of experience in print and television journalism, Tiwari has travelled extensively across India—undertaking eight nationwide journeys between 2010 and 2015—to document the vibrant diversity and complexities of Indian society.
+          An accomplished author of twelve books, his works such as Syah Raton Ke Chamkile Khwab, Aadhi Raat Ka Sach, Harsud 30 June, Bharat Ki Khoj Mein Mere Paanch Saal, and Jagta Hua Kasba have earned critical and popular acclaim for their depth and authenticity. His two-volume research series, The Expansion of Islam in India, stands as a significant scholarly contribution. Recipient of numerous prestigious honors, including the National Ganesh Shankar Vidyarthi Award, Bhartendu Harishchandra Award, Madhavrao Sapre Samman, Madhya Pradesh Gaurav Samman, and the Madhya Pradesh Sahitya Akademi Award (twice), Tiwari has also served as Trustee of Bharat Bhavan, Member of the Madhya Pradesh Wildlife Board, and State Information Commissioner (2018–2023). His writings, infused with the fragrance of Indian soil and the courage of truth, transcend journalism to become a vibrant reflection of India’s moral and cultural consciousness.
+        </p>
+
+        <p class="ilf-hindi">
+          विजय मनोहर तिवारी समकालीन भारतीय पत्रकारिता के एक विशिष्ट और संवेदनशील हस्ताक्षर हैं। गणित में स्नातकोत्तर (प्रथम श्रेणी) होने पर भी उनका मन लेखनी के आलोक में रम गया और वे पत्रकारिता की कर्मभूमि पर अवतरित हुए। माखनलाल चतुर्वेदी राष्ट्रीय पत्रकारिता एवं संचार विश्वविद्यालय के द्वितीय बैच के वे स्वर्णपदक विजेता रहे तथा 2025 में उसी विश्वविद्यालय के कुलगुरु पद पर प्रतिष्ठित हुए। पच्चीस वर्षों तक उन्होंने प्रिंट और टेलीविज़न पत्रकारिता के विविध आयामों में सक्रिय रहकर भारतीय समाज के यथार्थ को अपने लेखन का विषय बनाया। 2010 से 2015 तक आठ बार भारत की परिक्रमा कर उन्होंने जनजीवन के असंख्य रूपों को सजीव शब्दों में अंकित किया। उनकी अब तक बारह कृतियाँ प्रकाशित हैं जिनमें “स्याह रातों के चमकीले ख़्वाब” (मीडिया पर केन्द्रित उपन्यास), “आधी रात का सच” (भोपाल गैस त्रासदी), “हरसूद 30 जून” (डूबे नगर की करुण कथा), “भारत की खोज में मेरे पाँच साल” (यात्रा वृत्तांत) तथा “जागता हुआ क़स्बा” (ऐतिहासिक हेरिटेज वॉक का आख्यान) विशेष रूप से चर्चित हैं। साथ ही “भारत में इस्लाम का विस्तार” विषय पर उनकी दो खंडों की शोधपरक श्रृंखला उल्लेखनीय है। उनके लेखन को राष्ट्रीय गणेश शंकर विद्यार्थी पुरस्कार, भारतेन्दु हरिश्चंद्र पुरस्कार, माधवराव सप्रे सम्मान, मध्यप्रदेश गौरव सम्मान तथा दो बार मध्यप्रदेश साहित्य अकादमी सम्मान प्राप्त हुआ। वे भारत भवन के न्यासी एवं मध्यप्रदेश वन्यजीव बोर्ड के सदस्य रहे तथा 2018 से 2023 तक राज्य सूचना आयुक्त के रूप में प्रतिष्ठित दायित्व निभाया। विजय मनोहर तिवारी का लेखन भारतीय माटी की गंध, लोक की करुणा और सत्य की निर्भीक साधना से अनुप्राणित है जहाँ शब्द केवल वर्ण नहीं, राष्ट्रचेतना के स्पंदन बनकर प्रकट होते हैं।
+        </p>
+
+        <p class="ilf-quote">“Turning Inspection into Art- Through the Lens of Journalism.”</p>
+      </div>
+    </div>
+  </article>
+ 
+    <!-- Prakhar Srivastava -->
+  <article class="ilf-person" id="prakhar-srivastava">
+    <div class="ilf-row">
+      <div class="ilf-left">
+       <div class="ilf-frame">
+  <div class="img-wrapper">
+    <img class="ilf-photo" src="images/Prakhar-Srivastava.png" alt="Prakhar-Srivastava">
+    
+    <!-- Play overlay (shows only on hover) -->
+    <div class="video-overlay">
+      <div class="play-btn">▶</div>
+    </div>
+    
+    <!-- Video inside same frame -->
+    <video class="hover-video" src="videos/PS 2.mp4" preload="metadata"></video>
+    
+    <!-- Close button -->
+    <div class="close-btn">×</div>
+  </div>
+</div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Prakhar Srivastava</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Prakhar Srivastava is a fearless seeker of truth, a profound thinker, and one of the most distinguished voices in contemporary Hindi journalism. For over twenty-five years, he has been a leading figure in Indian television journalism, known for his integrity, depth of analysis, and unwavering commitment to truth. At present, he serves as a Senior Consulting Editor and Anchor at Doordarshan News. In the past, he has lent his journalistic insight and credibility to some of India’s foremost news organizations, including Zee News, India TV, Aaj Tak, NDTV, News 24, and Sahara Samay. His acclaimed work, “Hey Ram – Gandhi Hatyakand Ki Pramanik Pardtal” (2023), emerged as one of the most discussed and bestselling books in the Indian history category, illuminating truth amid the obscurities of history. His popular YouTube series “Khari Baat”, based on the unexplored dimensions of Indian history, has sparked a fresh wave of intellectual discourse on digital platforms, amassing more than 200 million views and wide critical appreciation. A native of Talen village in Rajgarh–Biaora district, Madhya Pradesh, Prakhar Srivastava received his education in Indore and Bhopal. His writing and presentations reflect the inquiring spirit of the Indian soul — a consciousness that listens for the footsteps of the future even amidst the echoes of the past.
+        </p>
+
+        <p class="ilf-hindi">
+          प्रखर श्रीवास्तव हिन्दी पत्रकारिता के प्रखर स्वर, सत्य के निर्भीक साधक और चिंतनशील लेखक हैं। पच्चीस वर्षों से वे भारतीय टेलीविज़न पत्रकारिता के अग्रगण्य हस्ताक्षर के रूप में प्रतिष्ठित हैं। वर्तमान में वे दूरदर्शन समाचार में वरिष्ठ सलाहकार संपादक एवं एंकर के रूप में कार्यरत हैं। पूर्व में उन्होंने जी न्यूज़, इंडिया टीवी, आजतक, एनडीटीवी, न्यूज़ 24 तथा सहारा समय जैसे प्रमुख समाचार संस्थानों में अपनी पत्रकारिता की दृष्टि और निष्पक्षता का गौरवपूर्ण परिचय दिया है। उनकी प्रसिद्ध कृति “हे राम – गांधी हत्याकांड की प्रामाणिक पड़ताल” वर्ष 2023 में भारतीय इतिहास श्रेणी की सर्वाधिक चर्चित एवं सर्वाधिक विक्रय पुस्तक रही। यह ग्रंथ इतिहास के धूमिल अध्यायों में सत्य का दीप प्रज्वलित करता है। भारतीय इतिहास के अनछुए पक्षों पर आधारित उनकी यूट्यूब श्रृंखला “खरी बात” ने सामाजिक माध्यमों पर नये विमर्श की धारा प्रवाहित की, जिसे बीस करोड़ से अधिक दर्शकों ने देखा और सराहा। मूलतः मध्यप्रदेश के राजगढ़–ब्यावरा जनपद के तलेन ग्राम निवासी प्रखर श्रीवास्तव ने अपनी शिक्षा इंदौर और भोपाल में प्राप्त की। उनका लेखन और प्रस्तुतीकरण भारतीय आत्मा की उस जिज्ञासु चेतना का प्रतीक है, जो अतीत के अवशेषों में भी भविष्य की आहट सुनने की क्षमता रखती है।
+        </p>
+
+        <p class="ilf-quote">“From Unknown to Known- Exploring New Dimensions of India.”</p>
+      </div>
+    </div>
+  </article>
+
+  <!-- Manoj Ranjan Tripathi -->
+  <article class="ilf-person" id="manoj-ranjan-tripathi">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Manoj-Ranjan-Tripathi.jpeg" alt="Manoj Ranjan Tripathi">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Manoj Ranjan Tripathi</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Manoj Ranjan Tripathi is an accomplished journalist, novelist, and creative writer whose career spans more than twenty-seven years in the Indian media industry. Beginning his professional journey with Dainik Jagran, he went on to work with several prominent organizations including Hindustan Times, Network18, India News, and the HT Group. His extensive experience across print, television, and digital platforms reflects a deep understanding of India’s evolving media landscape. As a storyteller, he bridges the immediacy of journalism with the imaginative scope of literature, giving his work both factual depth and emotional resonance.
+          An equally gifted fiction writer, Tripathi has authored acclaimed novels such as Code Kakori and Kasari Masari, which combine historical awareness with gripping narratives. His creative talent extends to screenwriting — notably, he penned dialogues for Atithi Tum Kab Jaoge: Part Two and contributed as a creative head for the television show Swarn Swar Bharat on Zee TV. A regular participant in literary festivals like the Orange City Literature Festival and the Ghazipur Literature Festival, he continues to champion Indian language literature and meaningful storytelling. Through his multifaceted career, Manoj Ranjan Tripathi stands as a dynamic voice in contemporary Hindi journalism and fiction, blending intellect, cultural consciousness, and artistic vision.
+        </p>
+
+        <p class="ilf-hindi">
+          मनोज रंजन त्रिपाठी : सांस्कृतिक चेतना के सजग स्वर
+
+          मनोज रंजन त्रिपाठी हिंदी पत्रकारिता और साहित्य के ऐसे सर्जनशील व्यक्तित्व हैं जिनकी लेखनी में अनुभव की प्रौढ़ता और संवेदना की गहराई एक साथ प्रवाहित होती है। लगभग सत्ताईस वर्षों से वे भारतीय मीडिया के विभिन्न रूपों,मुद्रित, दृश्य और डिजिटल में सक्रिय हैं। उन्होंने अपने कार्यजीवन का आरंभ दैनिक जागरण से किया और आगे चलकर हिन्दुस्तान टाइम्स, नेटवर्क18, इंडिया न्यूज़ तथा एचटी समूह जैसे प्रतिष्ठित संस्थानों में महत्त्वपूर्ण भूमिकाएँ निभाईं।
+          पत्रकारिता के साथ-साथ वे एक प्रखर कथाकार भी हैं। उनके उपन्यास कोड काकोरी और कसरी मसरी इतिहास, भावना और कथा-कौशल के उत्कृष्ट संगम हैं। फिल्म और दूरदर्शन के क्षेत्र में भी उनकी सृजनशीलता समान रूप से प्रकट हुई है। अतिथि तुम कब जाओगे: पार्ट टू के संवाद उनके रचनात्मक कौशल के प्रमाण हैं, वहीं स्वर्ण स्वर भारत में उन्होंने सृजन प्रमुख के रूप में भारतीय संस्कृति को आधुनिक माध्यम से जोड़ा।
+          मनोज रंजन त्रिपाठी विविध साहित्यिक उत्सवों जैसे ऑरेंज सिटी लिटरेचर फेस्टिवल और ग़ाज़ीपुर लिटरेचर फेस्टिवल में सक्रिय भागीदारी निभाते हुए भारतीय भाषाओं और सार्थक कथ्य के पक्ष में सदैव मुखर रहते हैं। उनके लेखन में पत्रकारिता का तथ्य और साहित्य का रस एक साथ प्रवाहित होता है।
+        </p>
+
+        <p class="ilf-quote">“Where Intellect Becomes the Voice of Cultural Consciousness.”</p>
+      </div>
+    </div>
+  </article>
+
+  <!-- Ankush Kumar -->
+  <article class="ilf-person" id="ankush-kumar">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Ankush-Kumar.jpeg" alt="Ankush Kumar">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Ankush Kumar</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Ankush Kumar is a native of the small village of Paratapur in Uttar Pradesh’s Bulandshahr district. He is the founder and editor of Hindinama, an organization actively devoted to promoting and celebrating Hindi literature. An engineer by profession but a poet at heart, Ankush’s deep-rooted love for Hindi inspired him to build a career in the literary sphere soon after completing his engineering studies. His creative journey has led him to collaborate with several leading publishing houses, including Rajpal & Sons, Hind Yugm, and Vani Prakashan, where he worked as a social media editor and literary promoter.
+          Through Hindinama, Ankush Kumar has established himself as a vibrant presence in India’s literary and cultural landscape. He has represented his work and ideas at prominent forums such as the Rajasthan International Film Festival, IIT Kanpur, IIT Delhi, Sahitya Aaj Tak. Expanding his creative horizons, he is also associated with K, Kh, G Productions, producing songs, short films, and documentaries that reflect his artistic sensibility. At present, Ankush is part of the editorial and marketing team at Westland Books, continuing his mission to enrich and expand the reach of Hindi literature in contemporary times.
+        </p>
+
+        <p class="ilf-hindi">
+          बुलंदशहर जनपद के परतापुर ग्राम से उठे अंकुश कुमार युग के उन विरलों में हैं जिन्होंने तकनीक के यंत्रलोक में भी शब्द की आत्मा को जीवित रखा है। विद्याभ्यास से अभियंता, पर अंतःकरण से कवि, अंकुश ने हिन्दी को अपने कर्म का केन्द्र बनाया। ‘हिन्दीनामा’ के संस्थापक-संपादक के रूप में वे न केवल साहित्य के प्रचारक हैं, बल्कि नयी पीढ़ी को भाषा के भाव-संसार से जोड़ने वाले सेतु भी हैं। राजपाल एण्ड सन्स, हिन्द युग्म और वाणी प्रकाशन जैसे प्रतिष्ठानों से जुड़कर उन्होंने आधुनिक माध्यमों में हिन्दी की प्रतिष्ठा बढ़ाई। राजस्थान इंटरनेशनल फ़िल्म फ़ेस्टिवल, IIT कानपुर, IIT दिल्ली, साहित्य आजतक आदि में उनकी उपस्थिति इस युग के बहुआयामी सृजन की साक्षी है। आज वे ‘क, ख, ग प्रोडक्शंस’ से गीत, फ़िल्म और दस्तावेज़ों के माध्यम से रचनाशीलता के नये आयाम गढ़ रहे हैं, और वैस्टलेंड बुक्स में संपादन व विपणन के क्षेत्र में अपनी दृष्टि का प्रसार कर रहे हैं।
+        </p>
+
+        <p class="ilf-quote">“Nurturing Hindi across the Horizons of India’s soul.”</p>
+      </div>
+    </div>
+  </article>
+
+  <!-- Sanjay Shepherd -->
+  <article class="ilf-person" id="sanjay-shepherd">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Sanjay-Shepherd.jpeg" alt="Sanjay Shepherd">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Sanjay Shepherd</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-hindi">
+          संजय शेफ़र्ड : शब्द और यात्राओं का संगम
+          गोरखपुर में 8 अक्तूबर 1985 को जन्मे संजय शेफ़र्ड ने जीवन को किताब की तरह नहीं, बल्कि यात्रा की तरह जिया। नवोदय विद्यालय में पढ़ाई के दौरान साहित्य का जो बीज मन में पड़ा, वह आगे चलकर लेखन और यात्राओं में खिल उठा।
+          मास कम्युनिकेशन और म्यूजियोलॉजी में उच्च शिक्षा प्राप्त करने के बाद उन्होंने बालाजी टेलीफिल्म्स, रेडियो मिर्ची और बीबीसी ट्रेवल में काम किया, पर मन सदा घूमने और लिखने में ही रमा रहा। चौबीस देशों की यात्रा कर चुके संजय के लेखन में लोक, जीवन और प्रकृति की सुगंध मिलती है।
+          2016 से वे स्वतंत्र रूप से यात्रा और लेखन कर रहे हैं। टाइम्स ऑफ इंडिया, एनडीटीवी, हिन्दुस्तान टाइम्स, राजस्थान पत्रिका जैसी पत्रिकाओं में नियमित लेखन करते हैं।
+          अब तक उनके चार उपन्यास प्रकाशित हो चुके हैं — जिंदगी ज़ीरो माइल (2023), एक स्याह फिरदौस (2024), शिफ़र का सफ़र (2025) और प्रकाशाधीन देवताओं का देश (2026, नेशनल बुक ट्रस्ट)। उन्हें विष्णु प्रभाकर साहित्य सम्मान 2024 और इंडिया एचीवर अवार्ड 2020 से सम्मानित किया जा चुका है।
+          संजय शेफ़र्ड उन विरले लेखकों में हैं जो जीवन को यात्राओं से और यात्राओं को शब्दों से अर्थ देते हैं।
+        </p>
+
+        <p class="ilf-content">
+          Sanjay Shepherd has chosen to live life not by reading its chapters, but by walking through them. His love for literature first took root during his days at Navodaya Vidyalaya, later blossoming into a lifelong passion for travel and storytelling. With degrees in Mass Communication and Museology, he ventured into creative fields, working with Balaji Telefilms, Radio Mirchi, and BBC Travel. Yet, beyond the professional realm, his heart found its true rhythm in exploring the world. Having journeyed through twenty-four countries, Sanjay weaves his experiences of people, places, and nature into writings that celebrate the poetry of travel and the soul of humanity.
+          Since 2016, Sanjay has pursued the path of an independent travel writer, regularly contributing to publications like The Times of India, NDTV, Hindustan Times, and Rajasthan Patrika. His widely read Hindi blog, “Strolling Media,” captures stories that linger long after the journey ends. As an author, he has penned four novels — Zindagi Zero Mile (2023), Ek Syah Firdous (2024), Shifr Ka Safar (2025), and the forthcoming Devtaon Ka Desh (2026, National Book Trust). Recipient of the Vishnu Prabhakar Sahitya Samman (2024) and the India Achiever Award (2020), Sanjay Shepherd continues to stand out as a writer who turns every journey into literature, and every page into a voyage of life.
+        </p>
+
+        <p class="ilf-quote">“A Living Book- A Journey of Experience and Knowledge”.</p>
+      </div>
+    </div>
+  </article>
+  
+    <!-- Avinash Mishra -->
+  <article class="ilf-person" id="avinash-mishra">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Avinash-Mishra.jpeg" alt="Avinash Mishra">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">अविनाश मिश्र</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-hindi">
+          अविनाश मिश्र (जन्म 1986, ग़ाज़ियाबाद) समकालीन हिंदी साहित्य के सृजनशील और प्रयोगशील रचनाकार हैं, जो कविता, कथा, आलोचना, संपादन और पत्रकारिता में समान सक्रियता रखते हैं। संवेदना की गहराई और भाषा की पारदर्शिता उनके लेखन की विशेषता है।
+          उनकी प्रमुख कृतियों में अज्ञातवास की कविताएँ, नये शेखर की जीवनी, चौंसठ सूत्र सोलह अभिमान, वर्षावास, नवाँ दशक और वक़्त ज़रूरत शामिल हैं। नये शेखर की जीवनी के दो खंड आगमन और प्रस्थान पारंपरिक कथा-रूप को तोड़ते हुए एक नवीन शिल्प का सृजन करते हैं।
+          वर्तमान में वे त्रयी के तीसरे खंड अन्वेषण के लेखन में संलग्न हैं तथा सदानीरा और हिन्दवी के संपादन से हिंदी साहित्य की नई दृष्टि गढ़ रहे हैं।
+        </p>
+
+        <p class="ilf-content">
+          Avinash Mishra (born 1986, Ghaziabad) is a creative and experimental voice in contemporary Hindi literature, equally active in poetry, fiction, criticism, editing, and journalism. His writing is distinguished by the depth of emotion and the clarity of language that flow seamlessly through his works.
+          His major creations include Agyatvaas Ki Kavitayen, Naye Shekhar Ki Jeevani, Chausath Sutra Solah Abhiman, Varshavaas, Nawan Dashak, and Waqt Zarurat. The two volumes of Naye Shekhar Ki Jeevani — Aagman and Prasthaan — break traditional narrative structures to establish a new and innovative form of storytelling.
+          At present, he is engaged in writing the third volume, Anveshan, of this trilogy, while also shaping a fresh literary vision through his editorial work with Sadanira and Hindwi.
+        </p>
+
+        <p class="ilf-quote">“अनुभव को विचार और विचार को सौंदर्य में रूपांतरित करने वाली समकालीन आवाज़।”</p>
+      </div>
+    </div>
+  </article>
+
+  <!-- Uday Mahurkar -->
+  <article class="ilf-person" id="uday-mahurkar">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/uday.png" alt="Uday Mahurkar">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Uday Mahurkar</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Uday Mahurkar is a distinguished Indian journalist, author, and political commentator whose career spans more than three decades of insightful engagement with India’s political and social landscape. Known for his sharp analytical perspective and commitment to factual accuracy, he rose to prominence through his long association with India Today magazine, where he earned respect for his balanced and research-driven reporting. A native of Gujarat, Mahurkar’s keen interest in governance, leadership, and policy-making shaped his journalistic identity, enabling him to interpret complex political developments with clarity and depth. His work reflects a rare blend of historical understanding, ideological objectivity, and cultural rootedness, positioning him among the most credible voices in contemporary Indian journalism.
+          In addition to his journalistic achievements, Mahurkar has served as the Information Commissioner of India, where he contributed to strengthening transparency and accountability in public institutions. As an author, he has written influential books such as “Marching with a Billion: Analyzing Narendra Modi’s Government at Midterm” and “Center Stage: Inside the Narendra Modi Model of Governance.” Both works offer a nuanced exploration of governance models, administrative reforms, and the evolving nature of political leadership in India. Through his writings, lectures, and analyses, Uday Mahurkar continues to shape public discourse, inspiring scholars, journalists, and citizens to engage thoughtfully with the nation’s democratic and developmental journey.
+        </p>
+
+        <p class="ilf-hindi">
+          उदय माहूरकर एक प्रतिष्ठित भारतीय पत्रकार, लेखक और राजनीतिक विश्लेषक हैं, जिनका करियर तीन दशकों से अधिक समय से भारत के राजनीतिक और सामाजिक परिदृश्य के गहन अध्ययन और विश्लेषण से जुड़ा रहा है। अपनी तीक्ष्ण विश्लेषणात्मक दृष्टि और तथ्यों की सटीकता के प्रति अटूट प्रतिबद्धता के लिए प्रसिद्ध माहूरकर ने इंडिया टुडे पत्रिका से अपने लंबे जुड़ाव के माध्यम से ख्याति अर्जित की, जहाँ उन्होंने संतुलित और शोधपरक पत्रकारिता के लिए व्यापक सम्मान प्राप्त किया। गुजरात के निवासी माहूरकर की शासन, नेतृत्व और नीतिनिर्माण में गहरी रुचि ने उनके पत्रकारिता व्यक्तित्व को आकार दिया, जिससे वे जटिल राजनीतिक घटनाक्रमों को गहराई और स्पष्टता के साथ समझाने में सक्षम हुए। उनके कार्यों में ऐतिहासिक समझ, वैचारिक निष्पक्षता और सांस्कृतिक जड़ों से जुड़ाव का दुर्लभ संगम दिखाई देता है, जिसने उन्हें समकालीन भारतीय पत्रकारिता के सबसे विश्वसनीय स्वरूपों में स्थापित किया है।
+        </p>
+
+        <p class="ilf-quote">“A Blend of History and Culture- Through the Quintessence of Understanding and Ideologies.”</p>
+      </div>
+    </div>
+  </article>
+
+    <!-- Anish Kanjilal -->
+  <article class="ilf-person" id="anish-kanjilal">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+  <div class="img-wrapper">
+    <img class="ilf-photo" src="images/Anish-Kanjilal.jpeg" alt="Anish-Kanjilal">
+    
+    <!-- Play overlay (shows only on hover) -->
+    <div class="video-overlay">
+      <div class="play-btn">▶</div>
+    </div>
+    
+    <!-- Video inside same frame -->
+    <video class="hover-video" src="videos/ANISH.mp4" preload="metadata"></video>
+    
+    <!-- Close button -->
+    <div class="close-btn">×</div>
+  </div>
+</div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Anish Kanjilal</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Anish Kanjilal, born on June 23, 1976, in Kolkata, is an acclaimed poet, author, and educator whose work explores the depths of human existence. He has published two poetry collections, Fateless 13 and 11 Oracles, which reflect on life, mortality, and the philosophical currents of everyday experience. As Director and Senior Lecturer at Educare The Institute (E.T.I.), Kolkata, he leads the English department and inspires both students and scholars with his literary insight and dedication to education.
+          Kanjilal’s contributions have earned him numerous accolades, including the Rajasthan Patrika Literary Award (2009), Best Poet of the Year at the Kolkata Literary Carnival (2024), and the Best Educator Award from the National Education Forum (2024). He has been a lead speaker and panelist at major literary festivals such as EdTalk 2024, Kolkata Literary Carnival 2025, Toshali Book Festival, and the Delhi World Book Fair. His upcoming third poetry collection, Herculean 12, promises to continue his exploration of resilience, strength, and philosophical reflection through lyrical expression.
+        </p>
+
+        <p class="ilf-hindi">
+          अनिष कंजीलाल भारतीय साहित्य के गौरवशाली कवि और शिक्षक हैं। उनका लेखन जीवन के गूढ़ अनुभवों और अस्तित्वगत प्रश्नों से प्रेरित है। कोलकाता में शिक्षा और साहित्य की परंपरा में पले-बढ़े उन्होंने कविता को साधारण और दिव्य के सेतु के रूप में देखा। Fateless 13 और 11 Oracles उनके भावपूर्ण सृजन के प्रतीक हैं। अनेक साहित्यिक पुरस्कार और सम्मान उनके योगदान का परिचायक हैं। उनकी आगामी कृति Herculean 12 जीवन में साहस और दृढ़ता की कथा कहेगी!!
+        </p>
+
+        <p class="ilf-quote">“Exploration of the Contemporary Era: Through the Undercurrents of Philosophy.”</p>
+      </div>
+    </div>
+  </article>
+  
+    <!-- Aditya Pitti -->
+  <article class="ilf-person" id="aditya-pitti">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+  <div class="img-wrapper">
+    <img class="ilf-photo" src="images/Aditya-Pitti.jpeg" alt="Aditya-Pitti">
+    
+    <!-- Play overlay (shows only on hover) -->
+    <div class="video-overlay">
+      <div class="play-btn">▶</div>
+    </div>
+    
+    <!-- Video inside same frame -->
+    <video class="hover-video" src="videos/aditya piti.mp4" preload="metadata"></video>
+    
+    <!-- Close button -->
+    <div class="close-btn">×</div>
+  </div>
+</div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Aditya Pitti</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Aditya Pitti is an entrepreneur, investor, and author whose heart lies in nation-building and social service. He heads the Pitti Enterprises Group, a family business established in 1893. Educated at the University of Michigan and MIT, Aditya drew inspiration from Prime Minister Narendra Modi and joined the Bharatiya Janata Party (BJP) to dedicate himself to the service of the nation.
+          He is also a startup mentor and angel investor. His book “Viksit Bharat: India @2047” presents a vision of transforming India into a developed nation within 100 years of independence. His dream is of a strong, inclusive, and developed India.
+        </p>
+
+        <p class="ilf-hindi">
+          आदित्य पित्ती एक उद्यमी, निवेशक और लेखक हैं, जिनका हृदय राष्ट्रनिर्माण और समाज सेवा में समर्पित है। वे पित्ती एंटरप्राइजेज़ ग्रुप का नेतृत्व करते हैं, जो उनके परिवार का 1893 से स्थापित व्यवसाय है। यूनिवर्सिटी ऑफ़ मिशिगन और एमआईटी से शिक्षा प्राप्त करने के बाद, आदित्य पित्ती प्रधानमंत्री नरेंद्र मोदी जी से प्रेरित होकर भारतीय जनता पार्टी (भाजपा) से जुड़े और राष्ट्रसेवा का मार्ग अपनाया।
+          वे एक स्टार्टअप मार्गदर्शक और एंजेल निवेशक भी हैं। उनकी पुस्तक ‘विकसित भारत: इंडिया @2047’ भारत को स्वतंत्रता के 100 वर्ष पूर्ण होने तक एक विकसित राष्ट्र बनाने की दृष्टि प्रस्तुत करती है। उनका सपना एक सशक्त, समावेशी और विकसित भारत का है।
+        </p>
+
+        <p class="ilf-quote">“Where Vision Meets Nation.”</p>
+      </div>
+    </div>
+  </article>
+  
+    <!-- Nitish Bhushan -->
+  <article class="ilf-person" id="nitish-bhushan">
+    <div class="ilf-row">
+      <div class="ilf-left">
+         <div class="ilf-frame">
+  <div class="img-wrapper">
+    <img class="ilf-photo" src="images/Nitish-Bhushan.jpeg" alt="Nitish-Bhushan">
+    
+    <!-- Play overlay (shows only on hover) -->
+    <div class="video-overlay">
+      <div class="play-btn">▶</div>
+    </div>
+    
+    <!-- Video inside same frame -->
+    <video class="hover-video" src="videos/nitish.mp4" preload="metadata"></video>
+    
+    <!-- Close button -->
+    <div class="close-btn">×</div>
+  </div>
+</div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Nitish Bhushan</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Nitish Bhushan weaves the tapestry of mystery, thrillers, relationships, technology with the threads of contemporary themes into gripping emotionally charged narratives. His debut novel, Love Swipe Blackmail, captures the pulse of virtual shadows where emotions flicker and fade. Its relatable characters and sharp storytelling directly appealed to the audience and he is set to realise his much-anticipated sequel in 2025.
+          Beyond writing, Nitish is a strategist and a marketer with rich experience in HR, marketing and sales. He also served as CEO of an IT services firm in the airport domain. As the Managing Partner at Trueval Partners, Nitish steers consulting in marketing strategy,  brand communication and analytics. An invited speaker, he has addressed IT industry events, academic forums and major literary festivals such as Apeejay Kolkata Literary Festival 2025 and the World Book Fair 2025. With a keen interest in Sanatan Dharma, astrophysics, science fiction, history and economics, Nitish harmonizes intellectual exploration while staying physically active through badminton and cricket.
+        </p>
+
+        <p class="ilf-hindi">
+          नितीश भूषण
+          लेखक | वक्ता | रणनीतिकार | विपणन विशेषज्ञ
+
+          नितीश भूषण ऐसे रचनाकार हैं जिनकी लेखनी आधुनिक जीवन की भूलभुलैया में छिपे रहस्य, संबंध और तकनीक के स्वर को सजीव करती है। उनकी पहली कृति “Love Swipe Blackmail” डिजिटल युग के छल और प्रेम की परतों को उजागर करती है, जहाँ भावनाएँ स्क्रीन के पार भी धड़कती हैं। पाठकों के आग्रह पर वे इसका अगला भाग रच रहे हैं, जो 2025 में आने वाला है। विपणन और प्रबंधन के क्षेत्र में वर्षों का अनुभव लिए वे Trueval Partners के प्रबंध साझीदार हैं, एक ऐसी संस्था जो विचारों को दिशा और ब्रांडों को पहचान देती है। एक प्रखर वक्ता के रूप में नितीश ने अनेक साहित्यिक और औद्योगिक मंचों पर अपने विचार रखे हैं, जिनमें Apeejay Kolkata Literary Festival 2025 और World Book Fair 2025 प्रमुख हैं। सनातन इतिहास, खगोल भौतिकी, विज्ञान कथा और अर्थशास्त्र उनके अध्ययन के विषय हैं, पर उनके भीतर का मनुष्य सरल है, जो शब्दों में संवेदना खोजता है और जीवन की लय बैडमिंटन व क्रिकेट में पाता है। उनकी दृष्टि विचारशील है, पर लेखनी में भावनाओं की मृदुल गूंज। यही उन्हें विशिष्ट बनाती है।
+        </p>
+
+        <p class="ilf-quote">“Where Insight Meets Imagination.”</p>
+      </div>
+    </div>
+  </article>
+
+  <!-- Shailesh Bharatwasi -->
+  <article class="ilf-person" id="shailesh-bharatwasi">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Shailesh-Bharatwasi.jpeg" alt="Shailesh Bharatwasi">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Shailesh Bharatwasi</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Shailesh Bharatwasi is the founder and editor-in-chief of Hindi Yugm, one of the most impactful and widely admired publishing houses in contemporary Hindi literature. With his editorial vision, Bharatwasi has worked to cultivate a new culture of Hindi reading and writing among the youth. His efforts have reshaped how the younger generation experiences, perceives and reflects literature in Hindi.
+          Through his visionary mission “Nai Wali Hindi”, he nurtured and showcased the evolving literature and linguistic sensibilities of the modern era. By removing the barriers of language and literature, he gives a perspective that is fresh and accessible. He is a rising sun of the contemporary era of Hindi Literature, who stands as a pillar of inspiration for millions of readers.
+        </p>
+
+        <p class="ilf-hindi">
+          शैलेश भारतवासी
+          संस्थापक एवं प्रधान संपादक, हिंद युग्म
+
+          शैलेश भारतवासी हिंदी साहित्य के उन अग्रणी हस्ताक्षरों में हैं जिन्होंने भाषा को समय की संवेदनाओं से जोड़कर उसे नई दिशा दी। हिंद युग्म के संस्थापक और प्रधान संपादक के रूप में उन्होंने हिंदी प्रकाशन को एक सजीव सांस्कृतिक आंदोलन बना दिया। उनकी सजग दृष्टि ने युवा पीढ़ी में हिंदी पढ़ने और लिखने की नयी परंपरा विकसित की है। उन्होंने “नई वाली हिंदी” नामक लेखन धारा का आरंभ किया, जिसने आधुनिक जीवन के भाव और विचारों को सहज, जीवंत भाषा में व्यक्त किया। यह “नई वाली हिंदी” केवल शब्दों का परिवर्तन नहीं, बल्कि अभिव्यक्ति का विस्तार है, जहाँ आधुनिकता में भी भारतीयता की आत्मा स्पंदित रहती है। शैलेश भारतवासी ने इस आंदोलन से करोड़ों पाठकों को हिंदी के नवयुग से जोड़ा है। उनकी दृष्टि में भाषा संवाद से आगे बढ़कर संस्कृति और चेतना की अभिव्यक्ति है।
+        </p>
+
+        <p class="ilf-quote">“A Sun Rising over the Renaissance of Hindi Literature.”</p>
+      </div>
+    </div>
+  </article>
+
+    <!-- Bishall Paul -->
+  <article class="ilf-person" id="bishall-paul">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Bishall-Paul.jpeg" alt="Bishall Paul">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Bishall Paul</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Bishhal Paull, known online as The People’s Archivist, is a storyteller, media entrepreneur and personal branding coach. He hosts The Indians Podcast and has written for several prominent publications. The Liar Among Us is his debut novel, published by Bloomsbury India.
+          About the Book:
+          At Valorhouse International, an elite boarding school tucked in the misty hills of Sikkim, secrets don’t stay hidden, they grow darker. When a student disappears under mysterious circumstances, fear spreads: cryptic symbols, hidden covenants, and shifting realities lurk behind every hallway. Blending paranormal suspense, Himalayan folklore, and the intense drama of boarding-school life, The Liar Among Us is a thrilling YA mystery that will keep readers hooked until the very last page.
+        </p>
+
+        <p class="ilf-hindi">
+          "द लाइअर अमंग अस"  लेखक -बिशाल पॉल
+          प्रकाशक- ब्लूम्सबरी इंडिया
+
+          सिक्किम की कुहास भरी पहाड़ियों में बसा वैलोरहाउस इंटरनेशनल सिर्फ स्कूल नहीं, रहस्यों का घर है। एक छात्र के अचानक गायब होने के बाद हल्की फुसफुसाहटें डर में बदल जाती हैं। गुप्त प्रतीक, छुपी हुई क़समें और बदलती हकीकतें गलियारों में छिपी होती हैं।
+          "द लाइअर अमंग अस" एक ऐसा युवा रोमांच है जिसमें अलौकिक रहस्य, हिमालयी लोककथाएँ और बोर्डिंग स्कूल की राजनीति पाठक को अंतिम पन्ने तक बांधे रखती हैं।
+
+          बिशाल पॉल, जिन्हें इंटरनेट पर द पीपल्स आर्काइविस्ट कहा जाता है, कथाकार, ब्रांडिंग कोच और मीडिया उद्यमी हैं। वे द इंडियंस पॉडकास्ट के होस्ट भी हैं।
+          "द लाइअर अमंग अस" उनकी पहली उपन्यास कृति है।
+        </p>
+
+        <p class="ilf-quote">“Archiving Voices, Amplifying Stories.”</p>
+      </div>
+    </div>
+  </article>
+
+
+    <!-- Anand Prasad -->
+  <article class="ilf-person" id="anand-prasad">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+  <div class="img-wrapper">
+    <img class="ilf-photo" src="images/Anand-Prasad.png" alt="Anand-Prasad">
+    
+    <!-- Play overlay (shows only on hover) -->
+    <div class="video-overlay">
+      <div class="play-btn">▶</div>
+    </div>
+    
+    <!-- Video inside same frame -->
+    <video class="hover-video" src="videos/ANAND PRASAD.mp4" preload="metadata"></video>
+    
+    <!-- Close button -->
+    <div class="close-btn">×</div>
+  </div>
+</div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Anand Prasad</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Anand Prasad, when observing the nation’s institutions, laws, and economy, often feels that we are at times bound by our own constraints. Unshackling the Elephant is the result of this very realization. The book is not merely a critique, it serves as a guide on how judicial processes can be simplified, technology can be fully leveraged, and development can reach every citizen.
+          He believes that the confluence of law, technology, and economy can unlock India’s full potential. This is his vision -a free, progressive, and inclusive India.
+        </p>
+
+        <p class="ilf-hindi">
+          आनंद प्रसाद, जब देश की संस्थाओं, कानून और अर्थव्यवस्था की राह देखता हूँ, तो महसूस करता हूँ कि कई बार हम अपने ही बंधनों में जकड़े रहते हैं। Unshackling the Elephant इसी सोच का परिणाम है। यह पुस्तक केवल आलोचना नहीं है। यह एक मार्गदर्शन है कि कैसे न्यायिक प्रक्रियाओं को सरल बनाया जाए, तकनीक का पूरा उपयोग हो, और विकास हर नागरिक तक पहुँचे। मेरा विश्वास है कि कानून, तकनीक और अर्थव्यवस्था का संगम ही भारत को उसकी पूरी क्षमता तक पहुँचा सकता है। यह मेरी दृष्टि है। एक मुक्त, प्रगतिशील और समावेशी भारत की कल्पना।
+        </p>
+
+        <p class="ilf-quote">“From Locking the Confluence of Law to Unlocking Conscience of India.”</p>
+      </div>
+    </div>
+  </article>
+
+  <!-- Kapil Raj -->
+  <article class="ilf-person" id="kapil-raj">
+    <div class="ilf-row">
+      <div class="ilf-left">
+       <div class="ilf-frame">
+  <div class="img-wrapper">
+    <img class="ilf-photo" src="images/Kapil-Raj.png" alt="kapil-raj">
+    
+    <!-- Play overlay (shows only on hover) -->
+    <div class="video-overlay">
+      <div class="play-btn">▶</div>
+    </div>
+    
+    <!-- Video inside same frame -->
+    <video class="hover-video" src="videos/KAPIL RAJ 2.mp4" preload="metadata"></video>
+    
+    <!-- Close button -->
+    <div class="close-btn">×</div>
+  </div>
+</div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Kapil Raj</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Kapil Raj is an orator, author, and activist in Delhi-NCR, India, who, with his philosophies, realist mindset, and non-conformist spirit, boldly challenges social stigmas and sparks meaningful reflection through storytelling. After his debut novel Endurer: A Rape Story, he published the Changed Stories Series, beginning with Kuroopa, which has received worldwide acclaim.
+          The Changed Stories features five independent short stories: Kuroopa, A Gutterful Life, First Love Many Times, Flying with Chains, and A Mother by the Widow, which transform the readers’ souls from personal struggles with societal challenges toward meaningful change. In Endurer: A Rape Story, a young woman confronts trauma, social pressures, and personal loss as she fights to reclaim her honour, choice, and life. Kapil Raj’s works are celebrated for his art, activism, and social insight that resonate deeply and inspire reflection.
+        </p>
+
+        <p class="ilf-hindi">
+          कपिल राज एक चिंतनशील रचनाकार, वक्ता और लेखक-कार्यकर्ता हैं, जो दिल्ली-एनसीआर में रहते हैं। उनके भीतर दार्शनिक की दृष्टि, यथार्थवादी का विवेक और परंपराओं से टकराने का साहस एक साथ विद्यमान है। उनका पहला उपन्यास “एंड्यूरर – ए रेप स्टोरी” एक युवती की करुण किंतु साहसी यात्रा है, जिसमें अन्याय के बीच वह अपने अस्तित्व का अर्थ खोजती है। इसके बाद उनकी श्रृंखला “चेंज स्टोरीज़” आई, जिसमें कुरूपा, ए गटरफुल लाइफ, फर्स्ट लव मेनी टाइम्स, फ्लाइंग विद चेन्स और अ मदर बाय द विंडो जैसी कहानियाँ हैं। ये कथाएँ समाज की रूढ़ियों को चुनौती देती हैं और परिवर्तन की पुकार बनती हैं। कपिल राज की लेखनी में संवेदना, संघर्ष और जागृति का सम्मिलन है। उनकी कहानियाँ केवल पढ़ी नहीं जातीं, वे भीतर तक महसूस की जाती हैं।
+        </p>
+
+        <p class="ilf-quote">“From Challenging Social Stigmas to Spark Soulful Reflection.”</p>
+      </div>
+    </div>
+  </article>
+
+  <!-- Navisha (multiple paragraphs provided — preserved) -->
+  <article class="ilf-person" id="navisha">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Navisha.png" alt="Navisha">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Navisha Gupta</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-hindi">
+          नविषा, दस वसंतों की एक नन्ही लेखिका, अपने शब्दों और रचनाओं के माध्यम से अपनी कल्पना के रंग बिखेरती है। बचपन से ही उसे शब्दों से खेलना पसंद रहा है — वे जादुई शब्द, जो उसके मन के दृश्यों को आकार देते हैं। वह कहानियाँ लिखती है, कविताएँ रचती है, रंगों से चित्र बनाती है और कभी-कभी अपने विचारों को सुरों में पिरो देती है। उसके शिक्षकों, परिवार और मित्रों से मिला प्रोत्साहन उस दीपशिखा की तरह है जो उसकी सृजनात्मक राह को आलोकित करती है और उसे निरंतर सपने देखने की प्रेरणा देती है। आइए, कदम रखें उसकी कल्पनाओं की दुनिया में — जहाँ हर रहस्य में सौंदर्य की एक झलक छिपी है, और हर कहानी में एक नन्हा सपना साँस लेता है।
+        </p>
+
+        <p class="ilf-content">
+          Navisha, a young writer of ten springs, paints the colors of her imagination through her words and creations. Since childhood, she has loved to play with words—those magical words that give shape to the visions of her mind. She writes stories, composes poems, paints vibrant pictures, and sometimes weaves her thoughts into melodies. The encouragement she receives from her teachers, family, and friends has become the glowing flame that lights her creative path and inspires her to keep dreaming. Step into her world of imagination—where every mystery hides a touch of beauty, and every story breathes a tiny dream.
+        </p>
+
+        <p class="ilf-content">
+          Navisha, a young writer of Ten Springs, is a blooming artist whose imagination flows effortlessly through words, colours and melodies. From a very young age, she has found joy in the rhythm of language and the beauty of storytelling. Words, to her, are not mere letters but magical companions that shape the dreams and visions dancing in her mind. Whether she is penning down a heartfelt poem, sketching a scene from her thoughts, or humming a tune of her own making, Navisha pours her innocent yet thoughtful soul into every creation. Her stories often reflect the vibrant curiosity and wonder of childhood, capturing emotions that are both tender and timeless.
+          Supported and inspired by her teachers, family, and friends, Navisha continues to explore the endless landscapes of her imagination with confidence and joy. Their encouragement acts as a gentle flame that fuels her creative journey, reminding her to believe in the magic she carries within. Through her writings and art, she invites readers and dreamers alike to step into her enchanting world, where mysteries bloom into beauty, and every story whispers a tiny dream waiting to take flight.
+        </p>
+
+        <p class="ilf-quote">“Where Mystery Blooms into Beauty- The World of Navisha.”</p>
+      </div>
+    </div>
+  </article>
+
+    <!-- Aditi Shrivastava -->
+  <article class="ilf-person" id="aditi-shrivastava">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Aditi-Shrivastava.jpeg" alt="Aditi Shrivastava">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Aditi Shrivastava</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Aditi is a Software Engineer, skillfully balancing logic and creativity. Her experiences in technology and art inform one another, enabling her to find poetry in patterns and beauty in structure. For her, words are a code for the soul, a bridge between emotion and expression. Aditi Shrivastava explores love, longing, and inspiration, weaving the complexities of human emotions into words that resonate deeply. Her debut poetry collection, Saanjh – Ek Khubsurat Shaam, captures the highs and lows of the heart, the joy of discovering someone special, the ache of distance, and the quiet sorrow of unfulfilled love. Through her evocative verses, she transforms raw emotions into expressions that make readers feel seen, understood, and connected.
+          Her talent has been widely recognized; she won the Poet Category in India’s Greatest Talent Show Season 7.0, a testament to her ability to touch hearts and translate feelings into unforgettable art. Today, Aditi continues to create work that inspires, moves, and leaves a lasting imprint on every reader.
+        </p>
+
+        <p class="ilf-hindi">
+          अदिति श्रीवास्तव
+          कवयित्री और सॉफ्टवेयर अभियंता
+          अदिति श्रीवास्तव की रचनाओं में प्रेम, विरह और प्रेरणा के स्वर गूँजते हैं। उनकी कविता संग्रह “सांझ – एक ख़ूबसूरत शाम” हृदय की उन तरंगों को व्यक्त करती है जहाँ मिलन की ऊष्मा, बिछोह की वेदना और अधूरे प्रेम की मधुर करुणा एक साथ बहती है। वे अपने शब्दों में मानवीय भावनाओं की गहराई को इस तरह ढालती हैं कि पाठक स्वयं को उनमें प्रतिबिंबित पाता है। तकनीक और सृजन के संगम पर खड़ी अदिति एक सॉफ्टवेयर अभियंता भी हैं, जो तर्क में सौंदर्य और संरचना में कविता खोजती हैं। उनके लिए शब्द आत्मा का कोड हैं, जो भावना और अभिव्यक्ति के बीच सेतु रचते हैं। भारत के ग्रेटेस्ट टैलेंट शो (सीजन 7.0) में उन्हें श्रेष्ठ कवयित्री का सम्मान प्राप्त हुआ, जहाँ उनकी कविताओं ने हृदयों को छू लिया और संवेदना को स्वर दिया।
+        </p>
+
+        <p class="ilf-quote">“Transforming Raw Emotions into Timeless Expressions.”</p>
+      </div>
+    </div>
+  </article>
+
+    <!-- Urmila Shirish -->
+  <article class="ilf-person" id="urmila-shirish">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Urmila-Shishir.jpeg" alt="Urmila Shirish">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">उर्मिला शिरीष</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-hindi">
+          संवेदना और सृजन की सहयात्री, साहित्य की विविध विधाओं में अपनी गहन छाप छोड़ने वाली लेखिका। पीएचडी और एमफिल की उपाधिधारिणी, जिन्होंने अनेक शोधार्थियों का मार्ग आलोकित किया है। शिक्षा जगत में उच्च पदों पर दीर्घ सेवा के पश्चात अब स्वतंत्र लेखन में संलग्न हैं। वर्तमान में लियानु संस्था, हौसला सोसाइटी, भोपाल की अध्यक्ष एवं संचालिका के रूप में सक्रिय हैं, तथा केंद्रीय साहित्य अकादमी, नई दिल्ली की जूरी समिति की सदस्य रह चुकी हैं। उनका लेखन स्नेह, समाज और स्त्री-अस्तित्व की गहराइयों को स्पर्श करता है, जैसे किसी दीप की लौ जो जलते हुए भी अंधकार से प्रेम करती हो। उनके कहानी संग्रह, कविता-संकलन और समीक्षात्मक लेख हिंदी साहित्य की संवेदनशील परंपरा को नई दृष्टि प्रदान करते हैं।
+          उनकी प्रमुख कृतियों में “रेत पर लिखे नाम”, “शब्दों के पार”, तथा “स्त्री होने का अर्थ” जैसी रचनाएँ विशेष रूप से उल्लेखनीय हैं, जिनमें जीवन, संबंध और आत्म-अन्वेषण की आंतरिक ध्वनि मुखर होती है।
+        </p>
+
+        <p class="ilf-content">
+          A companion of sensitivity and creativity, Dr. Urmila Shishir is a writer whose words have left an enduring imprint across multiple genres of Hindi literature. A Ph.D. and M.Phil. scholar, she has guided countless researchers, illuminating their academic paths with her insight, intellect, and compassion. After serving in several esteemed positions within the field of education, she now devotes herself fully to the world of writing, where her thoughts find freedom and her emotions find voice.
+          Currently serving as the President and Director of Lianu Sanstha and Hausla Society, Bhopal, she has also contributed as a member of the Jury Committee of the Sahitya Akademi, New Delhi. Her writings explore the delicate threads of love, society, and womanhood like a flame that embraces the darkness even as it glows. Through her collections of stories, poems, and critical essays, she brings a fresh yet deeply rooted sensibility to Hindi literature. Among her most celebrated works — Ret Par Likhe Naam, Shabdon Ke Paar, and Stree Hone Ka Arth — life, relationships, and self-discovery echo with an intimate strength that continues to touch countless hearts.
+        </p>
+
+        <p class="ilf-quote">“A Journey of Self-discovery: Through the lens of Affection and Sensitivity.”</p>
+      </div>
+    </div>
+  </article>
+  
+    <!-- Dr. Sonrupa Vishal -->
+  <article class="ilf-person" id="dr-sonrupa-vishal">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Sonrupa-Vishal.jpeg" alt="Dr. Sonrupa Vishal">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">डॉ॰ सोनरूपा विशाल</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-hindi">
+          डॉ॰ सोनरूपा विशाल सुप्रसिद्ध कवि डॉ॰ उर्मिलेश और मंजुल शंखधार की पुत्री तथा विशाल रस्तोगी की पत्नी हैं। उनके व्यक्तित्व में संवेदना, सृजनशीलता और करुणा का अद्भुत संगम है। उन्होंने हिन्दी में एम.ए. एवं पी-एच.डी. (रूहेलखंड विश्वविद्यालय, बरेली) तथा संगीत में उच्च शिक्षा (दयालबाग विश्वविद्यालय, आगरा और प्रयाग संगीत समिति, इलाहाबाद) प्राप्त की है। उनकी प्रमुख कृतियाँ हैं – “अमेरिका और पैंतालीस दिन” (यात्रा संस्मरण), “लिखना ज़रूरी है” (ग़ज़ल संग्रह), “पिछले बरस का गुलमोहर” (गीत संग्रह), “कोकिला कुल”, तथा “सपनों से जब निकले हम” (प्रकाशनाधीन)। वे “हिन्दी ग़ज़ल और डॉ॰ उर्मिलेश” की संपादक भी हैं। उनकी रचनाएँ देश की प्रतिष्ठित पत्र-पत्रिकाओं — अहा ज़िन्दगी, कादम्बिनी, गगनांचल, दैनिक जागरण आदि में प्रकाशित हुई हैं। वे वर्षों से देश-विदेश के कवि सम्मेलनों में हिन्दी की गौरवपूर्ण उपस्थिति रही हैं। उन्होंने “आचमन फाउंडेशन”, “आचमन प्रकाशन” और “शब्दिता” जैसी संस्थाओं के माध्यम से साहित्य, समाज और संस्कृति को एक सूत्र में बाँधा है — जहाँ वे नवोदित रचनाकारों को मंच देती हैं, निर्धन बालिकाओं को शिक्षा, और समाज को मानवीय संवेदना का स्पर्श। उनके कार्यों के लिए उन्हें ‘हरिवंश राय बच्चन युवा ग़ज़लकार सम्मान’, ‘जगदीश गुप्त सर्जना सम्मान’, ‘गीत–ग़ज़ल शिरोमणि सम्मान’ (वॉशिंगटन), अमेरिकी संसद प्रशस्ति–पत्र, लंदन उच्चायोग सम्मान, ‘कला–श्री’ (मॉरीशस) सहित अनेक राष्ट्रीय-अंतरराष्ट्रीय अलंकरण प्राप्त हुए हैं। डॉ॰ सोनरूपा विशाल हिन्दी साहित्य की उस संवेदनशील स्वर हैं, जिनकी वाणी में संगीत की मृदुलता और मनुष्य के प्रति गहरी करुणा एक साथ प्रवाहित होती है।
+        </p>
+
+        <p class="ilf-content">
+          Dr. Sonrupa Vishal — daughter of the eminent poet Dr. Urmilesh and Manjul Shankhdhar, and wife of Vishal Rastogi — is a distinguished voice in contemporary Hindi literature, known for her rare blend of sensitivity, creativity, and compassion. She earned her M.A. and Ph.D. in Hindi from Rohilkhand University, Bareilly, and pursued advanced studies in Music from Dayalbagh University, Agra, and Prayag Sangeet Samiti, Allahabad. A gifted writer, she has authored several acclaimed works, including America aur Paintalis Din (travel memoir), Likhna Zaroori Hai (ghazal collection), Pichhle Baras Ka Gulmohar (song collection), Kokila Kul, and the forthcoming Sapnon Se Jab Nikle Hum. She has also edited Hindi Ghazal aur Dr. Urmilesh, showcasing her deep engagement with poetic tradition and literary heritage.
+          Her writings have appeared in reputed publications such as Aha Zindagi, Kadambini, Gaganchal, and Dainik Jagran, earning her recognition across India and abroad. For years, she has represented Hindi literature at numerous national and international poetry festivals, carrying forward its spirit with dignity and grace. Through her initiatives — Aachman Foundation, Aachman Prakashan, and Shabdita — Dr. Vishal has actively bridged literature, education, and social welfare, empowering emerging writers and supporting the education of underprivileged girls. Honored with several national and international awards, including the Harivansh Rai Bachchan Yuva Ghazalkar Samman, Jagdish Gupta Sarjana Samman, Geet–Ghazal Shiromani Samman (Washington), U.S. Congressional Recognition, London High Commission Honour, and Kala Shri (Mauritius), she stands today as a melodious and compassionate voice of Hindi literature — where the tenderness of music and the depth of humanity meet in perfect harmony.
+        </p>
+
+        <p class="ilf-quote">“A Soul Where Poetry Sings and Compassion Speaks.”</p>
+      </div>
+    </div>
+  </article>
+
+  
+    <!-- Ramayan Dhar Dwivedi -->
+  <article class="ilf-person" id="ramayan-dh-dwivedi">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+  <div class="img-wrapper">
+    <img class="ilf-photo" src="images/Ramayan-Dhar-Dwivedi.jpeg" alt="Ramayan-Dhar-Dwivedi">
+    
+    <!-- Play overlay (shows only on hover) -->
+    <div class="video-overlay">
+      <div class="play-btn">▶</div>
+    </div>
+    
+    <!-- Video inside same frame -->
+    <video class="hover-video" src="videos/ps 31.mp4" preload="metadata"></video>
+    
+    <!-- Close button -->
+    <div class="close-btn">×</div>
+  </div>
+</div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Ramayan Dhar Dwivedi</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          Ramayan Dhar Dwivedi is a Hindi poet, lyricist, and motivational speaker known for his powerful stage presence and socially conscious writing. Originally from the Basti district of Uttar Pradesh, he holds a diploma in Civil Engineering but found his true calling in the world of literature and public expression. His verses often reflect the essence of human emotions, moral values, and everyday struggles, making his poetry both relatable and thought-provoking. Through his words, Dwivedi seeks to inspire self-belief, compassion, and cultural pride among his audiences.
+          Actively participating in Kavi Sammelans across India, Ramayan Dhar Dwivedi has earned recognition for his unique ability to blend humor, sensitivity, and motivation in his performances. His work as a prerak vakta (motivational speaker) further amplifies his voice as a guide for youth and poetry enthusiasts alike. Alongside his performances, he maintains a strong presence on social media platforms, where his writings and recitations continue to reach and inspire a growing audience that values the depth and simplicity of Hindi poetry.
+        </p>
+
+        <p class="ilf-hindi">
+          रामायण धर द्विवेदी
+          अयोध्या के समीप बस्ती जनपद के सलेमपुर पांडेय ग्राम में जन्मे रामायण धर द्विवेदी का बाल्य जीवन ही धर्म, अध्यात्म और साहित्य की सुगंध से आप्लावित रहा। विज्ञान के विद्यार्थी होकर भी वे अंततः हृदय की पुकार पर साहित्य की ओर उन्मुख हुए। अभियांत्रिकी की नौकरी त्यागकर उन्होंने शब्द को अपना जीवन बना लिया,यह त्याग ही उनकी साधना का प्रारंभ था।
+          पिछले कुछ वर्षों में हिंदी काव्यजगत् में जो नई लहर उठी है, उसमें रामायण धर द्विवेदी का नाम अग्रपंक्ति में है। उनके गीत आधुनिकता की चकाचौंध में भी शालीन हैं, और परंपरा की गंभीरता में भी सहज। वे जनमानस की भाषा में उस भाव को कह जाते हैं जो सीधे हृदय में उतरता है। यही कारण है कि उनके गीत आज विद्यालयों की प्रार्थना सभाओं तक पहुँच गए हैं।
+          देश के प्रमुख मंचों पर उन्होंने अपनी वाणी से हिंदी कविता को प्रतिष्ठा दिलाई है। राज्यसभा से लेकर देश के कोने-कोने तक, उनके स्वर में हिंदी की आत्मा गूंजती है। डॉ. कुमार विश्वास द्वारा प्रदत्त युवा गीतकार सम्मान सहित अनेक पुरस्कार उनकी साहित्यिक यात्रा की मील के पत्थर हैं।
+          उनकी रचनाओं में न कोई दिखावा है, न भाषा का अभिमान,सिर्फ़ एक ईमानदार राग है, जो भारत की मिट्टी से उपजा है। वे कवि ही नहीं, एक संवेदनशील संस्कृतिकर्मी हैं, जो साहित्य को जन तक पहुँचाने का व्रत निभा रहे हैं। रामायण धर द्विवेदी … वह नाम, जो गीत को जनमानस की प्रार्थना बना रहा है।
+        </p>
+
+        <p class="ilf-quote">“Where Words Shape the World.”</p>
+      </div>
+    </div>
+  </article>
+
+  
+    <!-- Vivek Chaturvedi -->
+  <article class="ilf-person" id="vivek-chaturvedi">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Vivek-Chaturvedi.jpeg" alt="Vivek Chaturvedi">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">विवेक चतुर्वेदी</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-hindi">
+          विवेक चतुर्वेदी समकालीन हिंदी कविता के ऐसे कवि हैं जिनकी संवेदना जीवन और समाज की स्पंदित धरती से निकली है। 3 नवम्बर 1969 को जन्मे, ललित कला में स्नातकोत्तर विवेक जबलपुर स्थित कला निकेतन पॉलिटेक्निक महाविद्यालय में प्रशिक्षण समन्वयक हैं। उनका चर्चित कविता-संग्रह “लड़कियाँ घर लौटती हैं” (वाणी प्रकाशन) स्त्री-अस्तित्व, स्मृति और समय के नैतिक द्वंद्वों को मार्मिक भाषा में रूपायित करता है। यह संग्रह अनेक भारतीय भाषाओं के साथ अंग्रेज़ी और रूसी में भी अनूदित होकर व्यापक पाठक-वृत्त तक पहुँचा है। उनकी रचनाधर्मिता को राज्य स्तरीय वागीश्वरी सम्मान (2020), सुमित्र कविता सम्मान (2024), और राष्ट्रीय स्पंदन सम्मान (2024) से गौरव मिला है। नई दुनिया, पहल, लमही, वागर्थ आदि में प्रकाशित उनकी कविताएँ विचार और करुणा की सहज संगति रचती हैं। विवेक चतुर्वेदी की कविता अपने समय के भीतर मनुष्य को खोजती है,जहाँ संवेदना, प्रतिरोध और सौंदर्य एक ही श्वास में साथ चलते हैं। वे शब्दों के ऐसे शिल्पी हैं जो कविता को मनुष्य की वापसी का मार्ग बनाते हैं।
+        </p>
+
+        <p class="ilf-content">
+          Vivek Chaturvedi is a contemporary Hindi poet whose sensibilities arise from the pulsating soil of life and society. Born on 3 November 1969, and a postgraduate in Fine Arts, Vivek serves as the Training Coordinator at Kala Niketan Polytechnic College, Jabalpur. His acclaimed poetry collection, “Ladkiyan Ghar Lautti Hain” (published by Vani Prakashan), poignantly portrays the ethical dilemmas of womanhood, memory, and time through a deeply human language. The collection has reached a wide circle of readers through translations into several Indian languages, as well as English and Russian. His literary contribution has been recognized with the State-level Vagishwari Samman (2020), Sumitra Kavita Samman (2024), and National Spandan Samman (2024). His poems, published in leading literary journals such as Nai Duniya, Pahal, Lamhi, and Vagarth, harmoniously weave thought and compassion. Vivek Chaturvedi’s poetry searches for the human essence within the times we live in, where sensitivity, resistance, and beauty coexist in a single breath. He is a craftsman of words who transforms poetry into a pathway for humanity’s return to itself.
+        </p>
+
+        <p class="ilf-content">
+          Vivek Chaturvedi is a well known Hindi poet of contemporary era whose works remain deeply rooted in the realities of life and society. Born on 3rd November 1969, he earned his Postgraduate degree in Fine Arts and currently serves as the Training Coordinator at Kala Niketan Polytechnic College, Jabalpur. He is widely known for his renowned collection of poems “Ladkiyan Ghar Lautti Hain” (published by Vani Prakashan), which captures the ethical dilemmas of womanhood, memory and time in a tender and sensitive voice. The collection has been published and translated into several Indian languages along with English and Russian, evoking deep emotions among readers across the world.
+          His cultural and creative approach has received the State-level Vagishwari Samman (2020), Sumitra Kavita Samman (2024), and National Spandan Samman (2024). His poems, published in leading literary journals such as Nai Duniya, Pahal, Lamhi, and Vagarth, are a harmonious blend of profound thinking and compassion. Vivek Chaturvedi’s poems play a huge role in evoking and redefining humanity in the modern world, leaving behind the stagnant of lifelessness, absurdity and brutality, weaving a world of sensitivity, coherence, resilience and resistance.
+        </p>
+
+        <p class="ilf-quote">“Exploring Humanity through the Lens of Resilience and Resistance”.</p>
+      </div>
+    </div>
+  </article>
+
+  
+    <!-- Divya Mathur -->
+  <article class="ilf-person" id="divya-mathur">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Divya-Mathur.png" alt="Divya Mathur">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Divya Mathur</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <!-- multiple long paragraphs preserved as provided -->
+        <p class="ilf-hindi">
+          सुश्री दिव्या माथुर
+          लेखिका, संपादक, संस्थापक – वातायन (यू.के.)
+
+          सुश्री दिव्या माथुर प्रवासी भारतीय साहित्य की वह दीप्त छवि हैं जिन्होंने शब्दों के माध्यम से सीमाओं को लाँघकर भारतीय संवेदना को विश्वमंच पर प्रतिष्ठित किया है। वातायन-यूरोप की संस्थापक और प्रमुख संपादक के रूप में उन्होंने साहित्य को संवाद और संस्कार का सेतु बनाया। रॉयल सोसाइटी ऑफ आर्ट्स की फ़ैलो तथा आर्ट्स काउंसिल ऑफ इंग्लैंड की सम्मानित कला-अचीवर, उन्हें पद्मभूषण मोटुरी सत्यनारायण लेखन सम्मान, वनमाली कथा सम्मान और नैशनल यूनिवर्सिटी ऑफ सिंगापुर में मॉरीशस के प्रधानमंत्री द्वारा विशेष सम्मान प्राप्त है। उनकी रचनाएँ स्त्री की संवेदना, प्रवासी जीवन की जटिलता और भारतीय संस्कृति की गहन जड़ों से उपजी हैं। नौ कहानी-संग्रह, आठ कविता-संग्रह और तीन उपन्यासों में फैली उनकी सृजन-यात्रा विचार, करुणा और सौंदर्य का त्रिवेणी-संगम है। कमलेश्वर ने उनकी कहानियों को “संस्कार और संवेदना की संयुक्त अभिव्यक्ति” कहा है, तो रूपर्ट स्नैल ने उनमें “पूर्व और पश्चिम के सेतु” को पहचाना। असगर वजाहत ने उन्हें “विचार की कहानीकार” कहा, जबकि प्रो. इन्द्रनाथ चौधरी ने उनके लेखन को “विस्तृत हृदय का विस्तार” माना। दिव्या माथुर की कथाएँ प्रवास में जन्मे उस भारतीय मन की गाथा हैं जो समय, दूरी और परिस्थिति के पार भी अपनी मिट्टी की महक सँजोए रखता है। उनमें जीवन की गहराई, नारी की दृढ़ता और मानवीय करुणा की मृदुल झंकार साथ-साथ चलती है।
+        </p>
+
+        <p class="ilf-content">
+          Ms. Divya Mathur is a luminous figure in diasporic Indian literature—one who has transcended boundaries through the power of words, bringing Indian sensibilities to the global stage. As the founder and chief editor of Vatayan–Europe, she has built literature into a bridge of dialogue and cultural refinement. A Fellow of the Royal Society of Arts and an Arts Achiever recognized by the Arts Council of England, she has been honored with the Padma Bhushan Moturi Satyanarayana Literary Award, the Vanmali Katha Samman, and a special recognition at the National University of Singapore by the Prime Minister of Mauritius.
+
+          Her writings reflect the depth of womanhood, the complexities of expatriate life, and the profound roots of Indian culture. Spanning nine short story collections, eight poetry anthologies, and three novels, her creative journey is a confluence of thought, compassion, and beauty. Kamleshwar described her stories as “a union of culture and sensitivity,” while Rupert Snell recognized in them “a bridge between the East and the West.” Asghar Wajahat called her “a storyteller of ideas,” and Prof. Indranath Choudhuri praised her writing as “an expansion of a vast heart.”
+
+          Divya Mathur’s stories are chronicles of the Indian soul born in exile—carrying the fragrance of its native soil across time, distance, and circumstance. Within them flow the depth of life, the resilience of womanhood, and the gentle resonance of human compassion.
+        </p>
+
+        <p class="ilf-content">
+          Ms. Divya Mathur is a luminous voice in diasporic Indian literature—an author who has transcended geographical and cultural boundaries through the power of words, bringing the depth of Indian sensibilities to the global stage. As the Founder and Chief Editor of Vatayan–Europe, she has transformed literature into a bridge of dialogue and cultural refinement. A Fellow of the Royal Society of Arts and an Arts Achiever recognized by the Arts Council of England, she has been honored with several prestigious awards, including the Padma Bhushan Moturi Satyanarayana Literary Award, the Vanmali Katha Samman, and a special recognition at the National University of Singapore, presented by the Prime Minister of Mauritius.
+          Her writings embody the richness of womanhood, the complexities of expatriate life, and the enduring spirit of Indian culture. With nine short story collections, eight poetry anthologies, and three novels, her creative journey flows through themes of thought, compassion, and grace. Literary stalwarts have lauded her work; Kamleshwar described her stories as “a union of culture and sensitivity,” Rupert Snell saw in her writing “a bridge between the East and the West,” while Asghar Wajahat and Prof. Indranath Choudhuri recognized in her prose “a storyteller of ideas” and “an expansion of a vast heart.” Through her words, Divya Mathur continues to chronicle the Indian soul in exile—carrying the fragrance of her homeland across time, space, and emotion, with every story echoing the tenderness of human compassion.
+        </p>
+
+        <p class="ilf-quote">“From a Tender Heart to Human Compassion- Embracing the Journey through Grace”.</p>
+      </div>
+    </div>
+  </article>
+
+    <!-- Manju Srivastava -->
+  <article class="ilf-person" id="manju-srivastava">
+    <div class="ilf-row">
+      <div class="ilf-left">
+      <div class="ilf-frame">
+  <div class="img-wrapper">
+    <img class="ilf-photo" src="images/Manju-Srivastava-man.png" alt="Manju-Srivastava">
+    
+    <!-- Play overlay (shows only on hover) -->
+    <div class="video-overlay">
+      <div class="play-btn">▶</div>
+    </div>
+    
+    <!-- Video inside same frame -->
+    <video class="hover-video" src="videos/manju shrivastava_v.mp4" preload="metadata"></video>
+    
+    <!-- Close button -->
+    <div class="close-btn">×</div>
+  </div>
+</div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Manju Srivastava</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+     
+        <p class="ilf-hindi">
+          वरिष्ठ नागरिक मंच की अंतरराष्ट्रीय अध्यक्ष और डिजिटल पत्रिका गृहस्वामिनी की ग्लोबल एंबेसडर के रूप में कार्यरत श्रीमती मंजी श्रीवास्तव ‘मन’ एक बहुआयामी व्यक्तित्व हैं, जो कला, साहित्य और संस्कृति को एक सुंदर संगम में पिरोती हैं। उन्हें अनेक प्रतिष्ठित सम्मानों से अलंकृत किया जा चुका है, जिनमें विश्व हिंदी साहित्य सम्मान (2021), मुंशी प्रेमचंद साहित्य सम्मान, साहित्य रत्न सम्मान (2024) — जो इंदौर लाइब्रेरी डिवीजन द्वारा उनके बाल साहित्य संग्रह “मन का पिटारा” के लिए प्रदान किया गया — तथा कृति सुमन सम्मान (2025) उनके ग़ज़ल संग्रह “मन मेरा एहसास तेरा” के लिए शामिल हैं। वे एक बहुमुखी लेखिका हैं, जो कहानियाँ, लघुकथाएँ, छंदबद्ध और मुक्त छंद की कविताएँ, लेख तथा बाल साहित्य की रचनाएँ करती हैं। उनके साहित्यिक योगदान में दस एकल पुस्तकें और लगभग बीस सामूहिक संकलन शामिल हैं, जो हिंदी साहित्य के प्रति उनकी सृजनशीलता, गहराई और अंतरराष्ट्रीय स्तर तक फैले समर्पण को अभिव्यक्त करते हैं।
+        </p>
+
+        <p class="ilf-content">
+          Mrs. Manju Srivastava is a multifaceted literary and cultural luminary whose creative world beautifully unites art, literature, and social consciousness. Serving as the International President of the Senior Citizens Forum and Global Ambassador of the digital magazine Grihaswamini, she has devoted herself to nurturing creativity, compassion and community across continents. A passionate advocate of Hindi literature, her writings transcend geographical and generational boundaries, reflecting a rare harmony of artistic sensitivity and cultural depth that enriches the global literary landscape.
+          A recipient of several prestigious accolades, Mrs. Srivastava has been honored with the Vishva Hindi Sahitya Samman (2021), Munshi Premchand Sahitya Samman, Sahitya Ratna Samman (2024) by the Indore Library Division for her celebrated children’s collection “Man Ka Pitara”, and the Kriti Suman Samman (2025) for her soulful ghazal anthology “Man Mera Ehsaas Tera.” A versatile writer, she gracefully explores diverse genres—poetry (both metrical and free verse), short stories, articles, and children’s literature. With ten solo books and around twenty collaborative anthologies, her literary journey shines as a testament to creative brilliance, emotional resonance, and her unwavering devotion to Hindi literature across the world.
+        </p>
+
+        <p class="ilf-quote">“Crossing the Boundaries- Creating a Balance between Creativity and Emotions."</p>
+      </div>
+    </div>
+  </article>
+
+    <!-- Dr. Ritu Sharma Nannan Pandey -->
+  <article class="ilf-person" id="dr-ritu-sharma">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Ritu-Sharma-Nannan-Pandey.png" alt="Dr. Ritu Sharma Nannan Pandey">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">ऋतु ननंन पाँडे</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-hindi">
+          . ऋतु  ननंन पाँडे : शब्दों की साधिका
+
+          नई दिल्ली में जन्मी डॉ. ऋतु  ननंन पाँडे भारत की बेटी, सूरीनाम की बहू और नीदरलैंड की निवासी हैं — शब्द, संस्कृति और संवेदना की सच्ची साधिका। पत्रकारिता में पी.एच.डी. प्राप्त कर वे दिल्ली दूरदर्शन, आकाशवाणी और दिल्ली विश्वविद्यालय से जुड़ी रहीं। वर्तमान में वे नीदरलैंड के Town Hall Assen की परामर्श समिति में सदस्य हैं और विश्व हिन्दी सचिवालय मॉरीशस के सहयोग से “हिन्दी में अभिव्यक्ति” कार्यक्रम संचालित करती हैं। उनकी प्रमुख कृतियाँ — “बंद रास्तों के बीच”, “पुस्तक की आत्महत्या”, “जानवरों का जानी दुश्मन” तथा “नीदरलैंड की लोककथाएँ” — हिन्दी और डच साहित्य के बीच सांस्कृतिक सेतु हैं। वे “मैत्री”, “Meiden Club en Mama Ochtend” जैसी संस्थाओं के माध्यम से महिलाओं और बालिकाओं के उत्थान में भी सक्रिय हैं। हिन्दी भाषा, प्रवासी साहित्य और समाजसेवा के क्षेत्र में उनके योगदान को “हिन्दी भूषण”, “अमृता प्रीतम सम्मान”, “साहित्य रत्न” और “प्रवासी साहित्यकार सम्मान” जैसे अनेक अलंकरणों से सम्मानित किया गया है। दो दशकों से वे नीदरलैंड की भूमि पर हिन्दी की दीपशिखा जलाए रखे हुए हैं — जहाँ शब्द उनके लिए सेवा भी हैं और साधना भी।
+        </p>
+
+        <p class="ilf-content">
+           Her remarkable contributions to the promotion of the Hindi language, diasporic literature, and social service have earned her numerous honors, including the Hindi Bhushan, Amrita Pritam Samman, Sahitya Ratna, and Pravasi Sahityakar Samman.
+
+          For over two decades, Dr. Ritu Nannan Pandey has kept the flame of Hindi glowing on Dutch soil — where words for her are both a form of service and a spiritual pursuit.
+
+          Dr. Ritu Nannan Pandey is born in New Delhi, a daughter of India, daughter-in-law of Suriname and now a proud resident of the Netherlands  is a woman whose heart beats for words, culture, and people. With a Ph.D. in Journalism, she began her journey with Delhi Doordarshan, All India Radio, and the University of Delhi, where her love for communication found its true expression. Today, she continues her cultural mission across continents as a member of the Advisory Committee at the Town Hall of Assen (Netherlands) and as the host of Abhivyakti in Hindi, a unique program she conducts in collaboration with the World Hindi Secretariat, Mauritius, to celebrate the power and beauty of the Hindi language.
+        
+        </p>
+
+        <p class="ilf-quote">“A Light of Glow: From the Heart of India to the soil of the Netherlands”.</p>
+      </div>
+    </div>
+  </article>
+
+
+    <!-- Sangeeta Chaubey 'Pankhuri' -->
+  <article class="ilf-person" id="sangeeta-chaubey">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Sangeeta.png" alt="Sangeeta Chaubey Pankhuri">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Sangeeta Chaubey ‘Pankhuri’</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-hindi">
+          संगीता चौबे ‘पंखुड़ी’ कुवैत-स्थित एक स्वतंत्र लेखिका और कवयित्री हैं, जिनका साहित्यिक व्यक्तित्व सृजन, संस्कृति और प्रवासी भारतीय संवेदना का सुंदर संगम है। वे “अंजुमन ए पंखुड़ी अंतर्राष्ट्रीय साहित्यिक मंच” की संस्थापिका हैं और कई प्रतिष्ठित संगठनों से सक्रिय रूप से जुड़ी हैं — जिनमें भारतीय प्रवासी परिषद, राइटर्स फोरम (कुवैत), विश्व हिंदी परिषद (कुवैत) तथा महिला काव्य मंच (कुवैत इकाई) शामिल हैं। साथ ही वे गृहस्वामिनी साहित्यिक मंच की कुवैत ब्रांड एंबेसडर, विश्वरंग फाउंडेशन की कुवैत प्रतिनिधि और प्रज्ञान विश्वम पत्रिका की को-ऑर्डिनेटर भी हैं।
+          उनकी प्रकाशित कृतियों में छंदबद्ध गीत संग्रह “पंखुड़ी की पंखुड़ियाँ”, ग़ज़ल संग्रह “निगाहें फ़लक पर” और शीघ्र प्रकाशनाधीन स्तुति संग्रह “माँ अक्षरा वीणा बजा रही है” शामिल हैं।
+          संगीता पंखुड़ी को उनके उत्कृष्ट साहित्यिक योगदान के लिए अनेक सम्मानों से अलंकृत किया जा चुका है, जिनमें कुवैत दूतावास द्वारा प्रदत्त दिनकर हिंदी सम्मान (2025) और नेपाल में अखिल भारतीय सर्वभाषा संस्कृति समन्वय समिति मंच द्वारा प्रदान किया गया पशुपति प्रज्ञा सम्मान प्रमुख हैं। उन्होंने विश्व हिंदी दिवस पर कुवैत स्थित भारतीय दूतावास में आयोजित अंतर-विद्यालय काव्य पाठ प्रतियोगिता में निर्णायक की भूमिका निभाई तथा अपनी काव्य प्रस्तुति से सराहना प्राप्त की।
+          मध्य प्रदेश हिंदी लेखक संघ द्वारा आयोजित कविता लेखन प्रतियोगिता में उनकी कविता प्रथम पुरस्कार से सम्मानित हुई, वहीं भारतीय रेलवे द्वारा राष्ट्रीय स्तर पर उनकी कविता का चयन किया गया।
+          उनकी रचनाएँ 26 से अधिक साझा संकलनों में प्रकाशित हो चुकी हैं, साथ ही अनेक राष्ट्रीय और अंतर्राष्ट्रीय पत्र-पत्रिकाओं में भी स्थान पा चुकी हैं। वे आकाशवाणी (छतरपुर एवं मुंबई) और दूरदर्शन मुंबई से अपनी वार्ताओं एवं नाटिकाओं के प्रसारण के माध्यम से भी जानी जाती हैं।
+          संगीता चौबे ‘पंखुड़ी’ साहित्य जगत की एक सशक्त और प्रेरणादायी प्रवासी रचनाकार हैं, जिनकी लेखनी भारतीय संस्कृति, भावनाओं और मानवीय संवेदना का उज्ज्वल प्रतीक है।
+        </p>
+
+        <p class="ilf-content">
+          Sangeeta Chaubey ‘Pankhuri’, based in Kuwait, is an independent writer and poet whose literary journey beautifully weaves creativity, culture, and the spirit of the Indian diaspora. She is the founder of “Anjuman-e-Pankhuri International Literary Forum” and holds active memberships in several reputed organizations, including the Indian Diaspora Council (Kuwait), Writers’ Forum (Kuwait), and World Hindi Council (Kuwait). She also serves as the Brand Ambassador of Grihaswamini Literary Forum (Kuwait), the Representative of Vishwarang Foundation (Kuwait), the General Secretary of Mahila Kavya Manch (Kuwait Unit), and the Coordinator of Pragyan Vishwam magazine (Kuwait).
+          Her published works include the metrical poetry collection “Pankhuri Ki Pankhudiyan”, the ghazal collection “Nigahein Falak Par”, and the devotional collection “Maa Akshara Veena Baja Rahi Hai” (forthcoming).
+          Sangeeta Pankhuri has been the recipient of several honors for her literary contributions, including the Dinkar Hindi Samman (2025) awarded by the Indian Embassy in Kuwait, and the Pashupati Pragya Samman conferred by the All India Sarvbhasha Sanskriti Samanvay Samiti, Nepal. She also served as a judge and performer at the Inter-School Poetry Recitation Competition organized by the Indian Embassy in Kuwait on World Hindi Day, receiving a certificate of appreciation for her contribution.
+          Her poetry has won the First Prize in a competition organized by the Madhya Pradesh Hindi Lekhak Sangh, and one of her poems was selected at the national level by Indian Railways.
+          To date, she has contributed to over 26 collaborative anthologies and has been widely published in various national and international magazines and journals. Her literary presence also extends to All India Radio (Chhatarpur and Mumbai) and Doordarshan Mumbai, where her talks and dramatizations have been broadcast.
+        </p>
+
+        <p class="ilf-quote">“Pankhuri — A Depth of Indian Diaspora and Human Sensitivity.”</p>
+      </div>
+    </div>
+  </article>
+
+
+   <!-- Shalini Modi -->
+  <article class="ilf-person" id="shalini-modi">
+    <div class="ilf-row">
+      <div class="ilf-left">
+        <div class="ilf-frame">
+          <img class="ilf-photo" src="images/Shalini-modi.png" alt="Shalini Modi">
+        </div>
+        <div class="ilf-name-badge">
+          <div class="ilf-name">Shalini Modi</div>
+          <div class="ilf-role"></div>
+        </div>
+      </div>
+
+      <div class="ilf-right">
+        <p class="ilf-content">
+          शालिनी मोदी एक प्रतिष्ठित लेखिका, सामाजिक कार्यकर्ता और ज्योतिषाचार्या हैं, जिनका लेखन प्राचीन भारतीय ज्ञान परंपरा और आधुनिक जीवन के बीच सेतु का कार्य करता है। वे वेद, पुराण, उपनिषद और महाकाव्यों से गहराई से प्रेरित हैं। भारतीय पौराणिक कथाओं पर आधारित उनकी तीन प्रसिद्ध पुस्तकें — श्रवण, स्वर, दर्शन: टेल्स, चैंट्स AND TEMPLES, सेवन इम्मॉर्टल्स और रसाज़ इन डिवाइन RELATIONSHIPS (रूपा पब्लिकेशन्स, 2024) — व्यापक रूप से चर्चित रही हैं, जबकि चौथी पुस्तक सूर्य देव रूपा पब्लिकेशन्स से नवंबर 2025 में प्रकाशित होने वाली है। उनका लेखन पौराणिक पात्रों के माध्यम से मानवीय भावनाओं, इच्छाओं और रस सिद्धांतों को आधुनिक दृष्टिकोण से जोड़ता है। इंडिया INTERNTIONAL CENTER, दिल्ली और ऑक्सफोर्ड बुकस्टोर, कोलकाता में हुए उनके पुस्तक विमोचन समारोहों को राष्ट्रीय मीडिया में विशेष स्थान मिला।
+        </p>
+
+        <p class="ilf-content">
+          Shalini Modi is an accomplished author, social activist, and astrologer whose work bridges ancient wisdom with contemporary life. Deeply inspired by Indian scriptures, Vedas, Puranas, and epics, she has published three acclaimed books in Indian mythology — Shravan, Swar, Darshan: Tales, Chants and Temples; Seven Immortals; and Rasas in Divine Relationships (Rupa Publications, 2024) — with a fourth, on Surya Dev, forthcoming in 2025. Her writings uniquely blend mythology, philosophy, and human emotions, exploring timeless themes like desire, divinity, and the rasas from Natya Shastra. Shalini’s literary events and book launches at the India International Centre and Oxford Bookstore, Kolkata, have drawn wide attention across major digital and print media platforms.
+        </p>
+
+        <!--<p class="ilf-quote">“”</p>-->
+      </div>
+    </div>
+  </article>
+
+
+</div>
+<!-- END: Indore Literature Festival — Multiple Profiles -->
+
+
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+    
+<div class="mob-end-footer">
+            
+    <h1>Hello Hindustan News and Network</h1>
+    <h2>413 Krishna Business Center, near Medanta Hospital<br>
+            Vijay Nagar, Indore (Madhya Pradesh)<br>
+    Email: hellohindustan@gmail.com</h2>
+    <br>
+    <p>Copyright &copy; Indore Literature Festival</p>
+            
+</div>
+     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+    
+<section class="end-footer">
+    
+    <div class="venue">
+        <h1>VENUE</h1>
+        <p>Daly College</br>1, Residency Area</br>Indore, Madhya Pradesh 452001</p></br>
+        
+    <span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=bci8NL9xU0NwKqUxyD8kKO42sqwGCcWg4A3Ph8gbJEAyIaSehaTjC7o4EMTI"></script></span>
+        
+            <!---i class="fa fa-whatsapp" aria-hidden="true"></i><span> 623-288-1181</span></p---->
+    </div>
+
+</section>
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>    
+<!------------------------------------------------------STROLLING-PEBBLE------------------------------------------------------>
+    </div>
+  <script>
+  // ✅ Updated to work for multiple frames
+  document.querySelectorAll('.img-wrapper').forEach(wrapper => {
+    const img = wrapper.querySelector('.ilf-photo');
+    const video = wrapper.querySelector('.hover-video');
+    const overlay = wrapper.querySelector('.video-overlay');
+    const closeBtn = wrapper.querySelector('.close-btn');
+
+    overlay.addEventListener('click', () => {
+      img.style.display = 'none';
+      overlay.style.display = 'none';
+      video.style.display = 'block';
+      closeBtn.style.display = 'block';
+      video.play();
+    });
+
+    closeBtn.addEventListener('click', () => {
+      video.pause();
+      video.currentTime = 0;
+      video.style.display = 'none';
+      img.style.display = 'block';
+      overlay.style.display = 'flex';
+      closeBtn.style.display = 'none';
+    });
+
+    video.addEventListener('ended', () => {
+      video.style.display = 'none';
+      img.style.display = 'block';
+      overlay.style.display = 'flex';
+      closeBtn.style.display = 'none';
+    });
+  });
+</script>
+</body>
+
+    
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+        <script type="text/javascript" src="js/jquery.eislideshow.js"></script>
+        <script type="text/javascript">
+            $(function() {
+                $('#ei-slider').eislideshow({
+					animation			: 'center',
+					autoplay			: true,
+					slideshow_interval	: 3000,
+					titlesFactor		: 0
+                });
+            });
+        </script>
+    
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'p3plzcpnl506634'},{'dcenter':'p3'},{'cp_id':'10098793'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script></html>

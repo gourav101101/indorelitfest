@@ -6,7 +6,7 @@
  <div class="ilf-orbit" role="navigation" aria-label="Explore the festival">
   <div class="ilf-orbit-centre" aria-hidden="true"></div>
   @foreach([
-   ['Meet the Voices',route('speakers'),'voices'],
+   ['Meet the Voices',route('speakers.archive'),'voices'],
    ['On the Programme',route('schedule'),'programme'],
    ['Festival Moments',route('gallery'),'moments'],
    ['Plan Your Visit',route('visit'),'visit'],

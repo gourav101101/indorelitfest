@@ -27,7 +27,7 @@ The page uses navy, red, saffron, ivory and warm peach. Discover Malwa is retain
 ## Confirmed information
 - 12th edition: **27–29 November 2026**
 - Venue: **Daly College, Indore**
-- Email: **indorelitfest@gmail.com**
+- Email: **hellohindustan@gmail.com** (confirmed by user, 26 September 2026)
 - Volunteer: https://forms.gle/by5xS5RTGjEJfMBFA
 - Internship: https://forms.gle/htJKDyAMbKi6erHh9
 - Registration: https://forms.gle/SH2gXWhEKokRSwEA6

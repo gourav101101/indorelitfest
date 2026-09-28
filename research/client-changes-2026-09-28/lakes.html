@@ -1,0 +1,1594 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Daly College Indore</title>
+  <link rel="shortcut icon" href="images/favicon.ico">
+  <link rel="stylesheet" id="thim-awesome-css" href="images/home-style.css" type="text/css" media="all">
+  <link rel="stylesheet" id="thim-awesome-css" href="font-awesome/css/font-awesome.css" type="text/css" media="all">
+  <link rel="stylesheet" id="learn-press-css" href="images/learnpress.css" type="text/css" media="all">
+  <link rel="stylesheet" id="rs-plugin-settings-css" href="images/settings.css" type="text/css" media="all">
+  <link rel="stylesheet" id="thim-css-style-css" href="images/custom-style.css" type="text/css" media="all">
+  <link rel="stylesheet" id="thim-style-css" href="images/style-22.css" type="text/css" media="all">
+  <link rel="stylesheet" id="tf-google-webfont-roboto-css" href="images/css.css" type="text/css" media="all">
+  <link rel="stylesheet" id="tf-google-webfont-roboto-slab-css" href="images/css_002.css" type="text/css" media="all">
+  <script type="text/javascript" src="images/jquery.js"></script>
+  <script type="text/javascript" src="images/jquery-migrate.js"></script>
+  <script type="text/javascript" src="images/main.js"></script>
+  <script type="text/javascript">
+
+    /* <![CDATA[ */
+
+    var userSettings = { "url": "\/", "uid": "0", "time": "1464682826", "secure": "" };
+
+    /* ]]> */
+
+  </script>
+  <script type="text/javascript" src="images/utils.js"></script>
+  <script type="text/javascript" src="images/jquery_004.js"></script>
+  <script type="text/javascript" src="images/jquery_002.js"></script>
+  <script type="text/javascript">
+
+    /* <![CDATA[ */
+
+    var panelsStyles = { "fullContainer": "body" };
+
+    /* ]]> */
+
+  </script>
+  <script type="text/javascript" src="images/styling-24.js"></script>
+  <script type="text/javascript" src="images/siteorigin-parallax.js"></script>
+  <script type="text/javascript">
+
+    if (typeof ajaxurl === 'undefined') {
+
+      /* <![CDATA[ */
+
+      var ajaxurl = "#";
+
+      /* ]]> */
+
+    }
+
+  </script>
+  <link id="tp_chameleon_stylesheet" type="text/css" rel="stylesheet">
+  <script type="text/javascript" src="images/revolution.extension.video.min.js"></script>
+  <script type="text/javascript" src="images/revolution.extension.slideanims.min.js"></script>
+  <script type="text/javascript" src="images/revolution.extension.actions.min.js"></script>
+  <script type="text/javascript" src="images/revolution.extension.layeranimation.min.js"></script>
+  <script type="text/javascript" src="images/revolution.extension.navigation.min.js"></script>
+  <script>(function () {
+
+
+
+      // Localized variables
+
+      var jQuery, siteUrl = '//univariety.com';
+
+
+
+      // Load jQuery if not present
+
+      if (window.jQuery === undefined || window.jQuery.fn.jquery !== '1.8.3') {
+
+        loadScriptFile('//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js', scriptLoadHandler);
+
+      } else {
+
+        // The jQuery version on the window is the one we want to use
+
+        jQuery = window.jQuery;
+
+        main();
+
+      }
+
+
+
+      // Called once jQuery has loaded
+
+      function scriptLoadHandler() {
+
+        // Restore $ and window.jQuery to their previous values and store the
+
+        // new jQuery in our local jQuery variable
+
+        jQuery = window.jQuery.noConflict(true);
+
+        // Call our main function
+
+        main();
+
+      }
+
+
+
+      function loadCSSFile(url) {
+
+        // Load css from url
+
+        var css_link = jQuery("<link>", {
+
+          rel: "stylesheet",
+
+          type: "text/css",
+
+          href: url
+
+        });
+
+        css_link.appendTo('body');
+
+      }
+
+
+
+      function loadScriptFile(url, callback) {
+
+        // Load script from url and calls callback once it's loaded
+
+        var scriptTag = document.createElement('script');
+
+        scriptTag.setAttribute("type", "text/javascript");
+
+        scriptTag.setAttribute("src", url);
+
+        if (typeof callback == "function") {
+
+          if (scriptTag.readyState) {
+
+            // For old versions of IE
+
+            scriptTag.onreadystatechange = function () {
+
+              if (this.readyState === 'complete' || this.readyState === 'loaded') {
+
+                callback();
+
+              }
+
+            };
+
+          } else {
+
+            scriptTag.onload = callback;
+
+          }
+
+        }
+
+        (document.getElementsByTagName("head")[0] || document.documentElement).appendChild(scriptTag);
+
+      }
+
+
+
+      // main function
+
+      function main() {
+
+        jQuery(document).ready(function ($) {
+
+
+
+          // Load CSS
+
+          var CSSFiles = [
+
+            siteUrl + '/app/css/schoolcalendarbtn.css',
+
+            siteUrl + '/app/css/unicolorbox.css',
+
+          ];
+
+          CSSFiles.forEach(loadCSSFile);
+
+          window.jQuery = jQuery;
+
+          loadScriptFile(siteUrl + '/app/js/jquery.unicolorbox.js');
+
+
+
+          $("#uni-calendar-root").on('click', function () {
+
+            $.unicolorbox({
+
+              href: siteUrl + '/app/siCalendar/index/' + $(this).data('school-id'),
+
+              width: "850px", height: "650px",
+
+              iframe: true,
+
+            });
+
+          });
+
+
+
+          $(".uni-school-info").on('click', function () {
+
+            $.unicolorbox({
+
+              href: siteUrl + '/app/schoolInformation/' + $(this).data('info-label') + '/' + $(this).data('school-id') + '?year=' + $(this).data('uni-year'),
+
+              width: "920px", height: "650px",
+
+              iframe: true
+
+            });
+
+          });
+
+
+
+        });
+
+      }
+
+
+
+    })();</script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HZC8TJ9J9M"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-HZC8TJ9J9M');
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WSPMK93');</script>
+  <!-- End Google Tag Manager -->
+  <!-- Meta Pixel Code -->
+  <script>
+    !function (f, b, e, v, n, t, s) {
+      if (f.fbq) return; n = f.fbq = function () {
+        n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+      };
+      if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+      n.queue = []; t = b.createElement(e); t.async = !0;
+      t.src = v; s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '8073476469398152');
+    fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=8073476469398152&ev=PageView&noscript=1" /></noscript>
+  <!-- End Meta Pixel Code -->
+</head>
+
+<body
+  class="home page page-id-5749 page-template page-template-page-templates page-template-homepage page-template-page-templateshomepage-php  siteorigin-panels siteorigin-panels-home group-blog"
+  id="thim-body">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WSPMK93" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <!-- menu for mobile-->
+  <div id="wrapper-container" class="wrapper-container">
+    <div style="" class="content-pusher ">
+      <header id="masthead" class="site-header bg-custom-sticky sticky-header header_overlay header_v1 affix-top"
+        style="background-image:url(images/top_bg.png)">
+        <div id="toolbar" class="toolbar">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-6 col-md-6 col-lg-8"> <a href="index.php"><img src="images/logo.png"
+                    class="img-responsive "></a> </div>
+              <div class="col-sm-6 col-md-6 col-lg-4">
+                <aside id="text-2" class="widget widget_text"> </aside>
+                <aside id="login-menu-2" class="widget widget_login-menu">
+                  <div class="thim-widget-login-menu thim-widget-login-menu-base">
+                    <div class="thim-link-login display-hide"> <a class="register" href="Walk_About.html"
+                        style="color:#000;">Walk About</a> <a class="login" href="Contact.html"
+                        style="color:#000;">Contact Us</a> <a class="login" href="https://www.facebook.com/dcindore/"
+                        target="_blank" style="vertical-align:bottom"><img src="images/fb.png" class="img-responsive"
+                          width="100%" alt="" /></a> <a class="login" href="https://twitter.com/dcindore/"
+                        target="_blank" style="vertical-align:bottom"><img src="images/tw.png" class="img-responsive"
+                          width="100%" alt="" /></a> <a class="login"
+                        href="https://www.instagram.com/dalycollegeindore/" target="_blank"
+                        style="vertical-align:bottom"><img src="images/in1.png" class="img-responsive" width="100%"
+                          alt="" /></a><a class="login"
+                        href="https://www.youtube.com/channel/UCc28yWYGb8q3C94Og0bu7Kg?view_as=subscriber "
+                        target="_blank" style="vertical-align:bottom"><img src="images/youtube.png"
+                          class="img-responsive" width="100%" alt="" /></a><a class="login" href="https://www.linkedin.com/company/daly-collegeindore
+" target="_blank" style="vertical-align:bottom"><img src="images/lng.png" class="img-responsive" width="100%"
+                          alt="" /></a>
+                      <gcse:search></gcse:search>
+                    </div>
+                  </div>
+                </aside>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--End/div#toolbar-->
+        <!-- <div class="main-menu"> -->
+        <div class="container">
+          <div class="row">
+            <div class="navigation  col-sm-12 col-md-12 col-lg-12">
+              <div class="tm-table">
+                <nav class="width-navigation table-cell table-right" style="font-size:14px">
+                  <ul class="nav navbar-nav menu-main-menu">
+                    <li style=""
+                      class="menu-item menu-item-type-custom menu-item-object-custom drop_to_right widget_area"><a
+                        href="index.php"><span data-hover="Courses">Home</span></a>
+                      <ul style="opacity: 1; display: none; margin-left: 140px !important;"
+                        class="sub-menu submenu_columns_1 submenu-widget">
+                        <li id="siteorigin-panels-builder-10" class="widget widget_siteorigin-panels-builder">
+                          <div id="pl-w56d3feac8c634">
+                            <style scoped>
+                              #pgc-w56d3feac8c634-0-0 {
+                                width: 36%
+                              }
+
+                              #pgc-w56d3feac8c634-0-1 {
+                                width: 32%
+                              }
+
+                              #pgc-w56d3feac8c634-0-2 {
+                                width: 32%
+                              }
+
+                              #pg-w56d3feac8c634-0 .panel-grid-cell {
+                                float: left
+                              }
+
+                              #pl-w56d3feac8c634 .panel-grid-cell .so-panel {
+                                margin-bottom: 30px
+                              }
+
+                              #pl-w56d3feac8c634 .panel-grid-cell .so-panel:last-child {
+                                margin-bottom: 0px
+                              }
+
+                              #pg-w56d3feac8c634-0 {}
+
+                              #pg-w56d3feac8c634-0 .panel-grid-cell {
+                                padding-left: 15px;
+                                padding-right: 15px
+                              }
+
+                              @media (max-width:767px) {
+                                #pg-w56d3feac8c634-0 .panel-grid-cell {
+                                  float: none;
+                                  width: auto
+                                }
+
+                                #pgc-w56d3feac8c634-0-0,
+                                #pgc-w56d3feac8c634-0-1 {
+                                  margin-bottom: 30px
+                                }
+
+                                #pl-w56d3feac8c634 .panel-grid {
+                                  margin-left: 0;
+                                  margin-right: 0
+                                }
+
+                                #pl-w56d3feac8c634 .panel-grid-cell {
+                                  padding: 0
+                                }
+                              }
+                            </style>
+                            <div class="panel-grid" id="pg-w56d3feac8c634-0">
+                              <div class="panel-row-style-thim-megamenu-row thim-megamenu-row panel-row-style">
+                                <div class="panel-grid-cell" id="pgc-w56d3feac8c634-0-0">
+                                  <div class="so-panel widget widget_nav_menu panel-first-child panel-last-child"
+                                    id="panel-w56d3feac8c634-0-0-0" data-index="0">
+                                    <div class=" megaWrapper">
+                                      <ul id="menu-about-courses" class="menu"
+                                        style="text-align:right; font-weight:600;">
+                                        <li class="menu-item menu-item-type-post_type"><a
+                                            href="Principal_Desk.html">Principal's Desk</a></li>
+                                        <li class="menu-item menu-item-type-post_type"><a href="prefect.html">Prefects
+                                            and Captains</a></li>
+                                        
+                                        <li class="menu-item menu-item-type-post_type"><a href="prominent-old-dalians.php">Prominent Old Dalians</a></li>
+<li class="menu-item menu-item-type-post_type"><a href="gallery.php">Photo Gallery</a></li>
+                                      </ul>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="panel-grid-cell" id="pgc-w56d3feac8c634-0-1">
+                                  <div class="so-panel widget widget_courses panel-first-child panel-last-child"
+                                    id="panel-w56d3feac8c634-0-1-0" data-index="1">
+                                    <div class="thim-widget-courses thim-widget-courses-base">
+                                      <h3 class="widget-title">Campus</h3>
+                                      <div class=" megaWrapper">
+                                        <ul id="menu-about-courses" class="menu">
+                                          <li class="menu-item menu-item-type-post_type"><a
+                                              href="Campus.html">Campus</a></li>
+                                          <li class="menu-item menu-item-type-post_type"><a
+                                              href="Facilities.html">Facilities</a></li>
+                                          <li class="menu-item menu-item-type-post_type"><a
+                                              href="Location.html">Location</a></li>
+                                        </ul>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="panel-grid-cell" id="pgc-w56d3feac8c634-0-2">
+                                  <div class="so-panel widget widget_single-images panel-first-child panel-last-child"
+                                    id="panel-w56d3feac8c634-0-2-0" data-index="2">
+                                    <div class="thim-widget-courses thim-widget-courses-base">
+                                      <h3 class="widget-title">Staff</h3>
+                                      <div class=" megaWrapper">
+                                        <ul id="menu-about-courses" class="menu">
+                                          <li class="menu-item menu-item-type-custom"><a
+                                              href="Faculty.php?stype=8">Senior Appointments</a></li>
+                                          <li class="menu-item menu-item-type-custom"><a
+                                              href="Senior_Faculty.php">Senior School</a></li>
+                                          <li class="menu-item menu-item-type-custom"><a
+                                              href="Faculty.php?stype=5">Junior School</a></li>
+                                          <li class="menu-item menu-item-type-custom"><a
+                                              href="Other_Faculty.php">Administrative Staff</a></li>
+                                        </ul>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </li>
+                      </ul>
+                    </li>
+                    <li style=""
+                      class="menu-item menu-item-type-custom menu-item-object-custom drop_to_right widget_area"><a
+                        href="#"><span data-hover="Courses">History</span></a>
+                      <ul style="opacity: 1; display: none; margin-left: 140px !important;"
+                        class="sub-menu submenu_columns_1 submenu-widget">
+                        <li id="siteorigin-panels-builder-10" class="widget widget_siteorigin-panels-builder">
+                          <div id="pl-w56d3feac8c634">
+                            <style scoped>
+                              #pgc-w56d3feac8c634-0-0 {
+                                width: 36%
+                              }
+
+                              #pgc-w56d3feac8c634-0-1 {
+                                width: 32%
+                              }
+
+                              #pgc-w56d3feac8c634-0-2 {
+                                width: 32%
+                              }
+
+                              #pg-w56d3feac8c634-0 .panel-grid-cell {
+                                float: left
+                              }
+
+                              #pl-w56d3feac8c634 .panel-grid-cell .so-panel {
+                                margin-bottom: 30px
+                              }
+
+                              #pl-w56d3feac8c634 .panel-grid-cell .so-panel:last-child {
+                                margin-bottom: 0px
+                              }
+
+                              #pg-w56d3feac8c634-0 {}
+
+                              #pg-w56d3feac8c634-0 .panel-grid-cell {
+                                padding-left: 15px;
+                                padding-right: 15px
+                              }
+
+                              @media (max-width:767px) {
+                                #pg-w56d3feac8c634-0 .panel-grid-cell {
+                                  float: none;
+                                  width: auto
+                                }
+
+                                #pgc-w56d3feac8c634-0-0,
+                                #pgc-w56d3feac8c634-0-1 {
+                                  margin-bottom: 30px
+                                }
+
+                                #pl-w56d3feac8c634 .panel-grid {
+                                  margin-left: 0;
+                                  margin-right: 0
+                                }
+
+                                #pl-w56d3feac8c634 .panel-grid-cell {
+                                  padding: 0
+                                }
+                              }
+                            </style>
+                            <div class="panel-grid" id="pg-w56d3feac8c634-0">
+                              <div class="panel-row-style-thim-megamenu-row thim-megamenu-row panel-row-style">
+                                <div class="panel-grid-cell" id="pgc-w56d3feac8c634-0-0">
+                                  <div class="so-panel widget widget_nav_menu panel-first-child panel-last-child"
+                                    id="panel-w56d3feac8c634-0-0-0" data-index="0">
+                                    <div class=" megaWrapper">
+                                      <ul id="menu-about-courses" class="menu"
+                                        style="text-align:right; font-weight:600;">
+                                        <li class="menu-item menu-item-type-post_type"><a
+                                            href="evolution.html">Evolution</a></li>
+                                        <li class="menu-item menu-item-type-post_type"><a href="founder.html">Founder of
+                                            DC</a></li>
+                                        <li class="menu-item menu-item-type-post_type"><a href="aboutus.html">About
+                                            Us</a></li>
+                                        <li class="menu-item menu-item-type-post_type"><a
+                                            href="presidents_dc.html">Presidents of the Board</a></li>
+                                        <li class="menu-item menu-item-type-post_type"><a href="donors.html">Original
+                                            Donors</a></li>
+                                        <li class="menu-item menu-item-type-post_type"><a href="patrons.html">Patrons of
+                                            the College</a></li>
+                                        <li class="menu-item menu-item-type-post_type"><a href="pc_dc.html">Principals
+                                            at DC</a></li>
+                                        <li class="menu-item menu-item-type-post_type "><a href="firstbatch.html">First
+                                            Batch</a></li>
+                                        <li class="menu-item menu-item-type-post_type"><a href="collegecoat.html">The
+                                            College Coat of Arms</a></li>
+                                        <li class="menu-item menu-item-type-custom menu-item-object-custom "><a
+                                            href="visits.html">Visits of Dignitaries</a></li>
+                                        <li class="menu-item menu-item-type-custom menu-item-object-custom "><a
+                                            href="alumni.html">Alumni</a></li>
+                                      </ul>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="panel-grid-cell" id="pgc-w56d3feac8c634-0-1">
+                                  <div class="so-panel widget widget_courses panel-first-child panel-last-child"
+                                    id="panel-w56d3feac8c634-0-1-0" data-index="1">
+                                    <div class="thim-widget-courses thim-widget-courses-base">
+                                      <h3 class="widget-title">Annual Prize Giving</h3>
+                                      <div class=" megaWrapper">
+                                        <ul id="menu-about-courses" class="menu">
+                                          
+                                          <li class="menu-item menu-item-type-post_type"><a href="zutshi.html">Padma
+                                              Shri RN Zutshi Memorial Medal</a></li>
+                                        </ul>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </li>
+                      </ul>
+                    </li>
+                    <li style="" class="menu-item menu-item-type-custom"><a href="BOG.html"><span
+                          class="disable_link">Board of Governors</span></a></li>
+                    <li style=""
+                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children drop_to_right standard">
+                      <a href="#"><span data-hover="Events">Admissions</span></a><span class="icon-toggle"><i
+                          class="fa fa-angle-down"></i></span>
+                      <ul style="display: none; opacity: 1;" class="sub-menu">
+                        <li class="menu-item menu-item-type-custom"><a href="admission_procedure.html">Admission
+                            Procedure</a></li>
+                        
+                        <li class="menu-item menu-item-type-custom"><a href="Fees_Structure.html">Fee Structure</a></li>
+                        <li class="menu-item menu-item-type-custom"><a href="Registration.html">Registration</a></li>
+                      </ul>
+                    </li>
+                    <li style=""
+                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children drop_to_right standard">
+                      <a href="#"><span data-hover="Events">Academics</span></a><span class="icon-toggle"><i
+                          class="fa fa-angle-down"></i></span>
+                      <ul style="display: none; opacity: 1;" class="sub-menu">
+                        <li class="menu-item menu-item-type-custom">
+                          <h6 class="widget-title">CBSE Section</h6>
+                        </li>
+                        <li class="menu-item menu-item-type-custom"><a href="Committee.php">-- Committee</a></li>
+                        <li class="menu-item menu-item-type-custom"><a href="ak.html">-- Mandatory Disclosure</a></li>
+                        <li class="menu-item menu-item-type-custom"><a href="tc-download.php">-- Transfer
+                            Certificate</a></li>
+
+
+
+                      </ul>
+                    </li>
+                    <li style=""
+                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children drop_to_right standard">
+                      <a href="#"><span data-hover="Events">Career & College Guidance</span></a><span
+                        class="icon-toggle"> <i class="fa fa-angle-down"></i></span>
+                      <ul style="display: none; opacity: 1;" class="sub-menu">
+                        <li class="menu-item "><a href="career-guidance.php" class=""> Career Guidance Activities</a>
+                        </li>
+                        <li class="menu-item "><a href="https://www.icscareersonline.com/" target="_blank">ICS Career
+                            Login</a></li>
+                        <li class="menu-item"><a href="Placement-Records.php">Placement Records</a></li>
+                        <li class="menu-item"><a href="Career-Guidance-Calendar.php">Career Guidance Calendar</a></li>
+                      </ul>
+                    </li>
+                    <li style=""
+                      class="menu-item menu-item-type-custom menu-item-object-custom drop_to_right widget_area"><a
+                        href="#"><span data-hover="Courses">Internationalism</span></a>
+                      <ul style="left: 2px;; display: none; opacity: 1;"
+                        class="sub-menu submenu_columns_1 submenu-widget">
+                        <li id="siteorigin-panels-builder-10" class="widget widget_siteorigin-panels-builder">
+                          <div id="pl-w56d3feac8c634">
+                            <style scoped>
+                              #pgc-w56d3feac8c634-0-0 {
+                                width: 36%
+                              }
+
+                              #pgc-w56d3feac8c634-0-1 {
+                                width: 32%
+                              }
+
+                              #pgc-w56d3feac8c634-0-2 {
+                                width: 32%
+                              }
+
+                              #pg-w56d3feac8c634-0 .panel-grid-cell {
+                                float: left
+                              }
+
+                              #pl-w56d3feac8c634 .panel-grid-cell .so-panel {
+                                margin-bottom: 30px
+                              }
+
+                              #pl-w56d3feac8c634 .panel-grid-cell .so-panel:last-child {
+                                margin-bottom: 0px
+                              }
+
+                              #pg-w56d3feac8c634-0 {}
+
+                              #pg-w56d3feac8c634-0 .panel-grid-cell {
+                                padding-left: 15px;
+                                padding-right: 15px
+                              }
+
+                              @media (max-width:767px) {
+                                #pg-w56d3feac8c634-0 .panel-grid-cell {
+                                  float: none;
+                                  width: auto
+                                }
+
+                                #pgc-w56d3feac8c634-0-0,
+                                #pgc-w56d3feac8c634-0-1 {
+                                  margin-bottom: 30px
+                                }
+
+                                #pl-w56d3feac8c634 .panel-grid {
+                                  margin-left: 0;
+                                  margin-right: 0
+                                }
+
+                                #pl-w56d3feac8c634 .panel-grid-cell {
+                                  padding: 0
+                                }
+                              }
+                            </style>
+                            <div class="panel-grid" id="pg-w56d3feac8c634-0">
+                              <div class="panel-row-style-thim-megamenu-row thim-megamenu-row panel-row-style">
+                                <div class="panel-grid-cell" id="pgc-w56d3feac8c634-0-0">
+                                  <div class="so-panel widget widget_nav_menu panel-first-child panel-last-child"
+                                    id="panel-w56d3feac8c634-0-0-0" data-index="0">
+                                    <h3 class="widget-title">Round Square</h3>
+                                    <div class=" megaWrapper">
+                                      <ul id="menu-about-courses" class="menu">
+                                        <li class="menu-item menu-item-type-post_type"><a
+                                            href="About_Roundsquare.html">About RS</a></li>
+                                        <li class="menu-item menu-item-type-post_type"><a href="rs_con_dc.html">RS
+                                            Conferences</a></li>
+                                        <li class="menu-item menu-item-type-post_type"><a
+                                            href="rs_zoom_postcard.html">RS ZOOM Postcard</a></li>
+                                        <li class="menu-item menu-item-type-post_type"><a href="Exchanges.html">RS
+                                            Exchanges at DC</a></li>
+                                        <li class="menu-item menu-item-type-post_type"><a href="Rs_dc.html">RS
+                                            Collaborative Projects</span></a></li>
+                                        <li class="menu-item menu-item-type-post_type"><a
+                                            href="service_project_main.html">Service at DC inspired by RS</a></li>
+                                      </ul>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="panel-grid-cell" id="pgc-w56d3feac8c634-0-1">
+                                  <div class="so-panel widget widget_courses panel-first-child panel-last-child"
+                                    id="panel-w56d3feac8c634-0-1-0" data-index="1">
+                                    <div class="thim-widget-courses thim-widget-courses-base">
+                                      <h3 class="widget-title">&nbsp;</h3>
+                                      <div class=" megaWrapper">
+                                        <ul id="menu-about-courses" class="menu">
+                                          <li class="menu-item menu-item-type-post_type"><a href="rsis.html">RSIS</a>
+                                          </li>
+                                          <li class="menu-item menu-item-type-post_type"><a
+                                              href="Students_Commitee.htm">RS Student Committee</a></li>
+                                          <li class="menu-item menu-item-type-post_type"><a href="fraising.html">Fund
+                                              Raising</a></li>
+                                          <li class="menu-item menu-item-type-post_type"><a
+                                              href="http://www.roundsquare.org/" target="_blank">RS Website</a></li>
+                                        </ul>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="panel-grid-cell" id="pgc-w56d3feac8c634-0-2">
+                                  <div class="so-panel widget widget_single-images panel-first-child panel-last-child"
+                                    id="panel-w56d3feac8c634-0-2-0" data-index="2">
+                                    <div class="thim-widget-courses thim-widget-courses-base">
+                                      <h3 class="widget-title">AFS</h3>
+                                      <div class=" megaWrapper">
+                                        <ul id="menu-about-courses" class="menu">
+                                          <li class="menu-item menu-item-type-post_type"><a href="about_afs.html">About
+                                              AFS &amp; Program Details </a></li>
+                                          <li class="menu-item menu-item-type-post_type"><a href="#">AFS India, Indore
+                                              Chapter &amp; AFS Alumni</a></li>
+                                          <li class="menu-item menu-item-type-post_type"><a href="afs_exchange.html">AFS
+                                              Exchange Programs</a></li>
+                                          <li class="menu-item menu-item-type-post_type"><a href="#">AFS 2014 - Program
+                                              Details</a></li>
+                                          <li class="menu-item menu-item-type-post_type"><a href="afs_news.php">Reports
+                                              on AFS</a></li>
+                                          <li class="menu-item menu-item-type-post_type"><a
+                                              href="british.html"><strong>British Council</strong></a></li>
+                                        </ul>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </li>
+                      </ul>
+                    </li>
+                    <li style=""
+                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children drop_to_right standard">
+                      <a href="#"><span data-hover="Events">Pastoral Care</span></a><span class="icon-toggle"><i
+                          class="fa fa-angle-down"></i></span>
+                      <ul style="display: none; opacity: 1;" class="sub-menu">
+                        <li class="menu-item menu-item-type-post_type"><a href="career.html">Career</a></li>
+                        <li class="menu-item menu-item-type-post_type"><a href="st_council.html">Student Counselling</a>
+                        </li>
+                        <li class="menu-item menu-item-type-post_type"><a href="focus.html">Focus</a></li>
+                        <li class="menu-item menu-item-type-post_type"><a href="House_Deatils.html">House Details</a>
+                        </li>						
+						<li class="menu-item menu-item-type-post_type"><a href="Healthcare-Wellness-Facilities.html">Healthcare Wellness Facilities</a></li>
+						<li class="menu-item menu-item-type-post_type"><a href="boarding-life.html">Boarding Life</a></li>
+                      </ul>
+                    </li>
+                    <li style=""
+                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children drop_to_right standard">
+                      <a href="#"><span data-hover="Events">Sports</span></a><span class="icon-toggle"><i
+                          class="fa fa-angle-down"></i></span>
+                      <ul style="display: none; opacity: 1;" class="sub-menu">
+                        <li class="menu-item menu-item-type-custom"><a href="cricket.html">Cricket</a></li>
+                        <li class="menu-item menu-item-type-custom"><a href="Football.html">Football</a></li>
+                        <li class="menu-item menu-item-type-custom"><a href="badminton.html">Badminton</a></li>
+<li class="menu-item menu-item-type-custom"><a href="Basketball.html">Basketball</a></li>
+                        <li class="menu-item menu-item-type-custom"><a href="Hockey.html">Hockey</a></li>
+                        <li class="menu-item menu-item-type-custom"><a href="Squash.html">Squash</a></li>
+                        <li class="menu-item menu-item-type-custom"><a href="Swimming.html">Swimming</a></li>
+                        <li class="menu-item menu-item-type-custom"><a href="Tennis.html">Tennis</a></li>
+                        <li class="menu-item menu-item-type-custom"><a href="Shooting.html">Shooting</a></li>
+                        <li class="menu-item menu-item-type-custom"><a href="Athletics.html">Athletics</a></li>
+                        <li class="menu-item menu-item-type-custom"><a href="Other_Sports.html">Other Sports</a></li>
+                        <li class="menu-item menu-item-type-custom"><a href="sports_news.php">Sports News</a></li>
+                        <li class="menu-item menu-item-type-custom"><a href="photo_dptwisesports.php?dpt=Sports">Sports
+                            Photo Gallery</a></li>
+                      </ul>
+                    </li>
+                    <li style=""
+                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children drop_to_right standard">
+                      <a href="#"><span data-hover="Events">Co-Curricular</span></a>
+                      <ul style="display: none; opacity: 1;" class="sub-menu">
+                        <li class="menu-item menu-item-type-custom"><a href="p_art.html">Performing Arts</a></li>
+                        <li class="menu-item menu-item-type-custom"><a href="s_art.html">Visual Art</a></li>
+                        <li class="menu-item menu-item-type-custom"><a href="c_acti.html">Co-Curricular Activities</a>
+                        </li>
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                            href="technocrats-club.html">Technocrats Club</a></li>
+                        <li class="menu-item menu-item-type-custom"><a href="sub_apg.html">Subject Exhibition at APG</a>
+                        </li>
+                        <li class="menu-item menu-item-type-post_type vipin"><a href="service.html">Service</a></li>
+						<li class="menu-item menu-item-type-post_type vipin"><a href="service.html">Quiz</a></li>
+						<li class="menu-item menu-item-type-post_type vipin"><a href="mun.html">MUN</a></li>
+						
+                      </ul>
+                    </li>
+                    <li style=""
+                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children drop_to_right standard">
+                      <a href="careers-in-dc.php"><span data-hover="Events">Careers in DC</span></a></li>
+                  </ul>
+                  <!--</div>-->
+                </nav>
+                <div class="menu-mobile-effect navbar-toggle" data-effect="mobile-effect"> <span
+                    class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </div>
+              </div>
+              <!--end .row-->
+            </div>
+          </div>
+        </div>
+      </header>
+      <!-- Mobile Menu-->
+      <nav class="mobile-menu-container mobile-effect" style="background-color:#232323;">
+        <ul class="nav navbar-nav">
+          <li
+            class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children drop_to_right multicolumn">
+            <a href="#"><span data-hover="Demos">Home</span></a><span class="icon-toggle"><i
+                class="fa fa-angle-down"></i></span>
+            <ul class="sub-menu megacol submenu_columns_3">
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+                <ul class="sub-menu">
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="Principal_Desk.html">Principal's Desk</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="prefect.html">Prefects
+                      and Captains</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="synopsis.html">Synopsis
+                      on DC</a></li>
+                  
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="prominent-old-dalians.php">Prominent Old Dalians</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="gallery.php">Photo Gallery</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="Campus.html">Campus</a>
+                  </li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="Facilities.html">Facilities</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="Location.html">Location</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="Faculty.php?stype=8">Senior Appointments</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="Senior_Faculty.php">Senior School</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="Faculty.php?stype=5">Junior School</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="Other_Faculty.php">Administrative Staff</a></li>
+                </ul>
+              </li>
+              <li
+                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children">
+              </li>
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> </li>
+            </ul>
+          </li>
+          <li
+            class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children drop_to_right multicolumn">
+            <a href="#"><span data-hover="Demos">History</span></a><span class="icon-toggle"><i
+                class="fa fa-angle-down"></i></span>
+            <ul class="sub-menu megacol submenu_columns_3">
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+                <ul class="sub-menu">
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#">Principal Desk</a>
+                  </li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="evolution.html">Evolution</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="founder.html">Founder of
+                      DC</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="aboutus.html">About
+                      Us</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="presidents_dc.html">Presidents of the Board</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="donors.html">Original
+                      Donors</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="patrons.html">Patrons of
+                      the College</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="pc_dc.html">Principals at
+                      DC</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom "><a href="firstbatch.html">First
+                      Batch</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="collegecoat.html">The
+                      College Coat of Arms</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="dc_award.html">Annual
+                      Prize Giving</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="pre_Speeches.html">Speeches </a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom "><a href="visits.html">Visits of
+                      Dignitaries</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom "><a href="alumni.html">Alumni</a>
+                  </li>
+                </ul>
+              </li>
+              <li
+                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children">
+              </li>
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> </li>
+            </ul>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom "> <a href="BOG.html">Board of
+              Governors</a></li>
+          <li
+            class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children drop_to_right multicolumn">
+            <a href="#"><span data-hover="Demos">Admissions</span></a><span class="icon-toggle"><i
+                class="fa fa-angle-down"></i></span>
+            <ul class="sub-menu megacol submenu_columns_3">
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+                <ul class="sub-menu">
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="admission_procedure.html">Admission Procedure</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="dc.pdf"
+                      target="_blank">E-Brochure</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="Fees_Structure.html">Fee
+                      Structure</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="Registration.html">Registration</a></li>
+                </ul>
+              </li>
+              <li
+                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children">
+              </li>
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> </li>
+            </ul>
+          </li>
+          <li
+            class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children drop_to_right multicolumn">
+            <a href="#"><span data-hover="Demos">Academics</span></a><span class="icon-toggle"><i
+                class="fa fa-angle-down"></i></span>
+            <ul class="sub-menu megacol submenu_columns_3">
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+                <ul class="sub-menu">
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom">
+                    <h6 class="widget-title">CBSE Section</h6>
+                  </li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="Committee.php">--
+                      Committee</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="ak.html">-- Mandatory Disclosure</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="result-x.html">-- Result</a></li>
+
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="tc-download.php">--
+                      Transfer Certificate</a></li>
+
+
+
+                </ul>
+              </li>
+              <li
+                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children">
+              </li>
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> </li>
+            </ul>
+          </li>
+          <li
+            class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children drop_to_right multicolumn">
+            <a href="#"><span data-hover="Demos">Career & Guidance</span></a><span class="icon-toggle"><i
+                class="fa fa-angle-down"></i></span>
+            <ul class="sub-menu megacol submenu_columns_3">
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+                <ul class="sub-menu">
+                  <li class="menu-item "><a href="career-guidance.php" class=""> Career Guidance Activities</a></li>
+                  <li class="menu-item "><a href="https://www.icscareersonline.com/" target="_blank">ICS Career
+                      Login</a></li>
+                  <li class="menu-item"><a href="Placement-Records.php">Placement Records</a></li>
+                  <li class="menu-item"><a href="Career-Guidance-Calendar.php">Career Guidance Calendar</a></li>
+                  <li class="menu-item menu-item-type-custom"><a href="pdf/Application-Format.pdf" target="_blank">Form
+                      For Careers in DC</a></li>
+                </ul>
+              </li>
+              <li
+                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children">
+              </li>
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> </li>
+            </ul>
+          </li>
+          <li
+            class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children drop_to_right multicolumn">
+            <a href="#"><span data-hover="Demos">Internationalism</span></a><span class="icon-toggle"><i
+                class="fa fa-angle-down"></i></span>
+            <ul class="sub-menu megacol submenu_columns_3">
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+                <ul class="sub-menu">
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="About_Roundsquare.html">About RS</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="rs_con_dc.html">RS
+                      Conferences</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="rs_zoom_postcard.html">RS
+                      ZOOM Postcard</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="Exchanges.html">RS
+                      Exchanges at DC</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="Rs_dc.html">RS
+                      Collaborative Projects</span></a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="service_project_main.html">Service at DC inspired by RS</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="rsis.html">RSIS</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="Students_Commitee.htm">RS
+                      Student Committee</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="fraising.html">Fund
+                      Raising</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="http://www.roundsquare.org/" target="_blank">RS Website</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="about_afs.html">About AFS
+                      &amp; Program Details </a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#">AFS India, Indore
+                      Chapter &amp; AFS Alumni</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="afs_exchange.html">AFS
+                      Exchange Programs</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#">AFS 2014 - Program
+                      Details</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="afs_news.php">Reports on
+                      AFS</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="british.html"><strong>British Council</strong></a></li>
+                </ul>
+              <li
+                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children">
+              </li>
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> </li>
+            </ul>
+          </li>
+          <li
+            class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children drop_to_right multicolumn">
+            <a href="#"><span data-hover="Demos">Sports</span></a><span class="icon-toggle"><i
+                class="fa fa-angle-down"></i></span>
+            <ul class="sub-menu megacol submenu_columns_3">
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+                <ul class="sub-menu">
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="cricket.html">Cricket</a>
+                  </li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="Football.html">Football</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="badminton.html">Badminton</a></li>
+              <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="Basketball.html">Basketball</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="Hockey.html">Hockey</a>
+                  </li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="Squash.html">Squash</a>
+                  </li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="Swimming.html">Swimming</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="Tennis.html">Tennis</a>
+                  </li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="Shooting.html">Shooting</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="Athletics.html">Athletics</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="Other_Sports.html">Other
+                      Sports</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="sports_news.php">Sports
+                      News</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="photo_dptwisesports.php?dpt=Sports">Sports Photo Gallery</a></li>
+                </ul>
+              </li>
+              <li
+                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children">
+              </li>
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> </li>
+            </ul>
+          </li>
+          <li
+            class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children drop_to_right multicolumn">
+            <a href="#"><span data-hover="Demos">Co-Curricular</span></a><span class="icon-toggle"><i
+                class="fa fa-angle-down"></i></span>
+            <ul class="sub-menu megacol submenu_columns_3">
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+                <ul class="sub-menu">
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="p_art.html">Performing
+                      Arts</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="s_art.html">Visual
+                      Art</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="c_acti.html">Co-Curricular Activities</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                      href="technocrats-club.html">Technocrats Club</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="sub_apg.html">Subject
+                      Exhibition at APG</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom vipin"><a
+                      href="service.html">Service</a></li>
+                </ul>
+              </li>
+              <li
+                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children">
+              </li>
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"> </li>
+            </ul>
+          </li>
+          <li
+            class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children drop_to_right multicolumn">
+            <a href="careers-in-dc.php"><span data-hover="Demos">Careers in DC</span></a><span class="icon-toggle"><i
+                class="fa fa-angle-down"></i></span> </li>
+        </ul>
+      </nav>
+      <div id="main-content">
+        <section class="content-area" style="min-height: 353px;">
+          <div style="color: rgb(255, 255, 255); background-image: url(images/top-slider.jpg); padding-top: 84px;"
+            class="top_site_main">
+            <div class="page-title-wrapper">
+              <div class="banner-wrapper container">
+                <h2>Salient Features</h2>
+              </div>
+            </div>
+          </div>
+          <div class="container site-content sidebar-right">
+            <div class="row">
+              <main class="site-main col-sm-9 alignleft" id="main">
+                <div class="container-wrap" id="container">
+                  <div class="container" role="main" id="content">
+                    <div class="learnpress-content learn-press">
+                      <article id="post-5393"
+                        class="post-5393 lp_course type-lp_course status-publish has-post-thumbnail course_category-frontend pmpro-has-access"
+                        itemscope="">
+                        <h1 itemprop="name" class="entry-title"><img width="24" height="22" src="images/main_icon.png">
+                          Campus – Salient Features</h1>
+                        <p class="sub_txt"><strong>Founded: 1882, Area: 118 Acres</strong></p>
+                        <h2><img src="images/main_icon2.png"> Secular</h2>
+                        <p class="txt">The School believes in total secularism and respects all religions. There is a
+                          temple and also a mosque built in early last century but attendance is entirely voluntary and
+                          open to all communities.</p>
+                        <h2><img src="images/main_icon2.png"> Temple</h2>
+                        <p class="txt"> <img class="img-rounded box-sd-l" src="images/temple.jpg"> The college temple
+                          was built by the Indore Durbar and was funded by His Highness Charkhari. His Highness the
+                          Maharaja of Udaipur gave the "Murtis" for the temples. It was opened on 28 August, 1910</p>
+                        <p class="txt">The temple of DC was built in the Malwa style. The beautiful idol of Radha
+                          –Krishna over whelms the eye. The temple is looked after by pujari Ram Kishore Pandey and
+                          Sahej Ram.</p>
+                        <p class="txt">The temple is open every day in the morning as well as in the evening. On
+                          festivals and special occasions, functions are organized in the temple.</p>
+                        <p class="txt">&nbsp;</p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Mosque</h2>
+                        <p class="txt"><img class="img-rounded box-sd-r" src="images/mosque.jpg">The College Mosque was
+                          built by Her Highness the Begum of Bhopal and was opened on 19 December, 1910.</p>
+                        <p class="txt">The College Mosque is one of the most beautiful buildings in school campus. It is
+                          located in the northern side of the campus and faces the west. It is very beautifully designed
+                          with very good interiors. The top of the Mosque has four big domes, which are like the four
+                          minars of the Mosque. As you enter the Mosque, you will come across an open passage way and
+                          then enter into a big hall where you can see many wall hangings which depict the pictures of
+                          the holy place like Mecca and Medina. There are also few small rooms, which are used by the
+                          people who come to the Mosque to get ready for a prayer, which is called Namaz. Every day
+                          Muslim students and teachers come to the Mosque to perform the holy prayers. On every Friday,
+                          almost the entire Muslim community of the campus assembles at the Mosque to do the special
+                          prayer. On each Friday, all the students and teachers perform the special prayer, which is
+                          lead by the Pesh-e-Imam. The Pesh – e –Imam of the college Mosque is Maulana Sultan Ahmed. The
+                          in-charge of the College Mosque and its activities is Mr. A.S. Ansari and Mr. Saif Siddiqui is
+                          the Assistant In charge.</p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Discipline</h2>
+                        <p class="txt">The Daly College lays emphasis on self-discipline. Corporal punishment is not
+                          permitted.</p>
+                        <div class="bdr"> </div>
+                        <h2><img src="images/main_icon2.png"> Value System</h2>
+                        <p class="txt">Parents should be aware before registering their children that the Daly College
+                          lays great emphasis on Indian values and culture. There is a strong philosophy of tolerance,
+                          honesty, non-violence, courtesy and respect and these traditions are greatly valued in the
+                          community. A child who is unable to conform to the community's ethos will be asked to leave.
+                        </p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Self Governance:</h2>
+                        <p class="txt">The students are involved as Prefects, Captains, Vice Captains and Class
+                          Monitors, as Assistant Editors of the school publications, as representatives on the Student
+                          Council, the Games Committee, the Round Square Committee, the Social Service League, the Mess
+                          Committee and clubs like Green Club. These facilitate them develop a lot of sense of ownership
+                          and commitment towards system.</p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Student Composition</h2>
+                        <p class="txt">As the first Chiefs’ College in 1870 and subsequently as a founding member of
+                          IPSC in 1939, DC is committed to uphold the aims & objectives of its founding fathers. The
+                          Daly College has never been seen as a neighbourhood school but been acknowledged as a national
+                          school with moral obligations to its neighbourhood as also to the less privileged. DC is
+                          expected to replicate at micro level the composition of our nation, in terms of regional,
+                          ethnic, social, financial and professional diversity.</p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png">Educational Facilities<strong></strong></h2>
+                        <p class="txt">The school promotes coeducational day cum residential facility. Day boarders are
+                          admitted from Nursery to III while boarders are admitted from class IV upwards.<br>
+                          Term Dates: The academic year starts in March/ April. <br>
+                          First Term - June to December <br>
+                          Second Term - January to April<br>
+                          <strong>Medium of Instruction</strong> : English
+                        </p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Academic Languages </h2>
+                        <p class="txt">The academic languages taught are English, Hindi, Sanskrit, French and German.
+                          Sanskrit / French / German is offered as 3rd language from grade VI- VIII. Hindi / French is
+                          offered as second language up to grades IX & X. XII onwards the language offered is
+                          compulsorily English.</p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Streams offered in Grade XI</h2>
+                        <p class="txt">Science, Commerce & Humanities are offered as subject streams in grade XI.</p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Administration</h2>
+                        <p class="txt">Academic activities are monitored by the Principal, Sr. Vice Principal, Dean
+                          Academics and Class Teachers. They are assisted by heads of Departments in respective
+                          subjects. In addition there are coordinators for different grades.</p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> The Junior School</h2>
+                        <p class="txt">The Junior School (I-VI) has a Headmistress, Dean Jr. School, Heads of
+                          Departments and Coordinators for grades I to III. Monitoring of student performance is an
+                          ongoing process throughout the year. Parents are encouraged to interact with the staff at all
+                          levels and on a monthly basis.</p>
+                        <p class="txt">There is a Pre-Primary section (Nursery to UKG) and is headed by a Dean</p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Educational Aids</h2>
+                        <p class="txt">1- The school has computer aided learning facilities in classrooms in addition to
+                          well equipped laboratories for the sciences, computer education and geography. <br>
+                          2 - Computers with Internet facilities are available in the library and the student houses.
+                          <br>
+                          3 - The school has fully fledged laboratories for Physics, Chemistry, Biology, C++, Web-Tech,
+                          IP, Geography, Math and Language.</p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Communication Skills</h2>
+                        <p class="txt">A lot of emphasis is laid in developing communication skills of students. This is
+                          facilitated through a large number of debates, public speaking & presentations at Assembly.
+                          Dramatics is an added feature to hone up speaking skills besides regular lessons in Language
+                          Laboratories for English language.</p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Remedial Classes</h2>
+                        <p class="txt">Remedial classes are organised on request for up to two subjects at a time.</p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Enrichment Classes</h2>
+                        <p class="txt">Special classes are held for 15 days in the winter vacations for students of
+                          classes X & XII.</p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Pastoral Care</h2>
+                        <p class="txt">he students live in Houses looked after by a Housemaster or Housemistress. There
+                          are also Assistant Housemasters /Mistresses, tutors, matrons and other support staff that look
+                          after children and monitor their physical, intellectual and emotional development. Prep is
+                          supervised and teachers assist students with homework and academic work. </p>
+                        <p class="txt">The Daly College has five boys’ Houses namely Ashok, Vikram and Rajendra for
+                          resident students while Jawahar and Tagore houses are for day boarders. However, students
+                          while belonging to the above Houses actually reside in age specific residences. For boys these
+                          are Malwa House, Holkar House and the three main Houses.</p>
+                        <p class="txt">Similarly, there is one girls’ residential House, Bharti House. Indira and Ahilya
+                          Houses cater to day scholars.</p>
+                        <p class="txt">School actively promotes and conducts various Inter House competitions between
+                          the above Houses. The Boarding House coordinator is Mr. Dominic John.</p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Counseling Services</h2>
+                        <p class="txt">The School provides personalized Career Counseling and Students’ Counseling
+                          Services for students’ benefit. In addition, FOCUS is the centre for desired improvements in
+                          children with special abilities. DC has four full time Special Education Counselors for
+                          students with learning disabilities. </p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Pocket Money</h2>
+                        <p class="txt">Pocket money is fixed as per age groups. Private money and credit/debit accounts
+                          are not permitted. This is to ensure equality on campus. </p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Hospital</h2>
+                        <p class="txt">The college has a 30 bed hospital on campus. Dr. S. Maitra is the Chief Medical
+                          Officer, who is assisted by a resident gynecologist, four resident nursing sisters, a
+                          physiotherapist and para medical staff.
+
+                          There are empanelled specialists in Indore to who children are referred for specialized
+                          treatments. </p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Career Guidance</h2>
+                        <p class="txt">The school runs a professionally supported career counseling programme, both in
+                          groups and on a one-to-one basis. Parents are encouraged to become involved in this programme.
+                          We also have arrangements with professional Institutes for coaching our students for SAT and
+                          for entrance tests for NDA, Medical, IIT/ AIEEE (Engineering) Law School and CPT for C. A.
+                          course. </p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Educational / Adventure tours</h2>
+                        <p class="txt"> These are organised each year during the Dussehra break and are optional.
+                          Foreign tours and exchanges with schools abroad are also organised in the vacations. </p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Outings</h2>
+                        <p class="txt"> In addition to religious holidays as specified in the school calendar, students
+                          are allowed out on the second weekend of the month. </p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Travel Arrangements</h2>
+                        <p class="txt"> The school makes travel arrangements to and from home as per guidelines
+                          available in the office. Escorts are provided and children travelling under private
+                          arrangements are seen off received at the airport / railway station. Parents are advised to
+                          check with “Important Notices” section on home page for the same. </p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Sports</h2>
+                        <p class="txt"> The school is well recognised for its high sports standard especially in hockey,
+                          football, squash, basketball and cricket. There is a Tennis academy which utilizes 4 of the 9
+                          courts. There are 8 squash courts, 9 basketball courts, 2 volleyball courts, a skating rink, a
+                          gymnasium, badminton, table tennis and chess. The 2 cricket green are of Ranji Trophy
+                          standard, there are 2 soccer pitches, 2 hockey pitches, an athletic complex with a 400m track,
+                          cross country, 3 swimming pools including a 50m pool, a 25 lane indoor shooting range, an
+                          outdoor shooting range and an obstacle course. </p>
+                        <p class="txt">There are a total of 7 sports pavilions. The oldest Pavilion is the Scindia
+                          Cricket Pavilion built in 1910 and described by the sports correspondent of the London Times
+                          as the best in India during the MCC tour of 1933. The Bolia Fund and the Vikram- Rajadhyaksh
+                          Fund sponsor overseas coaches.</p>
+                        <p class="txt">The Central India squash is held regularly at DC and the school hosts a tennis
+                          academy. Other games include football, volleyball, table tennis, karate, aerobics, gymnastics,
+                          skating, athletics, swimming, water polo and shooting. There are 49 physical training coaches
+                          assisting the students in various disciplines. Girls are emerging with strong teams in
+                          cricket, hockey, squash, basketball, athletics, swimming, football and shooting. Yoga is also
+                          offered.</p>
+                        <p class="txt">Mr. Dharam Verma, Dean, Sports, is assisted by over 50 full time and part time
+                          sports instructors and coaches</p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> IPSC & RS</h2>
+                        <p class="txt"> As members of the IPSC and the Round Square International, children go all over
+                          India and abroad to mix, work and compete with children from other schools. <br>
+                          The Daly College is proud to be global member of the Round Square. RS is a not-profit charity
+                          registered in the UK. Currently Round Square works with more than a hundred member schools
+                          worldwide representing a student capacity in the region of 60,000 and a teacher/management
+                          workforce of around 5,000. It is students’ centric in nature and organizes regional and
+                          international conferences, MUNs, workshops, exchanges and community services projects based
+                          upon IDEALS i.e. its six pillars of Internationalism, Democracy, Exchanges, Adventure,
+                          Leadership and Services. International exposure is an integral part of Round Square. </p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Cultural & Social Activities</h2>
+                        <p class="txt"> A state of art hobby centre (CTDC) caters to the creative talent of the
+                          students. It has spacious and aesthetic facilities for Fine Arts, Sculpture, Pottery,
+                          Woodcraft, Photography, Electronics, Bamboo Craft, Needlework amongst still arts and Music,
+                          Dance and Dramatics and performing arts. There are over twenty-two teachers and instructors
+                          for art, sculpture, craft, music, band, dance, and choreography in the flagship of Mr. Ahmad
+                          Ansari, Dean Cultural Affairs. Woodwork, photography, dramatics, and quiz are equally popular.
+                          Children are involved in the publication of a magazine, newsletter and its supplements. </p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> The Social Service League</h2>
+                        <p class="txt">The School students actively organise service works in the Helpage medical camps
+                          & schools for visually impaired children. They are also are made aware of the need to protect
+                          and sustain the environment. The school has its own paper recycling, rain water harvesting and
+                          water recycling schemes for the grounds and the gardens being regularly run under Green Club
+                          flagship. </p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Resource Centre</h2>
+                        <p class="txt">The Daly College has a Resource Centre open to DC teachers & students as well as
+                          schools of Indore and beyond. This is a not-profit service to the community that extends
+                          information links to learners’ benefit. The centre regularly conducts training workshops for
+                          professional development.</p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Dhirubhai Ambani Auditorium</h2>
+                        <p class="txt">An air-conditioned auditorium, with a capacity to accommodate 1200 people, is one
+                          of the crowning glories of the school. Here the students make use of their creative abilities
+                          and various competitions and functions are organized from time to time. Assembly is held here
+                          on a daily basis.</p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> The Kataria & Desai Lakes</h2>
+                        <p class="txt">Pond and Lakes are valuable natural resources. They add to the beauty of the
+                          landscape, provide recreation, and are habitats for fish and wildlife, an additional water
+                          source if needed. However, the good health of a pond is held in a delicate balance. A pond's
+                          condition deteriorates when the bottom environment cannot support animal life. The bottom is
+                          the area that runs out of oxygen first, it is where the most oxygen is used and it is the
+                          farthest from the surface where it is replenished. Without oxygen a lake or pond’s
+                          self-purification capability is not only reduced, it is reversed. The small animals, snails,
+                          worms, bacteria, etc., which help keep a pond clean cannot live and the pond's nutrients are
+                          then recycled from the sediment. This forms a layer of muck at the bottom, which serves as a
+                          fertilizer for weed and excessive algae growth. It could also cause large fish kills.</p>
+                        <p class="txt">Aeration means adding air to the water. To restore a lake to health, it is
+                          essential to get oxygen down to the lake bottom. Lake Bed Aeration not only adds oxygen to the
+                          surface water but to the water at the bottom of the lake as well. Once the lake is full of
+                          oxygen near the bottom, beneficial aquatic insect larvae and snails.</p>
+                        <div class="bdr"></div>
+                        <h2><img src="images/main_icon2.png"> Catering</h2>
+                        <p class="txt">he school runs its own kitchen, dining hall bakery & cafe ensuring wholesome and
+                          tasty food. Menus are fixed in consultation with the students and a dietician. The menu is
+                          planned with care to ensure that the food is nutritious and balanced. Non-vegetarian food is
+                          prepared separately in the kitchen and the vegetarians are seated separately in the dining
+                          hall. The school has two dining halls with services for the senior and the junior students.
+                          The students' Mess Committee influences the planning of the menu. Mr. Deepak Nirula is our
+                          honorary consultant. Mr. Narsimham is the Mess Manager.</p>
+                        <p class="txt">Sharing the campus with the school is the Daly College Business School. The DCBS
+                          is an integral part of the School making DC the only Public School to run a Business School,
+                          affiliated to a British University with an honours degree recognised in India and abroad.
+                          Students of DC, after Class XII, are offered preferential admission in the Business School.
+                        </p>
+                      </article>
+                    </div>
+                    <!-- // .learnpress-content -->
+                  </div>
+                </div>
+              </main>
+              <div role="complementary" class="widget-area col-sm-3 sticky-sidebar" id="sidebar"
+                style="position: relative; overflow: visible; box-sizing: border-box; min-height: 1px;">
+                <div class="theiaStickySidebar"
+                  style="padding-top: 0px; padding-bottom: 1px; position: static; top: 20px; left: 1106.5px;">
+                  <aside class="widget widget_course-categories" id="course-categories-2">
+                    <div class="thim-widget-course-categories thim-widget-course-categories-base">
+                      <h4 class="widget-title">Home</h4>
+                      <ul>
+                        <li class="cat-item cat-item-36"><a href="Principal_Desk.html"><img width="17" height="18"
+                              src="images/left_icon.png">Principal's Desk</a></li>
+                        <li class="cat-item cat-item-36"><a href="prefect.html"><img width="17" height="18"
+                              src="images/left_icon.png">Prefects and Captains</a></li>
+                        <li class="cat-item cat-item-36"><a href="synopsis.html"><img width="17" height="18"
+                              src="images/left_icon.png">Synopsis on DC</a></li>
+                        
+                        <li class="cat-item cat-item-36"><a href="gallery.php"><img width="17" height="18"
+                              src="images/left_icon.png">Photo Gallery</a></li>
+                        <li class="cat-item cat-item-36"><a href="Campus.html"><img width="17" height="18"
+                              src="images/left_icon.png">Campus</a></li>
+                        <li class="cat-item cat-item-36"><a href="Facilities.html"><img width="17" height="18"
+                              src="images/left_icon.png">Facilities</a></li>
+                        <li class="cat-item cat-item-36"><a href="Location.html"><img width="17" height="18"
+                              src="images/left_icon.png">Location</a></li>
+                        <li class="cat-item cat-item-36"><a href="Faculty.php?stype=8"><img width="17" height="18"
+                              src="images/left_icon.png">Senior Appointments</a></li>
+                        <li class="cat-item cat-item-36"><a href="Senior_Faculty.php"><img width="17" height="18"
+                              src="images/left_icon.png">Senior School</a></li>
+                        <li class="cat-item cat-item-36"><a href="Faculty.php?stype=5"><img width="17" height="18"
+                              src="images/left_icon.png">Junior School</a></li>
+                        <li class="cat-item cat-item-36"><a href="Other_Faculty.php"><img width="17" height="18"
+                              src="images/left_icon.png">Administrative Staff</a></li>
+                      </ul>
+                    </div>
+                  </aside>
+                </div>
+              </div>
+              <!-- #secondary -->
+            </div>
+          </div>
+        </section>
+        <footer class="site-footer has-thim-course-menu" id="colophon">
+          <div class="footer">
+            <div class="footer_tag"><a href="images/icc.jpg" target="_blank">"Fifth Internal Complaints Committee as
+                reconstituted in November 2015"</a></div>
+            <div class="container">
+              <div class="row">
+                <aside class="widget widget_siteorigin-panels-builder footer_widget" id="siteorigin-panels-builder-9">
+                  <div id="pl-w570f452590d9c">
+                    <style scoped>
+                      #pgc-w570f452590d9c-0-0 {
+                        width: 33.3%
+                      }
+
+                      #pgc-w570f452590d9c-0-1,
+                      #pgc-w570f452590d9c-0-2,
+                      #pgc-w570f452590d9c-0-3,
+                      #pgc-w570f452590d9c-0-4 {
+                        width: 16.675%
+                      }
+
+                      #pg-w570f452590d9c-0 .panel-grid-cell {
+                        float: left
+                      }
+
+                      #pl-w570f452590d9c .panel-grid-cell .so-panel {
+                        margin-bottom: 15px
+                      }
+
+                      #pl-w570f452590d9c .panel-grid-cell .so-panel:last-child {
+                        margin-bottom: 0px
+                      }
+
+                      #pg-w570f452590d9c-0 {
+                        margin-left: -15px;
+                        margin-right: -15px
+                      }
+
+                      #pg-w570f452590d9c-0 .panel-grid-cell {
+                        padding-left: 15px;
+                        padding-right: 15px
+                      }
+
+                      @media (max-width:767px) {
+                        #pg-w570f452590d9c-0 .panel-grid-cell {
+                          float: none;
+                          width: auto
+                        }
+
+                        #pgc-w570f452590d9c-0-0,
+                        #pgc-w570f452590d9c-0-1,
+                        #pgc-w570f452590d9c-0-2,
+                        #pgc-w570f452590d9c-0-3 {
+                          margin-bottom: 30px
+                        }
+
+                        #pl-w570f452590d9c .panel-grid {
+                          margin-left: 0;
+                          margin-right: 0
+                        }
+
+                        #pl-w570f452590d9c .panel-grid-cell {
+                          padding: 0
+                        }
+                      }
+                    </style>
+                    <div class="row">
+                      <div class="col-xs-6 col-sm-6 col-md-2">
+                        <ul class="menu" id="menu-company">
+                          <li
+                            class="menu-item menu-item-type-post_type menu-item-object-page drop_to_right standard ft">
+                            <img width="11" height="11" src="images/footer_icon.png"> <a href="index.php"><span
+                                data-hover="About Us">Home</span></a></li>
+                          <li class="menu-item menu-item-type-post_type menu-item-object-page drop_to_right standard">
+                            <img width="11" height="11" src="images/footer_icon.png"> <a href="evolution.html"><span
+                                data-hover="About Us">History</span></a></li>
+                          <li class="menu-item menu-item-type-post_type menu-item-object-page drop_to_right standard">
+                            <img width="11" height="11" src="images/footer_icon.png"> <a href="synopsis.html"><span
+                                data-hover="WordPress">Synopsis on DC</span></a></li>
+                        </ul>
+                      </div>
+                      <div class="col-xs-6 col-sm-6 col-md-2">
+                        <ul class="menu" id="menu-links">
+                          <li
+                            class="menu-item menu-item-type-post_type_archive menu-item-object-lp_course drop_to_right standard">
+                            <img width="11" height="11" src="images/footer_icon.png"> <a href="Location.html"><span
+                                data-hover="LearnPress">Location</span></a></li>
+                          <li class="menu-item menu-item-type-custom menu-item-object-custom drop_to_right standard">
+                            <img width="11" height="11" src="images/footer_icon.png"> <a href="Committee.php"><span
+                                data-hover="Events">CBSE Section</span></a></li>
+                          <li
+                            class="menu-item menu-item-type-post_type_archive menu-item-object-lp_course drop_to_right standard">
+                            <img width="11" height="11" src="images/footer_icon.png"> <a
+                              href="About_Roundsquare.html"><span data-hover="Courses">Round Square </span></a></li>
+                        </ul>
+                      </div>
+                      <div class="col-xs-6 col-sm-6 col-md-2">
+                        <ul class="menu" id="menu-support">
+                          <li class="menu-item menu-item-type-custom menu-item-object-custom drop_to_right standard">
+                            <img width="11" height="11" src="images/footer_icon.png"> <a href="Facilities.html"><span
+                                data-hover="Documentation">Facilities </span></a></li>
+                          <li class="menu-item menu-item-type-custom menu-item-object-custom drop_to_right standard">
+                            <img width="11" height="11" src="images/footer_icon.png"> <a
+                              href="admission_procedure.html"><span data-hover="Forums">Admission</span></a></li>
+                          <li class="menu-item menu-item-type-custom menu-item-object-custom drop_to_right standard">
+                            <img width="11" height="11" src="images/footer_icon.png"> <a
+                              href="Faculty.php?stype=8"><span data-hover="Forums">Academics</span></a></li>
+                        </ul>
+                      </div>
+                      <div class="col-xs-6 col-sm-6 col-md-2">
+                        <ul class="menu" id="menu-recommend">
+                          <li class="menu-item menu-item-type-post_type menu-item-object-page drop_to_right standard">
+                            <img width="11" height="11" src="images/footer_icon.png"> <a href="cricket.html"><span
+                                data-hover="WordPress">Sports</span></a></li>
+                          <li
+                            class="menu-item menu-item-type-post_type_archive menu-item-object-lp_course drop_to_right standard">
+                            <img width="11" height="11" src="images/footer_icon.png"> <a href="Campus.html"><span
+                                data-hover="LearnPress">Campus</span></a></li>
+                          <li
+                            class="menu-item menu-item-type-post_type_archive menu-item-object-lp_course drop_to_right standard">
+                            <img width="11" height="11" src="images/footer_icon.png"> <a href="Exchanges.html"><span
+                                data-hover="LearnPress">RS Alumni </span></a></li>
+                        </ul>
+                      </div>
+                      <div class="col-xs-6 col-sm-6 col-md-2">
+                        <ul class="menu" id="menu-recommend">
+                          <li
+                            class="menu-item menu-item-type-post_type_archive menu-item-object-lp_course drop_to_right standard">
+                            <img width="11" height="11" src="images/footer_icon.png"> <a href="career.html"><span
+                                data-hover="LearnPress">Career</span></a></li>
+                          <li class="menu-item menu-item-type-post_type menu-item-object-page drop_to_right standard">
+                            <img width="11" height="11" src="images/footer_icon.png"> <a href="cie.html"><span
+                                data-hover="WordPress">CI Section</span></a></li>
+                          <li
+                            class="menu-item menu-item-type-post_type_archive menu-item-object-lp_course drop_to_right standard">
+                            <img width="11" height="11" src="images/footer_icon.png"> <a
+                              href="Fees_Structure.html"><span data-hover="LearnPress">Fee Structure</span></a></li>
+                        </ul>
+                      </div>
+                      <div class="col-xs-6 col-sm-6 col-md-2">
+                        <ul class="menu" id="menu-recommend">
+                          <li
+                            class="menu-item menu-item-type-post_type_archive menu-item-object-lp_course drop_to_right standard">
+                            <img width="11" height="11" src="images/footer_icon.png"> <a href="Contact.html"><span
+                                data-hover="LearnPress">Contact Us</span></a></li>
+                          <li class="menu-item menu-item-type-post_type menu-item-object-page drop_to_right standard">
+                            <img width="11" height="11" src="images/footer_icon.png"> <a
+                              href="Principal_Desk.html"><span data-hover="Blog">Principal's Desk</span></a></li>
+                          <li class="menu-item menu-item-type-custom menu-item-object-custom drop_to_right standard">
+                            <img width="11" height="11" src="images/footer_icon.png"> <a href="BOG.html"><span
+                                data-hover="Events">Board of Governors </span></a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </aside>
+              </div>
+            </div>
+          </div>
+          <!--==============================powered=====================================-->
+          <div class="copyright-area">
+            <div class="container">
+              <div class="copyright-content">
+                <div class="row">
+                  <div class="col-xs-12 col-sm-4 col-md-4">
+                    <p class="text-copyright" align="center">Designed by <a href="http://www.creativewebdesigner.in/"
+                        target="_blank">Creative Web Designer</a></p>
+                  </div>
+                  <div class="col-xs-12 col-sm-4 col-md-4" align="right">
+                    <p class="text-copyright" align="center">&nbsp;</p>
+                  </div>
+                  <div class="col-xs-12 col-sm-4 col-md-4" align="right">
+                    <p class="text-copyright" align="center">Contact me <a
+                        href="mailto:webmaster@dalycollege.org">webmaster@dalycollege.org</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </footer>
+      </div>
+      <!-- end wrapper-container -->
+      <div class="gallery-slider-content"></div>
+      <!-- LearnPress JavaScript -->
+      <script type="text/javascript" src="images/main_002.js"></script>
+      <script type="text/javascript" src="images/custom-script-v1.js"></script>
+</body>
+
+</html>

@@ -1,4 +1,5 @@
 @php($homeMedia = require resource_path('data/home-media.php'))
+@include('frontend.partials.youtube-milestone')
 <section id="podcasts" class="ilf-media-section ilf-listen ilf-section">
  <img class="ilf-scene-wildlife" src="{{ $image('images/festival-wildlife-divider.png') }}" alt="" aria-hidden="true" width="2172" height="724" loading="lazy">
 
@@ -31,7 +32,7 @@
  <p class="ilf-intro">Different people. A shared love for the festival. Audience reflections reported by Agniban after the 2025 edition.</p>
  <div class="ilf-attendee-grid ilf-wrap">
  @foreach($homeMedia['attendees'] as $item)
- <article><span class="ilf-attendee-initial" aria-hidden="true">{{ $item['initial'] }}</span><p>{{ $item['text'] }}</p><h3>{{ $item['name'] }}</h3><small>2025 festival attendee</small></article>
+ <article>@if(!empty($item['image']))<img class="attendee-note" src="{{ $image($item['image']) }}" alt="{{ $item['image_alt'] }}" loading="lazy">@else<span class="ilf-attendee-initial" aria-hidden="true">{{ $item['initial'] }}</span>@endif<p>{{ $item['text'] }}</p><h3>{{ $item['name'] }}</h3><small>2025 festival attendee</small>@if(!empty($item['video_url']))<p><a class="ilf-text-link" href="{{ $item['video_url'] }}" target="_blank" rel="noopener">Watch their experience ↗</a></p>@endif</article>
  @endforeach
  </div><p class="ilf-media-note">Summaries of published attendee comments, not verbatim quotations.</p><a class="ilf-text-link" href="{{ $homeMedia['attendee_source'] }}">Read the original audience comments · Agniban ↗</a>
 </section>

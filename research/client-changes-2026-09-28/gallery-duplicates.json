@@ -1,0 +1,14 @@
+[
+  [
+    {
+      "path": "/legacy/images/dayone/dayone11.jpeg",
+      "day": "Day 1",
+      "category": "dayone"
+    },
+    {
+      "path": "/legacy/images/daytwo/daytwo11.jpeg",
+      "day": "Day 2",
+      "category": "daytwo"
+    }
+  ]
+]

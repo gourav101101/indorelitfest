@@ -1,7 +1,7 @@
 <section id="books" class="ilf-feature ilf-books">
     <div class="ilf-wrap ilf-feature-grid">
         <div class="ilf-feature-art ilf-feature-art-books">
-            <div class="ilf-feature-image"><img src="{{ $image('images/conversation-art.png') }}" alt="Conceptual illustration of readers and literary conversation" width="800" height="800" loading="lazy"></div>
+            <div class="ilf-feature-image"><img src="{{ $image('images/conversation-desai-lake.webp') }}" alt="Illustrated reading room overlooking Desai Lake, with its fountain, geese and lakeside pavilion" width="1536" height="1024" loading="lazy"></div>
             <span class="ilf-art-caption"><small>STORIES BRING US TOGETHER</small><b lang="hi">शब्दों से जुड़ते रिश्ते</b></span>
         </div>
         <div>@include('frontend.partials.ilf-heading',['overline'=>'A place for books &','heading'=>'New ideas'])<p>Every writer begins with a question, a memory or a story waiting to be told. At Indore Literature Festival, established authors and emerging voices share the same spirit of discovery.</p><p>Explore reflections on the craft of writing, the changing world of literature and the journeys of new authors in our festival journal. Publishers, booksellers and creative exhibitors can also connect with the team through the 2026 stall booking form.</p><div class="ilf-feature-actions"><a class="ilf-button" href="{{ route('article','budding-authors') }}">Discover New Voices ➜</a><a class="ilf-text-link" href="{{ $festival['forms'][2]['url'] }}">Book a stall ↗</a></div></div>
@@ -10,7 +10,7 @@
 <section id="music" class="ilf-feature ilf-music">
     <img class="ilf-ujjain-accent" src="{{ asset('images/ujjain-linework.svg') }}" width="220" height="340" alt="" aria-hidden="true" loading="lazy">
     <div class="ilf-wrap ilf-feature-grid">
-        <div>@include('frontend.partials.ilf-heading',['overline'=>'Beyond the written word','heading'=>'Music & poetry'])<p>A song can hold a story. A poem can change the mood of an entire room. Music, poetry and performance are woven into the festival’s celebration of expression.</p><p>Revisit the words and reflections surrounding Rahgir’s appearance in our festival archive, explore past performances, or bring your own voice to the 2026 open mic. The new performance schedule will be shared when it is announced.</p><div class="ilf-feature-actions"><a class="ilf-button" href="{{ route('article','rahagir') }}">Read the Festival Story ➜</a><a class="ilf-text-link" href="{{ $festival['forms'][1]['url'] }}">Open mic form ↗</a></div></div>
+        <div>@include('frontend.partials.ilf-heading',['overline'=>'Beyond the written word','heading'=>'Music & poetry'])<p>A song can hold a story. A poem can change the mood of an entire room. Music, poetry and performance are woven into the festival’s celebration of expression.</p><p>Revisit the words and reflections surrounding Rahgir’s appearance in our festival archive, explore past performances, and discover the stories behind the performances. The new performance schedule will be shared when it is announced.</p><div class="ilf-feature-actions"><a class="ilf-button" href="{{ route('article','rahagir') }}">Read the Festival Story ➜</a><a class="ilf-text-link" href="{{ route('participate') }}#open-mic">Discover Open Mic ↗</a></div></div>
         <div class="ilf-feature-art ilf-feature-art-music">
             <div class="ilf-feature-image"><img src="{{ $image('legacy/images/daythree/daythree13.jpeg') }}" alt="A performance from the 2025 Indore Literature Festival" width="800" height="800" loading="lazy"></div>
             <span class="ilf-art-caption"><small>THE STAGE COMES ALIVE</small><b lang="hi">सुर, शब्द और संवेदना</b></span>
@@ -26,7 +26,7 @@
         <button type="button" data-lightbox="{{ $image('legacy/images/'.$photo) }}" data-caption="{{ $i===3?'From the Indore Literature Festival archive':'Indore Literature Festival · 2025' }}" aria-label="Enlarge festival memory {{ $i+1 }}"><img src="{{ $image('legacy/images/'.$photo) }}" alt="{{ ['Festival audience applauding','Visitors gathering in the festival grounds','Musicians performing on the festival stage','A literary conversation'][$i] }}" width="700" height="550" loading="lazy"><span>{{ ['The joy of being there','Between the sessions','The stage comes alive','Conversations that stay'][$i] }} <i aria-hidden="true">↗</i></span></button>
     @endforeach
     </div>
-    <a class="ilf-button" href="{{ route('gallery') }}">Explore the Photo Archive ➜</a>
+    <a class="ilf-button" href="{{ route('gallery') }}">Explore the Gallery ➜</a>
 </section>
 <section id="visit-indore" class="ilf-feature ilf-venue">
     <div class="ilf-wrap ilf-feature-grid">

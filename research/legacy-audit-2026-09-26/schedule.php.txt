@@ -1,0 +1,965 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+		<meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+        <meta property="og:url" content="https://indorelitfest.in/schedule.php/" /> 
+        <meta property="og:title" content="Indore Literature Festival - Schedule" />
+    
+        <meta property="og:image" content="https://indorelitfest.in/images/archive-2016/5.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:width" content="400" />
+        <meta property="og:image:height" content="300" />
+        <meta property="og:image:alt" content="LitFest" />
+    
+        <meta property="og:description" content="Come Let's Celebrate Central India's Largest Literary Fest"/>
+        <meta property="og:type" content="website"/>
+        <meta name="keywords" content="Indore Literature Festival, Indore Lit Fest, ILF, Literature, Poet, Poems, Writers, Lit Fest, Festival, Culture, Music, Bloggers, Indore, Philosophy, Memoirs, Bibliography, Books, Verse">
+        <meta name="description" content="Indore Literature Festival ‘Central India’s Largest Literary Meet’ is the signature event of Indore City which offers a unique opportunity to hear some of the greatest contemporary literary stalwarts together on a single platform that brings diverse thoughts & opinions, and upholds freedom of thought & expression during the three-day mega event.">
+                                        
+		<title>ILF - Schedule</title>
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Dosis">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Maven Pro">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tenali Ramakrishna">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Philosopher">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Alegreya Sans SC">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Molengo">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Reem Kufi">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Imprima">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Harmattan">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Numans">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Harmattan">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Work Sans">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Stalemate">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open Sans Condensed">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Arapey">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Ovo">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Marcellus SC">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Marcellus">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Raleway:400,800,300">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic">
+    
+        <link rel="icon" type="image/png" href="images/new-icon.svg">
+    
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+        <link href="css/queries-468.css" rel="stylesheet">
+        
+        <script type="text/javascript" src="js/modernizr.custom.js"></script>
+    
+</head>
+<body>
+    
+    <div id="wrapper"> 
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+    
+ 
+    
+<!------------------------------------------------------HEADER------------------------------------------------------>
+
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+    
+<section class="header-1">
+    <div class="container-fluid">
+        <div class="row">
+            
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 home-icon">
+                <h4><a href="https://indorelitfest.in/">HOME<!---i class="fa fa-home  fa-2x" aria-hidden="true"></i---></a></h4>
+            </div>
+            
+            <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7 title-top">
+                <h3>India's Most Vibrant Literature Festival • 14th, 15th, 16th November 2025</h3>
+            </div>
+            
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 social-icons">
+            
+            <div class="">
+                          
+                <a href="https://www.facebook.com/indorelitfest/" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
+                                    
+                <a href="https://twitter.com/indorelitfest/" target="_blank"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+                                     
+                <a href="https://www.youtube.com/channel/UC-X_XLb6XkJ4iW4EpDtb56A/" target="_blank"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
+                                      
+                <a href="https://www.instagram.com/indorelitfest/" target="_blank"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+                
+                <a href="mailto:hellohindustan@gmail.com" target="_blank"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a>
+                                   
+            </div>
+                
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+  <style>
+.nav-1 li ul {
+  display: none;
+  position: absolute;
+  background: #0f4871;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ccc;
+  color:#fff;
+}
+
+.nav-1 li:hover ul {
+  display: block;
+}
+
+.nav-1 li ul li a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+  color: #fff;
+  white-space: nowrap;
+}
+</style>
+
+<section class="header-2">
+    <div class="container-fluid">
+        
+        <div class="row">
+                    
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 nav-titles">
+           
+				<nav class="menu">
+                    
+					<ul class="nav-1">
+                        <li><img src="images/ILF_2018_Title.png" alt=""></li>
+                        <li><a href="about.php" >about us</a></li>
+                        <li><a href="speakers.php" >speakers</a></li>
+                        <!--<li><a href="Speakers 2024 - Indore Literature Festival.pdf" >speakers</a></li>-->
+                        
+                        <li><a href="schedule.php">schedule</a>
+                            <ul>
+                           <li><a href="Indore Literature Festival 2025 Schedule & e-invite.pdf" target="_blank">PDF</a></li></ul>
+                        </li>
+                        
+                        
+                        <li><a href="blog.php">Blog</a></li>
+                        
+                        <li><a href="https://www.instagram.com/indorelitfest/" target="_blank">gallery</a></li>
+                        
+                        <li><a href="contact.php">contact</a></li>
+                        <li><img src="images/ILF_2018_Mono.png" alt=""></li>
+                    </ul>
+                    
+				</nav>
+                
+                <div class="hello-hindustan-logo">
+                    <img src="" alt=""><a href="https://docs.google.com/forms/d/e/1FAIpQLSccGcf4FFrBaDbdVOFAA4LxlolmNRllt-lGUP33SWRZwrql5w/viewform?usp=pp_url" target="_blank">Open Mic</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVkgFkATcKABDDgrje5A7Arp8urxHhDV48Jxp8XiQJ-hj_qA/viewform?usp=pp_url" target="_blank">Stall Booking</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeC2_zdG6zmX2H4mO-V8s4hG1FpyvoSsJYwi25iPWMwjRajwA/viewform?usp=pp_url" target="_blank">ILF Registration</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSetWyC6O9IX9vNdiAs2pt8LlpFdl33u_5_XbjKgPjlc11TPSA/viewform?usp=pp_url" target="_blank">Internship</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSftWoreuIQPF7BiEji6k690g3zwjEvVfquOB0vmijjT3WNsnQ/viewform?usp=pp_url" target="_blank">Volunteer</a>
+                </div>
+                
+            </div>
+            
+        </div>
+
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>
+
+<section class="mob-top-banner">
+    <div class="container-fluid">
+        
+        <ul>
+            
+            <li><a href="index.php"><img src="images/ILF2021-header-mob.png" alt=""></a></li>
+        
+            <li class="mob-banner-tab"><a href="about.php">about</a></li>
+        
+            <li class="mob-banner-tab"><a href="speakers.php" >speakers</a></li>
+        
+            <li class="mob-banner-tab"><a href="Indore Literature Festival 2025 Schedule & e-invite.pdf" >schedule</a></li>
+            
+            <li class="mob-banner-tab"><a href="blog.php" >Blog</a></li>
+            
+            
+            
+            <li class="mob-banner-tab"><a href="contact.php">contact</a></li>
+            
+            </br><span><a href="https://docs.google.com/forms/d/e/1FAIpQLSccGcf4FFrBaDbdVOFAA4LxlolmNRllt-lGUP33SWRZwrql5w/viewform?usp=pp_url" target="_blank">Open Mic</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVkgFkATcKABDDgrje5A7Arp8urxHhDV48Jxp8XiQJ-hj_qA/viewform?usp=pp_url" target="_blank">Stall Booking</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSetWyC6O9IX9vNdiAs2pt8LlpFdl33u_5_XbjKgPjlc11TPSA/viewform?usp=pp_url" target="_blank">Internship</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSftWoreuIQPF7BiEji6k690g3zwjEvVfquOB0vmijjT3WNsnQ/viewform?usp=pp_url" target="_blank">Volunteer</a></br><a href="https://docs.google.com/forms/d/e/1FAIpQLSeC2_zdG6zmX2H4mO-V8s4hG1FpyvoSsJYwi25iPWMwjRajwA/viewform?usp=pp_url" target="_blank">ILF Registration</a></span>
+            
+        </ul>
+        
+    </div>
+</section>
+
+<!------------------------------------------------------HEADER------------------------------------------------------>     
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+
+        
+<section class="schedule">
+    <div class="container-fluid">
+
+        <div class="ilf-schedule">
+            
+            <!----img src="images/schedule.jpg" alt=""---->
+            <img src="images/Indore Lit Fest Schedule 2022.png" alt="">
+        
+        </div>
+
+    </div>
+</section>
+
+
+<!-- Responsive / improved CSS (replace or merge with your current <style>) -->
+<style>
+  :root{
+    --bg:#fff8d6; --panel:#ffffff; --accent:#ffb84d; --deep:#2e2a87; --muted:#6b6b6b;
+    --badge:#7a4b37; --blue:#103c8a; --glass: rgba(255,255,255,0.6);
+    --wrap-max:1180px;
+  }
+
+ @media screen and (max-width: 465px) and (orientation: portrait) {
+    .schedule {
+        height: auto;
+        padding-top: 200px;
+    }
+}
+
+  /* Container */
+  #ilf-schedule { box-sizing:border-box; -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; }
+  #ilf-schedule * { box-sizing:inherit; }
+
+  /* outer wrap */
+  #ilf-schedule .wrap {
+    max-width:var(--wrap-max);
+    margin:20px auto;
+    padding:22px;
+    background:linear-gradient(180deg,var(--bg),#fff);
+    border-radius:16px;
+    position:relative;
+    overflow:visible;
+    box-shadow:0 14px 40px rgba(46,42,135,0.06);
+  }
+
+  /* decorative SVG top-right */
+  #ilf-schedule .deco {
+    position:absolute; right:-40px; top:-40px; width:360px; height:360px; pointer-events:none;
+    opacity:0.95; transform-origin:center; animation:floaty 10s ease-in-out infinite; z-index:0;
+    will-change: transform, opacity;
+  }
+  @keyframes floaty { 0%{transform:translateY(0) rotate(0);}50%{transform:translateY(-6px) rotate(-2deg);}100%{transform:translateY(0) rotate(0);} }
+
+  /* main panel */
+  #ilf-schedule .panel {
+    background:var(--panel);
+    border-radius:14px;
+    padding:18px;
+    box-shadow: 0 8px 28px rgba(255,216,0,0.06);
+    border:1px solid rgba(15,20,40,0.03);
+    position:relative;
+    overflow:hidden;
+    z-index:1;
+  }
+
+  /* header */
+  #ilf-schedule .header { display:flex; justify-content:space-between; gap:12px; align-items:flex-start; margin-bottom:14px; flex-wrap:wrap; }
+  #ilf-schedule .title { font-weight:800; font-size:clamp(20px,3.2vw,28px); color:var(--deep); letter-spacing:0.6px; line-height:1; }
+  #ilf-schedule .meta { display:flex; gap:8px; align-items:center; flex-wrap:wrap; }
+  #ilf-schedule .chip { background:linear-gradient(135deg,var(--deep),#5a4fd3); color:#fff; padding:7px 12px; border-radius:999px; font-weight:700; font-size:13px; box-shadow:0 8px 20px rgba(46,42,135,0.12); }
+  #ilf-schedule .date { background:var(--glass); color:var(--deep); padding:7px 10px; border-radius:10px; font-weight:700; font-size:13px; border:1px solid rgba(15,20,40,0.03); }
+
+  /* day header */
+  #ilf-schedule .day { margin:18px 0; }
+  #ilf-schedule .day h2 { display:flex; gap:10px; align-items:center; font-size:16px; margin:0 0 12px; color:var(--deep); }
+  #ilf-schedule .day-date { background:var(--deep); color:#fff; padding:6px 10px; border-radius:10px; font-weight:700; font-size:13px; }
+
+  /* two-column layout */
+  .two-col {
+    display:grid; grid-template-columns:1fr 1fr; gap:18px; position:relative; padding-top:6px; align-items:start;
+  }
+  .two-col:after {
+    content:""; position:absolute; left:50%; top:8px; bottom:8px; transform:translateX(-50%); width:2px;
+    background:linear-gradient(#eee,#fff); opacity:0.9; border-radius:6px; pointer-events:none;
+  }
+
+  /* event item */
+  .item {
+    display:flex; gap:12px; align-items:flex-start; margin:12px 0; padding:12px; border-radius:12px;
+    transition:transform .28s cubic-bezier(.2,.9,.2,1), box-shadow .28s;
+    background:linear-gradient(180deg,rgba(255,255,255,0.7),rgba(255,255,255,0.5));
+    border:1px solid rgba(15,20,40,0.03); backdrop-filter: blur(4px);
+    transform:translateY(0); opacity:0;
+    animation:appear .42s forwards ease; animation-delay: var(--delay, 0s);
+    min-height:56px; /* improves tap target */
+  }
+  .item:hover, .item:focus-within { transform:translateY(-6px); box-shadow:0 18px 40px rgba(46,42,135,0.08); }
+  @keyframes appear { to { opacity:1; transform:translateY(0); } }
+
+  .time {
+    min-width:clamp(92px,18vw,150px); text-align:center; font-weight:800; padding:8px 10px; border-radius:10px;
+    background:linear-gradient(180deg,var(--badge),#8a5a4a); color:#fff; font-size:13px; box-shadow:0 6px 16px rgba(0,0,0,0.06);
+    flex-shrink:0; align-self:center;
+  }
+  .content { flex:1; min-width:0; } /* min-width:0 prevents overflow in flex children */
+  .event-title {
+    display:inline-flex; gap:8px; align-items:center; padding:6px 8px; border-radius:8px; font-weight:800; font-size:clamp(13px,2.1vw,15px);
+    background:linear-gradient(90deg,#fff3a3,#ffd700); box-shadow:inset 0 -2px 0 rgba(0,0,0,0.03);
+    white-space:normal;
+  }
+  .speaker { margin:6px 0 8px; color:var(--blue); font-weight:700; font-size:13px; }
+  .desc { color:var(--muted); font-size:14px; line-height:1.38; word-break:break-word; }
+
+  .event-title .icon { width:18px; height:18px; display:inline-block; flex:0 0 18px; vertical-align:middle; opacity:0.95; }
+  .event-title .icon svg { width:100%; height:100%; display:block; }
+
+  /* centered event style */
+  .centered { text-align:center; }
+  .centered .time { margin:0 auto; min-width:120px; }
+
+  /* subtle gradient border glow */
+  #ilf-schedule .wrap::before{
+    content:""; position:absolute; inset:0; border-radius:16px; padding:1px;
+    background:linear-gradient(90deg, rgba(255,184,77,0.14), rgba(46,42,135,0.06));
+    -webkit-mask: linear-gradient(#fff,#fff) content-box, linear-gradient(#fff,#fff);
+    -webkit-mask-composite: xor; mask-composite: exclude; pointer-events:none; z-index:0;
+  }
+
+  /* Accessibility: focus & reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    #ilf-schedule .deco, #ilf-schedule .item { animation: none !important; transition: none !important; }
+  }
+
+  /* Responsive breakpoints */
+  @media (max-width:920px) {
+    .two-col { grid-template-columns:1fr; }
+    .two-col:after { display:none; }
+    .time { min-width:120px; font-size:13px; padding:6px 8px; }
+    .panel { padding:16px; }
+    #ilf-schedule .wrap { padding:18px; }
+    #ilf-schedule .title { font-size:22px; }
+  }
+
+  @media (max-width:520px) {
+    #ilf-schedule .wrap { padding:12px; margin:12px; border-radius:12px; }
+    #ilf-schedule .deco { display:none; } /* hide heavy decor on tiny screens */
+    #ilf-schedule .title{ font-size:18px; }
+    #ilf-schedule .chip, #ilf-schedule .date{ font-size:12px; padding:6px 8px; }
+    .time{ font-size:13px; padding:6px 8px; min-width:92px; }
+    .event-title{ font-size:13px; padding:6px; }
+    .item { padding:10px; gap:10px; min-height:64px; }
+    .speaker { font-size:12px; }
+    .desc { font-size:13px; }
+    .two-col { gap:12px; }
+    #ilf-schedule .panel { padding:12px; }
+    .two-col:after { display:none; }
+  }
+
+  /* very small devices */
+  @media (max-width:360px) {
+    .time { font-size:12px; padding:5px 6px; min-width:84px; }
+    .event-title .icon { width:16px; height:16px; }
+    .item { padding:8px; gap:8px; min-height:60px; }
+  }
+
+  /* Improved keyboard & touch target */
+  .item[tabindex] { outline: none; }
+  .item:focus { box-shadow:0 20px 48px rgba(46,42,135,0.12); border-color: rgba(46,42,135,0.06); border-width:1px; }
+
+  /* Prevent long names from breaking layout */
+  .speaker, .desc { overflow-wrap: break-word; word-break: break-word; }
+
+</style>
+
+<!-- Improved script: compute animation delays after DOM ready (keeps previous behavior) -->
+
+
+
+<div id="ilf-schedule" aria-label="Indore Literature Festival Schedule">
+  <div class="wrap">
+    <!-- decorative SVG -->
+    <svg class="deco" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+      <defs>
+        <linearGradient id="g1" x1="0" x2="1"><stop offset="0" stop-color="#ffd27a"/><stop offset="1" stop-color="#ff8a5c"/></linearGradient>
+        <linearGradient id="g2" x1="0" x2="1"><stop offset="0" stop-color="#7b63ff" stop-opacity="0.9"/><stop offset="1" stop-color="#4f7cfb" stop-opacity="0.85"/></linearGradient>
+        <filter id="f1" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="16" result="b"/></filter>
+      </defs>
+      <g filter="url(#f1)">
+        <path d="M480 40c40 40 40 120 0 160s-120 40-160 0-80-120-40-160 160-40 200 0z" fill="url(#g1)" opacity="0.95" transform="rotate(12 420 120)"></path>
+        <path d="M150 420c60-40 160-20 220 20s120 40 160 20 40-80 0-110-160-20-220 20-140 90-160 80z" fill="url(#g2)" opacity="0.7" transform="rotate(-10 320 360)"></path>
+      </g>
+    </svg>
+
+    <div class="panel" role="region" aria-label="Indore Literature Festival Schedule">
+      <!-- header -->
+      <div class="header" style="position:relative; z-index:2;">
+        <div>
+          <div class="title">SCHEDULE</div>
+          <div style="height:8px;"></div>
+          <!--<div class="meta" role="group" aria-label="Schedule meta">-->
+          <!--  <div class="chip" aria-hidden="true">DAY-1</div>-->
+          <!--  <div class="date" aria-hidden="true">FRIDAY, 15 Nov. 2024</div>-->
+          <!--</div>-->
+        </div>
+        <div style="text-align:right; min-width:220px; align-self:center;">
+          <div style="font-weight:900; color:var(--deep); font-size:22px;">Indore Literature Festival</div>
+        </div>
+      </div>
+
+      <!-- Day 1 -->
+     <section class="day" aria-label="Day 1">
+  <h2>
+    <span style="font-weight:800;">DAY-1</span>
+    <span class="day-date" style="margin-left:8px;">FRIDAY, 14 Nov. 2025</span>
+  </h2>
+
+  <div class="two-col">
+    <div>
+      <!-- Tea/Coffee -->
+      <div class="item" tabindex="0" aria-label="Tea Coffee 3:15 PM to 3:30 PM">
+        <div class="time">3:15 PM - 3:30 PM</div>
+        <div class="content">
+          <div class="event-title">
+            <span class="icon" aria-hidden="true">
+              ☕
+            </span>
+            Tea / Coffee
+          </div>
+          <div class="desc">Refreshment Break</div>
+        </div>
+      </div>
+
+      <!-- Opening Ceremony -->
+      <div class="item" tabindex="0" aria-label="Opening Ceremony 3:30 PM to 4:00 PM">
+        <div class="time">3:30 PM - 4:00 PM</div>
+        <div class="content">
+          <div class="event-title">उद्घाटन समारोह</div>
+          <div class="speaker">
+            शुभारंभ – विवेक अग्निहोत्री एवं विनय सहस्त्रबुद्धे व अन्य अतिथि<br>
+            नृत्य – डेली कॉलेज के विद्यार्थियों द्वारा ‘पधारो म्हारे देश’ – माजिद खान एवं समूह
+          </div>
+        </div>
+      </div>
+
+      <!-- Session 1 -->
+      <div class="item" tabindex="0" aria-label="Session 4:00 PM to 4:40 PM">
+        <div class="time">4:00 PM - 4:40 PM</div>
+        <div class="content">
+          <div class="event-title">‘भारतीय सौंदर्य संपदा की सुगंध’</div>
+          <div class="speaker">विनय सहस्त्रबुद्धे (लेखक, राजनीतिज्ञ, विचारक)</div>
+          <div class="desc">चर्चा करेंगे – डॉ. विकास दवे<br>Session presented by Acropolis Group of Institutions</div>
+        </div>
+      </div>
+
+      <!-- Session 2 -->
+      <div class="item" tabindex="0" aria-label="Session 4:40 PM to 5:40 PM">
+        <div class="time">4:40 PM - 5:40 PM</div>
+        <div class="content">
+          <div class="event-title">‘भारत: इतिहास और सच्चाई से मुँह चुराता सिनेमा’</div>
+          <div class="speaker">डॉ. विवेक रंजन अग्निहोत्री (National Award Winning Film Maker & Best Selling Author)</div>
+          <div class="desc">चर्चा करेंगे – विजय मनोहर तिवारी व निधि हसीजा</div>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <!-- Hi-Tea -->
+      <div class="item" tabindex="0" aria-label="Hi-Tea 5:40 PM to 6:00 PM">
+        <div class="time">5:40 PM - 6:00 PM</div>
+        <div class="content">
+          <div class="event-title">
+            <span class="icon" aria-hidden="true">🍴</span>
+            Hi-Tea
+          </div>
+          <div class="desc">Evening Refreshment</div>
+        </div>
+      </div>
+
+      <!-- Performance -->
+      <div class="item" tabindex="0" aria-label="The Dancing Stick 6:00 PM to 6:20 PM">
+        <div class="time">6:00 PM - 6:20 PM</div>
+        <div class="content">
+          <div class="event-title">The Dancing Stick</div>
+          <div class="speaker">Performance by Orchids The International School</div>
+        </div>
+      </div>
+
+      <!-- Session 3 -->
+      <div class="item" tabindex="0" aria-label="Viksit Bharat 6:20 PM to 6:50 PM">
+        <div class="time">6:20 PM - 6:50 PM</div>
+        <div class="content">
+          <div class="event-title">‘विकसित भारत @ 2047’</div>
+          <div class="speaker">आदित्य पिट्टी (लेखक, एंजल इन्वेस्टर)</div>
+          <div class="desc">चर्चा करेंगे – कनिष्क मिश्रा व निधि हसीजा</div>
+        </div>
+      </div>
+
+      <!-- Rajasthan Folk Music -->
+      <div class="item" tabindex="0" aria-label="Rajasthani Folk Music 6:50 PM to 7:10 PM">
+        <div class="time">6:50 PM - 7:10 PM</div>
+        <div class="content">
+          <div class="event-title">राजस्थानी लोक संगीत</div>
+        </div>
+      </div>
+
+      <!-- Kavi Sammelan -->
+      <div class="item" tabindex="0" aria-label="Kavi Sammelan 7:10 PM to 8:30 PM">
+        <div class="time">7:10 PM - 8:30 PM</div>
+        <div class="content">
+          <div class="event-title">कवि सम्मेलन</div>
+          <div class="speaker">सोनरूप विशाल, रामायणधर द्विवेदी, विवेक चतुर्वेदी</div>
+          <div class="desc">संयोजन – अमन अक्षर</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+      <!-- Day 2 -->
+  <section class="day" aria-label="Day 2">
+  <h2><span style="font-weight:800;">DAY-2</span> 
+    <span class="day-date" style="margin-left:8px;">SATURDAY 15 Nov. 2025</span>
+  </h2>
+
+  <div class="two-col">
+    <div>
+      <!-- Kathak Ameer Khusro -->
+      <div class="item" tabindex="0" aria-label="Kathak Ameer Khusro 10:15 AM to 10:30 AM">
+        <div class="time">10:15 AM - 10:30 AM</div>
+        <div class="content">
+          <div class="event-title">कथक अमीर खुसरो (सूफी कथक)</div>
+        </div>
+      </div>
+
+      <!-- Kavita Path -->
+      <div class="item" tabindex="0" aria-label="Kavita Path 10:30 AM to 11:00 AM">
+        <div class="time">10:30 AM - 11:00 AM</div>
+        <div class="content">
+          <div class="event-title">कविता पाठ</div>
+          <div class="speaker">सुप्रभा शुक्ला, मनोन्मा जोशी, प्रभा तिवारी, विनीता तिवारी, गायत्री शर्मा, अरुणा सर्राफ</div>
+          <div class="desc">संयोजन – जनार्दन शर्मा</div>
+        </div>
+      </div>
+
+      <!-- Lok Rang -->
+      <div class="item" tabindex="0" aria-label="Lok Rang 11:00 AM to 11:40 AM">
+        <div class="time">11:00 AM - 11:40 AM</div>
+        <div class="content">
+          <div class="event-title">‘लोक रंग’</div>
+          <div class="speaker">एकता कश्मीरी व समूह</div>
+          <div class="desc">निमाड़ी साहित्यकार पद्मश्री जगदीश जोशीला का सम्मान</div>
+        </div>
+      </div>
+
+      <!-- Sur Kaise Sadhe -->
+      <div class="item" tabindex="0" aria-label="Sur Kaise Sadhe 11:40 AM to 12:10 PM">
+        <div class="time">11:40 AM - 12:10 Noon</div>
+        <div class="content">
+          <div class="event-title">‘सुर कैसे सधे’</div>
+          <div class="speaker">पं. गौतम काले (प्रख्यात शास्त्रीय गायक)</div>
+          <div class="desc">चर्चा करेंगे – संजय पटेल</div>
+        </div>
+      </div>
+
+      <!-- Pardes Mein Hindi -->
+      <div class="item" tabindex="0" aria-label="Pardes Mein Kaise Phailayi Hindi Ki Pataak 12:10 PM to 12:45 PM">
+        <div class="time">12:10 PM - 12:45 Noon</div>
+        <div class="content">
+          <div class="event-title">‘परदेस में कैसे फहराई हिन्दी की पताका’</div>
+          <div class="speaker">दिव्या माथुर (ब्रिटेन), मञ्जु श्रीवास्तव (अमेरिका), रमा भटनागर शर्मा (जापान), ऋतु शर्मा नमन पाण्डे (नीदरलैंड), संगीत बोहरे ‘पंखुड़ी’, सुप्रभा पारिजात</div>
+          <div class="desc">संयोजन – डॉ. सुनीता श्रीवास्तव व तृषा मिश्रा</div>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <!-- Sankalp Se Badal Di Soorat -->
+      <div class="item" tabindex="0" aria-label="Sankalp Se Badal Di Soorat 12:45 PM to 1:15 PM">
+        <div class="time">12:45 Noon - 1:15 PM</div>
+        <div class="content">
+          <div class="event-title">‘संकल्प से बदल दी सूरत’</div>
+          <div class="speaker">डॉ. विकास दवे (निदेशक, म.प्र. साहित्य अकादमी)</div>
+          <div class="desc">चर्चा करेंगे – ईश्वर शर्मा</div>
+        </div>
+      </div>
+
+      <!-- Loktantra Ka Naya Adhyay -->
+      <div class="item" tabindex="0" aria-label="Loktantra Ka Naya Adhyay 1:15 PM to 1:45 PM">
+        <div class="time">1:15 PM - 1:45 PM</div>
+        <div class="content">
+          <div class="event-title">‘लोकतंत्र का नया अध्याय: एक राष्ट्र, एक चुनाव’</div>
+          <div class="speaker">डॉ. ममता चन्द्रशेखर (शिक्षाविद), डॉ. शोभा जैन (लेखक), हर्षिता दवे (नव नियुक्त डिप्टी कलेक्टर)</div>
+          <div class="desc">संचालन – चक्रपाणि मिश्र</div>
+        </div>
+      </div>
+
+      <!-- Nay Badalti Kavita -->
+      <div class="item" tabindex="0" aria-label="Nayi Badalti Kavita 1:45 PM to 2:15 PM">
+        <div class="time">1:45 PM - 2:15 PM</div>
+        <div class="content">
+          <div class="event-title">‘नई बदलती कविता’</div>
+          <div class="speaker">कवि – आयुषोत्स अग्रवाल व विवेक चतुर्वेदी</div>
+          <div class="desc">चर्चा करेंगे – रामायणधर द्विवेदी</div>
+        </div>
+      </div>
+
+      <!-- New Age Writings -->
+      <div class="item" tabindex="0" aria-label="New Age Writings 2:15 PM to 2:45 PM">
+        <div class="time">2:15 PM - 2:45 PM</div>
+        <div class="content">
+          <div class="event-title">New Age Writings</div>
+          <div class="speaker">Author Kapil Raj & Bishal Paul</div>
+          <div class="desc">Moderator – Dr. Gunjan Shukla & Sanchita Jhalani<br>Session Presented by: Acropolis Group of Institutions</div>
+        </div>
+      </div>
+
+      <!-- Writing Toolkit -->
+      <div class="item" tabindex="0" aria-label="Writing Toolkit 2:45 PM to 3:15 PM">
+        <div class="time">2:45 PM - 3:15 PM</div>
+        <div class="content">
+          <div class="event-title">Writing Toolkit</div>
+          <div class="speaker">Author Anish Kanjilal, Anand Prasad, Nitish Bhushan</div>
+          <div class="desc">In conversation with – Garima Dwivedi & Dr. Isha Tiwari</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div style="height:16px;"></div>
+
+  <div class="two-col">
+    <div>
+      <!-- How Technology Changed Crime Fiction -->
+      <div class="item" tabindex="0" aria-label="How Technology Changed Crime Fiction 3:15 PM to 4:00 PM">
+        <div class="time">3:15 PM - 4:00 PM</div>
+        <div class="content">
+          <div class="event-title">‘How Technology Changed Crime Fiction’</div>
+          <div class="speaker">Vasundhara (Actor & Author)</div>
+          <div class="desc">In conversation with – Sneha Sharma</div>
+        </div>
+      </div>
+
+      <!-- Marketing Mixology -->
+      <div class="item" tabindex="0" aria-label="Marketing Mixology 4:00 PM to 4:40 PM">
+        <div class="time">4:00 PM - 4:40 PM</div>
+        <div class="content">
+          <div class="event-title">‘Marketing Mixology’</div>
+          <div class="speaker">Ambi Parameswaran (Author, Brand Strategist & CEO)</div>
+          <div class="desc">In conversation with – Naveen Khandelwal<br>Session presented by – IMA, Indore</div>
+        </div>
+      </div>
+
+      <!-- Hindi Mein Bhi Ho Rahi Dhan Varsha -->
+      <div class="item" tabindex="0" aria-label="Hindi Mein Bhi Ho Rahi Dhan Varsha 4:40 PM to 5:20 PM">
+        <div class="time">4:40 PM - 5:20 PM</div>
+        <div class="content">
+          <div class="event-title">‘हिन्दी में भी हो रही धन वर्षा’</div>
+          <div class="speaker">शैलेश भारतवासी (संपादक हिन्द युग्म), अंकुर कुमार (लेखक), ब्लॉगर संजय शेफर्ड</div>
+          <div class="desc">चर्चा करेंगे – मनोज राजन त्रिपाठी व डॉ. संगीता भरुका</div>
+        </div>
+      </div>
+
+      <!-- Media, Screen aur Sahitya ka Samvay -->
+      <div class="item" tabindex="0" aria-label="Media Screen aur Sahitya ka Samvay 5:20 PM to 5:50 PM">
+        <div class="time">5:20 PM - 5:50 PM</div>
+        <div class="content">
+          <div class="event-title">‘मीडिया, स्क्रीन और साहित्य का समन्वय’</div>
+          <div class="speaker">विजय मनोहर तिवारी (लेखक व विचारक)</div>
+          <div class="desc">चर्चा करेंगे – हर्षवर्धन</div>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <!-- Padharo Mhare Desh -->
+      <div class="item" tabindex="0" aria-label="Padharo Mhare Desh 5:50 PM to 6:10 PM">
+        <div class="time">5:50 PM - 6:10 PM</div>
+        <div class="content">
+          <div class="event-title">‘पधारो म्हारे देश’</div>
+          <div class="desc">राजस्थानी लोक गायक माजिद खान द्वारा</div>
+        </div>
+      </div>
+
+      <!-- Paritosh Tripathi Session -->
+      <div class="item" tabindex="0" aria-label="Paritosh Tripathi 6:10 PM to 7:10 PM">
+        <div class="time">6:10 PM - 7:10 PM</div>
+        <div class="content">
+          <div class="event-title">‘कुछ गीत, कुछ गुदगुदी और कुछ इश्क़ की बातें’</div>
+          <div class="speaker">परीतोष त्रिपाठी (अभिनेता व कॉमेडियन)</div>
+        </div>
+      </div>
+
+      <!-- Open Mic -->
+      <div class="item" tabindex="0" aria-label="Open Mic 7:15 PM to 7:30 PM">
+        <div class="time">7:15 PM - 7:30 PM</div>
+        <div class="content">
+          <div class="event-title">Open Mic</div>
+        </div>
+      </div>
+
+      <!-- Abhi Mujhe Show -->
+      <div class="item" tabindex="0" aria-label="Abhi Mujhe Show 7:30 PM to 9:00 PM">
+        <div class="time">7:30 PM - 9:00 PM</div>
+        <div class="content">
+          <div class="event-title">साइक्यो शायर – अभी मुझे शो</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+      <!-- Day 3 -->
+      <section class="day" aria-label="Day 3">
+  <h2><span style="font-weight:800;">DAY-3</span> 
+    <span class="day-date" style="margin-left:8px;">SUNDAY, 16 Nov. 2025</span>
+  </h2>
+
+  <div class="two-col">
+    <div>
+      <div class="item" tabindex="0" aria-label="Indore ki Sargam 10:30 AM to 10:40 AM">
+        <div class="time">10:30 AM - 10:40 AM</div>
+        <div class="content">
+          <div class="event-title">‘इंदौर की सरगम’</div>
+          <div class="speaker">विद्यार्थियों द्वारा प्रस्तुति</div>
+        </div>
+      </div>
+
+      <div class="item" tabindex="0" aria-label="Geet Gunjan 10:40 AM to 11:15 AM">
+        <div class="time">10:40 AM - 11:15 AM</div>
+        <div class="content">
+          <div class="event-title">‘गीत गुंजन’</div>
+          <div class="speaker">कीर्ति सिंह गौड़, अजीत सिंह मंडलोई, डॉ. अमृता अवस्थी, अर्चना अनुपम, राखी जैन, डॉ. रागिनी शर्मा, डॉ. स्वाति सिंह, शोभनानी तिवारी<br>संचालन – मनीषा व्यास</div>
+        </div>
+      </div>
+
+      <div class="item" tabindex="0" aria-label="Budding Author 11:15 AM to 11:45 AM">
+        <div class="time">11:15 AM - 11:45 AM</div>
+        <div class="content">
+          <div class="event-title">Budding Author</div>
+          <div class="speaker">Parth Badlani, Navisha Gupta, Aditi Shrivastava, Azeemuddin<br>Moderator – Riddhi Joshi, Dhruv Dhakad</div>
+        </div>
+      </div>
+
+      <div class="item" tabindex="0" aria-label="Madhushala ke Madhur Panch 11:45 AM to 12:15 Noon">
+        <div class="time">11:45 AM - 12:15 Noon</div>
+        <div class="content">
+          <div class="event-title">‘मधुशाला के मधुर पंच’</div>
+          <div class="speaker">रश्मि चौधरी, अनीता जोशी, वाणी जोशी, प्रीति दुबे, सपना सी.सी. साहू, निन्जूम वर्मा, प्या राजेन्द्र<br>संचालन – डॉ. अंजना चक्रपाणि मिश्र</div>
+        </div>
+      </div>
+
+      <div class="item" tabindex="0" aria-label="Pranab My Father 12:15 Noon to 01:00 PM">
+        <div class="time">12:15 Noon - 01:00 PM</div>
+        <div class="content">
+          <div class="event-title">‘Pranab My Father: A Daughter Remembers’</div>
+          <div class="speaker">Sharmistha Mukherjee in Conversation with Shweta Agarwal<br>Session Presented by – Ficci Flo</div>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <div class="item" tabindex="0" aria-label="Mera Rachna Dharm 01:00 PM to 01:30 PM">
+        <div class="time">01:00 PM - 01:30 PM</div>
+        <div class="content">
+          <div class="event-title">‘मेरा रचना धर्म’</div>
+          <div class="speaker">मुकेश नेमा (व्यंग्यकार), उर्मिला शिरीष (लेखक), अजय भूषण युवराज (कवि)<br>मॉडरेटर – ज्योति जैन</div>
+        </div>
+      </div>
+
+      <div class="item" tabindex="0" aria-label="Meri Raah ke Kaante 01:30 PM to 02:15 PM">
+        <div class="time">01:30 PM - 02:15 PM</div>
+        <div class="content">
+          <div class="event-title">‘मेरी राह के कांटे और फूल, आंसू और मुस्कान’</div>
+          <div class="speaker">ख्यात इंडी पॉप सिंगर ‘राहगीर’ की जुबानी, उनके संघर्ष व सफलताओं की कहानी<br>चर्चाकार – अजय त्यागी</div>
+        </div>
+      </div>
+
+      <div class="item" tabindex="0" aria-label="Immerse yourself in the Timeless Rasas 02:15 PM to 02:45 PM">
+        <div class="time">02:15 PM - 02:45 PM</div>
+        <div class="content">
+          <div class="event-title">‘Immerse yourself in the Timeless Rasas’</div>
+          <div class="speaker">Shalini Modi (Author & Astrologer) in Conversation with Neha Mittal</div>
+        </div>
+      </div>
+
+      <div class="item" tabindex="0" aria-label="Lok Banam Like 02:45 PM to 03:15 PM">
+        <div class="time">02:45 PM - 03:15 PM</div>
+        <div class="content">
+          <div class="event-title">‘लोक बनाम लाइक’ जब कविता इंस्टाग्राम पर उतरती है</div>
+          <div class="speaker">अंकुश कुमार, संपादक हिन्दी नाम<br>‘एक घूमंतू ब्लॉगर’ संजय शेफर्ड<br>मॉडरेटर – डॉ. गरिमा संजय दुबे, डॉ. गुंजन गुप्ता<br>Session Presented by – SICA College</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div style="height:14px;"></div>
+
+  <div class="two-col">
+    <div>
+      <div class="item" tabindex="0" aria-label="Kalam aur Kavita 03:15 PM to 03:45 PM">
+        <div class="time">03:15 PM - 03:45 PM</div>
+        <div class="content">
+          <div class="event-title">‘कलम और कविता’</div>
+          <div class="speaker">डॉ. रीता जैन, डॉ. इंद्रिया दीक्षित, सीमा सिंह, डॉ. गुंजन गुप्ता, अर्पणा जोशी, उमेश तारे, रीना उपाध्याय, रचना खरे<br>संचालन – तृषा मिश्रा</div>
+        </div>
+      </div>
+
+      <div class="item" tabindex="0" aria-label="Filmon v Webseries mein Asleelta ka Sankat 03:45 PM to 04:15 PM">
+        <div class="time">03:45 PM - 04:15 PM</div>
+        <div class="content">
+          <div class="event-title">‘फिल्मों व वेबसीरीज में अश्लीलता का संकट’</div>
+          <div class="speaker">उदय माहुरकर (लेखक, राजनैतिक विश्लेषक व प्रकाशक)<br>चर्चाकार – विजय मनोहर तिवारी</div>
+        </div>
+      </div>
+
+      <div class="item" tabindex="0" aria-label="Itihas Lekhan ki Vishamtaayein 04:15 PM to 04:45 PM">
+        <div class="time">04:15 PM - 04:45 PM</div>
+        <div class="content">
+          <div class="event-title">‘इतिहास लेखन की विसंगतियां’</div>
+          <div class="speaker">प्रखर श्रीवास्तव (लेखक-प्रवक्ता)<br>चर्चाकार – संजय शेफर्ड व अदिति सिंह भदौरिया</div>
+        </div>
+      </div>
+
+      <div class="item" tabindex="0" aria-label="Badalti Demography ke Khatre 04:45 PM to 05:15 PM">
+        <div class="time">04:45 PM - 05:15 PM</div>
+        <div class="content">
+          <div class="event-title">‘बदलती डेमोग्राफी के खतरे’</div>
+          <div class="speaker">प्रदीप भंडारी (लेखक, पत्रकार, राष्ट्रीय प्रवक्ता भाजपा)<br>चर्चाकार – ईश्वर शर्मा व हर्षवर्धन</div>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <div class="item" tabindex="0" aria-label="Parde par utarti Aparadh Kathayen 05:15 PM to 05:45 PM">
+        <div class="time">05:15 PM - 05:45 PM</div>
+        <div class="content">
+          <div class="event-title">‘परदे पर उतरती अपराध कथाएं’</div>
+          <div class="speaker">मनोज राजन त्रिपाठी (पत्रकार व अपराध कथा लेखक)<br>चर्चाकार – अंकुर कुमार</div>
+        </div>
+      </div>
+
+      <div class="item" tabindex="0" aria-label="Kahani ki Paathshala 05:45 PM to 06:30 PM">
+        <div class="time">05:45 PM - 06:30 PM</div>
+        <div class="content">
+          <div class="event-title">‘कहानी की पाठशाला’</div>
+          <div class="speaker">जाने-माने स्टोरी टेलर दिव्य प्रकाश की तलाश<br>प्रस्तुतकर्ता – कनिक मिश्रा</div>
+        </div>
+      </div>
+
+      <div class="item" tabindex="0" aria-label="Sthaniya Sahityakaron ka Samman 06:30 PM to 07:00 PM">
+        <div class="time">06:30 PM - 07:00 PM</div>
+        <div class="content">
+          <div class="event-title">‘स्थानीय साहित्यकारों का सम्मान’</div>
+          <div class="speaker">सर्वेश सत्यनारायण शर्मा, डॉ. जयेंद्र व्यास, सूर्यमन नागर, डॉ. ज्ञानेन्द्र वर्मा, प्रमोद पांडे, डॉ. अनिल निमगडे, डॉ. सुधा चौहान, डॉ. नीलम राठौर, नारायण शर्मा, डॉ. अशोक अवस्थी, प्रदीप पांडे, सुमन बिवेदी<br>अध्यक्षता – नरेश कुमार उपाध्याय, संयोजन – सुभाष बाजपेयी</div>
+        </div>
+      </div>
+
+      <div class="item" tabindex="0" aria-label="Fun Masti vid Influencers 07:00 PM to 07:30 PM">
+        <div class="time">07:00 PM - 07:30 PM</div>
+        <div class="content">
+          <div class="event-title">‘फन मस्ती विद इंफ्लुएंसर्स’</div>
+          <div class="speaker">विकास चौधरी, चाचा चटोर, हिमांशु सोनी, आर्यन शुभम, आर्यन साक्षी<br>संचालन – रामो (राहुल भोसले)</div>
+        </div>
+      </div>
+
+      <div class="item" tabindex="0" aria-label="Open Mic 07:30 PM to 07:45 PM">
+        <div class="time">07:30 PM - 07:45 PM</div>
+        <div class="content">
+          <div class="event-title">Open Mic</div>
+          <div class="desc">Open Mic Session</div>
+        </div>
+      </div>
+
+      <div class="item" tabindex="0" aria-label="Rahgir Musical Show 07:45 PM to 09:15 PM">
+        <div class="time">07:45 PM - 09:15 PM</div>
+        <div class="content">
+          <div class="event-title">तुम पकड़ के गाड़ी शायद मेरे गाँव आओगे’</div>
+          <div class="desc">A Musical Show by: राहगीर</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+    </div>
+  </div>
+</div>
+<script>
+  (function () {
+    function setDelays(){
+      var items = document.querySelectorAll('#ilf-schedule .item');
+      items.forEach(function(el, idx){
+        var delay = (idx * 0.04) + 0.04;
+        el.style.setProperty('--delay', delay + 's');
+      });
+    }
+    if (document.readyState === 'loading'){
+      document.addEventListener('DOMContentLoaded', setDelays);
+    } else {
+      setDelays();
+    }
+    // Recalc when window resizes (optional, small perf cost)
+    var rto;
+    window.addEventListener('resize', function(){
+      clearTimeout(rto);
+      rto = setTimeout(setDelays, 250);
+    });
+  })();
+</script>
+
+
+
+
+<div class="mob-end-footer">
+            
+    <h1>Hello Hindustan News and Network</h1>
+    <h2>413 Krishna Business Center, near Medanta Hospital<br>
+            Vijay Nagar, Indore (Madhya Pradesh)<br>
+    Email: hellohindustan@gmail.com</h2>
+    <br>
+    <p>Copyright &copy; Indore Literature Festival</p>
+            
+</div>
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+<!------------------------------------------------------FOOTER------------------------------------------------------>
+    
+<section class="end-footer">
+    
+    <div class="venue">
+        <h1>VENUE</h1>
+        <p>Daly College</br>1, Residency Area</br>Indore, Madhya Pradesh 452001</p></br>
+        
+    <span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=bci8NL9xU0NwKqUxyD8kKO42sqwGCcWg4A3Ph8gbJEAyIaSehaTjC7o4EMTI"></script></span>
+        
+            <!---i class="fa fa-whatsapp" aria-hidden="true"></i><span> 623-288-1181</span></p---->
+    </div>
+
+</section>
+
+<!------------------------------------------------------FOOTER------------------------------------------------------>    
+<!------------------------------------------------------STROLLING-PEBBLE------------------------------------------------------>
+    </div>
+    
+</body>
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'p3plzcpnl506634'},{'dcenter':'p3'},{'cp_id':'10098793'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

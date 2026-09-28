@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Speakers fit at 320",
+    "passed": true
+  },
+  {
+    "name": "Menu and Explore open at 320",
+    "passed": true
+  },
+  {
+    "name": "Escape closes navigation at 320",
+    "passed": true
+  },
+  {
+    "name": "Speakers fit at 768",
+    "passed": true
+  },
+  {
+    "name": "Menu and Explore open at 768",
+    "passed": true
+  },
+  {
+    "name": "Escape closes navigation at 768",
+    "passed": true
+  },
+  {
+    "name": "Speakers fit at 1181",
+    "passed": true
+  },
+  {
+    "name": "Menu and Explore open at 1181",
+    "passed": true
+  },
+  {
+    "name": "Escape closes navigation at 1181",
+    "passed": true
+  },
+  {
+    "name": "Speakers fit at 1399",
+    "passed": true
+  },
+  {
+    "name": "Menu and Explore open at 1399",
+    "passed": true
+  },
+  {
+    "name": "Escape closes navigation at 1399",
+    "passed": true
+  },
+  {
+    "name": "Speakers fit at 1400",
+    "passed": true
+  },
+  {
+    "name": "Desktop links fit",
+    "passed": true
+  },
+  {
+    "name": "Speaker search finds the matching profile",
+    "passed": true
+  },
+  {
+    "name": "Archive offers year cards without speaker PDFs",
+    "passed": true
+  },
+  {
+    "name": "2024 speaker search links to the correct edition",
+    "passed": true
+  },
+  {
+    "name": "2024 speaker search has a working empty state",
+    "passed": true
+  },
+  {
+    "name": "Hindi archive biography fits and stays in its edition",
+    "passed": true
+  },
+  {
+    "name": "Journal category filter works",
+    "passed": true
+  },
+  {
+    "name": "Journal empty state works",
+    "passed": true
+  },
+  {
+    "name": "Gallery filters the chosen day",
+    "passed": true
+  },
+  {
+    "name": "Gallery photograph opens",
+    "passed": true
+  },
+  {
+    "name": "Gallery photograph closes",
+    "passed": true
+  },
+  {
+    "name": "Biography language tabs work",
+    "passed": true
+  },
+  {
+    "name": "FAQ expands",
+    "passed": true
+  },
+  {
+    "name": "Contact form fits and validates required fields",
+    "passed": true
+  },
+  {
+    "name": "Visit information has navy background and white text",
+    "passed": true
+  },
+  {
+    "name": "Media resource cards have navy background",
+    "passed": true
+  },
+  {
+    "name": "Document choices fit on /schedule",
+    "passed": true
+  },
+  {
+    "name": "Optional PDF reader opens on /schedule",
+    "passed": true
+  },
+  {
+    "name": "Original PDF is available on /schedule",
+    "passed": true
+  }
+]

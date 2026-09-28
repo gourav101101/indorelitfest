@@ -13,7 +13,7 @@
     <div class="load-more-wrap"><button class="button button-outline" data-load-more hidden>More moments <span aria-hidden="true">↓</span></button><span data-load-status role="status"></span></div>
     @if($season==='archive')<p class="archive-caption">This collection spans earlier editions. Individual years are shown only where they have been verified.</p>@endif
     @else
-    <div class="empty-state"><span aria-hidden="true">✳</span><h2>The memories live on.<br><em>The collection is taking shape.</em></h2><p>This year’s photographs have not yet been catalogued separately. Explore the shared archive or our latest festival stories.</p><a class="button button-blue" href="{{ route('season','archive') }}">Explore the photo archive ↗</a><a class="text-link" href="{{ route('journal') }}">Read the festival journal ↗</a></div>
+    <div class="empty-state"><span aria-hidden="true">✳</span><h2>The memories live on.<br><em>The collection is taking shape.</em></h2><p>This year’s photographs have not yet been catalogued separately. Explore the latest festival photographs and stories.</p><a class="button button-blue" href="{{ route('gallery') }}">Explore the gallery ↗</a><a class="text-link" href="{{ route('journal') }}">Read the festival journal ↗</a></div>
     @endif
 </section>
 @endsection

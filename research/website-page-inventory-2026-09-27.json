@@ -1,0 +1,737 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "title": "Let the legacy of literature grow.",
+    "browserTitle": "12th Edition · 27–29 November 2026 | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/about",
+    "status": 200,
+    "title": "A city. A story. A shared love.",
+    "browserTitle": "A city. A story. A shared love. | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers",
+    "status": 200,
+    "title": "The voices of our festival",
+    "browserTitle": "The voices of our festival | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive",
+    "status": 200,
+    "title": "Speaker archives",
+    "browserTitle": "Speaker archives | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/schedule",
+    "status": 200,
+    "title": "Make room for a good story",
+    "browserTitle": "Make room for a good story | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/journal",
+    "status": 200,
+    "title": "The festival journal",
+    "browserTitle": "The festival journal | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/gallery",
+    "status": 200,
+    "title": "A festival of memories",
+    "browserTitle": "A festival of memories | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/gallery/2025",
+    "status": 200,
+    "title": "Season 11 · 2025",
+    "browserTitle": "Season 11 · 2025 | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/gallery/archive",
+    "status": 200,
+    "title": "From our archives",
+    "browserTitle": "From our archives | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/malwa",
+    "status": 200,
+    "title": "Indore. A city full of stories.",
+    "browserTitle": "Indore. A city full of stories. | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/contact",
+    "status": 200,
+    "title": "Every conversation begins with hello",
+    "browserTitle": "Every conversation begins with hello | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/participate",
+    "status": 200,
+    "title": "There’s a place for you here",
+    "browserTitle": "There’s a place for you here | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/film",
+    "status": 200,
+    "title": "Eleven years. Countless stories.",
+    "browserTitle": "Eleven years. Countless stories. | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/faq",
+    "status": 200,
+    "title": "A little help before you join us",
+    "browserTitle": "A little help before you join us | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/experiences",
+    "status": 200,
+    "title": "One festival. A world to step into.",
+    "browserTitle": "One festival. A world to step into. | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/visit",
+    "status": 200,
+    "title": "Your next stop: Indore.",
+    "browserTitle": "Your next stop: Indore. | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/community",
+    "status": 200,
+    "title": "Great stories need good people.",
+    "browserTitle": "Great stories need good people. | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/media",
+    "status": 200,
+    "title": "Stories worth sharing.",
+    "browserTitle": "Stories worth sharing. | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/vivek-ranjan-agnihotri",
+    "status": 200,
+    "title": "Vivek Ranjan Agnihotri",
+    "browserTitle": "Vivek Ranjan Agnihotri | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/abhi-munde",
+    "status": 200,
+    "title": "Abhijeet Munde",
+    "browserTitle": "Abhijeet Munde | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/rahgir",
+    "status": 200,
+    "title": "Rahgir",
+    "browserTitle": "Rahgir | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/vinay-sahasrabuddhe",
+    "status": 200,
+    "title": "Vinay Sahasrabuddhe",
+    "browserTitle": "Vinay Sahasrabuddhe | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/sharmistha-mukherjee",
+    "status": 200,
+    "title": "Sharmistha Mukherjee",
+    "browserTitle": "Sharmistha Mukherjee | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/vasundhara",
+    "status": 200,
+    "title": "Vasundhara",
+    "browserTitle": "Vasundhara | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/paritosh-tripathi",
+    "status": 200,
+    "title": "Paritosh Tripathi",
+    "browserTitle": "Paritosh Tripathi | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/ashutosh-agnihotri",
+    "status": 200,
+    "title": "Ashutosh Agnihotri",
+    "browserTitle": "Ashutosh Agnihotri | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/pradeep-bhandari",
+    "status": 200,
+    "title": "Pradeep Bhandari",
+    "browserTitle": "Pradeep Bhandari | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/ambi-parameswaran",
+    "status": 200,
+    "title": "Dr. Ambi Parameswaran",
+    "browserTitle": "Dr. Ambi Parameswaran | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/divya-prakash-dubey",
+    "status": 200,
+    "title": "Divya Prakash Dubey",
+    "browserTitle": "Divya Prakash Dubey | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/vijay-manohar-tiwari",
+    "status": 200,
+    "title": "Vijay Manohar Tiwari",
+    "browserTitle": "Vijay Manohar Tiwari | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/prakhar-srivastava",
+    "status": 200,
+    "title": "Prakhar Srivastava",
+    "browserTitle": "Prakhar Srivastava | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/manoj-ranjan-tripathi",
+    "status": 200,
+    "title": "Manoj Ranjan Tripathi",
+    "browserTitle": "Manoj Ranjan Tripathi | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/ankush-kumar",
+    "status": 200,
+    "title": "Ankush Kumar",
+    "browserTitle": "Ankush Kumar | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/sanjay-shepherd",
+    "status": 200,
+    "title": "Sanjay Shepherd",
+    "browserTitle": "Sanjay Shepherd | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/avinash-mishra",
+    "status": 200,
+    "title": "अविनाश मिश्र",
+    "browserTitle": "अविनाश मिश्र | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/uday",
+    "status": 200,
+    "title": "Uday Mahurkar",
+    "browserTitle": "Uday Mahurkar | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/anish-kanjilal",
+    "status": 200,
+    "title": "Anish Kanjilal",
+    "browserTitle": "Anish Kanjilal | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/aditya-pitti",
+    "status": 200,
+    "title": "Aditya Pitti",
+    "browserTitle": "Aditya Pitti | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/nitish-bhushan",
+    "status": 200,
+    "title": "Nitish Bhushan",
+    "browserTitle": "Nitish Bhushan | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/shailesh-bharatwasi",
+    "status": 200,
+    "title": "Shailesh Bharatwasi",
+    "browserTitle": "Shailesh Bharatwasi | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/bishall-paul",
+    "status": 200,
+    "title": "Bishall Paul",
+    "browserTitle": "Bishall Paul | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/anand-prasad",
+    "status": 200,
+    "title": "Anand Prasad",
+    "browserTitle": "Anand Prasad | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/kapil-raj",
+    "status": 200,
+    "title": "Kapil Raj",
+    "browserTitle": "Kapil Raj | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/navisha",
+    "status": 200,
+    "title": "Navisha Gupta",
+    "browserTitle": "Navisha Gupta | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/aditi-shrivastava",
+    "status": 200,
+    "title": "Aditi Shrivastava",
+    "browserTitle": "Aditi Shrivastava | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/urmila-shishir",
+    "status": 200,
+    "title": "उर्मिला शिरीष",
+    "browserTitle": "उर्मिला शिरीष | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/sonrupa-vishal",
+    "status": 200,
+    "title": "डॉ॰ सोनरूपा विशाल",
+    "browserTitle": "डॉ॰ सोनरूपा विशाल | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/ramayan-dhar-dwivedi",
+    "status": 200,
+    "title": "Ramayan Dhar Dwivedi",
+    "browserTitle": "Ramayan Dhar Dwivedi | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/vivek-chaturvedi",
+    "status": 200,
+    "title": "विवेक चतुर्वेदी",
+    "browserTitle": "विवेक चतुर्वेदी | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/divya-mathur",
+    "status": 200,
+    "title": "Divya Mathur",
+    "browserTitle": "Divya Mathur | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/manju-srivastava-man",
+    "status": 200,
+    "title": "Manju Srivastava",
+    "browserTitle": "Manju Srivastava | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/ritu-sharma-nannan-pandey",
+    "status": 200,
+    "title": "ऋतु ननंन पाँडे",
+    "browserTitle": "ऋतु ननंन पाँडे | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/sangeeta",
+    "status": 200,
+    "title": "Sangeeta Chaubey ‘Pankhuri’",
+    "browserTitle": "Sangeeta Chaubey ‘Pankhuri’ | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/shalini-modi",
+    "status": 200,
+    "title": "Shalini Modi",
+    "browserTitle": "Shalini Modi | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024",
+    "status": 200,
+    "title": "2024 Speakers",
+    "browserTitle": "2024 Speakers | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2025",
+    "status": 200,
+    "title": "2025 Speakers",
+    "browserTitle": "2025 Speakers | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/manoj-muntashir-shukla",
+    "status": 200,
+    "title": "Manoj Muntashir Shukla",
+    "browserTitle": "Manoj Muntashir Shukla | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/priya-malik",
+    "status": 200,
+    "title": "Priya Malik",
+    "browserTitle": "Priya Malik | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/laxmi-narayan-tripathi",
+    "status": 200,
+    "title": "Dr. Laxmi Narayan Tripathi",
+    "browserTitle": "Dr. Laxmi Narayan Tripathi | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/thomas-mathew",
+    "status": 200,
+    "title": "Dr. Thomas Mathew",
+    "browserTitle": "Dr. Thomas Mathew | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/neelima-dalmia-adhar",
+    "status": 200,
+    "title": "Neelima Dalmia Adhar",
+    "browserTitle": "Neelima Dalmia Adhar | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/buddhinath-mishra",
+    "status": 200,
+    "title": "डॉ. बुद्धिनाथ मिश्र",
+    "browserTitle": "डॉ. बुद्धिनाथ मिश्र | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/neelotpal-mrinal",
+    "status": 200,
+    "title": "नीलोत्पल मृणाल",
+    "browserTitle": "नीलोत्पल मृणाल | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/sanjeev-paliwal",
+    "status": 200,
+    "title": "Sanjeev Paliwal",
+    "browserTitle": "Sanjeev Paliwal | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/manoj-rajan-tripathi",
+    "status": 200,
+    "title": "Manoj Rajan Tripathi",
+    "browserTitle": "Manoj Rajan Tripathi | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/amrut-deshmukh",
+    "status": 200,
+    "title": "Amrut Deshmukh",
+    "browserTitle": "Amrut Deshmukh | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/ishinna-sadana",
+    "status": 200,
+    "title": "Dr. Ishinna B. Sadana",
+    "browserTitle": "Dr. Ishinna B. Sadana | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/ashdin-doctor",
+    "status": 200,
+    "title": "Ashdin Doctor",
+    "browserTitle": "Ashdin Doctor | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/nita-menezes",
+    "status": 200,
+    "title": "Nita Menezes",
+    "browserTitle": "Nita Menezes | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/babusha-kohli",
+    "status": 200,
+    "title": "बाबुषा कोहली",
+    "browserTitle": "बाबुषा कोहली | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/chandan-rai",
+    "status": 200,
+    "title": "चंदन राय",
+    "browserTitle": "चंदन राय | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/aman-akshar",
+    "status": 200,
+    "title": "अमन अक्षर",
+    "browserTitle": "अमन अक्षर | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/megha-parmar",
+    "status": 200,
+    "title": "Megha Parmar",
+    "browserTitle": "Megha Parmar | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/brajesh-rajput",
+    "status": 200,
+    "title": "Brajesh Rajput",
+    "browserTitle": "Brajesh Rajput | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/manu-vaishali",
+    "status": 200,
+    "title": "मनु वैशाली",
+    "browserTitle": "मनु वैशाली | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/suman-gurjar",
+    "status": 200,
+    "title": "सुमन गुर्जर",
+    "browserTitle": "सुमन गुर्जर | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/pallavi-trivedi",
+    "status": 200,
+    "title": "पल्लवी त्रिवेदी",
+    "browserTitle": "पल्लवी त्रिवेदी | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/manisha-pathak-soni",
+    "status": 200,
+    "title": "मनीषा पाठक सोनी",
+    "browserTitle": "मनीषा पाठक सोनी | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/speakers/archive/2024/naveen-krishna-rai",
+    "status": 200,
+    "title": "Naveen Krishna Rai",
+    "browserTitle": "Naveen Krishna Rai | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/journal/day-one",
+    "status": 200,
+    "title": "इंदौर लिटरेचर फेस्टिवल – Day 1",
+    "browserTitle": "इंदौर लिटरेचर फेस्टिवल – Day 1 | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/journal/day-two",
+    "status": 200,
+    "title": "इंदौर लिटरेचर फेस्टिवल – Day 2",
+    "browserTitle": "इंदौर लिटरेचर फेस्टिवल – Day 2 | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/journal/day-three",
+    "status": 200,
+    "title": "इंदौर लिटरेचर फेस्टिवल – Day 3",
+    "browserTitle": "इंदौर लिटरेचर फेस्टिवल – Day 3 | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/journal/sharmistha-mukherjee",
+    "status": 200,
+    "title": "प्रणव माय फ़ादर",
+    "browserTitle": "प्रणव माय फ़ादर | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/journal/ramayan-dhar-dwivedi",
+    "status": 200,
+    "title": "रामायण धर द्विवेदी – लय बदलती कविता",
+    "browserTitle": "रामायण धर द्विवेदी – लय बदलती कविता | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/journal/writing-toolkit",
+    "status": 200,
+    "title": "राइटिंग टूलकिट",
+    "browserTitle": "राइटिंग टूलकिट | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/journal/one-nation-one-election",
+    "status": 200,
+    "title": "लोकतंत्र का नया अध्याय : एक राष्ट्र–एक चुनाव",
+    "browserTitle": "लोकतंत्र का नया अध्याय : एक राष्ट्र–एक चुनाव | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/journal/mera-rachna-dharm",
+    "status": 200,
+    "title": "मेरा रचना धर्म",
+    "browserTitle": "मेरा रचना धर्म | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/journal/uday-mahurkar",
+    "status": 200,
+    "title": "फिल्मों और वेब श्रंखलाओं में फैलती अश्लीलता का संकट",
+    "browserTitle": "फिल्मों और वेब श्रंखलाओं में फैलती अश्लीलता का संकट | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/journal/ambi-parameswaran",
+    "status": 200,
+    "title": "मार्केटिंग मिक्सोलॉजी",
+    "browserTitle": "मार्केटिंग मिक्सोलॉजी | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/journal/rahagir",
+    "status": 200,
+    "title": "राहगीर – मेरी राह के काँटे और फूल, आँसू और मुस्कान",
+    "browserTitle": "राहगीर – मेरी राह के काँटे और फूल, आँसू और मुस्कान | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/journal/new-age-writing",
+    "status": 200,
+    "title": "न्यू एज राइटिंग",
+    "browserTitle": "न्यू एज राइटिंग | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/journal/budding-authors",
+    "status": 200,
+    "title": "बडिंग ऑथर्स",
+    "browserTitle": "बडिंग ऑथर्स | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/journal/vinay_blog",
+    "status": 200,
+    "title": "भारतीय सौम्य संपदा की सुगंध",
+    "browserTitle": "भारतीय सौम्य संपदा की सुगंध | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/journal/vikas_blog",
+    "status": 200,
+    "title": "संकल्प से बदल दी सूरत",
+    "browserTitle": "संकल्प से बदल दी सूरत | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/journal/kavita_blog",
+    "status": 200,
+    "title": "लय बदलती कविता",
+    "browserTitle": "लय बदलती कविता | Indore Literature Festival",
+    "listed": true
+  },
+  {
+    "path": "/gallery/2015",
+    "status": 200,
+    "title": "Season 1 · 2015",
+    "browserTitle": "Season 1 · 2015 | Indore Literature Festival",
+    "listed": false
+  },
+  {
+    "path": "/gallery/2016",
+    "status": 200,
+    "title": "Season 2 · 2016",
+    "browserTitle": "Season 2 · 2016 | Indore Literature Festival",
+    "listed": false
+  },
+  {
+    "path": "/gallery/2017",
+    "status": 200,
+    "title": "Season 3 · 2017",
+    "browserTitle": "Season 3 · 2017 | Indore Literature Festival",
+    "listed": false
+  },
+  {
+    "path": "/gallery/2018",
+    "status": 200,
+    "title": "Season 4 · 2018",
+    "browserTitle": "Season 4 · 2018 | Indore Literature Festival",
+    "listed": false
+  },
+  {
+    "path": "/gallery/2019",
+    "status": 200,
+    "title": "Season 5 · 2019",
+    "browserTitle": "Season 5 · 2019 | Indore Literature Festival",
+    "listed": false
+  },
+  {
+    "path": "/gallery/2020",
+    "status": 200,
+    "title": "Season 6 · 2020",
+    "browserTitle": "Season 6 · 2020 | Indore Literature Festival",
+    "listed": false
+  },
+  {
+    "path": "/gallery/2021",
+    "status": 200,
+    "title": "Season 7 · 2021",
+    "browserTitle": "Season 7 · 2021 | Indore Literature Festival",
+    "listed": false
+  },
+  {
+    "path": "/gallery/2022",
+    "status": 200,
+    "title": "Season 8 · 2022",
+    "browserTitle": "Season 8 · 2022 | Indore Literature Festival",
+    "listed": false
+  },
+  {
+    "path": "/gallery/2023",
+    "status": 200,
+    "title": "Season 9 · 2023",
+    "browserTitle": "Season 9 · 2023 | Indore Literature Festival",
+    "listed": false
+  },
+  {
+    "path": "/gallery/2024",
+    "status": 200,
+    "title": "Season 10 · 2024",
+    "browserTitle": "Season 10 · 2024 | Indore Literature Festival",
+    "listed": false
+  }
+]

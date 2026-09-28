@@ -3,9 +3,14 @@
 html:has(.ilf-home){scroll-padding-top:0}
 .page-home .site-header.ilf-header{height:94px;min-height:94px;background:var(--ilf-navy);border:0;padding:0 max(32px,calc((100vw - 1480px)/2));gap:50px;box-shadow:none}
 .page-home .ilf-header .official-brand img{width:80px;height:80px;object-fit:contain}
-.page-home .ilf-header #navigation{gap:27px}
+.page-home .ilf-header #navigation{gap:20px}
 .page-home .ilf-header #navigation>a:not(.ilf-button),.ilf-nav-menu summary{color:white;font-size:17px;font-weight:500;white-space:nowrap}
 .page-home .ilf-header #navigation>a:not(.ilf-button):hover,.ilf-nav-menu summary:hover{color:var(--ilf-gold)}
+.page-home .ilf-header .explore-menu>summary{color:white;font-size:17px}
+.page-home .ilf-header .explore-menu>summary:hover,.page-home .ilf-header #navigation>a[aria-current]:not(.ilf-button){color:var(--ilf-gold)}
+.page-home .ilf-header .explore-panel{color:var(--ink)}
+.page-home .ilf-header .mobile-menu-extra{color:white;border-color:#ffffff40}
+.page-home .ilf-header .mobile-menu-extra p{color:var(--ilf-gold)}
 .ilf-nav-menu{position:relative}
 .ilf-nav-menu summary{list-style:none;cursor:pointer;display:flex;gap:8px;align-items:center;padding:20px 0}
 .ilf-nav-menu summary::-webkit-details-marker{display:none}
@@ -156,9 +161,10 @@ html:has(.ilf-home){scroll-padding-top:0}
 }
 @media(max-width:1350px) and (min-width:1181px){
  .page-home .site-header.ilf-header{padding-inline:30px;gap:25px}
- .page-home .ilf-header #navigation{gap:19px}
+ .page-home .ilf-header #navigation{gap:14px}
  .page-home .ilf-header #navigation>a:not(.ilf-button),.ilf-nav-menu summary{font-size:16px}
  .page-home .ilf-header .header-cta{padding-inline:17px;margin-left:0}
+ .page-home .ilf-header .explore-menu>summary{font-size:16px}
 }
 @media(max-width:1180px){
  .page-home .site-header.ilf-header{height:88px;min-height:88px;padding-inline:28px;justify-content:space-between}
@@ -167,6 +173,8 @@ html:has(.ilf-home){scroll-padding-top:0}
  .page-home .ilf-header .menu-toggle>span:not(.sr-only){background:white}
  .page-home .ilf-header #navigation{top:88px;background:var(--ilf-navy);padding:25px 30px 35px;gap:9px;max-height:calc(100dvh - 88px);overflow:auto;align-items:stretch}
  .page-home .ilf-header #navigation>a:not(.ilf-button),.ilf-nav-menu summary{font-size:19px;padding:13px 0}
+ .page-home .ilf-header .explore-menu>summary{font-size:19px;padding:13px 0}
+ .page-home .ilf-header .explore-panel{padding:22px 18px;border-radius:5px}
  .page-home .ilf-header .header-cta{margin:15px 0 0}
  .ilf-nav-menu>div{position:static;min-width:0;box-shadow:none;border:0;background:#102d58;padding:8px 18px}
  .ilf-nav-menu>div>a{color:white;font-size:17px}

@@ -1,4 +1,9 @@
 # Indore Literature Festival — client content request
+
+> Implementation update, 28 September: [completed work and all remaining points](client-changes-delivery-2026-09-28.md), [updated page inventory](website-page-inventory-2026-09-28.md), and [client-ready material request](client-message-remaining-2026-09-28.md). This update supersedes the older status and requests below.
+
+
+> Latest content request: [Old website recovery and remaining client details ? 26 September 2026](legacy-content-recovery-2026-09-26.md). This supersedes older missing-material lists below. The new logo is supplied, and 2024 archive source profiles have now been recovered.
 ## Message ready to forward
 Dear Team,
 
