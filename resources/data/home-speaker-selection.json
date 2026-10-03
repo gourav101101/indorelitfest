@@ -1,0 +1,89 @@
+{
+  "homepage": [
+    {
+      "slug": "kumar-vishwas",
+      "name": "Kumar Vishwas",
+      "image": "/images/speakers/client-seven/kumar-vishwas.webp",
+      "source_file": "7 Speakers/Kumar Vishwas.jpg.jpeg"
+    },
+    {
+      "slug": "narendra-kohli",
+      "name": "Narendra Kohli",
+      "image": "/images/speakers/client-seven/narendra-kohli.webp",
+      "source_file": "7 Speakers/Narendra Kohli.JPG.jpeg"
+    },
+    {
+      "slug": "amish-tripathi",
+      "name": "Amish Tripathi",
+      "image": "/images/speakers/client-seven/amish-tripathi.webp",
+      "source_file": "7 Speakers/Amish Tripathi.JPG.jpeg"
+    },
+    {
+      "slug": "vikram-sampath",
+      "name": "Vikram Sampath",
+      "image": "/images/speakers/client-seven/vikram-sampath.webp",
+      "source_file": "7 Speakers/Vikram Sampath.JPG.jpeg"
+    },
+    {
+      "slug": "devdutt-pattanaik",
+      "name": "Devdutt Pattanaik",
+      "image": "/images/speakers/client-seven/devdutt-pattanaik.webp",
+      "source_file": "7 Speakers/Devdutt Pattanaik.JPG.jpeg"
+    },
+    {
+      "slug": "taslima-nasrin",
+      "name": "Taslima Nasreen",
+      "image": "/images/speakers/client-seven/taslima-nasrin.webp",
+      "source_file": "7 Speakers/Taslima Nasreen.JPG.jpeg"
+    },
+    {
+      "slug": "tarek-fatah",
+      "name": "Tarek Fateh",
+      "image": "/images/speakers/client-seven/tarek-fatah.webp",
+      "source_file": "7 Speakers/Tarek Fateh.JPG.jpeg"
+    }
+  ],
+  "rotating": [
+    {
+      "name": "Ruskin Bond",
+      "path": "/speakers/past/ruskin-bond",
+      "image": "/images/speakers/past/ruskin-bond.webp",
+      "portrait": {
+        "credit": "Jim Ankan Deka",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ruskin_Bond_in_Bangalore,_India_(Jim_Ankan_Deka_photography).jpg",
+        "changes": "Resized and converted to WebP; displayed with a responsive crop."
+      }
+    },
+    {
+      "name": "Javed Akhtar",
+      "path": "/speakers/past/javed-akhtar",
+      "image": "/images/speakers/past/javed-akhtar.webp",
+      "portrait": {
+        "credit": "Vikas Tanwar",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Javed_Akhtar_at_Jaipur_Literature_Festival_2026.jpg",
+        "changes": "Resized and converted to WebP; displayed with a responsive crop."
+      }
+    },
+    {
+      "name": "Manoj Muntashir",
+      "path": "/speakers/archive/2024/manoj-muntashir-shukla",
+      "image": "/images/speakers/2024/manoj-muntashir-shukla.webp"
+    },
+    {
+      "name": "Malini Awasthi",
+      "path": "/speakers/past/malini-awasthi",
+      "image": "/images/speakers/past/malini-awasthi.webp",
+      "portrait": {
+        "credit": "Kuber Pate, Rosehub",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Malni_Awasthi.jpg",
+        "changes": "Resized and converted to WebP; displayed with a responsive crop."
+      }
+    }
+  ]
+}

@@ -226,7 +226,7 @@ body.festival-site .festival-chapter :is(.about-lead,.malwa-intro,.experience-op
 body.festival-site .festival-chapter :is(.about-lead,.malwa-intro,.experience-opening)>img{border:8px solid #e6bc70;outline:1px solid #c99a4d;outline-offset:5px;border-radius:130px 130px 12px 12px}
 body.festival-site .festival-chapter .about-content article{position:relative;padding:40px;background:#fff6e6;border:1px solid #dfbf87;margin-bottom:28px;border-radius:12px}
 body.festival-site .festival-chapter .about-content article::before{content:'✦';float:right;color:#c9443370;font-size:30px}
-body.festival-site .festival-chapter .community-art{background:linear-gradient(0deg,#173b70ef,#173b7040),url('/images/conversation-art.webp') center/cover;border:7px solid #e6bc70;border-radius:150px 150px 12px 12px}
+body.festival-site .festival-chapter .community-art{background:linear-gradient(0deg,#173b70ef,#173b7040),url('../../../public/images/conversation-art.webp') center/cover;border:7px solid #e6bc70;border-radius:150px 150px 12px 12px}
 body.festival-site .festival-chapter .community-art>span{display:none}
 body.festival-site .festival-chapter :is(.planning-grid article,.place-card,.participation-card,.media-resources>a){background:#fff6e6;border:1px solid #dfbf87;border-top:4px solid #e6bc70;border-radius:12px;padding:32px}
 body.festival-site .festival-chapter .participation-card{display:flex;flex-direction:column;align-items:flex-start;position:relative}
@@ -245,7 +245,7 @@ body.festival-site .festival-chapter .media-resources>a:hover{background:#234d81
 body.festival-site .festival-chapter .experience-story-image{padding:10px;background:#f9ebce;border:1px solid #dfbf87;border-radius:90px 90px 12px 12px}
 body.festival-site .festival-chapter .experience-story-image img{border-radius:80px 80px 8px 8px}
 body.festival-site .festival-chapter .experience-jumps a{font-size:14px;min-height:44px;padding:10px 16px;border-radius:5px;background:#fff3dc;border-color:#dfbf87}
-body.festival-site .festival-chapter .regional-note{border:1px solid #dfbf87;border-radius:12px;background:#fff3dc url('/images/rajwada-linework.svg') right bottom/180px auto no-repeat;padding:54px 30px}
+body.festival-site .festival-chapter .regional-note{border:1px solid #dfbf87;border-radius:12px;background:#fff3dc url('../../../public/images/rajwada-linework.svg') right bottom/180px auto no-repeat;padding:54px 30px}
 body.festival-site .festival-chapter .enquiry-section form{padding:32px;background:#fff3dc;border:1px solid #dfbf87;border-radius:12px}
 body.festival-site .festival-chapter .enquiry-section :is(input,select,textarea){background:var(--ilf-ivory);border:1px solid #bca581;border-radius:5px;font-size:16px}
 body.festival-site .festival-chapter .faq-list details{padding:0 24px;border:1px solid #dfbf87;border-radius:8px;background:#fff7e8;margin-bottom:14px}
@@ -256,7 +256,7 @@ body.festival-site .festival-chapter .faq-list details p{font-size:16px;color:#4
 .chapter-ribbon svg{width:52px;height:44px;color:#b87b35}
 .chapter-ribbon span{font-size:11px;letter-spacing:2px}
 .chapter-ribbon span[lang]{font-size:16px;letter-spacing:0;color:#a73729}
-.festival-site .festival-invitation-banner{background:#f4e8cc url('/images/participation-courtyard-divider.webp') center bottom/cover no-repeat;padding:76px 0 130px}
+.festival-site .festival-invitation-banner{background:#f4e8cc url('../../../public/images/participation-courtyard-divider.webp') center bottom/cover no-repeat;padding:76px 0 130px}
 .festival-invitation-banner>.container{max-width:680px}
 
 @media(max-width:1000px){
@@ -361,3 +361,222 @@ body.festival-site .festival-chapter .faq-list details p{font-size:16px;color:#4
 @media(max-width:359px){.festival-site .site-header.ilf-header{gap:10px;padding-inline:12px}.festival-site .ilf-header .festival-badge img{width:62px;height:62px}.header-brand-copy strong{font-size:11px}.header-brand-copy>span{font-size:9px}}
 
 
+
+/* Client-supplied participation and audience photographs. */
+.client-photo-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;margin-block:24px}
+.client-photo-grid button{border:1px solid #dfbf87;padding:6px;background:#fff5e4;border-radius:12px;cursor:zoom-in;overflow:hidden}
+.client-photo-grid img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;display:block;border-radius:7px}
+.client-photo-grid button:focus-visible{outline:3px solid #173b70;outline-offset:4px}
+.registration-photos{margin-block:40px}.registration-photos h2{font-size:clamp(28px,4vw,40px)}
+.participation-photos{grid-column:1/-1}.participation-photos summary,.client-feedback summary{cursor:pointer;padding:16px 0;color:#173b70;font-weight:600}
+.client-feedback video{display:block;width:min(100%,850px);max-height:500px;margin:0 auto 32px;background:#173b70;border-radius:12px}
+.client-feedback .client-photo-grid img{object-fit:contain;background:#f5ead8}
+@media(max-width:700px){.client-photo-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.client-feedback>.client-photo-grid{grid-template-columns:1fr}.registration-photos{margin-block:28px}}
+
+.festival-site .ilf-orbit-link:nth-of-type(5) .ilf-orbit-painting{background-image:url('../../../public/images/client-2026-09/volunteer-shirt-sketch.webp')!important;background-position:52% 50%!important;background-size:cover!important}
+.festival-site .ilf-join-option .client-join-photo{display:block;width:100%;height:155px;object-fit:cover;border-radius:8px;margin-bottom:18px}
+.participation-photos .client-photo-grid img{height:auto}
+
+.participant-experience+.form-actions{margin-top:24px}
+
+
+/* One-line festival identity with a literary serif face. */
+.header-brand-copy{flex-basis:330px}
+.header-brand-copy strong{font-family:'Playfair Display',Georgia,serif;font-size:17px;font-weight:600;white-space:nowrap;text-wrap:nowrap;letter-spacing:0;line-height:1.4}
+@media(min-width:1400px) and (max-width:1599px){.header-brand-copy{flex-basis:300px}.header-brand-copy strong{font-size:15px}.festival-site .ilf-header #navigation{gap:12px}}
+@media(min-width:701px) and (max-width:1399px){.header-brand-copy{max-width:390px}}
+@media(max-width:700px){
+ .festival-site .site-header.ilf-header{gap:10px;padding-inline:12px}
+ .festival-site .ilf-header .festival-badge img{width:54px;height:54px}
+ .header-brand-copy{flex:1;max-width:none}
+ .header-brand-copy strong{font-size:clamp(10px,2.85vw,16px)}
+ .header-brand-copy>span{font-size:clamp(8px,2.3vw,11px)}
+ .festival-site .ilf-header .menu-toggle{width:36px;height:44px;padding:8px}
+}
+@media(max-width:359px){.festival-site .site-header.ilf-header{gap:8px}.festival-site .ilf-header .festival-badge img{width:46px;height:46px}.header-brand-copy strong{font-size:10px}}
+
+/* Matched illustrated participation cards, including Internship. */
+.festival-site .ilf-join-option .client-join-photo{height:auto;aspect-ratio:3/2;object-fit:cover;object-position:center;border:1px solid #eddbb6;background:#fff5e4}
+@media(max-width:600px){.festival-site .ilf-join-option{display:flex;flex-direction:column;align-items:flex-start}.festival-site .ilf-join-option .client-join-photo{width:100%;margin-bottom:18px}}
+
+/* Session recordings live in the Media Room, with styles shared across viewports. */
+.media-session-library{scroll-margin-top:130px}
+.media-session-intro{max-width:760px;margin:0 0 32px;font-size:17px;line-height:1.8}
+.media-session-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px;margin-bottom:36px}
+.media-session-card{display:block;min-width:0;background:#fff6e6;border:1px solid #dfbf87;border-radius:12px;padding:14px 14px 22px}
+.media-session-card>div{position:relative;aspect-ratio:16/9;overflow:hidden;border-radius:8px;background:#173b70}
+.media-session-card img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .25s}
+.media-session-card:hover img{transform:scale(1.035)}
+.media-session-card .ilf-session-play{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);display:grid;place-items:center;width:52px;height:52px;border-radius:50%;background:#173b70df;color:white;font-size:22px;border:1px solid #ffffff80}
+.media-session-card>div>small{position:absolute;bottom:8px;right:8px;background:#173b70;color:#fff;padding:3px 8px;border-radius:4px;font-size:12px}
+.media-session-card h3{font-family:var(--sans);font-size:21px;line-height:1.6;margin:18px 0 8px}
+.media-session-card p{font-size:14px;margin:0 0 12px}.media-session-card>span{font-size:11px;letter-spacing:.5px;color:#a73729}
+.home-media-room-link{margin:18px 20px 28px}
+@media(max-width:1000px){.media-session-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.media-session-grid{grid-template-columns:1fr;gap:22px}.media-session-intro{font-size:16px}}
+@media(prefers-reduced-motion:reduce){.media-session-card img{transition:none}.media-session-card:hover img{transform:none}}
+
+
+/* An illustrated literary garden around real community memories. */
+.festival-site .ilf-attendees{position:relative;min-height:0;padding:64px 0 92px;background:#fff8eb;isolation:isolate}
+.festival-site .ilf-attendees::before{content:'';position:absolute;inset:0;background:url('../../../public/images/attendee-memory-garden.webp') center top/100% auto no-repeat;opacity:1;z-index:-1;pointer-events:none}
+.festival-site .ilf-attendees::after{content:none}
+.festival-site .ilf-attendees>.ilf-intro{max-width:650px;margin-inline:auto;padding-inline:20px}
+.feedback-wall{max-width:1000px}.feedback-stage{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 284px minmax(0,1fr);gap:28px;align-items:center;padding:20px 14px}
+.feedback-film{grid-column:2;grid-row:1/3;margin:0;padding:10px;background:#173b70;border:1px solid #d9b56c;border-radius:22px;box-shadow:0 16px 35px #173b7026;position:relative;z-index:2}
+.feedback-film-label{font-size:8px;font-weight:600;letter-spacing:1px;padding:10px 0 16px;color:#f6ca63;text-align:center}.feedback-film-label>span{margin-right:6px}
+.client-feedback .feedback-film video{display:block;width:100%;height:auto;aspect-ratio:9/16;max-height:none;object-fit:contain;margin:0;background:#173b70;border-radius:12px}
+.feedback-film figcaption{font:500 20px/1.35 var(--serif);text-align:center;color:#fff8eb;padding:16px 2px 8px}.feedback-film figcaption span{display:block;font:11px/1.6 var(--sans);margin-top:6px;color:#d9e2ec}
+.feedback-notes{display:contents}.feedback-note{position:relative;grid-column:1;grid-row:1;width:100%;padding:10px 10px 14px;border:1px solid #d9c298;border-radius:5px;background:#fffdf8;color:#173b70;box-shadow:0 8px 22px #61442320;cursor:zoom-in;transform:rotate(-2deg);transition:transform .2s}
+.feedback-note::before{content:none}
+.feedback-note img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:contain;background:#f3e9d4}.feedback-note>span{display:flex;justify-content:space-between;gap:8px;font-size:11px;padding-top:12px}.feedback-note b{color:#bd4933;font-size:16px}
+.feedback-note:nth-child(2){grid-row:2;transform:rotate(2deg)}.feedback-note:nth-child(3){grid-column:3;transform:rotate(2deg)}.feedback-note:nth-child(4){grid-column:3;grid-row:2;transform:rotate(-2deg)}
+.feedback-note:hover{transform:translateY(-3px);z-index:3}.feedback-note:focus-visible,.feedback-more summary:focus-visible{outline:3px solid #173b70;outline-offset:5px}
+.feedback-hint{text-align:center;font-size:13px;margin:22px 0;color:#514939}
+.feedback-more{margin:0 auto;max-width:1000px}.client-feedback .feedback-more>summary{list-style:none;display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:8px 16px;width:fit-content;margin:auto;padding:15px 25px;border:1px solid #c8a362;border-radius:8px;background:#fff9ed;box-shadow:0 5px 15px #6144230d}.feedback-more>summary::after{content:'+';font-size:22px}.feedback-more[open]>summary::after{content:'-'} .feedback-more>summary span{font-size:12px;font-weight:400}
+.feedback-more[open]{padding:24px;background:#fff8ebee;border:1px solid #dfcba9;border-radius:12px}
+@media(max-width:1100px){.feedback-stage{grid-template-columns:minmax(0,1fr) 260px minmax(0,1fr);gap:22px}.feedback-wall{width:calc(100% - 72px)}.festival-site .ilf-attendees::before{background-size:auto 1000px}}
+@media(max-width:760px){.festival-site .ilf-attendees{padding:42px 0 64px}.festival-site .ilf-attendees::before{background-size:auto 900px;background-position:center bottom;opacity:.65}.feedback-stage{display:flex;flex-direction:column;padding:8px 0;gap:26px}.feedback-film{width:min(100%,284px);box-sizing:border-box}.feedback-notes{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;width:100%;padding:6px 2px;box-sizing:border-box}.feedback-note,.feedback-note:nth-child(n){grid-column:auto;grid-row:auto;transform:none;padding:6px 6px 10px}.feedback-note>span{font-size:10px;line-height:1.4;padding-top:8px}.feedback-wall{width:calc(100% - 36px)}.feedback-more .client-photo-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.feedback-hint{margin:10px 0 24px}.feedback-more[open]{padding:12px}}
+@media(prefers-reduced-motion:reduce){.feedback-note{transition:none}.feedback-note:hover{transform:none}}
+
+/* A composed closing invitation, with clear primary and secondary actions. */
+.festival-site .ilf-listen .ilf-media-rail{align-items:stretch}
+.festival-site .ilf-listen-card{display:flex;flex-direction:column;border:1px solid #c8a36255;box-shadow:0 8px 24px #173b7008}
+.festival-site .ilf-listen-card .ilf-text-link{align-self:flex-start;margin-top:auto}
+.festival-site .listen-actions{display:flex;align-items:center;justify-content:space-between;gap:24px;text-align:left;max-width:1320px;width:calc(100% - 80px);margin-top:34px;padding:26px 30px;border:1px solid #c8a36266;border-radius:12px;background:#fff9edf2;box-sizing:border-box}
+.listen-actions-copy>span{font-size:10px;font-weight:700;letter-spacing:1.6px;color:#9b482e}
+.listen-actions-copy>p{font:500 25px/1.35 var(--serif);color:#173b70;margin:8px 0 0}
+.listen-actions-links{display:flex;flex-direction:column;align-items:center;gap:14px}
+.listen-actions-links .ilf-button{margin:0}
+.listen-actions-links .ilf-text-link{font-size:13px;text-align:center}
+.festival-site .ilf-news{min-height:0;justify-content:flex-start;padding-block:40px 60px}
+.festival-site .ilf-attendees{padding-bottom:48px}
+@media(max-width:760px){
+ .festival-site .listen-actions{width:calc(100% - 32px);flex-direction:column;text-align:center;padding:24px 18px;gap:20px;margin-top:24px}
+ .listen-actions-copy>p{font-size:23px}
+ .listen-actions-links{width:100%}
+ .listen-actions-links .ilf-button{width:100%;max-width:330px;box-sizing:border-box}
+ .festival-site .ilf-news{padding-block:28px 44px}
+ .festival-site .ilf-attendees{padding-bottom:32px}
+}
+/* Distinct editorial chapters: solid colour, framed art, no fading transitions. */
+.festival-site .ilf-venue{background:#fffdf8}
+.festival-site .ilf-narmada-art{display:block;bottom:0;mask-image:none;-webkit-mask-image:none}
+.festival-site .ilf-listen{background:#f5e5c8;color:#173b70;padding:56px 0 0;min-height:0;border-top:1px solid #d7b46e}
+.festival-site .ilf-listen .ilf-scene-wildlife{display:block;bottom:0;opacity:1;width:100%;height:auto;mask-image:none;-webkit-mask-image:none}
+.festival-site .ilf-listen .ilf-heading h2{color:#173b70}
+.festival-site .ilf-listen .ilf-heading h2 span{color:#8d452c}
+.festival-site .ilf-listen>.ilf-intro{color:#364b63}
+.festival-site .ilf-listen-card{color:#173b70;background:#fff9ef;border-color:#e2cca2;box-shadow:0 10px 24px #081e3926}
+.festival-site .listen-actions{background:transparent;border:0;border-top:1px solid #ffffff40;border-radius:0;box-shadow:none;padding:28px 0 0}
+.festival-site .listen-actions-copy>span{color:#8d452c}
+.festival-site .listen-actions-copy>p{color:#173b70}
+.festival-site .listen-actions-links .ilf-button{background:#173b70;color:#fff8eb}
+.festival-site .listen-actions-links .ilf-text-link{color:#933f29;border-color:#933f2960}
+.festival-site .ilf-listen a:focus-visible{outline:3px solid #173b70;outline-offset:5px}
+.festival-site .ilf-attendees{background:#f5e5c8;padding:40px 0 64px;overflow:visible}
+.festival-site .ilf-attendees::before,.festival-site .ilf-attendees::after{content:none}
+.festival-site .feedback-wall{max-width:1180px;width:calc(100% - 80px);padding:36px 42px;border:1px solid #d5ba86;border-radius:20px;background:#fff8eb url('../../../public/images/attendee-memory-garden.webp') center/cover no-repeat;box-sizing:border-box;box-shadow:0 12px 32px #553d1710}
+.festival-site .feedback-hint{width:fit-content;margin:24px auto 18px;background:#fff8eb;padding:8px 16px;border-radius:20px}
+.festival-site .feedback-more[open]{background:#fff8eb}
+.festival-site .ilf-news{background:#fffdf8;border-top:1px solid #dfcba9;padding-block:60px}
+@media(max-width:760px){
+ .festival-site .ilf-listen{padding:40px 0 0}
+ .festival-site .ilf-attendees{padding-block:40px}
+ .festival-site .feedback-wall{width:calc(100% - 28px);padding:22px 12px;border-radius:14px;background-size:auto 100%;background-position:center}
+ .festival-site .feedback-stage{gap:22px}
+ .festival-site .feedback-film{width:min(100%,284px)}
+ .festival-site .feedback-hint{font-size:12px;padding:8px 10px}
+ .festival-site .ilf-news{padding-block:40px}
+ .festival-site .listen-actions{padding-top:24px}
+}
+/* The original wildlife illustration frames the invitation without covering it. */
+.festival-site .listen-actions{flex-direction:column;justify-content:flex-start;text-align:center;width:min(640px,52%);min-height:clamp(300px,27vw,440px);margin:32px auto 0;padding:22px 0 110px;border:0;gap:20px}
+.festival-site .listen-actions-copy>p{font-size:30px}
+.festival-site .listen-actions-links{gap:16px}
+.festival-site .ilf-listen-card{border-radius:14px;padding:16px 16px 24px;box-shadow:0 6px 18px #59432212}
+@media(max-width:760px){
+ .festival-site .listen-actions{width:calc(100% - 40px);min-height:0;margin-top:26px;padding:12px 0 calc(33.333vw + 26px);gap:18px}
+ .festival-site .listen-actions-copy>p{font-size:25px}
+ .festival-site .listen-actions-links .ilf-button{width:auto;max-width:100%}
+ .festival-site .ilf-listen-card{padding:12px 12px 20px}
+}
+/* One garden: shared paper and botanical stems joining the two illustrations. */
+.memory-branch{position:absolute;top:-60px;left:0;width:clamp(100px,15vw,220px);height:360px;pointer-events:none;z-index:-1}
+.memory-branch--right{left:auto;right:0;transform:scaleX(-1)}
+.festival-site .ilf-attendees .feedback-wall{position:relative;z-index:0;border-color:#c6a573;border-radius:100px 100px 20px 20px;padding-top:48px;box-shadow:0 8px 28px #6f4c1710}
+@media(max-width:760px){
+ .festival-site .ilf-attendees{padding-top:26px}
+ .memory-branch{top:-16px;width:48px;height:245px;opacity:.6}
+ .festival-site .ilf-attendees .feedback-wall{border-radius:44px 44px 14px 14px;padding-top:26px}
+}
+/* Original article photographs with full-size viewing. */
+.article-photo-section{padding-block:48px 20px}
+.article-photo-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px}
+.article-photo-grid button{display:flex;flex-direction:column;min-width:0;padding:10px;border:1px solid #dfcba9;border-radius:10px;background:#fff9ed;color:#173b70;cursor:zoom-in;text-align:left}
+.article-photo-grid img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:contain;background:#f2e8d5}
+.article-photo-grid button>span{display:flex;justify-content:space-between;gap:12px;padding:14px 4px 6px;font-size:12px}
+.article-photo-grid button:focus-visible{outline:3px solid #173b70;outline-offset:4px}
+.article-photo-section .section-heading h2{font-size:32px}
+.article-photo-section .section-heading>span{font-size:13px}
+@media(max-width:760px){.article-photo-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.article-photo-grid button{padding:6px}.article-photo-section{padding-top:32px}.article-photo-section .section-heading{align-items:flex-start;gap:12px;flex-direction:column}.article-photo-section .section-heading h2{font-size:26px}}
+@media(max-width:420px){.article-photo-grid{grid-template-columns:1fr}}
+/* Official recordings sit between the article and further reading. */
+.article-watch{border-top:1px solid #dfcba9}
+.article-watch .section-heading{margin-bottom:18px}
+.article-watch-intro{max-width:760px;color:#596477;line-height:1.8;margin:0 0 30px}
+.article-watch-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:24px}
+.article-watch-card{display:flex;flex-direction:column;min-width:0;overflow:hidden;border:1px solid #decba7;border-radius:12px;background:#fff8eb;color:#173b70}
+.article-watch-cover{position:relative;aspect-ratio:16/9;background:#173b70;overflow:hidden}
+.article-watch-cover img{display:block;width:100%;height:100%;object-fit:cover}
+.article-watch-play{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);display:grid;place-items:center;width:56px;height:56px;border-radius:50%;background:#bd3f2eee;color:white;border:1px solid #fff9;font-size:21px}
+.article-watch-duration{position:absolute;right:10px;bottom:10px;padding:3px 7px;border-radius:4px;background:#102640ed;color:white;font-size:12px}
+.article-watch-copy{display:flex;flex-direction:column;flex:1;padding:20px}
+.article-watch-copy h3{font:600 19px/1.65 var(--sans);margin:0 0 18px}
+.article-watch-copy>span{margin-top:auto;font-size:13px;font-weight:600;color:#a43b2a}
+.article-watch-card:hover{border-color:#a43b2a}
+.article-watch-card:focus-visible{outline:3px solid #173b70;outline-offset:5px}
+@media(max-width:600px){.article-watch-grid{grid-template-columns:1fr;gap:20px}.article-watch-copy{padding:18px}.article-watch-copy h3{font-size:18px}}
+/* Dedicated participation pages retain the supplied photographs in full. */
+.participation-detail>.participation-story{margin-top:32px;margin-bottom:48px;align-items:start}
+.participation-detail .participation-story>div>img{width:100%;height:auto;max-height:none;object-fit:contain;border-radius:14px}
+.participation-detail .form-actions{display:flex;flex-wrap:wrap;gap:18px;align-items:center;margin-top:24px}
+.participation-detail>.tabs{margin-top:36px;flex-wrap:wrap;gap:16px}
+
+.header-brand-copy>.header-event-details{display:flex;align-items:center;flex-wrap:wrap;gap:6px 12px}.header-event-date{white-space:nowrap;color:#dce5f1}.header-brand-copy .header-venue-link{display:inline-flex;align-items:center;gap:5px;padding:4px 8px;border:1px solid #f6ca6340;border-radius:6px;background:#ffffff08;color:#f6ca63;text-decoration:none;white-space:nowrap;font-size:inherit;line-height:1.3;transition:background .2s,border-color .2s}.header-brand-copy .header-venue-link:hover{background:#f6ca6318;border-color:#f6ca6380}.header-venue-link:focus-visible{outline:2px solid #f6ca63;outline-offset:4px}.header-venue-link svg{flex-shrink:0}.header-venue-arrow{font-size:12px;opacity:.75}@media(max-width:700px){.header-brand-copy>.header-event-details{gap:4px 8px}.header-brand-copy .header-venue-link{padding:3px 6px}.header-venue-link svg{width:12px;height:12px}}
+@media(max-width:700px){.ilf-about .ilf-film-caption{left:16px;right:16px;bottom:12px}.ilf-about .ilf-film-caption strong{font-size:18px;margin:4px 0}.ilf-about .ilf-film-caption small{font-size:8px}.ilf-about .ilf-film-caption>span{font-size:11px}.ilf-about .ilf-play{width:48px;height:48px}}
+
+/* Confirmed attendance is shared by speaker cards, profiles and year collections. */
+.speaker-card .speaker-years,.ilf-speaker .speaker-years{display:flex;align-items:center;justify-content:flex-start;flex-wrap:wrap;gap:5px;margin:12px 0 0}
+.speaker-years-label{font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:#5c6570;margin-right:3px}
+.speaker-year{display:inline-block;padding:3px 7px;border:1px solid #dec99f;border-radius:5px;background:#fff7e6;color:#173b70;font-size:11px;font-weight:600;line-height:1.5}
+.speaker-year[data-selected=true]{background:#173b70;border-color:#173b70;color:#fff}
+.ilf-speaker .speaker-years{justify-content:center}
+.profile-appearances{padding:22px;margin:25px 0;background:#fff7e6;border:1px solid #e6d5b6;border-radius:12px}
+.profile-appearances-heading{display:flex;align-items:baseline;justify-content:space-between;gap:14px;flex-wrap:wrap;margin-bottom:16px}
+.profile-appearances h2{font:500 21px/1.35 var(--serif);margin:0;color:#173b70}
+.profile-appearances-heading>span{font-size:12px;color:#665b49}
+.profile-year-links{display:flex;flex-wrap:wrap;gap:10px}
+.profile-year-links>a{display:flex;flex-direction:column;gap:4px;min-width:92px;padding:11px 14px;border:1px solid #d9c39a;border-radius:7px;background:#fffdf8;color:#173b70}
+.profile-year-links strong{font-size:19px;line-height:1.2}
+.profile-year-links span{font-size:11px}
+.profile-year-links>a:hover{background:#173b70;border-color:#173b70;color:#fff}
+.profile-year-links>a:focus-visible{outline:3px solid #b04b32;outline-offset:3px}
+@media(max-width:600px){.profile-appearances{padding:17px}.profile-appearances h2{font-size:19px}.profile-year-links{gap:8px}.profile-year-links>a{min-width:84px;padding:10px}.speaker-card .speaker-years{gap:4px}.speaker-year{padding:2px 5px;font-size:10px}}
+
+/* Compact producer identity; retain the original logo and trim its empty display area. */
+.festival-site .ilf-footer .ilf-producer-compact{display:flex;flex-direction:column;align-items:flex-start;gap:0;min-width:0}
+.festival-site .ilf-footer .ilf-producer-compact>img{display:block;float:none;width:76px;height:76px;margin:0 0 18px}
+.festival-site .ilf-footer .ilf-producer-compact .ilf-producer-label{margin:0 0 10px;font-size:12px;line-height:1.5;max-width:none}
+.festival-site .ilf-producer-logo-frame{width:180px;height:56px;max-width:100%;overflow:hidden;margin:0 0 10px}
+.festival-site .ilf-footer .ilf-producer-logo-frame img.producer-logo{display:block;width:204px;max-width:none;height:auto;margin:0;float:none;transform:translate(-13px,-14px);border-radius:0;background:transparent}
+.festival-site .ilf-footer .ilf-producer-compact .ilf-producer-name{font-size:13px;line-height:1.6;margin:0;max-width:240px}
+.festival-site .ilf-footer .ilf-producer-compact small{font-size:12px;line-height:1.7;max-width:240px;margin:16px 0 0;padding:0;clear:none}
+
+.festival-site .ilf-website-credit strong{color:var(--ilf-gold);font-weight:600}
+.festival-site .artwork-credits{font-size:14px;line-height:1.8;overflow-wrap:anywhere}
+.festival-site .artwork-credits summary{cursor:pointer;font-weight:600}
+.festival-site .artwork-credits p{margin-block:16px}
+.festival-site .artwork-credits ul{padding-left:22px}
+.festival-site .artwork-credits li{margin-bottom:14px}
+.festival-site .artwork-credits a{text-decoration:underline}

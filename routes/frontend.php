@@ -6,8 +6,8 @@ Route::get('/', [FestivalController::class, 'home'])->name('home');
 Route::get('/speakers', [FestivalController::class, 'speakers'])->name('speakers');
 Route::get('/speakers/archive', [FestivalController::class, 'archive'])->name('speakers.archive');
 Route::get('/speakers/past/{slug}', [FestivalController::class, 'pastSpeaker'])->name('speakers.past.profile');
-Route::get('/speakers/archive/{year}', [FestivalController::class, 'speakerYear'])->where('year', '2024|2025')->name('speakers.year');
-Route::get('/speakers/archive/{year}/{slug}', [FestivalController::class, 'archiveSpeaker'])->where('year', '2024|2025')->name('speakers.archive.profile');
+Route::get('/speakers/archive/{year}', [FestivalController::class, 'speakerYear'])->where('year', '201[5-9]|202[0-5]')->name('speakers.year');
+Route::get('/speakers/archive/{year}/{slug}', [FestivalController::class, 'archiveSpeaker'])->where('year', '201[5-9]|202[0-5]')->name('speakers.archive.profile');
 Route::get('/speakers/{slug}', [FestivalController::class, 'speaker'])->name('speaker');
 Route::get('/journal', [FestivalController::class, 'journal'])->name('journal');
 Route::get('/journal/{slug}', [FestivalController::class, 'article'])->name('article');
@@ -23,3 +23,5 @@ foreach (['day-one','day-two','day-three','sharmistha-mukherjee','ramayan-dhar-d
     Route::redirect('/'.$slug.'.php','/journal/'.$slug,301);
 }
 Route::get('/sitemap.xml', [FestivalController::class, 'sitemap']);
+
+Route::get('/participate/{slug}', [FestivalController::class, 'participation'])->where('slug', 'volunteer|internship|stall-booking|open-mic')->name('participation.detail');

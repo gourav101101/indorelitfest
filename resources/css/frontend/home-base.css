@@ -71,7 +71,7 @@ html:has(.ilf-home){scroll-padding-top:0}
 .ilf-film-card>img{width:100%;height:100%;object-fit:cover;transition:transform .7s}
 .ilf-film-card:hover>img{transform:scale(1.025)}
 .ilf-film-shade{position:absolute;inset:0;background:linear-gradient(transparent 20%,#0b234b4d 55%,#091f41ed)}
-.ilf-play{position:absolute;top:43%;left:50%;transform:translate(-50%,-50%);width:85px;height:85px;display:grid;place-items:center;color:white;border:1px solid #fff;border-radius:50%;font-size:28px;padding-left:4px;backdrop-filter:blur(6px)}
+.ilf-play{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:85px;height:85px;display:grid;place-items:center;color:white;border:1px solid #fff;border-radius:50%;font-size:28px;padding-left:4px;backdrop-filter:blur(6px)}
 .ilf-film-caption{position:absolute;bottom:45px;left:48px;right:48px;color:white}
 .ilf-film-caption small{font-size:11px;letter-spacing:2px}
 .ilf-film-caption strong{display:block;font-family:var(--serif);font-size:40px;font-weight:500;margin:10px 0}
@@ -245,7 +245,7 @@ html:has(.ilf-home){scroll-padding-top:0}
  .ilf-film-caption strong{font-size:30px;line-height:1.2}
  .ilf-film-caption small{font-size:9px}
  .ilf-film-caption>span{font-size:12px}
- .ilf-play{width:62px;height:62px;font-size:23px;top:36%}
+ .ilf-play{width:62px;height:62px;font-size:23px;top:50%}
  .ilf-experiences{padding-top:125px;padding-bottom:0;margin-top:35px}
  .ilf-landscape{height:100px}
  .ilf-intro{font-size:16px;line-height:1.8;margin-bottom:35px;padding-inline:26px}
@@ -402,7 +402,7 @@ html:has(.ilf-home){scroll-padding-top:0}
 .ilf-carousel.is-enhanced .ilf-experience-track{height:650px;perspective:1400px;touch-action:pan-y}
 .ilf-carousel.is-enhanced .ilf-experience-card{width:var(--slide-width);max-width:none;top:0;margin:0;visibility:visible;opacity:.48;filter:blur(1px) saturate(.8);transform:translateX(calc(-50% + var(--slot)*var(--slide-step))) scale(.72);transform-origin:center 42%;transition:transform .7s cubic-bezier(.22,.68,.2,1),opacity .7s,filter .7s;z-index:1}
 .ilf-carousel.is-enhanced .ilf-experience-card.is-active{transform:translateX(-50%) scale(1);opacity:1;filter:none;z-index:3}
-.ilf-experience-image{border-radius:0;aspect-ratio:400/470;background:#e7b957!important;box-shadow:none;overflow:visible;padding:0;mask:url('/images/experience-frame.svg') center/100% 100% no-repeat}
+.ilf-experience-image{border-radius:0;aspect-ratio:400/470;background:#e7b957!important;box-shadow:none;overflow:visible;padding:0;mask:url('../../../public/images/experience-frame.svg') center/100% 100% no-repeat}
 .ilf-experience-image img{inset:18% 15% 18%;width:70%;height:64%;border-radius:45% 45% 0 0;object-fit:cover;object-position:center}
 .ilf-experience-image svg{display:block;inset:0;width:100%;height:100%;color:#a95732}
 .ilf-experience-card:nth-child(2) .ilf-experience-image{background:#dd9380!important}

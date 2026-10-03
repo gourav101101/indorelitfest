@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+let script=fs.readFileSync('research/review-speaker-attendance.mjs','utf8');
+script=script.replace("research/speaker-attendance-2026-10-01","research/handover-2026-10-02");
+script=script.replace(/const paths=.*?;\r?\n/,"const paths=['/speakers/past/gyan-chaturvedi','/speakers/past/alka-saraogi'];\n");
+script=script.replace("  let selector=path",`  const language = await run("(()=>{const hi=document.querySelector('#bio-hi-tab');hi.click();const visible=!document.querySelector('#bio-hi').hidden&&document.querySelector('#bio-en').hidden&&hi.getAttribute('aria-selected')==='true';hi.dispatchEvent(new KeyboardEvent('keydown',{key:'ArrowLeft',bubbles:true}));const keyboard=!document.querySelector('#bio-en').hidden&&document.querySelector('#bio-hi').hidden;hi.click();return {visible,keyboard}})()");
+  view.language=language;
+  if(!language.visible||!language.keyboard)errors.push('Biography language switch failed '+path);
+  let selector=path`);
+script=script.replace("'.profile-appearances':'.speaker-grid'","'.language-tabs':'.speaker-grid'");
+fs.writeFileSync('research/review-biographies.mjs',script);

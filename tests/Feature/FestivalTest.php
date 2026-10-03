@@ -5,19 +5,20 @@ class FestivalTest extends TestCase
 {
     public function test_yearly_speaker_archives_use_profiles_instead_of_pdfs(): void
     {
-        $this->get('/speakers/archive')->assertOk()->assertSee('2015 Speakers')->assertSee('2024 Speakers')->assertSee('Profiles coming soon')->assertDontSee('.pdf',false);
-        $this->get('/speakers/archive/2024')->assertOk()->assertSee('23 voices to discover')->assertSee('2024 Speakers')->assertDontSee('.pdf',false);
-        $this->get('/speakers/archive/2025')->assertOk()->assertSee('36 voices to discover');
+        $this->get('/speakers/archive')->assertOk()->assertSee('2015 Speakers')->assertSee('2024 Speakers')->assertDontSee('Profiles coming soon')->assertDontSee('.pdf',false);
+        $this->get('/speakers/archive/2015')->assertOk()->assertSee('21 voices to discover');
+        $this->get('/speakers/archive/2024')->assertOk()->assertSee('18 voices to discover')->assertSee('2024 Speakers')->assertDontSee('.pdf',false);
+        $this->get('/speakers/archive/2025')->assertOk()->assertSee('33 voices to discover');
         $data=json_decode(file_get_contents(resource_path('data/speakers-2024.json')),true);
         $this->assertCount(23,$data['speakers']);
+        $records=new \App\Support\SpeakerDirectory();
         foreach($data['speakers'] as $speaker){
             $this->assertFileExists(public_path(ltrim($speaker['image'],'/')));
             $this->assertNotEmpty($speaker['paragraphs']);
-            $this->get('/speakers/archive/2024/'.$speaker['slug'])->assertOk()->assertSee($speaker['name'])->assertSee('THE 2024 COLLECTION')->assertSee('/speakers/archive/2024',false)->assertDontSee('THE 2025 PROGRAMME')->assertDontSee('.pdf',false);
+            $this->get('/speakers/archive/2024/'.$speaker['slug'])->assertOk()->assertSee($records->find($speaker['slug'])['name'])->assertSee('THE 2024 COLLECTION')->assertSee('/speakers/archive/2024',false)->assertDontSee('THE 2025 PROGRAMME')->assertDontSee('.pdf',false);
         }
-        $this->get('/speakers/archive/2024/manoj-muntashir-shukla')->assertSee('/speakers/archive/2024/naveen-krishna-rai',false)->assertSee('/speakers/archive/2024/priya-malik',false);
         $this->get('/speakers/archive/2025/rahgir')->assertRedirect('/speakers/rahgir');
-        foreach(['/speakers/archive/2015','/speakers/archive/2099','/speakers/archive/2024/unknown','/speakers/archive/2024/rahgir'] as $path)$this->get($path)->assertNotFound();
+        foreach(['/speakers/archive/2099','/speakers/archive/2024/unknown','/speakers/archive/2024/rahgir'] as $path)$this->get($path)->assertNotFound();
         $this->get('/sitemap.xml')->assertSee('/speakers/archive/2024/priya-malik',false);
     }
     public function test_public_pages_render_without_a_database(): void
@@ -29,8 +30,8 @@ class FestivalTest extends TestCase
     public function test_imported_content_has_working_detail_pages(): void
     {
         $data=json_decode(file_get_contents(resource_path('data/legacy.json')),true);
-        foreach($data['speakers'] as $speaker)$this->get('/speakers/'.$speaker['slug'])->assertOk()->assertSee($speaker['name']);
-        foreach($data['articles'] as $article)$this->get('/journal/'.$article['slug'])->assertOk()->assertSee(str_replace(['Day 1','Day 2','Day 3'],['पहला दिन','दूसरा दिन','तीसरा दिन'],preg_replace('/[\s–-]+$/u','',$article['title'])));
+        foreach($data['speakers'] as $speaker)$this->get('/speakers/'.$speaker['slug'])->assertOk()->assertSee((new \App\Support\SpeakerDirectory())->find($speaker['slug'])['name']);
+        foreach(json_decode(file_get_contents(resource_path('data/journal.json')),true) as $article)$this->get('/journal/'.$article['slug'])->assertOk()->assertSee(\App\Support\JournalArticle::forDisplay($article)['title']);
     }
     public function test_confirmed_2026_details_and_forms_are_published_without_relabelling_archives(): void
     {

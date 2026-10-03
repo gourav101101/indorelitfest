@@ -1,3 +1,7 @@
+> Update, 2 October 2026: Open Mic is confirmed working by the user. Speaker photographs, name confirmations, missing gallery files and future 2026 announcements are deferred at the user’s request. See [current handover](handover-2026-10-02.md); older outstanding items below are historical.
+
+> Superseded by the [29 September received-content update](client-content-applied-2026-09-29.md). The journey URL, volunteer photograph, activity copy and attendee media listed below have now been received. This message is retained as historical correspondence; do not forward it as the current request list.
+
 # Ready-to-send client update
 
 > Current point-by-point checklist: [30 requested changes, completion status and required materials](client-changes-status-2026-09-28.md). Includes the latest logo placement and supplied lake/College images.

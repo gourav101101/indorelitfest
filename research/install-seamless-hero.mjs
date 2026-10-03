@@ -1,0 +1,15 @@
+import fs from 'node:fs/promises';
+import sharp from 'sharp';
+const source='C:/Users/ADIN/.codex/generated_images/01a0f693-daec-73c1-872b-3679c98edab5/exec-4dd9e249-a756-4420-828f-4562337d94a3.png';
+await fs.copyFile(source,'public/images/hero-seven-voices-seamless-2026.png');
+await sharp(source).webp({quality:90}).toFile('public/images/hero-seven-voices-seamless-2026.webp');
+const path='resources/views/frontend/pages/home.blade.php';
+let html=await fs.readFile(path,'utf8');
+html=html.replace(/            <div class="ilf-hero-scene"[\s\S]*?<\/div>/,`            <img class="ilf-hero-people is-current" data-hero-scene="0" src="{{ $image('images/hero-seven-voices-seamless-2026.webp') }}" alt="" width="2172" height="724" fetchpriority="high">`);
+await fs.writeFile(path,html);
+const cssPath='resources/css/frontend/home-scenes.css';
+let css=await fs.readFile(cssPath,'utf8');
+const marker='/* Replace the original foreground figures while retaining the original landmark pixels. */';
+if(css.includes(marker))css=css.slice(0,css.indexOf(marker));
+await fs.writeFile(cssPath,css.trimEnd()+'\n');
+console.log(await sharp('public/images/hero-seven-voices-seamless-2026.webp').metadata());

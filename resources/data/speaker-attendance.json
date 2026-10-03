@@ -1,0 +1,1280 @@
+{
+  "source": "Client-supplied Speaker List, received 2026-10-01",
+  "seasons": [
+    {
+      "year": 2015,
+      "season": 1,
+      "speakers": [
+        {
+          "name": "Tarek Fateh",
+          "slug": "tarek-fatah"
+        },
+        {
+          "name": "Piyush Mishra",
+          "slug": "piyush-mishra"
+        },
+        {
+          "name": "Aabid Surti",
+          "slug": "abid-surti"
+        },
+        {
+          "name": "Kamal Purthi",
+          "slug": "kamal-purthi"
+        },
+        {
+          "name": "Mamta Kalia",
+          "slug": "mamta-kalia"
+        },
+        {
+          "name": "Alka Saraogi",
+          "slug": "alka-saraogi"
+        },
+        {
+          "name": "Mahua Maji",
+          "slug": "mahua-maji"
+        },
+        {
+          "name": "Mubeen Mirza",
+          "slug": "mubeen-mirza"
+        },
+        {
+          "name": "Ambreen Haseen",
+          "slug": "ambreen-haseen"
+        },
+        {
+          "name": "Dr. Vaseem Barelvi",
+          "slug": "vaseem-barelvi"
+        },
+        {
+          "name": "Bekal Utsahi",
+          "slug": "bekal-utsahi"
+        },
+        {
+          "name": "Naresh Saxena",
+          "slug": "naresh-saxena"
+        },
+        {
+          "name": "Leeladhar Jagudi",
+          "slug": "leeladhar-jagudi"
+        },
+        {
+          "name": "Leeladhar Mandloi",
+          "slug": "leeladhar-mandloi"
+        },
+        {
+          "name": "Javed Akhtar",
+          "slug": "javed-akhtar"
+        },
+        {
+          "name": "Shabana Azmi",
+          "slug": "shabana-azmi"
+        },
+        {
+          "name": "Dr. Gyan Chaturvedi",
+          "slug": "gyan-chaturvedi"
+        },
+        {
+          "name": "Aalok Shrivastav",
+          "slug": "aalok-shrivastav"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "slug": "manoj-muntashir-shukla"
+        },
+        {
+          "name": "Padmini Sharma",
+          "slug": "padmini-sharma"
+        },
+        {
+          "name": "Lakshmi Narayan Tripathi",
+          "slug": "laxmi-narayan-tripathi"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "season": 2,
+      "speakers": [
+        {
+          "name": "Mahua Maji",
+          "slug": "mahua-maji"
+        },
+        {
+          "name": "Amish Tripathi",
+          "slug": "amish-tripathi"
+        },
+        {
+          "name": "Dr. Gyan Chaturvedi",
+          "slug": "gyan-chaturvedi"
+        },
+        {
+          "name": "Gopaldas Neeraj",
+          "slug": "gopaldas-neeraj"
+        },
+        {
+          "name": "Neha Sharad",
+          "slug": "neha-sharad"
+        },
+        {
+          "name": "Leeladhar Jagudi",
+          "slug": "leeladhar-jagudi"
+        },
+        {
+          "name": "Abid Surti",
+          "slug": "abid-surti"
+        },
+        {
+          "name": "Bhawana Somaaya",
+          "slug": "bhawana-somaaya"
+        },
+        {
+          "name": "Kumar Vishwas",
+          "slug": "kumar-vishwas"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "slug": "manoj-muntashir-shukla"
+        },
+        {
+          "name": "Piyush Mishra",
+          "slug": "piyush-mishra"
+        },
+        {
+          "name": "Tarek Fateh",
+          "slug": "tarek-fatah"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "season": 3,
+      "speakers": [
+        {
+          "name": "Chitra Mudgal",
+          "slug": "chitra-mudgal"
+        },
+        {
+          "name": "Taslima Nasreen",
+          "slug": "taslima-nasrin"
+        },
+        {
+          "name": "Anshu Gupta",
+          "slug": "anshu-gupta"
+        },
+        {
+          "name": "Uday Mahurkar",
+          "slug": "uday"
+        },
+        {
+          "name": "Pooja Gaitonde",
+          "slug": "pooja-gaitonde"
+        },
+        {
+          "name": "Bhawana Somaaya",
+          "slug": "bhawana-somaaya"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "slug": "manoj-muntashir-shukla"
+        },
+        {
+          "name": "Arun Kamal",
+          "slug": "arun-kamal"
+        },
+        {
+          "name": "Nilotpal Mrinal",
+          "slug": "neelotpal-mrinal"
+        },
+        {
+          "name": "Rajiv Dogra",
+          "slug": "rajiv-dogra"
+        },
+        {
+          "name": "Rupali Jagga",
+          "slug": "rupali-jagga"
+        },
+        {
+          "name": "Neelima Dalmia",
+          "slug": "neelima-dalmia-adhar"
+        },
+        {
+          "name": "Virag Mishra",
+          "slug": "virag-mishra"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "season": 4,
+      "speakers": [
+        {
+          "name": "Ruskin Bond",
+          "slug": "ruskin-bond"
+        },
+        {
+          "name": "Ashwin Sanghi",
+          "slug": "ashwin-sanghi"
+        },
+        {
+          "name": "Narendra Kohli",
+          "slug": "narendra-kohli"
+        },
+        {
+          "name": "Yatindra Mishr",
+          "slug": "yatindra-mishr"
+        },
+        {
+          "name": "Mamta Kalia",
+          "slug": "mamta-kalia"
+        },
+        {
+          "name": "Malini Awasthi",
+          "slug": "malini-awasthi"
+        },
+        {
+          "name": "Devdutt Pattanaik",
+          "slug": "devdutt-pattanaik"
+        },
+        {
+          "name": "Yunus Khan",
+          "slug": "yunus-khan"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "season": 5,
+      "speakers": [
+        {
+          "name": "Gagan Gill",
+          "slug": "gagan-gill"
+        },
+        {
+          "name": "Prayag Shukl",
+          "slug": "prayag-shukl"
+        },
+        {
+          "name": "Arun Maheshwari",
+          "slug": "arun-maheshwari"
+        },
+        {
+          "name": "Vijay Kumar",
+          "slug": "vijay-kumar"
+        },
+        {
+          "name": "Dr. Vikram Sampath",
+          "slug": "vikram-sampath"
+        },
+        {
+          "name": "Tarek Fateh",
+          "slug": "tarek-fatah"
+        },
+        {
+          "name": "Gautam Chikarmane",
+          "slug": "gautam-chikermane"
+        },
+        {
+          "name": "Dr. Gyan Chaturvedi",
+          "slug": "gyan-chaturvedi"
+        },
+        {
+          "name": "Maithali Thakur",
+          "slug": "maithali-thakur"
+        },
+        {
+          "name": "Nadira Babbar",
+          "slug": "nadira-babbar"
+        },
+        {
+          "name": "Savi Sharma",
+          "slug": "savi-sharma"
+        },
+        {
+          "name": "Ashish Bagrecha",
+          "slug": "ashish-bagrecha"
+        },
+        {
+          "name": "Aparna Upadhyay",
+          "slug": "aparna-upadhyay"
+        },
+        {
+          "name": "Nilotpal Mrinal",
+          "slug": "neelotpal-mrinal"
+        },
+        {
+          "name": "Mayur Didolkar",
+          "slug": "mayur-didolkar"
+        },
+        {
+          "name": "Lalit Kumar",
+          "slug": "lalit-kumar"
+        },
+        {
+          "name": "Belly Kanungo",
+          "slug": "belly-kanungo"
+        },
+        {
+          "name": "Lakshmi Narayan Tripathi",
+          "slug": "laxmi-narayan-tripathi"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "season": 6,
+      "speakers": [
+        {
+          "name": "Anupam Kher",
+          "slug": "anupam-kher"
+        },
+        {
+          "name": "Hindol Sengupta",
+          "slug": "hindol-sengupta"
+        },
+        {
+          "name": "Nilotpal Mrinal",
+          "slug": "neelotpal-mrinal"
+        },
+        {
+          "name": "Satya Vyas",
+          "slug": "satya-vyas"
+        },
+        {
+          "name": "Manisha Kulshreshth",
+          "slug": "manisha-kulshreshth"
+        },
+        {
+          "name": "Shailesh Bharatwasi",
+          "slug": "shailesh-bharatwasi"
+        },
+        {
+          "name": "Vinod Agarwal",
+          "slug": "vinod-agarwal"
+        },
+        {
+          "name": "Piyush Mishra",
+          "slug": "piyush-mishra"
+        },
+        {
+          "name": "Neelesh Misra",
+          "slug": "neelesh-misra"
+        },
+        {
+          "name": "Amishy Tripathi",
+          "slug": "amishy-tripathi"
+        },
+        {
+          "name": "Bhawana Roy",
+          "slug": "bhawana-roy"
+        },
+        {
+          "name": "Uday Mahurkar",
+          "slug": "uday"
+        },
+        {
+          "name": "Gulabo Sapera",
+          "slug": "gulabo-sapera"
+        },
+        {
+          "name": "Navneet Gurjar",
+          "slug": "navneet-gurjar"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "season": 7,
+      "speakers": [
+        {
+          "name": "Padma Vibhushan Sonal Mansingh",
+          "slug": "sonal-mansingh"
+        },
+        {
+          "name": "Rajnish Kumar",
+          "slug": "rajnish-kumar"
+        },
+        {
+          "name": "Dr. Vikram Sampath",
+          "slug": "vikram-sampath"
+        },
+        {
+          "name": "Kabir Bedi",
+          "slug": "kabir-bedi"
+        },
+        {
+          "name": "Ram Madhav",
+          "slug": "ram-madhav"
+        },
+        {
+          "name": "Sir Mark Tully",
+          "slug": "mark-tully"
+        },
+        {
+          "name": "Mamta Kalia",
+          "slug": "mamta-kalia"
+        },
+        {
+          "name": "Uday Mahurkar",
+          "slug": "uday"
+        },
+        {
+          "name": "Dr. Anand Ranganathan",
+          "slug": "anand-ranganathan"
+        },
+        {
+          "name": "Dr. Himashu Rai",
+          "slug": "himashu-rai"
+        },
+        {
+          "name": "Sanjeev Paliwal",
+          "slug": "sanjeev-paliwal"
+        },
+        {
+          "name": "Pankaj Rag",
+          "slug": "pankaj-rag"
+        },
+        {
+          "name": "Manish Singh",
+          "slug": "manish-singh"
+        },
+        {
+          "name": "Nilotpal Mrinal",
+          "slug": "neelotpal-mrinal"
+        },
+        {
+          "name": "Anant Vijay",
+          "slug": "anant-vijay"
+        },
+        {
+          "name": "Divya Prakash Dubey",
+          "slug": "divya-prakash-dubey"
+        },
+        {
+          "name": "Vaibhal Vishal",
+          "slug": "vaibhal-vishal"
+        },
+        {
+          "name": "Manoj Rajan Tripathi",
+          "slug": "manoj-rajan-tripathi"
+        },
+        {
+          "name": "Hetal Sonpal",
+          "slug": "hetal-sonpal"
+        },
+        {
+          "name": "Dr. Indira Chandrashekhar",
+          "slug": "indira-chandrashekhar"
+        },
+        {
+          "name": "Aditi Maheshwari Goyal",
+          "slug": "aditi-maheshwari-goyal"
+        },
+        {
+          "name": "Padmshri Kapil Tiwari",
+          "slug": "kapil-tiwari"
+        },
+        {
+          "name": "Mazid Khan",
+          "slug": "mazid-khan"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "season": 8,
+      "speakers": [
+        {
+          "name": "Annu Kapoor",
+          "slug": "annu-kapoor"
+        },
+        {
+          "name": "Ashwin Sanghi",
+          "slug": "ashwin-sanghi"
+        },
+        {
+          "name": "Deepti Naval",
+          "slug": "deepti-naval"
+        },
+        {
+          "name": "J. Sai Deepak",
+          "slug": "j-sai-deepak"
+        },
+        {
+          "name": "Devdutt Pattanaik",
+          "slug": "devdutt-pattanaik"
+        },
+        {
+          "name": "Durjoy Dutta",
+          "slug": "durjoy-dutta"
+        },
+        {
+          "name": "Leeladhar Jagudi",
+          "slug": "leeladhar-jagudi"
+        },
+        {
+          "name": "Arun Kamal",
+          "slug": "arun-kamal"
+        },
+        {
+          "name": "Gagan Gill",
+          "slug": "gagan-gill"
+        },
+        {
+          "name": "Surendra M Pathak",
+          "slug": "surendra-m-pathak"
+        },
+        {
+          "name": "Vandana Rag",
+          "slug": "vandana-rag"
+        },
+        {
+          "name": "Bharavi Jani",
+          "slug": "bharavi-jani"
+        },
+        {
+          "name": "Pooja Gaitonde",
+          "slug": "pooja-gaitonde"
+        },
+        {
+          "name": "Mame Khan",
+          "slug": "mame-khan"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "season": 9,
+      "speakers": [
+        {
+          "name": "Sonam Wangchuk",
+          "slug": "sonam-wangchuk"
+        },
+        {
+          "name": "Gitanjali J Angmo",
+          "slug": "gitanjali-j-angmo"
+        },
+        {
+          "name": "Damodar Maozo",
+          "slug": "damodar-maozo"
+        },
+        {
+          "name": "Chetan Bhagat",
+          "slug": "chetan-bhagat"
+        },
+        {
+          "name": "Dr. Anand Ranganathan",
+          "slug": "anand-ranganathan"
+        },
+        {
+          "name": "Preeti Shenoy",
+          "slug": "preeti-shenoy"
+        },
+        {
+          "name": "Dr. Gyan Chaturvedi",
+          "slug": "gyan-chaturvedi"
+        },
+        {
+          "name": "Prayag Shukl",
+          "slug": "prayag-shukl"
+        },
+        {
+          "name": "Leeladhar Mandloi",
+          "slug": "leeladhar-mandloi"
+        },
+        {
+          "name": "Manish Kulshreshth",
+          "slug": "manish-kulshreshth"
+        },
+        {
+          "name": "Niyaz Khan (IAS)",
+          "slug": "niyaz-khan"
+        },
+        {
+          "name": "Manu Vaishali",
+          "slug": "manu-vaishali"
+        },
+        {
+          "name": "Chinmayi Tripathi",
+          "slug": "chinmayi-tripathi"
+        },
+        {
+          "name": "Neeraj Aarya’s Kabir Cafe Band",
+          "slug": "neeraj-aryas-kabir-cafe"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "season": 10,
+      "speakers": [
+        {
+          "name": "Neelima Dalmia",
+          "slug": "neelima-dalmia-adhar"
+        },
+        {
+          "name": "Dr. Buddhinath Mishra",
+          "slug": "buddhinath-mishra"
+        },
+        {
+          "name": "Nilotpal Mrinal",
+          "slug": "neelotpal-mrinal"
+        },
+        {
+          "name": "Chandan Rai",
+          "slug": "chandan-rai"
+        },
+        {
+          "name": "Aman Axar",
+          "slug": "aman-akshar"
+        },
+        {
+          "name": "Manu Vaishali",
+          "slug": "manu-vaishali"
+        },
+        {
+          "name": "Dr. Ishinna B Sadana",
+          "slug": "ishinna-sadana"
+        },
+        {
+          "name": "Ashdin Doctor",
+          "slug": "ashdin-doctor"
+        },
+        {
+          "name": "Mazid Khan",
+          "slug": "mazid-khan"
+        },
+        {
+          "name": "Acharya Dr. Lakmi Narayan Tripathi",
+          "slug": "laxmi-narayan-tripathi"
+        },
+        {
+          "name": "Dr. Thomas Mathew",
+          "slug": "thomas-mathew"
+        },
+        {
+          "name": "Manoj Rajan Tripathi",
+          "slug": "manoj-rajan-tripathi"
+        },
+        {
+          "name": "Manoj Muntashir Shukla",
+          "slug": "manoj-muntashir-shukla"
+        },
+        {
+          "name": "Nita Menezes",
+          "slug": "nita-menezes"
+        },
+        {
+          "name": "Babusha Kohli",
+          "slug": "babusha-kohli"
+        },
+        {
+          "name": "Sanjeev Paliwal",
+          "slug": "sanjeev-paliwal"
+        },
+        {
+          "name": "Megha Parmar",
+          "slug": "megha-parmar"
+        },
+        {
+          "name": "Priya Malik",
+          "slug": "priya-malik"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "season": 11,
+      "speakers": [
+        {
+          "name": "Vivek Ranjan Agnihotri",
+          "slug": "vivek-ranjan-agnihotri"
+        },
+        {
+          "name": "Vinay Sahasrabuddhe",
+          "slug": "vinay-sahasrabuddhe"
+        },
+        {
+          "name": "Aditya Pittie",
+          "slug": "aditya-pitti"
+        },
+        {
+          "name": "Sonroopa Vishal",
+          "slug": "sonrupa-vishal"
+        },
+        {
+          "name": "Ramayan Dhar Dwivedi",
+          "slug": "ramayan-dhar-dwivedi"
+        },
+        {
+          "name": "Aman Axar",
+          "slug": "aman-akshar"
+        },
+        {
+          "name": "Divya Mathur (Britain)",
+          "slug": "divya-mathur"
+        },
+        {
+          "name": "Manju Shrivastav (USA)",
+          "slug": "manju-srivastava-man"
+        },
+        {
+          "name": "Rama Purnima Sharma (Japan)",
+          "slug": "rama-purnima-sharma"
+        },
+        {
+          "name": "Ritu Sharma Nanan Pandey (Netherlands)",
+          "slug": "ritu-sharma-nannan-pandey"
+        },
+        {
+          "name": "Dr. Vikas Dave",
+          "slug": "vikas-dave"
+        },
+        {
+          "name": "Ashutosh Agnihotri",
+          "slug": "ashutosh-agnihotri"
+        },
+        {
+          "name": "Vasundhara",
+          "slug": "vasundhara"
+        },
+        {
+          "name": "Ambi Parmeswaran",
+          "slug": "ambi-parameswaran"
+        },
+        {
+          "name": "Shailesh Bharatwasi",
+          "slug": "shailesh-bharatwasi"
+        },
+        {
+          "name": "Ankush Kumar",
+          "slug": "ankush-kumar"
+        },
+        {
+          "name": "‘Ghumantu’ Vlogger Sanjay Shephard",
+          "slug": "sanjay-shepherd"
+        },
+        {
+          "name": "Vijay Manohar Tiwari",
+          "slug": "vijay-manohar-tiwari"
+        },
+        {
+          "name": "Paritosh Tripathi",
+          "slug": "paritosh-tripathi"
+        },
+        {
+          "name": "‘Psychoshayar’ Abhi Munde",
+          "slug": "abhi-munde"
+        },
+        {
+          "name": "Sharmishtha Mukherjee",
+          "slug": "sharmistha-mukherjee"
+        },
+        {
+          "name": "Rahgir",
+          "slug": "rahgir"
+        },
+        {
+          "name": "Shalini Modi",
+          "slug": "shalini-modi"
+        },
+        {
+          "name": "Uday Mahurkar",
+          "slug": "uday"
+        },
+        {
+          "name": "Prakhar Shrivastava",
+          "slug": "prakhar-srivastava"
+        },
+        {
+          "name": "Pradeep Bhandari",
+          "slug": "pradeep-bhandari"
+        },
+        {
+          "name": "Manoj Rajan Tripathi",
+          "slug": "manoj-rajan-tripathi"
+        },
+        {
+          "name": "Divya Prakash Dubey",
+          "slug": "divya-prakash-dubey"
+        },
+        {
+          "name": "Vikas Choudhary",
+          "slug": "vikas-choudhary"
+        },
+        {
+          "name": "Chacha Chatore",
+          "slug": "chacha-chatore"
+        },
+        {
+          "name": "Himanshu Soni",
+          "slug": "himanshu-soni"
+        },
+        {
+          "name": "RJ Shubham",
+          "slug": "rj-shubham"
+        },
+        {
+          "name": "‘Rabho’ Rahul Bhosle",
+          "slug": "rahul-bhosle"
+        }
+      ]
+    }
+  ],
+  "identities": {
+    "tarek-fatah": {
+      "name": "Tarek Fateh"
+    },
+    "piyush-mishra": {
+      "name": "Piyush Mishra"
+    },
+    "abid-surti": {
+      "name": "Abid Surti"
+    },
+    "kamal-purthi": {
+      "name": "Kamal Purthi"
+    },
+    "mamta-kalia": {
+      "name": "Mamta Kalia"
+    },
+    "alka-saraogi": {
+      "name": "Alka Saraogi"
+    },
+    "mahua-maji": {
+      "name": "Mahua Maji"
+    },
+    "mubeen-mirza": {
+      "name": "Mubeen Mirza"
+    },
+    "ambreen-haseen": {
+      "name": "Ambreen Haseen"
+    },
+    "vaseem-barelvi": {
+      "name": "Vaseem Barelvi"
+    },
+    "bekal-utsahi": {
+      "name": "Bekal Utsahi"
+    },
+    "naresh-saxena": {
+      "name": "Naresh Saxena"
+    },
+    "leeladhar-jagudi": {
+      "name": "Leeladhar Jagudi"
+    },
+    "leeladhar-mandloi": {
+      "name": "Leeladhar Mandloi"
+    },
+    "javed-akhtar": {
+      "name": "Javed Akhtar"
+    },
+    "shabana-azmi": {
+      "name": "Shabana Azmi"
+    },
+    "gyan-chaturvedi": {
+      "name": "Gyan Chaturvedi"
+    },
+    "aalok-shrivastav": {
+      "name": "Aalok Shrivastav"
+    },
+    "manoj-muntashir-shukla": {
+      "name": "Manoj Muntashir Shukla"
+    },
+    "padmini-sharma": {
+      "name": "Padmini Sharma"
+    },
+    "laxmi-narayan-tripathi": {
+      "name": "Laxmi Narayan Tripathi"
+    },
+    "amish-tripathi": {
+      "name": "Amish Tripathi"
+    },
+    "gopaldas-neeraj": {
+      "name": "Gopaldas Neeraj"
+    },
+    "neha-sharad": {
+      "name": "Neha Sharad"
+    },
+    "bhawana-somaaya": {
+      "name": "Bhawana Somaaya"
+    },
+    "kumar-vishwas": {
+      "name": "Kumar Vishwas"
+    },
+    "chitra-mudgal": {
+      "name": "Chitra Mudgal"
+    },
+    "taslima-nasrin": {
+      "name": "Taslima Nasreen"
+    },
+    "anshu-gupta": {
+      "name": "Anshu Gupta"
+    },
+    "uday": {
+      "name": "Uday Mahurkar"
+    },
+    "pooja-gaitonde": {
+      "name": "Pooja Gaitonde"
+    },
+    "arun-kamal": {
+      "name": "Arun Kamal"
+    },
+    "neelotpal-mrinal": {
+      "name": "Nilotpal Mrinal"
+    },
+    "rajiv-dogra": {
+      "name": "Rajiv Dogra"
+    },
+    "rupali-jagga": {
+      "name": "Rupali Jagga"
+    },
+    "neelima-dalmia-adhar": {
+      "name": "Neelima Dalmia Adhar"
+    },
+    "virag-mishra": {
+      "name": "Virag Mishra"
+    },
+    "ruskin-bond": {
+      "name": "Ruskin Bond"
+    },
+    "ashwin-sanghi": {
+      "name": "Ashwin Sanghi"
+    },
+    "narendra-kohli": {
+      "name": "Narendra Kohli"
+    },
+    "yatindra-mishr": {
+      "name": "Yatindra Mishr"
+    },
+    "malini-awasthi": {
+      "name": "Malini Awasthi"
+    },
+    "devdutt-pattanaik": {
+      "name": "Devdutt Pattanaik"
+    },
+    "yunus-khan": {
+      "name": "Yunus Khan"
+    },
+    "gagan-gill": {
+      "name": "Gagan Gill"
+    },
+    "prayag-shukl": {
+      "name": "Prayag Shukl"
+    },
+    "arun-maheshwari": {
+      "name": "Arun Maheshwari"
+    },
+    "vijay-kumar": {
+      "name": "Vijay Kumar"
+    },
+    "vikram-sampath": {
+      "name": "Vikram Sampath"
+    },
+    "gautam-chikermane": {
+      "name": "Gautam Chikarmane"
+    },
+    "maithali-thakur": {
+      "name": "Maithali Thakur"
+    },
+    "nadira-babbar": {
+      "name": "Nadira Babbar"
+    },
+    "savi-sharma": {
+      "name": "Savi Sharma"
+    },
+    "ashish-bagrecha": {
+      "name": "Ashish Bagrecha"
+    },
+    "aparna-upadhyay": {
+      "name": "Aparna Upadhyay"
+    },
+    "mayur-didolkar": {
+      "name": "Mayur Didolkar"
+    },
+    "lalit-kumar": {
+      "name": "Lalit Kumar"
+    },
+    "belly-kanungo": {
+      "name": "Belly Kanungo"
+    },
+    "anupam-kher": {
+      "name": "Anupam Kher"
+    },
+    "hindol-sengupta": {
+      "name": "Hindol Sengupta"
+    },
+    "satya-vyas": {
+      "name": "Satya Vyas"
+    },
+    "manisha-kulshreshth": {
+      "name": "Manisha Kulshreshth"
+    },
+    "shailesh-bharatwasi": {
+      "name": "Shailesh Bharatwasi"
+    },
+    "vinod-agarwal": {
+      "name": "Vinod Agarwal"
+    },
+    "neelesh-misra": {
+      "name": "Neelesh Misra"
+    },
+    "amishy-tripathi": {
+      "name": "Amishy Tripathi"
+    },
+    "bhawana-roy": {
+      "name": "Bhawana Roy"
+    },
+    "gulabo-sapera": {
+      "name": "Gulabo Sapera"
+    },
+    "navneet-gurjar": {
+      "name": "Navneet Gurjar"
+    },
+    "sonal-mansingh": {
+      "name": "Sonal Mansingh"
+    },
+    "rajnish-kumar": {
+      "name": "Rajnish Kumar"
+    },
+    "kabir-bedi": {
+      "name": "Kabir Bedi"
+    },
+    "ram-madhav": {
+      "name": "Ram Madhav"
+    },
+    "mark-tully": {
+      "name": "Mark Tully"
+    },
+    "anand-ranganathan": {
+      "name": "Anand Ranganathan"
+    },
+    "himashu-rai": {
+      "name": "Himashu Rai"
+    },
+    "sanjeev-paliwal": {
+      "name": "Sanjeev Paliwal"
+    },
+    "pankaj-rag": {
+      "name": "Pankaj Rag"
+    },
+    "manish-singh": {
+      "name": "Manish Singh"
+    },
+    "anant-vijay": {
+      "name": "Anant Vijay"
+    },
+    "divya-prakash-dubey": {
+      "name": "Divya Prakash Dubey"
+    },
+    "vaibhal-vishal": {
+      "name": "Vaibhal Vishal"
+    },
+    "manoj-rajan-tripathi": {
+      "name": "Manoj Rajan Tripathi",
+      "legacy_slugs": [
+        "manoj-ranjan-tripathi"
+      ]
+    },
+    "hetal-sonpal": {
+      "name": "Hetal Sonpal"
+    },
+    "indira-chandrashekhar": {
+      "name": "Indira Chandrashekhar"
+    },
+    "aditi-maheshwari-goyal": {
+      "name": "Aditi Maheshwari Goyal"
+    },
+    "kapil-tiwari": {
+      "name": "Kapil Tiwari"
+    },
+    "mazid-khan": {
+      "name": "Mazid Khan"
+    },
+    "annu-kapoor": {
+      "name": "Annu Kapoor"
+    },
+    "deepti-naval": {
+      "name": "Deepti Naval"
+    },
+    "j-sai-deepak": {
+      "name": "J. Sai Deepak"
+    },
+    "durjoy-dutta": {
+      "name": "Durjoy Dutta"
+    },
+    "surendra-m-pathak": {
+      "name": "Surendra M Pathak"
+    },
+    "vandana-rag": {
+      "name": "Vandana Rag"
+    },
+    "bharavi-jani": {
+      "name": "Bharavi Jani"
+    },
+    "mame-khan": {
+      "name": "Mame Khan"
+    },
+    "sonam-wangchuk": {
+      "name": "Sonam Wangchuk"
+    },
+    "gitanjali-j-angmo": {
+      "name": "Gitanjali J Angmo"
+    },
+    "damodar-maozo": {
+      "name": "Damodar Maozo"
+    },
+    "chetan-bhagat": {
+      "name": "Chetan Bhagat"
+    },
+    "preeti-shenoy": {
+      "name": "Preeti Shenoy"
+    },
+    "manish-kulshreshth": {
+      "name": "Manish Kulshreshth"
+    },
+    "niyaz-khan": {
+      "name": "Niyaz Khan"
+    },
+    "manu-vaishali": {
+      "name": "Manu Vaishali"
+    },
+    "chinmayi-tripathi": {
+      "name": "Chinmayi Tripathi"
+    },
+    "neeraj-aryas-kabir-cafe": {
+      "name": "Neeraj Arya’s Kabir Cafe"
+    },
+    "buddhinath-mishra": {
+      "name": "Buddhinath Mishra"
+    },
+    "chandan-rai": {
+      "name": "Chandan Rai"
+    },
+    "aman-akshar": {
+      "name": "Aman Axar"
+    },
+    "ishinna-sadana": {
+      "name": "Dr. Ishinna B. Sadana"
+    },
+    "ashdin-doctor": {
+      "name": "Ashdin Doctor"
+    },
+    "thomas-mathew": {
+      "name": "Thomas Mathew"
+    },
+    "nita-menezes": {
+      "name": "Nita Menezes"
+    },
+    "babusha-kohli": {
+      "name": "Babusha Kohli"
+    },
+    "megha-parmar": {
+      "name": "Megha Parmar"
+    },
+    "priya-malik": {
+      "name": "Priya Malik"
+    },
+    "vivek-ranjan-agnihotri": {
+      "name": "Vivek Ranjan Agnihotri"
+    },
+    "vinay-sahasrabuddhe": {
+      "name": "Vinay Sahasrabuddhe"
+    },
+    "aditya-pitti": {
+      "name": "Aditya Pittie"
+    },
+    "sonrupa-vishal": {
+      "name": "Sonroopa Vishal"
+    },
+    "ramayan-dhar-dwivedi": {
+      "name": "Ramayan Dhar Dwivedi"
+    },
+    "divya-mathur": {
+      "name": "Divya Mathur"
+    },
+    "manju-srivastava-man": {
+      "name": "Manju Shrivastav"
+    },
+    "rama-purnima-sharma": {
+      "name": "Rama Purnima Sharma"
+    },
+    "ritu-sharma-nannan-pandey": {
+      "name": "Ritu Sharma Nanan Pandey"
+    },
+    "vikas-dave": {
+      "name": "Vikas Dave"
+    },
+    "ashutosh-agnihotri": {
+      "name": "Ashutosh Agnihotri"
+    },
+    "vasundhara": {
+      "name": "Vasundhara"
+    },
+    "ambi-parameswaran": {
+      "name": "Ambi Parmeswaran"
+    },
+    "ankush-kumar": {
+      "name": "Ankush Kumar"
+    },
+    "sanjay-shepherd": {
+      "name": "Sanjay Shephard",
+      "aliases": [
+        "Ghumantu"
+      ]
+    },
+    "vijay-manohar-tiwari": {
+      "name": "Vijay Manohar Tiwari"
+    },
+    "paritosh-tripathi": {
+      "name": "Paritosh Tripathi"
+    },
+    "abhi-munde": {
+      "name": "Abhi Munde",
+      "aliases": [
+        "Psychoshayar",
+        "Psycho Shayar"
+      ]
+    },
+    "sharmistha-mukherjee": {
+      "name": "Sharmishtha Mukherjee"
+    },
+    "rahgir": {
+      "name": "Rahgir"
+    },
+    "shalini-modi": {
+      "name": "Shalini Modi"
+    },
+    "prakhar-srivastava": {
+      "name": "Prakhar Shrivastava"
+    },
+    "pradeep-bhandari": {
+      "name": "Pradeep Bhandari"
+    },
+    "vikas-choudhary": {
+      "name": "Vikas Choudhary"
+    },
+    "chacha-chatore": {
+      "name": "Chacha Chatore"
+    },
+    "himanshu-soni": {
+      "name": "Himanshu Soni"
+    },
+    "rj-shubham": {
+      "name": "RJ Shubham"
+    },
+    "rahul-bhosle": {
+      "name": "Rahul Bhosle",
+      "aliases": [
+        "Rabho"
+      ]
+    }
+  },
+  "unresolved_identity_pairs": [
+    [
+      "amish-tripathi",
+      "amishy-tripathi"
+    ],
+    [
+      "manisha-kulshreshth",
+      "manish-kulshreshth"
+    ]
+  ]
+}

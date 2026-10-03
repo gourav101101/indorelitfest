@@ -1,5 +1,4 @@
 @php($homeMedia = require resource_path('data/home-media.php'))
-@include('frontend.partials.youtube-milestone')
 <section id="podcasts" class="ilf-media-section ilf-listen ilf-section">
  <img class="ilf-scene-wildlife" src="{{ $image('images/festival-wildlife-divider.png') }}" alt="" aria-hidden="true" width="2172" height="724" loading="lazy">
 
@@ -12,29 +11,40 @@
  <small>VIDEO CONVERSATION · {{ $item['duration'] }}</small><h3>{{ $item['title'] }}</h3><p>{{ $item['person'] }}</p><span class="ilf-text-link">Listen & watch on YouTube ↗</span>
  </a>
  @endforeach
- </div><p class="ilf-media-note">Recorded festival conversations on YouTube.</p><a class="ilf-button" href="https://www.youtube.com/@indorelitfest/videos">Explore All Conversations ↗</a>
+ </div>
+ <div class="listen-actions ilf-wrap">
+  <div class="listen-actions-copy"><span>KEEP THE CONVERSATION GOING</span><p>More voices. More stories to discover.</p></div>
+  <div class="listen-actions-links">
+   <a class="ilf-button" href="https://www.youtube.com/@indorelitfest/videos">Explore All Conversations &#8599;</a>
+   <a class="ilf-text-link" href="{{ route('media') }}#watch-sessions">Festival sessions in the Media Room &#8599;</a>
+  </div>
+ </div>
 </section>
-<section id="watch-sessions" class="ilf-media-section ilf-sessions ilf-section">
- @include('frontend.partials.ilf-heading',['overline'=>'Watch','heading'=>'Our sessions!'])
- <p class="ilf-intro">A story, a poem, a fresh point of view. Revisit these recordings from the 2025 Indore Literature Festival, published by Hello Hindustan.</p>
- <div class="ilf-session-grid ilf-wrap">
- @foreach($homeMedia['sessions'] as $item)
- <a class="ilf-session-card" href="https://www.youtube.com/watch?v={{ $item['id'] }}">
- <div><img src="https://i.ytimg.com/vi/{{ $item['id'] }}/hqdefault.jpg" alt="Video thumbnail: {{ $item['title'] }}" width="480" height="360" loading="lazy" referrerpolicy="no-referrer"><span class="ilf-session-play" aria-hidden="true">▶</span><small>{{ $item['duration'] }}</small></div>
- <h3 lang="hi">{{ $item['title'] }}</h3><p>{{ $item['person'] }}</p><span>2025 ARCHIVE · WATCH ON YOUTUBE ↗</span>
- </a>
- @endforeach
- </div><a class="ilf-button" href="https://www.youtube.com/@indorelitfest/videos">Explore All Videos ↗</a>
-</section>
-@include('frontend.partials.ilf-chapter-transition',['scene'=>'river'])
+
+
 <section id="attendees" class="ilf-attendees ilf-section">
+ @include('frontend.partials.memory-garden-branches')
  @include('frontend.partials.ilf-heading',['overline'=>'What our attendees','heading'=>'Say'])
- <p class="ilf-intro">Different people. A shared love for the festival. Audience reflections reported by Agniban after the 2025 edition.</p>
- <div class="ilf-attendee-grid ilf-wrap">
- @foreach($homeMedia['attendees'] as $item)
- <article>@if(!empty($item['image']))<img class="attendee-note" src="{{ $image($item['image']) }}" alt="{{ $item['image_alt'] }}" loading="lazy">@else<span class="ilf-attendee-initial" aria-hidden="true">{{ $item['initial'] }}</span>@endif<p>{{ $item['text'] }}</p><h3>{{ $item['name'] }}</h3><small>2025 festival attendee</small>@if(!empty($item['video_url']))<p><a class="ilf-text-link" href="{{ $item['video_url'] }}" target="_blank" rel="noopener">Watch their experience ↗</a></p>@endif</article>
+ <p class="ilf-intro">In their own words. Handwritten memories and experiences from our festival community.</p>
+ @php($feedback = json_decode(file_get_contents(resource_path('data/client-media-2026-09.json')),true)['experiences'])
+ <div class="ilf-wrap client-feedback feedback-wall">
+ <div class="feedback-stage">
+ <figure class="feedback-film">
+ <div class="feedback-film-label"><span aria-hidden="true">&#9654;</span> A LITTLE FILM. A LOT OF FEELING.</div>
+ <video controls playsinline preload="metadata" aria-label="Handwritten festival memories, a 36-second film"><source src="{{ asset('videos/ilf-attendee-experiences.mp4') }}" type="video/mp4"><a href="{{ asset('videos/ilf-attendee-experiences.mp4') }}">Watch the festival experience video</a></video>
+ <figcaption>Little notes. Lasting memories.<span>From our community, with love.</span></figcaption>
+ </figure>
+ <div class="feedback-notes" aria-label="Handwritten festival memories" tabindex="0">
+ @foreach(array_intersect_key($feedback,array_flip([0,8,13,17])) as $photo)
+ <button class="feedback-note" type="button" data-lightbox="{{ $image($photo['image']) }}" data-caption="Handwritten festival feedback" aria-label="Read festival memory {{ $loop->iteration }}">
+ <img src="{{ $image($photo['image']) }}" alt="Handwritten messages from festival visitors, photo {{ $loop->iteration }}" width="800" height="600" loading="lazy"><span>Notes from the festival <b aria-hidden="true">&#8599;</b></span>
+ </button>
  @endforeach
- </div><p class="ilf-media-note">Summaries of published attendee comments, not verbatim quotations.</p><a class="ilf-text-link" href="{{ $homeMedia['attendee_source'] }}">Read the original audience comments · Agniban ↗</a>
+ </div>
+ </div>
+ <p class="feedback-hint">Tap a note to read it up close.</p>
+ <details class="feedback-more"><summary>Open the memory wall <span>17 more photographs</span></summary>@include('frontend.partials.client-photo-grid',['photos'=>array_diff_key($feedback,array_flip([0,8,13,17])),'caption'=>'Handwritten festival feedback'])</details>
+ </div>
 </section>
 <section id="news-updates" class="ilf-news ilf-section">
  @include('frontend.partials.ilf-heading',['overline'=>'News and','heading'=>'Updates'])

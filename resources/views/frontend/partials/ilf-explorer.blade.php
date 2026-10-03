@@ -12,10 +12,11 @@
    ['Plan Your Visit',route('visit'),'visit'],
    ['Take Part','#registration','join']
   ] as $item)
-  <a class="ilf-orbit-link" href="{{ $item[1] }}" data-orbit-label="{{ $item[0] }}" style="--tile:{{ $loop->index }}">
-   <span class="ilf-orbit-painting" aria-hidden="true"></span><span>{{ $item[0] }}</span>
+  <a class="ilf-orbit-link" href="{{ $item[1] }}" data-orbit-label="{{ $item[0] }}" @if($item[2]==='voices') data-orbit-voices aria-label="Illustrated festival voices — Ruskin Bond, Javed Akhtar, Manoj Muntashir and Malini Awasthi" @endif style="--tile:{{ $loop->index }}">
+   <span class="ilf-orbit-painting" aria-hidden="true">@if($item[2]==='voices')<img class="orbit-speaker-art" src="{{ asset('images/four-speaker-watercolor-2026.webp') }}" alt="" width="1000" height="1000" loading="lazy">@endif</span><span>{{ $item[0] }}</span>
   </a>
   @endforeach
  </div>
+
 
 </section>

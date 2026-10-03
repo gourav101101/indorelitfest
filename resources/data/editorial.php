@@ -49,6 +49,6 @@ return [
         ['question'=>'Can I read the programme on my phone?','answer'=>'Yes. The Schedule page includes the original PDF and a direct open/download link. The downloaded document can be read offline.'],
         ['question'=>'Are the speakers shown confirmed for the next edition?','answer'=>'The current directory celebrates the 2025 participants. A new lineup will be announced separately. You can also explore our past-speaker archive.'],
         ['question'=>'Where can I watch previous conversations?','answer'=>'Our official YouTube channel hosts festival conversations and performances. Follow the Sneak peek or YouTube links on this site.'],
-        ['question'=>'Who should I contact about accessibility or visiting with a group?','answer'=>'Please contact the organising team by email or phone before planning your visit. They can advise on arrangements once the venue and programme are confirmed.'],
+        ['question'=>'Who should I contact about accessibility or visiting with a group?','answer'=>'Please contact the organising team by email before planning your visit. They can advise on arrangements once the venue and programme are confirmed.'],
     ],
 ];

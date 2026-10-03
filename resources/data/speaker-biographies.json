@@ -1,0 +1,602 @@
+{
+  "alka-saraogi": {
+    "role": "Novelist",
+    "paragraphs": [
+      "Alka Saraogi writes fiction in Hindi. Her debut novel, Kali-Katha: Via Bypass, received the Sahitya Akademi Award in 2001."
+    ],
+    "hindi": [
+      "अलका सरावगी हिंदी की उपन्यासकार हैं। उनके पहले उपन्यास ‘कलि-कथा : वाया बाइपास’ को 2001 में साहित्य अकादेमी पुरस्कार मिला।"
+    ],
+    "source": "https://www.penguin.co.in/book_author/alka-saraogi/",
+    "source_credit": "Penguin Random House India",
+    "researched_on": "2026-10-02"
+  },
+  "mubeen-mirza": {
+    "role": "Writer & editor",
+    "paragraphs": [
+      "Mubeen Mirza is an Urdu writer whose work spans fiction, poetry and literary criticism. He is also associated with the literary journal Mukalama."
+    ],
+    "hindi": [
+      "मुबीन मिर्ज़ा उर्दू के लेखक हैं। उनका लेखन कथा, कविता और साहित्यिक आलोचना तक फैला है। वे साहित्यिक पत्रिका ‘मुकालमा’ से भी जुड़े रहे हैं।"
+    ],
+    "source": "https://www.karachiliteraturefestival.com/speakers/mubeen-mirza-3/",
+    "source_credit": "Karachi Literature Festival",
+    "researched_on": "2026-10-02"
+  },
+  "vaseem-barelvi": {
+    "role": "Urdu poet",
+    "paragraphs": [
+      "Vaseem Barelvi is an Urdu poet known for his ghazals and mushaira performances. His poetry collections include Mizaj and Aankh Aansu Hui."
+    ],
+    "hindi": [
+      "वसीम बरेलवी उर्दू के शायर हैं, जो अपनी ग़ज़लों और मुशायरों के लिए जाने जाते हैं। ‘मिज़ाज’ और ‘आँख आँसू हुई’ उनके काव्य-संग्रहों में शामिल हैं।"
+    ],
+    "source": "https://www.rekhta.org/poets/waseem-barelvi/profile",
+    "source_credit": "Rekhta",
+    "researched_on": "2026-10-02"
+  },
+  "bekal-utsahi": {
+    "role": "Poet",
+    "paragraphs": [
+      "Bekal Utsahi wrote ghazals, nazms, dohas and songs. His poetry drew extensively on the vocabulary and expression of Awadhi."
+    ],
+    "hindi": [
+      "बेकल उत्साही ने ग़ज़ल, नज़्म, दोहे और गीत लिखे। उनकी शायरी में अवधी के शब्दों और अभिव्यक्तियों की विशिष्ट उपस्थिति मिलती है।"
+    ],
+    "source": "https://www.rekhta.org/poets/bekal-utsahi/all",
+    "source_credit": "Rekhta",
+    "researched_on": "2026-10-02"
+  },
+  "leeladhar-jagudi": {
+    "role": "Hindi poet",
+    "paragraphs": [
+      "Leeladhar Jagudi is a Hindi poet from the Tehri Garhwal region of Uttarakhand. His literary work has been recognised with the Sahitya Akademi Award."
+    ],
+    "hindi": [
+      "लीलाधर जगूड़ी उत्तराखंड के टिहरी गढ़वाल क्षेत्र से आने वाले हिंदी कवि हैं। उनके साहित्यिक योगदान को साहित्य अकादेमी पुरस्कार से सम्मानित किया गया है।"
+    ],
+    "source": "https://www.hindwi.org/poets/leeladhar-jagudi/all",
+    "source_credit": "Hindwi",
+    "researched_on": "2026-10-02"
+  },
+  "leeladhar-mandloi": {
+    "role": "Poet & critic",
+    "paragraphs": [
+      "Leeladhar Mandloi writes Hindi poetry, criticism and prose. His work also includes travel writing, children’s literature and translations."
+    ],
+    "hindi": [
+      "लीलाधर मंडलोई हिंदी के कवि, आलोचक और गद्यकार हैं। उन्होंने यात्रा-वृत्तांत, बाल साहित्य और अनुवाद के क्षेत्र में भी काम किया है।"
+    ],
+    "source": "https://www.rajkamalprakashan.com/authors/leeladhar-mandloi",
+    "source_credit": "Rajkamal Prakashan",
+    "researched_on": "2026-10-02"
+  },
+  "gyan-chaturvedi": {
+    "role": "Satirist & novelist",
+    "paragraphs": [
+      "Dr. Gyan Chaturvedi is a Hindi satirist, novelist and physician. His novels include Narak-Yatra and Baramasi. He received the Padma Shri in 2015."
+    ],
+    "hindi": [
+      "डॉ. ज्ञान चतुर्वेदी हिंदी के व्यंग्यकार, उपन्यासकार और चिकित्सक हैं। ‘नरक-यात्रा’ और ‘बारामासी’ उनके उपन्यासों में शामिल हैं। उन्हें 2015 में पद्मश्री से सम्मानित किया गया।"
+    ],
+    "source": "https://www.rajkamalprakashan.com/authors/gyan-chaturvedi",
+    "source_credit": "Rajkamal Prakashan",
+    "researched_on": "2026-10-02"
+  },
+  "aalok-shrivastav": {
+    "role": "Poet & lyricist",
+    "paragraphs": [
+      "Aalok Shrivastav is a poet, lyricist and journalist. His writing includes Hindi ghazals and poetry, connecting literary expression with music and performance."
+    ],
+    "hindi": [
+      "आलोक श्रीवास्तव कवि, गीतकार और पत्रकार हैं। हिंदी ग़ज़ल और कविता उनके लेखन का हिस्सा हैं, जो साहित्यिक अभिव्यक्ति को संगीत और मंच से जोड़ते हैं।"
+    ],
+    "source": "https://ifp.world/creator/aalok-shrivastav/",
+    "source_credit": "IFP",
+    "researched_on": "2026-10-02"
+  },
+  "pooja-gaitonde": {
+    "role": "Singer",
+    "paragraphs": [
+      "Pooja Gaitonde is a singer whose repertoire includes Sufi compositions and ghazals. Her music draws on training in Hindustani classical traditions."
+    ],
+    "hindi": [
+      "पूजा गायतोंडे गायिका हैं, जिनके गायन में सूफ़ी रचनाएँ और ग़ज़लें शामिल हैं। उनकी संगीत-यात्रा हिंदुस्तानी शास्त्रीय परंपरा के प्रशिक्षण से जुड़ी है।"
+    ],
+    "source": "https://open.spotify.com/artist/7h7RCEJXdzbsEulBquEQJW",
+    "source_credit": "Artist biography on Spotify",
+    "researched_on": "2026-10-02"
+  },
+  "rupali-jagga": {
+    "role": "Singer",
+    "paragraphs": [
+      "Rupali Jagga is a singer trained in classical music under Nidhi Narang. Her career includes televised singing competitions and live stage performances."
+    ],
+    "hindi": [
+      "रूपाली जग्गा गायिका हैं। उन्होंने निधि नारंग से शास्त्रीय संगीत का प्रशिक्षण लिया है। उनकी संगीत-यात्रा में टेलीविज़न की गायन प्रतियोगिताएँ और मंचीय प्रस्तुतियाँ शामिल हैं।"
+    ],
+    "source": "https://blueeyeentertainment.in/artists/rupali-jagga",
+    "source_credit": "Blue Eye Entertainment",
+    "researched_on": "2026-10-02"
+  },
+  "yatindra-mishr": {
+    "role": "Poet & music writer",
+    "paragraphs": [
+      "Yatindra Mishr writes poetry and books on Indian music, cinema and the arts. His works include Girija, Devpriya and Sur Ki Baradari."
+    ],
+    "hindi": [
+      "यतीन्द्र मिश्र कविता के साथ भारतीय संगीत, सिनेमा और कलाओं पर लिखते हैं। ‘गिरिजा’, ‘देवप्रिया’ और ‘सुर की बारादरी’ उनकी कृतियों में शामिल हैं।"
+    ],
+    "source": "https://www.penguin.co.in/book_author/yatindra-mishra/",
+    "source_credit": "Penguin Random House India",
+    "researched_on": "2026-10-02"
+  },
+  "yunus-khan": {
+    "role": "Broadcaster & writer",
+    "paragraphs": [
+      "Yunus Khan is a radio broadcaster and writer associated with Vividh Bharati. His work explores Hindi cinema and film music through interviews, programmes, books and translations."
+    ],
+    "hindi": [
+      "यूनुस ख़ान विविध भारती से जुड़े रेडियो उद्घोषक और लेखक हैं। साक्षात्कारों, कार्यक्रमों, पुस्तकों और अनुवादों के माध्यम से उन्होंने हिंदी सिनेमा और फ़िल्म-संगीत पर काम किया है।"
+    ],
+    "source": "https://www.rajkamalprakashan.com/authors/yunus-khan",
+    "source_credit": "Rajkamal Prakashan",
+    "researched_on": "2026-10-02"
+  },
+  "gagan-gill": {
+    "role": "Poet & prose writer",
+    "paragraphs": [
+      "Gagan Gill writes poetry and prose in Hindi. Her books include Ek Din Lautegi Ladki and Andhere Mein Buddha, alongside the prose work Avak."
+    ],
+    "hindi": [
+      "गगन गिल हिंदी की कवि और गद्यकार हैं। ‘एक दिन लौटेगी लड़की’ और ‘अँधेरे में बुद्ध’ उनके काव्य-संग्रह हैं। ‘अवाक्’ उनकी गद्य-कृतियों में शामिल है।"
+    ],
+    "source": "https://www.hindwi.org/poets/gagan-gill/profile",
+    "source_credit": "Hindwi",
+    "researched_on": "2026-10-02"
+  },
+  "prayag-shukl": {
+    "role": "Poet & art critic",
+    "paragraphs": [
+      "Prayag Shukl works across Hindi poetry, fiction, art criticism and curation. His writing includes a biography of the artist J. Swaminathan."
+    ],
+    "hindi": [
+      "प्रयाग शुक्ल हिंदी कविता, कथा-साहित्य, कला-आलोचना और कला-क्यूरेशन से जुड़े हैं। उनके लेखन में कलाकार जे. स्वामीनाथन की जीवनी भी शामिल है।"
+    ],
+    "source": "https://www.therazafoundation.in/prayag-shukla",
+    "source_credit": "The Raza Foundation",
+    "researched_on": "2026-10-02"
+  },
+  "nadira-babbar": {
+    "role": "Theatre director & actor",
+    "paragraphs": [
+      "Nadira Babbar is a theatre director, actor and National School of Drama graduate. She founded Ekjute, whose productions include Yahudi Ki Ladki and Sakku Bai."
+    ],
+    "hindi": [
+      "नादिरा बब्बर रंग-निर्देशक, अभिनेत्री और राष्ट्रीय नाट्य विद्यालय की स्नातक हैं। उन्होंने ‘एकजुट’ की स्थापना की, जिसकी प्रस्तुतियों में ‘यहूदी की लड़की’ और ‘सक्कू बाई’ शामिल हैं।"
+    ],
+    "source": "https://www.brm.nsd.gov.in/event/ek-lamhaa-zindagi-a-love-story-1938-1979-solo/",
+    "source_credit": "National School of Drama",
+    "researched_on": "2026-10-02"
+  },
+  "ashish-bagrecha": {
+    "role": "Author & poet",
+    "paragraphs": [
+      "Ashish Bagrecha is an author, poet and podcaster. His books include Dear Stranger, I Know How You Feel and the poetry collection Love, Hope & Magic."
+    ],
+    "hindi": [
+      "आशीष बागरेचा लेखक, कवि और पॉडकास्टर हैं। उनकी पुस्तकों में ‘डियर स्ट्रेंजर, आई नो हाउ यू फ़ील’ और काव्य-संग्रह ‘लव, होप एंड मैजिक’ शामिल हैं।"
+    ],
+    "source": "https://www.ashishbagrecha.com/",
+    "source_credit": "Author’s website",
+    "researched_on": "2026-10-02"
+  },
+  "mayur-didolkar": {
+    "role": "Fiction writer",
+    "paragraphs": [
+      "Mayur Didolkar writes fiction alongside a career in wealth management. His books include A Bad Place and The Reunion, exploring suspense and the darker edges of human experience."
+    ],
+    "hindi": [
+      "मयूर दिडोलकर वित्तीय प्रबंधन के पेशे के साथ कथा-लेखन करते हैं। ‘अ बैड प्लेस’ और ‘द रीयूनियन’ उनकी पुस्तकें हैं, जिनमें रहस्य और मानवीय अनुभवों के अँधेरे पक्ष सामने आते हैं।"
+    ],
+    "source": "https://mayurdidolkar.com/",
+    "source_credit": "Author’s website",
+    "researched_on": "2026-10-02"
+  },
+  "lalit-kumar": {
+    "role": "Author & accessibility advocate",
+    "paragraphs": [
+      "Lalit Kumar, also known as Samyak Lalit, is an author and disability rights advocate. He founded Kavita Kosh and wrote the memoir Vitamin Zindagi."
+    ],
+    "hindi": [
+      "ललित कुमार, जिन्हें सम्यक ललित के नाम से भी जाना जाता है, लेखक और दिव्यांग अधिकारों के पक्षधर हैं। उन्होंने ‘कविता कोश’ की स्थापना की और संस्मरण ‘विटामिन ज़िंदगी’ लिखा।"
+    ],
+    "source": "https://lalitkumar.in/",
+    "source_credit": "Author’s website",
+    "researched_on": "2026-10-02"
+  },
+  "belly-kanungo": {
+    "role": "Writer & creator",
+    "paragraphs": [
+      "Belly Kanungo is an author and columnist. Her creative background includes radio presenting, production and social media."
+    ],
+    "hindi": [
+      "बेली कानूनगो लेखिका और स्तंभकार हैं। उनकी रचनात्मक यात्रा में रेडियो प्रस्तुति, प्रोडक्शन और सोशल मीडिया भी शामिल हैं।"
+    ],
+    "source": "https://www.becomeshakespeare.com/shop/",
+    "source_credit": "BecomeShakespeare publisher profile",
+    "researched_on": "2026-10-02"
+  },
+  "hindol-sengupta": {
+    "role": "Author",
+    "paragraphs": [
+      "Hindol Sengupta writes books on Indian history, ideas and public life. His titles include Being Hindu, The Modern Monk and The Man Who Saved India."
+    ],
+    "hindi": [
+      "हिंदोल सेनगुप्ता भारतीय इतिहास, विचार और सार्वजनिक जीवन पर पुस्तकें लिखते हैं। ‘बीइंग हिंदू’, ‘द मॉडर्न मंक’ और ‘द मैन हू सेव्ड इंडिया’ उनकी कृतियों में शामिल हैं।"
+    ],
+    "source": "https://www.penguin.co.in/book_author/hindol-sengupta/",
+    "source_credit": "Penguin Random House India",
+    "researched_on": "2026-10-02"
+  },
+  "satya-vyas": {
+    "role": "Novelist",
+    "paragraphs": [
+      "Satya Vyas is the author of Banaras Talkies. Originally from Bokaro, he studied law at Banaras Hindu University and has worked in logistics alongside his writing."
+    ],
+    "hindi": [
+      "सत्य व्यास ‘बनारस टॉकीज़’ के लेखक हैं। मूलतः बोकारो से आने वाले व्यास ने बनारस हिंदू विश्वविद्यालय से विधि की पढ़ाई की। लेखन के साथ उन्होंने लॉजिस्टिक्स के क्षेत्र में भी काम किया है।"
+    ],
+    "source": "https://www.penguin.co.in/book_author/satya-vyas/",
+    "source_credit": "Penguin Random House India",
+    "researched_on": "2026-10-02"
+  },
+  "manisha-kulshreshth": {
+    "role": "Fiction writer",
+    "paragraphs": [
+      "Manisha Kulshreshth writes Hindi fiction and has worked as an editor and translator. Her publications include the novel Shigaf and the short-story collection Kathputliyan."
+    ],
+    "hindi": [
+      "मनीषा कुलश्रेष्ठ हिंदी की कथाकार हैं और संपादन तथा अनुवाद से भी जुड़ी रही हैं। उनकी प्रकाशित कृतियों में उपन्यास ‘शिगाफ़’ और कहानी-संग्रह ‘कठपुतलियाँ’ शामिल हैं।"
+    ],
+    "source": "https://www.jnanpith.net/author_detail.html?id=93",
+    "source_credit": "Bharatiya Jnanpith",
+    "researched_on": "2026-10-02"
+  },
+  "sonal-mansingh": {
+    "role": "Classical dancer & choreographer",
+    "paragraphs": [
+      "Sonal Mansingh is a classical dancer, choreographer and teacher. Her artistic practice connects dance with literature and philosophy, drawing on forms including Odissi and Bharatanatyam."
+    ],
+    "hindi": [
+      "सोनल मानसिंह शास्त्रीय नृत्यांगना, नृत्य-निर्देशक और गुरु हैं। उनकी कला-साधना नृत्य को साहित्य और दर्शन से जोड़ती है। ओडिसी और भरतनाट्यम उनकी नृत्य-यात्रा का हिस्सा हैं।"
+    ],
+    "source": "https://sonalmansingh.in/life/",
+    "source_credit": "Artist’s website",
+    "researched_on": "2026-10-02"
+  },
+  "rajnish-kumar": {
+    "role": "Banker & author",
+    "paragraphs": [
+      "Rajnish Kumar served as chairman of the State Bank of India from 2017 to 2020. His memoir, The Custodian of Trust, reflects on his career and India’s banking sector."
+    ],
+    "hindi": [
+      "रजनीश कुमार 2017 से 2020 तक भारतीय स्टेट बैंक के अध्यक्ष रहे। उनका संस्मरण ‘द कस्टोडियन ऑफ़ ट्रस्ट’ उनके पेशेवर अनुभवों और भारत के बैंकिंग क्षेत्र पर प्रकाश डालता है।"
+    ],
+    "source": "https://www.penguin.co.in/book/the-custodian-of-trust/",
+    "source_credit": "Penguin Random House India",
+    "researched_on": "2026-10-02"
+  },
+  "ram-madhav": {
+    "role": "Author & public affairs commentator",
+    "paragraphs": [
+      "Ram Madhav is an author and political thinker. His books include The Hindutva Paradigm and Partitioned Freedom, alongside writing on India’s history and international affairs."
+    ],
+    "hindi": [
+      "राम माधव लेखक और राजनीतिक चिंतक हैं। ‘द हिंदुत्व पैराडाइम’ और ‘पार्टिशन्ड फ़्रीडम’ उनकी पुस्तकों में शामिल हैं। उन्होंने भारत के इतिहास और अंतरराष्ट्रीय विषयों पर भी लिखा है।"
+    ],
+    "source": "https://www.rammadhav.in/about/",
+    "source_credit": "Author’s website",
+    "researched_on": "2026-10-02"
+  },
+  "mark-tully": {
+    "role": "Journalist & author",
+    "paragraphs": [
+      "Sir Mark Tully spent more than two decades reporting on South Asia for the BBC. His book The Heart of India brings together stories set in Uttar Pradesh."
+    ],
+    "hindi": [
+      "सर मार्क टली ने दो दशकों से अधिक समय तक बीबीसी के लिए दक्षिण एशिया की रिपोर्टिंग की। उनकी पुस्तक ‘द हार्ट ऑफ़ इंडिया’ में उत्तर प्रदेश की पृष्ठभूमि पर रची गई कहानियाँ हैं।"
+    ],
+    "source": "https://www.penguin.co.in/book/the-heart-of-india/",
+    "source_credit": "Penguin Random House India",
+    "researched_on": "2026-10-02"
+  },
+  "himashu-rai": {
+    "role": "Educator",
+    "paragraphs": [
+      "Dr. Himashu Rai is an educator whose academic work focuses on human resource management, negotiation and leadership. He has taught at IIM Lucknow and served as director of IIM Indore."
+    ],
+    "hindi": [
+      "डॉ. हिमांशु राय शिक्षाविद् हैं। उनका अकादमिक काम मानव संसाधन प्रबंधन, बातचीत की कला और नेतृत्व पर केंद्रित है। उन्होंने आईआईएम लखनऊ में अध्यापन किया और आईआईएम इंदौर के निदेशक रहे हैं।"
+    ],
+    "source": "https://iimidr.ac.in/faculty/full-time-faculty/himanshu-rai/",
+    "source_credit": "IIM Indore",
+    "researched_on": "2026-10-02"
+  },
+  "hetal-sonpal": {
+    "role": "Author & entrepreneur",
+    "paragraphs": [
+      "Hetal Sonpal is a technology-sector professional, investor and author. His book Against All Odds tells the story of his father’s life."
+    ],
+    "hindi": [
+      "हेतल सोनपाल तकनीकी क्षेत्र के पेशेवर, निवेशक और लेखक हैं। उनकी पुस्तक ‘अगेंस्ट ऑल ऑड्स’ उनके पिता के जीवन की कहानी प्रस्तुत करती है।"
+    ],
+    "source": "https://medium.com/@hetal.sonpal/about",
+    "source_credit": "Author’s profile",
+    "researched_on": "2026-10-02"
+  },
+  "indira-chandrashekhar": {
+    "role": "Writer & literary editor",
+    "paragraphs": [
+      "Dr. Indira Chandrashekhar is a scientist, fiction writer and literary curator. She founded Out of Print, a journal publishing short fiction connected with the Indian subcontinent."
+    ],
+    "hindi": [
+      "डॉ. इंदिरा चंद्रशेखर वैज्ञानिक, कथाकार और साहित्यिक आयोजक हैं। उन्होंने ‘आउट ऑफ़ प्रिंट’ की स्थापना की, जो भारतीय उपमहाद्वीप से जुड़ी लघु कथाएँ प्रकाशित करने वाली पत्रिका है।"
+    ],
+    "source": "https://warehouse.g5a.org/artists/indira-chandrasekhar/",
+    "source_credit": "G5A",
+    "researched_on": "2026-10-02"
+  },
+  "durjoy-dutta": {
+    "role": "Novelist & screenwriter",
+    "paragraphs": [
+      "Durjoy Dutta writes romance novels and television scripts. His books include Of Course I Love You, Till the Last Breath and The Boy Who Loved."
+    ],
+    "hindi": [
+      "दुर्जॉय दत्ता प्रेम-कथाओं के उपन्यासकार और टेलीविज़न पटकथा-लेखक हैं। ‘ऑफ़ कोर्स आई लव यू’, ‘टिल द लास्ट ब्रेथ’ और ‘द बॉय हू लव्ड’ उनकी पुस्तकों में शामिल हैं।"
+    ],
+    "source": "https://www.penguin.co.in/book_author/durjoy-datta/",
+    "source_credit": "Penguin Random House India",
+    "researched_on": "2026-10-02"
+  },
+  "surendra-m-pathak": {
+    "role": "Crime novelist",
+    "paragraphs": [
+      "Surendra M Pathak writes crime fiction in Hindi. His works include Painsath Lakh Ki Dakaiti; his writing career also includes translating international crime and thriller fiction."
+    ],
+    "hindi": [
+      "सुरेंद्र मोहन पाठक हिंदी में अपराध और रहस्य-कथाएँ लिखते हैं। ‘पैंसठ लाख की डकैती’ उनकी रचनाओं में शामिल है। उन्होंने विदेशी अपराध और रोमांच-कथाओं का अनुवाद भी किया है।"
+    ],
+    "source": "https://www.penguin.co.in/book_author/surender-mohan-pathak/",
+    "source_credit": "Penguin Random House India",
+    "researched_on": "2026-10-02"
+  },
+  "damodar-maozo": {
+    "role": "Konkani writer",
+    "paragraphs": [
+      "Damodar Maozo writes stories, novels and criticism in Konkani. His novel Karmelin received the Sahitya Akademi Award, and he has also been honoured with the Jnanpith Award."
+    ],
+    "hindi": [
+      "दामोदर मावज़ो कोंकणी में कहानियाँ, उपन्यास और आलोचना लिखते हैं। उनके उपन्यास ‘कार्मेलिन’ को साहित्य अकादेमी पुरस्कार मिला। वे ज्ञानपीठ पुरस्कार से भी सम्मानित हैं।"
+    ],
+    "source": "https://www.penguin.co.in/book_author/damodar-mauzo/",
+    "source_credit": "Penguin Random House India",
+    "researched_on": "2026-10-02"
+  },
+  "preeti-shenoy": {
+    "role": "Author & illustrator",
+    "paragraphs": [
+      "Preeti Shenoy is an author and illustrator. Her novels include It’s All in the Planets and The One You Cannot Have, exploring relationships and personal choices."
+    ],
+    "hindi": [
+      "प्रीति शेनॉय लेखिका और चित्रकार हैं। ‘इट्स ऑल इन द प्लैनेट्स’ और ‘द वन यू कैननॉट हैव’ उनके उपन्यास हैं, जिनमें रिश्तों और व्यक्तिगत चुनावों की कहानियाँ मिलती हैं।"
+    ],
+    "source": "https://preetishenoy.com/",
+    "source_credit": "Author’s website",
+    "researched_on": "2026-10-02"
+  },
+  "rahul-bhosle": {
+    "role": "Content creator",
+    "paragraphs": [
+      "Rahul Bhosle, known as Rabho, is an Indore-based content creator. Trained as a dentist, he began creating online content in 2015 before making it his full-time work."
+    ],
+    "hindi": [
+      "राहुल भोसले, जिन्हें राभो के नाम से जाना जाता है, इंदौर के कंटेंट क्रिएटर हैं। उन्होंने दंत चिकित्सा की पढ़ाई की और 2015 में ऑनलाइन सामग्री बनाना शुरू किया, जिसे बाद में पूर्णकालिक काम बनाया।"
+    ],
+    "source": "https://www.freepressjournal.in/indore/national-youth-day-2026-these-indore-youths-break-norms-juggle-passion-profession-because-ye-dil-mange-more",
+    "source_credit": "Free Press Journal",
+    "researched_on": "2026-10-02"
+  },
+  "mahua-maji": {
+    "role": "Novelist",
+    "paragraphs": [
+      "Mahua Maji writes novels in Hindi. Her books include Main Borishailla and Marang Goda Neelkanth Hua."
+    ],
+    "hindi": [
+      "महुआ माजी हिंदी की उपन्यासकार हैं। ‘मैं बोरिशाइल्ला’ और ‘मरंग गोड़ा नीलकंठ हुआ’ उनकी प्रकाशित कृतियाँ हैं।"
+    ],
+    "source": "https://rajkamalprakashan.com/catalogsearch/result?Author=1021&book_format=21&format=17&language=8&q=pdf+2022+an+2023+published+hindi+babh+laute",
+    "source_credit": "Rajkamal Prakashan",
+    "researched_on": "2026-10-02"
+  },
+  "neha-sharad": {
+    "role": "Actor & poet",
+    "paragraphs": [
+      "Neha Sharad is a television actor and poet. Her screen work includes Tara and Farmaan, and she has organised literary events celebrating the work of Sharad Joshi."
+    ],
+    "hindi": [
+      "नेहा शरद टेलीविज़न अभिनेत्री और कवयित्री हैं। ‘तारा’ और ‘फ़रमान’ उनके अभिनय-कार्य में शामिल हैं। उन्होंने शरद जोशी के साहित्य को समर्पित कार्यक्रमों का आयोजन भी किया है।"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Neha_Sharad",
+    "source_credit": "Original summary and Hindi translation based on Wikipedia (CC BY-SA 4.0)",
+    "researched_on": "2026-10-02"
+  },
+  "virag-mishra": {
+    "role": "Lyricist & filmmaker",
+    "paragraphs": [
+      "Virag Mishra is a lyricist who collaborates with Rashmi Singh under the name Rashmi Virag. He also wrote and directed the short film Neelofar."
+    ],
+    "hindi": [
+      "विराग मिश्र गीतकार हैं और रश्मि सिंह के साथ ‘रश्मि विराग’ नाम से काम करते हैं। उन्होंने लघु फ़िल्म ‘नीलोफ़र’ का लेखन और निर्देशन भी किया है।"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Rashmi_Virag",
+    "source_credit": "Original summary and Hindi translation based on Wikipedia (CC BY-SA 4.0)",
+    "researched_on": "2026-10-02"
+  },
+  "maithali-thakur": {
+    "role": "Singer",
+    "paragraphs": [
+      "Maithali Thakur is a singer with training in Maithili folk and Hindustani classical music. Her musical upbringing included learning alongside her brothers from their father and grandfather."
+    ],
+    "hindi": [
+      "मैथिली ठाकुर गायिका हैं, जिन्हें मैथिली लोक और हिंदुस्तानी शास्त्रीय संगीत का प्रशिक्षण मिला है। उन्होंने अपने भाइयों के साथ पिता और दादा से संगीत सीखा।"
+    ],
+    "source": "https://maithilithakur.org/downloads-home/",
+    "source_credit": "Maithili Thakur music website",
+    "researched_on": "2026-10-02"
+  },
+  "savi-sharma": {
+    "role": "Novelist",
+    "paragraphs": [
+      "Savi Sharma is a novelist whose books include Everyone Has a Story and This Is Not Your Story. She initially self-published her debut before it was taken up by Westland."
+    ],
+    "hindi": [
+      "सवि शर्मा उपन्यासकार हैं। ‘एवरीवन हैज़ अ स्टोरी’ और ‘दिस इज़ नॉट योर स्टोरी’ उनकी पुस्तकें हैं। उन्होंने अपना पहला उपन्यास स्वयं प्रकाशित किया था, जिसे बाद में वेस्टलैंड ने प्रकाशित किया।"
+    ],
+    "source": "https://indianexpress.com/article/lifestyle/books/savi-sharma-was-the-publishing-phenomenon-of-2016-this-month-she-is-ready-to-set-new-sales-records-with-her-second-novel-4532071/lite/",
+    "source_credit": "The Indian Express",
+    "researched_on": "2026-10-02"
+  },
+  "bhawana-roy": {
+    "role": "Author",
+    "paragraphs": [
+      "Bhawana Roy co-authored Dharma: Decoding the Epics for a Meaningful Life with Amish Tripathi. The book reflects on ethical questions through ideas and stories from Indian epics."
+    ],
+    "hindi": [
+      "भावना रॉय ने अमीश त्रिपाठी के साथ ‘धर्मा : डिकोडिंग द एपिक्स फ़ॉर अ मीनिंगफ़ुल लाइफ़’ का सहलेखन किया। यह पुस्तक भारतीय महाकाव्यों के विचारों और कथाओं के माध्यम से नैतिक प्रश्नों पर विचार करती है।"
+    ],
+    "source": "https://books.google.com/books/about/Dharma.html?id=WeGmEAAAQBAJ",
+    "source_credit": "Publisher description on Google Books",
+    "researched_on": "2026-10-02"
+  },
+  "gulabo-sapera": {
+    "role": "Kalbelia dancer",
+    "paragraphs": [
+      "Gulabo Sapera is a folk dancer from Rajasthan whose performances are rooted in the Kalbelia tradition."
+    ],
+    "hindi": [
+      "गुलाबो सपेरा राजस्थान की लोक नृत्यांगना हैं। उनकी प्रस्तुतियाँ कालबेलिया नृत्य परंपरा से जुड़ी हैं।"
+    ],
+    "source": "https://jkk.artandculture.rajasthan.gov.in/content/dam/ArtandCulture/jkk/pdf/2025/artistdata/Artist%20Database%20pdf.pdf",
+    "source_credit": "Jawahar Kala Kendra, Rajasthan",
+    "researched_on": "2026-10-02"
+  },
+  "pankaj-rag": {
+    "role": "Poet & cultural historian",
+    "paragraphs": [
+      "Pankaj Rag writes poetry and works on history, archaeology and cinema. His books include the poetry collection Yeh Bhumandal Ki Raat Hai and the film-music study Dhunon Ki Yatra."
+    ],
+    "hindi": [
+      "पंकज राग कविता, इतिहास, पुरातत्व और सिनेमा पर लिखते हैं। ‘यह भूमंडल की रात है’ उनका कविता-संग्रह है, जबकि ‘धुनों की यात्रा’ फ़िल्म-संगीत पर केंद्रित कृति है।"
+    ],
+    "source": "https://www.hindisamay.com/lekhak/Pankaj_Rag1.htm",
+    "source_credit": "Hindi Samay",
+    "researched_on": "2026-10-02"
+  },
+  "anant-vijay": {
+    "role": "Journalist & author",
+    "paragraphs": [
+      "Anant Vijay is a journalist and author whose work includes writing on cinema, culture and literature. He has received a National Film Award for film criticism."
+    ],
+    "hindi": [
+      "अनंत विजय पत्रकार और लेखक हैं। उनका लेखन सिनेमा, संस्कृति और साहित्य जैसे विषयों से जुड़ा है। फ़िल्म आलोचना के लिए उन्हें राष्ट्रीय फ़िल्म पुरस्कार मिला है।"
+    ],
+    "source": "https://miff.in/wp-content/uploads/2024/02/MIFF-2022-Final-Report-18th-April-2023.pdf",
+    "source_credit": "Mumbai International Film Festival",
+    "researched_on": "2026-10-02"
+  },
+  "aditi-maheshwari-goyal": {
+    "role": "Publisher",
+    "paragraphs": [
+      "Aditi Maheshwari Goyal works in Hindi publishing at Vani Prakashan. Her work has included copyrights, translation and literary programmes through the Vani Foundation."
+    ],
+    "hindi": [
+      "अदिति माहेश्वरी गोयल वाणी प्रकाशन में हिंदी प्रकाशन के क्षेत्र से जुड़ी हैं। उनका काम कॉपीराइट, अनुवाद और वाणी फ़ाउंडेशन के साहित्यिक कार्यक्रमों तक फैला है।"
+    ],
+    "source": "https://www.purplepencilproject.com/interview-aditi-maheshwari-goyal/",
+    "source_credit": "Purple Pencil Project interview",
+    "researched_on": "2026-10-02"
+  },
+  "kapil-tiwari": {
+    "role": "Folk culture scholar",
+    "paragraphs": [
+      "Kapil Tiwari is a scholar of folk and tribal literature. His cultural work includes commentary on the Bhil community and its artistic traditions."
+    ],
+    "hindi": [
+      "कपिल तिवारी लोक और जनजातीय साहित्य के अध्येता हैं। उनके सांस्कृतिक काम में भील समुदाय और उसकी कलात्मक परंपराओं पर विमर्श भी शामिल है।"
+    ],
+    "source": "https://ignca.gov.in/divisionss/janapada-sampada/tribal-art-culture/adivasi-art-culture/the-bhils/",
+    "source_credit": "Indira Gandhi National Centre for the Arts",
+    "researched_on": "2026-10-02"
+  },
+  "vandana-rag": {
+    "role": "Fiction writer",
+    "paragraphs": [
+      "Vandana Rag writes fiction in Hindi. Her published work includes Hijarat Se Pahale and Yutopiya."
+    ],
+    "hindi": [
+      "वंदना राग हिंदी की कथाकार हैं। ‘हिजरत से पहले’ और ‘यूटोपिया’ उनकी प्रकाशित कृतियों में शामिल हैं।"
+    ],
+    "source": "https://www.rajkamalprakashan.com/products/hijarat-se-pahale",
+    "source_credit": "Rajkamal Prakashan",
+    "researched_on": "2026-10-02"
+  },
+  "bharavi-jani": {
+    "role": "Entrepreneur & author",
+    "paragraphs": [
+      "Bharavi Jani is an entrepreneur and the author of Highway to Swades. The book draws on a journey across India to explore connections between its people and communities."
+    ],
+    "hindi": [
+      "भैरवी जानी उद्यमी और ‘हाइवे टू स्वदेश’ की लेखिका हैं। यह पुस्तक भारत की यात्रा के अनुभवों से लोगों और समुदायों के बीच के संबंधों को समझने का प्रयास करती है।"
+    ],
+    "source": "https://books.google.com/books/about/Highway_To_Swades.html?id=iJGLEAAAQBAJ",
+    "source_credit": "HarperCollins description on Google Books",
+    "researched_on": "2026-10-02"
+  },
+  "chinmayi-tripathi": {
+    "role": "Singer-songwriter & poet",
+    "paragraphs": [
+      "Chinmayi Tripathi is a singer-songwriter and poet who founded Kavyaraag. Her performances bring music, poetry and storytelling together."
+    ],
+    "hindi": [
+      "चिन्मयी त्रिपाठी गायिका, गीतकार और कवयित्री हैं। उन्होंने ‘काव्यराग’ की स्थापना की। उनकी प्रस्तुतियाँ संगीत, कविता और कथा को एक साथ लाती हैं।"
+    ],
+    "source": "https://www.kolkatacentreforcreativity.org/event-details/802/meera--kabir-aur-kavita-by-chinmayi-tripathi",
+    "source_credit": "Kolkata Centre for Creativity",
+    "researched_on": "2026-10-02"
+  },
+  "vikas-dave": {
+    "role": "Children’s author",
+    "paragraphs": [
+      "Dr. Vikas Dave writes for children and has worked in literary journalism and education. His writing and editorial work engage with young readers and children’s literature."
+    ],
+    "hindi": [
+      "डॉ. विकास दवे बाल साहित्य के लेखक हैं और साहित्यिक पत्रकारिता तथा शिक्षा से जुड़े रहे हैं। उनका लेखन और संपादकीय काम बाल पाठकों और बाल साहित्य पर केंद्रित है।"
+    ],
+    "source": "https://www.lakesparadise.com/en/India_538280.html",
+    "source_credit": "Lakes Paradise",
+    "researched_on": "2026-10-02"
+  },
+  "chacha-chatore": {
+    "role": "Food content creator",
+    "paragraphs": [
+      "Chacha Chatore is an Indore-based food content creator, also known as Vineet Vyas. His work includes food reviews and video production."
+    ],
+    "hindi": [
+      "चाचा चटोरे इंदौर के फ़ूड कंटेंट क्रिएटर हैं, जिन्हें विनीत व्यास के नाम से भी जाना जाता है। उनके काम में खाने की समीक्षा और वीडियो प्रोडक्शन शामिल हैं।"
+    ],
+    "source": "https://hashfame.com/@chachachatore",
+    "source_credit": "Creator profile on HashFame",
+    "researched_on": "2026-10-02"
+  }
+}

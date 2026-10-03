@@ -1,8 +1,14 @@
+> Update, 2 October 2026: Open Mic is confirmed working by the user. Speaker photographs, name confirmations, missing gallery files and future 2026 announcements are deferred at the user’s request. See [current handover](handover-2026-10-02.md); older outstanding items below are historical.
+
+> **Journal update — 30 September 2026:** Per the latest instruction, all 16 legacy blogs now use their original text, article photographs, and photo-based thumbnails. This supersedes the earlier pending journal-image mapping and AI-thumbnail treatment in point 21 below. See [recovery details](journal-recovery-2026-09-30.md). Five source posts use shared archive photos; these are preserved without claiming session-specific identification.
+
 # Indore Literature Festival — client changes status
 
-**Updated:** 28 September 2026  
+**Updated:** 29 September 2026  
 **Scope:** The 30 requested changes in the client's latest “Detailed Changes” message, plus the page-list and content-list requests.  
 **Website status:** Changes are in the local preview; they are not yet deployed to the live website.
+
+Latest material delivery: [29 September client-content update](client-content-applied-2026-09-29.md).
 
 This is the current checklist. It includes the subsequently supplied lake and Daly College references and the latest instruction to show Rajwada on the left of the homepage hero and Daly College on the right.
 
@@ -10,10 +16,10 @@ This is the current checklist. It includes the subsequently supplied lake and Da
 
 | Status | Number of points | Meaning |
 | --- | ---: | --- |
-| Completed | 17 | Implemented in the local website; available for client review. |
+| Completed | 22 | Implemented in the local website; available for client review. |
 | Removed by latest direction | 1 | Point 12: navigation loader removed following the latest user instruction. |
-| Partially completed | 10 | Some work is implemented, but content, final artwork or verification remains. |
-| Awaiting material | 2 | The exact requested photograph or video link is still missing. |
+| Partially completed | 7 | Some work is implemented, but content, final artwork or verification remains. |
+| Awaiting material | 0 | Previously requested photograph and journey link received. |
 | **Total** | **30** | “Completed” describes implementation, not final client approval or deployment. |
 
 ## Point-by-point checklist
@@ -66,9 +72,9 @@ Original client point numbers are preserved. Approval-only points 2, 4 and 6 are
 
 > Take part, should be an image of a volunteer standing in between the crowd, where the black t-shirt and ILF logo on it is visible, in the same sketch art form, will be giving the images.
 
-**Current status:** **Awaiting client photograph.** The client has already committed to supplying the image. No AI-generated volunteer or placeholder is needed.
+**Current status:** **Completed.** The client-supplied black ILF T-shirt volunteer photograph has been adapted into pencil-and-watercolor sketch art and installed in the homepage Take Part orbit.
 
-**Remaining / required:** **Client:** send the promised black ILF T-shirt volunteer photo. **Our work after receipt:** adapt the supplied photograph to the requested sketch style and place it in Take Part.
+**Remaining / required:** Nothing further required for this image.
 
 ### Point 9
 
@@ -96,10 +102,9 @@ Original client point numbers are preserved. Approval-only points 2, 4 and 6 are
 
 > just below it is a video file, that would be the 11 years journey video, which should be a youtube link
 
-**Current status:** **Awaiting material.** Link support is ready, but the exact film is not connected. Current fallback clearly opens the festival channel.
+**Current status:** **Completed. Client supplied the exact journey URL; the homepage and /film now link to https://www.youtube.com/watch?v=aPCUji_k5BQ.**
 
-**Remaining / required:** **Client:** exact YouTube URL. **Our work:** connect it on the homepage and journey page. No MP4 required.
-
+**Remaining / required:** Nothing further needed for link implementation. External YouTube playback could not be independently verified in this run.
 ### Point 12
 
 **Client's exact words:**
@@ -116,10 +121,9 @@ Original client point numbers are preserved. Approval-only points 2, 4 and 6 are
 
 > in "Be a part of the Festival", there is shown Indore, Peacock, Books, Lady, Man, River and Rajwada in the background, this image can be changed to something relatable to participation, maybe we can add ai adaptations of real festival photos and add it in the background collage, in this page we are talking about Volunteering, Registering, Interning, and Booking a Stall, so the similar images can taken from our archives, and can be given the apt artistic effect using ai
 
-**Current status:** **Partially completed.** Real festival stall/group photographs now form the collage. Individual volunteer, registration and internship roles are not verified from those images.
+**Current status:** **Partially completed. Labelled volunteer, paperless-registration, stall and Open Mic photographs received. Real photographs are now displayed in homepage participation cards and the participation page.**
 
-**Remaining / required:** **Client:** labelled activity photos for the roles to be represented. **Our work:** refine the collage to cover those roles accurately.
-
+**Remaining / required:** A separately identified internship photograph is still needed. The final combined sketch-art collage treatment remains pending.
 ### Point 14
 
 **Client's exact words:**
@@ -176,20 +180,18 @@ Original client point numbers are preserved. Approval-only points 2, 4 and 6 are
 
 > when we are mentioning open mic, then only the pics of open mic participants should be used, not of the main speakers
 
-**Current status:** **Partially completed.** Dedicated Open Mic section avoids claiming that a headliner photograph shows participants. Identified participant photos have not been added.
+**Current status:** **Completed. Real client-labelled Open Mic participant photographs are used in the homepage participation card, dedicated Open Mic section and Your Stage section.**
 
-**Remaining / required:** **Client:** labelled Open Mic photographs. **Our work:** place them in the relevant sections.
-
+**Remaining / required:** Nothing required for the implemented participant photos. Four award-presentation photos were retained as assets but not used as participant portraits.
 ### Point 20
 
 **Client's exact words:**
 
 > in "what our attendees have to say", we have experience of many people, we can add them, some are in Sticky notes, some in videos, and some in publications, we can attach those as well
 
-**Current status:** **Partially completed.** Three sourced publication-based summaries are present. The section supports note images and video links.
+**Current status:** **Completed for the supplied media. All 21 handwritten-feedback photos and the supplied MP4 are available in the homepage attendee section, with enlarged photo viewing.**
 
-**Remaining / required:** **Client:** selected sticky-note scans/text, video links, names and attribution. **Our work:** add those experiences and readable transcriptions.
-
+**Remaining / required:** Optional: reviewed text transcriptions and video captions for accessibility. Unclear handwriting and speaker names have not been guessed.
 ### Point 21
 
 **Client's exact words:**
@@ -296,20 +298,18 @@ Original client point numbers are preserved. Approval-only points 2, 4 and 6 are
 
 > There should be a column for Volunteers specifically, with pics of volunteers at different areas of the fest, we also have some real life experiences that volunteers have shared with us, we can add those here, with a para about what Volunteering at ILF is all about.
 
-**Current status:** **Partially completed.** Dedicated section, explanatory paragraph and form link are present.
+**Current status:** **Completed for supplied content. Exact client volunteer paragraph and labelled volunteer photograph are now in the dedicated section, alongside the existing form.**
 
-**Remaining / required:** **Client:** volunteer photos, experiences and final role details. **Our work:** complete the section with those materials.
-
+**Remaining / required:** Optional further role arrangements or participant testimonials can be added when supplied.
 ### Point 32
 
 **Client's exact words:**
 
 > Similarly for interns, stalls, and open mic
 
-**Current status:** **Partially completed.** All three sections and form links are present; a stall photograph and sourced Open Mic experience are included.
+**Current status:** **Partially completed. Exact internship, stall and Hindi Open Mic copy applied. Client stall and Open Mic photos are displayed with expandable photo collections.**
 
-**Remaining / required:** **Client:** separate photos/experiences and programme details for each activity. **Our work:** finish their content and imagery.
-
+**Remaining / required:** A separately identified internship photo and any activity-specific experiences are still required. Form-owner access verification remains separate under point 14.
 ### Point 33
 
 **Client's exact words:**

@@ -196,7 +196,7 @@ html:not(.motion-enabled) .ilf-hero-people[data-hero-scene]{transition:none;anim
 .ilf-join>.ilf-intro{margin:0 auto 26px;font-size:17px}
 .ilf-join-wrap{width:calc(100% - 80px);max-width:1320px}
 .ilf-attend-card{position:relative;isolation:isolate;overflow:hidden;display:flex;align-items:center;justify-content:space-between;gap:30px;padding:30px 38px;text-align:left;background:#173b70;color:#fff9eb;border:1px solid #254b7e;border-radius:12px;box-shadow:0 12px 30px #173b7012}
-.ilf-attend-card::before{content:"";position:absolute;z-index:-1;right:23%;bottom:-24px;width:240px;height:230px;background:url('/images/rajwada-linework.svg') center bottom/contain no-repeat;filter:brightness(0) invert(1);opacity:.12;pointer-events:none}
+.ilf-attend-card::before{content:"";position:absolute;z-index:-1;right:23%;bottom:-24px;width:240px;height:230px;background:url('../../../public/images/rajwada-linework.svg') center bottom/contain no-repeat;filter:brightness(0) invert(1);opacity:.12;pointer-events:none}
 .ilf-attend-card h3{font:500 clamp(32px,3vw,44px)/1.15 var(--serif);color:inherit;margin:0 0 10px}
 .ilf-attend-card p{font-size:17px;margin:0;line-height:1.5}
 .ilf-attend-details{display:flex;flex-wrap:wrap;gap:8px 24px;margin-top:18px!important;color:#f5cd83}
@@ -347,9 +347,9 @@ html:not(.motion-enabled) .ilf-hero-people[data-hero-scene]{transition:none;anim
 .ilf-explorer-intro p{color:#5c6470}
 .ilf-orbit{width:600px;height:460px;margin:0 auto;transform:none}
 .ilf-orbit::before{display:none}
-.ilf-orbit-centre{width:230px;height:230px;left:185px;top:175px;background:url('/images/explorer-illustration-hero.webp') 100% 100%/300% 200%;z-index:2;pointer-events:none;mask-image:radial-gradient(ellipse at center,#000 57%,transparent 73%)}
+.ilf-orbit-centre{width:230px;height:230px;left:185px;top:175px;background:url('../../../public/images/explorer-illustration-hero.webp') 100% 100%/300% 200%;z-index:2;pointer-events:none;mask-image:radial-gradient(ellipse at center,#000 57%,transparent 73%)}
 .ilf-orbit-link{width:189px;height:189px;left:205.5px;top:139.5px;gap:0;transform:rotate(calc(var(--tile)*72deg)) translateY(-131px) rotate(calc(var(--tile)*-72deg));z-index:1}
-.ilf-orbit-painting{display:block!important;width:189px;height:189px;background-image:url('/images/explorer-illustration-hero.webp')!important;background-size:300% 200%!important;background-position:0 0;border-radius:0!important;padding:0!important;mask-image:radial-gradient(ellipse at center,#000 60%,transparent 74%);transition:filter .25s}
+.ilf-orbit-painting{display:block!important;width:189px;height:189px;background-image:url('../../../public/images/explorer-illustration-hero.webp')!important;background-size:300% 200%!important;background-position:0 0;border-radius:0!important;padding:0!important;mask-image:radial-gradient(ellipse at center,#000 60%,transparent 74%);transition:filter .25s}
 .ilf-orbit-link:nth-of-type(2) .ilf-orbit-painting{background-position:50% 0}
 .ilf-orbit-link:nth-of-type(3) .ilf-orbit-painting{background-position:100% 0}
 .ilf-orbit-link:nth-of-type(4) .ilf-orbit-painting{background-position:0 100%}
@@ -391,7 +391,7 @@ html:not(.motion-enabled) .ilf-orbit-link.is-current .ilf-orbit-painting{animati
 @media(prefers-reduced-motion:reduce){.ilf-orbit-link{transition:none}}
 
 /* Foreground emblem stays crisp; the title follows a shallow arc. */
-.ilf-orbit-centre{mask-image:none;border-radius:0;border:0;box-shadow:none;background:transparent url('/images/indore-literature-festival-badge.png') center/contain no-repeat;top:144px;left:185px;width:230px;height:230px;overflow:visible}
+.ilf-orbit-centre{mask-image:none;border-radius:0;border:0;box-shadow:none;background:transparent url('../../../public/images/indore-literature-festival-badge.png') center/contain no-repeat;top:144px;left:185px;width:230px;height:230px;overflow:visible}
 .ilf-orbit-centre::after{content:none}
 .motion-enabled .ilf-orbit-centre{animation:none}
 html:not(.motion-enabled) .ilf-orbit-centre{animation:none}

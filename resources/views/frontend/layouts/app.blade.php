@@ -6,7 +6,7 @@
     <title>{{ $title ?? 'A celebration of words' }} | Indore Literature Festival</title>
     <meta name="description" content="{{ $description ?? ($title ?? 'Discover the festival').' — Indore Literature Festival. Literature, art, culture and the spirit of Indore.' }}">
     <meta name="theme-color" content="#173b70">
-    <link rel="canonical" href="{{ url()->current() }}">
+    <link rel="canonical" href="{{ $canonicalUrl ?? url()->current() }}">
     <link rel="icon" href="{{ asset('images/indore-literature-festival-badge.png') }}" type="image/png">
     <meta property="og:title" content="{{ $title ?? 'Indore Literature Festival' }}">
     <meta property="og:description" content="{{ $description ?? 'Let the legacy of literature grow. A celebration of stories, art and the spirit of Indore.' }}">

@@ -1,0 +1,41 @@
+{
+  "results": [
+    {
+      "path": "/",
+      "width": 1440,
+      "title": "Let the legacy ofliterature grow.",
+      "overflow": false,
+      "broken": [],
+      "cardCount": 0,
+      "years": [],
+      "header": true,
+      "footer": true,
+      "h1Count": 1
+    },
+    {
+      "path": "/",
+      "width": 768,
+      "title": "Let the legacy ofliterature grow.",
+      "overflow": false,
+      "broken": [],
+      "cardCount": 0,
+      "years": [],
+      "header": true,
+      "footer": true,
+      "h1Count": 1
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "title": "Let the legacy ofliterature grow.",
+      "overflow": false,
+      "broken": [],
+      "cardCount": 0,
+      "years": [],
+      "header": true,
+      "footer": true,
+      "h1Count": 1
+    }
+  ],
+  "errors": []
+}

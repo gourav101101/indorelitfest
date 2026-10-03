@@ -1,7 +1,4 @@
-# Client changes — complete review, 27 September 2026
-
-> Implementation update, 28 September: [completed work and all remaining points](client-changes-delivery-2026-09-28.md), [updated page inventory](website-page-inventory-2026-09-28.md), and [client-ready material request](client-message-remaining-2026-09-28.md). This update supersedes the older status and requests below.
-
+ # Client changes — complete review, 27 September 2026
 
 This reviews all 33 numbered points in the client's “Detailed Changes” message and its two closing requests. It is a scope and content plan, not a record of completed implementation. No website changes were made during this review.
 

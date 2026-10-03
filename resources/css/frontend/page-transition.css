@@ -1,0 +1,10 @@
+/* A softly lit illustrated book, with curved sheets turning around its binding. */
+.book-navigation{position:fixed;inset:0;z-index:10000;display:grid;place-items:center;background:rgba(16,37,62,.86);backdrop-filter:blur(7px);opacity:0;visibility:hidden;pointer-events:none;transition:opacity .16s ease,visibility .16s ease}
+.book-navigation.is-active{opacity:1;visibility:visible;pointer-events:auto}
+.book-navigation__scene{width:min(400px,88vw);position:relative}
+.book-navigation__scene:before{content:'';position:absolute;inset:12% -15% -5%;background:radial-gradient(ellipse,#e9c9941c,transparent 68%);pointer-events:none}
+.book-navigation__art{display:block;width:100%;height:auto;overflow:visible;filter:drop-shadow(0 12px 18px #06162933)}
+.book-navigation.is-active .book-navigation__scene{animation:book-appear .25s ease-out both}
+@keyframes book-appear{from{opacity:0;transform:translateY(8px) scale(.96)}to{opacity:1;transform:translateY(0) scale(1)}}
+html:not(.motion-enabled) .book-navigation{display:none}
+@media(prefers-reduced-motion:reduce){.book-navigation{display:none}}

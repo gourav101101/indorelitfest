@@ -1,0 +1,510 @@
+{
+  "day-one": {
+    "match": "diary-session-excerpts",
+    "heading": "Watch moments from this day",
+    "description": "Selected recordings of sessions mentioned in this diary, from the official festival channel.",
+    "videos": [
+      {
+        "id": "KQFuA_pYpP0",
+        "url": "https://www.youtube.com/watch?v=KQFuA_pYpP0",
+        "title": "\"भारतीय सौम्य संपदा की सुगंध\" | Vinay Sahasrabuddhe | Indore Literature Festival Season 11 2025",
+        "duration": "9:37",
+        "thumbnail": "images/journal-videos/KQFuA_pYpP0.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "a_ACyZ7uFJw",
+        "url": "https://www.youtube.com/watch?v=a_ACyZ7uFJw",
+        "title": "भारतीय सिनेमा और सच्चाई की गूंज | Vivek Ranjan Agnihotri | Kashmir Files |  Indore Lit Fest S11 2025",
+        "duration": "9:45",
+        "thumbnail": "images/journal-videos/a_ACyZ7uFJw.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "H9JIlsv1Iu8",
+        "url": "https://www.youtube.com/watch?v=H9JIlsv1Iu8",
+        "title": "अगर-मगर में समय बिताना छोड़िए... | Ramayan Dhar Dwivedi | Kavi Sammelan | Indore Literature Festival",
+        "duration": "6:39",
+        "thumbnail": "images/journal-videos/H9JIlsv1Iu8.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      }
+    ]
+  },
+  "day-two": {
+    "match": "diary-session-excerpts",
+    "heading": "Watch moments from this day",
+    "description": "Selected recordings of sessions mentioned in this diary, from the official festival channel.",
+    "videos": [
+      {
+        "id": "meuTjWU9gZA",
+        "url": "https://www.youtube.com/watch?v=meuTjWU9gZA",
+        "title": "'संकल्प से बदल दी सूरत' | Dr. Vikas Dave | म.प्र. साहित्य अकादमी | Indore Literature Festival 2025",
+        "duration": "11:04",
+        "thumbnail": "images/journal-videos/meuTjWU9gZA.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "0y0bByiIWPY",
+        "url": "https://www.youtube.com/watch?v=0y0bByiIWPY",
+        "title": "'एक राष्ट्र, एक चुनाव' | डॉ. शोभा जैन | Indian Election System | Indore Literature Festival 2025",
+        "duration": "9:58",
+        "thumbnail": "images/journal-videos/0y0bByiIWPY.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "-j3sYJ1us04",
+        "url": "https://www.youtube.com/watch?v=-j3sYJ1us04",
+        "title": "New Age Writings | Kapil Raj | Bishal Paul | Authors | Indore Literature Festival | Season 11 | 2025",
+        "duration": "9:59",
+        "thumbnail": "images/journal-videos/-j3sYJ1us04.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      }
+    ]
+  },
+  "day-three": {
+    "match": "diary-session-excerpts",
+    "heading": "Watch moments from this day",
+    "description": "Selected recordings of sessions mentioned in this diary, from the official festival channel.",
+    "videos": [
+      {
+        "id": "13vjrVe2xSc",
+        "url": "https://www.youtube.com/watch?v=13vjrVe2xSc",
+        "title": "\"How many Hands Did that 500Rs Note Touch?\" | Aditi Shrivastav | Navisha Gupta | Indore Lit Fest 25",
+        "duration": "7:40",
+        "thumbnail": "images/journal-videos/13vjrVe2xSc.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "LKdLSV3DvIs",
+        "url": "https://www.youtube.com/watch?v=LKdLSV3DvIs",
+        "title": "Pranab Mukherjee’s Vision | Sharmistha Mukherjee | Pranab Mukherjee | Indore Literature Fest 2025",
+        "duration": "9:53",
+        "thumbnail": "images/journal-videos/LKdLSV3DvIs.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "pu27xuANtLY",
+        "url": "https://www.youtube.com/watch?v=pu27xuANtLY",
+        "title": "'RAHGIR Naam Kese Mila' | The Rahgir Story | Rahgir Songs | Indore Literature Festival 2025",
+        "duration": "14:07",
+        "thumbnail": "images/journal-videos/pu27xuANtLY.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      }
+    ]
+  },
+  "sharmistha-mukherjee": {
+    "match": "session-excerpts",
+    "heading": "Watch the conversation",
+    "description": "Continue the story with session excerpts from the official festival YouTube channel.",
+    "videos": [
+      {
+        "id": "LKdLSV3DvIs",
+        "url": "https://www.youtube.com/watch?v=LKdLSV3DvIs",
+        "title": "Pranab Mukherjee’s Vision | Sharmistha Mukherjee | Pranab Mukherjee | Indore Literature Fest 2025",
+        "duration": "9:53",
+        "thumbnail": "images/journal-videos/LKdLSV3DvIs.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "Ns40t-WlkdA",
+        "url": "https://www.youtube.com/watch?v=Ns40t-WlkdA",
+        "title": "'Pranab's Message For Youth' | Sharmistha Mukherjee | Pranab Mukherjee | Indore Literature Festival",
+        "duration": "6:54",
+        "thumbnail": "images/journal-videos/Ns40t-WlkdA.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "3myI2fRG-ro",
+        "url": "https://www.youtube.com/watch?v=3myI2fRG-ro",
+        "title": "What Went Wrong for Congress | Sharmistha Mukherjee | Pranab Mukherjee | Indore Literature Festival",
+        "duration": "11:59",
+        "thumbnail": "images/journal-videos/3myI2fRG-ro.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      }
+    ]
+  },
+  "ramayan-dhar-dwivedi": {
+    "match": "related-performances",
+    "heading": "More from Ramayan Dhar Dwivedi",
+    "description": "Related poetry performances from the festival archive. These are not the full discussion described above.",
+    "videos": [
+      {
+        "id": "6giDzeLthYE",
+        "url": "https://www.youtube.com/watch?v=6giDzeLthYE",
+        "title": "जुगनू जैसी जलती-बुझती छोटी-छोटी आशाएँ | Ramayan Dhar Dwivedi | Kavi Sammelan | Indore Lit Fest",
+        "duration": "4:12",
+        "thumbnail": "images/journal-videos/6giDzeLthYE.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "H9JIlsv1Iu8",
+        "url": "https://www.youtube.com/watch?v=H9JIlsv1Iu8",
+        "title": "अगर-मगर में समय बिताना छोड़िए... | Ramayan Dhar Dwivedi | Kavi Sammelan | Indore Literature Festival",
+        "duration": "6:39",
+        "thumbnail": "images/journal-videos/H9JIlsv1Iu8.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "eFPz9FpsV1Q",
+        "url": "https://www.youtube.com/watch?v=eFPz9FpsV1Q",
+        "title": "मुख्य आधार है प्रेम संसार का... | Ramayan Dhar Dwivedi | Kavi Sammelan | Indore Literature Festival",
+        "duration": "4:25",
+        "thumbnail": "images/journal-videos/eFPz9FpsV1Q.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      }
+    ]
+  },
+  "writing-toolkit": {
+    "match": "session-excerpts",
+    "heading": "Watch the conversation",
+    "description": "Continue the story with session excerpts from the official festival YouTube channel.",
+    "videos": [
+      {
+        "id": "TkvNwGNckHY",
+        "url": "https://www.youtube.com/watch?v=TkvNwGNckHY",
+        "title": "Write What Inspires You | Nitish Bhushan | Abhinav Chaturvedi | Anish Kanjilal | Indore LitFest 2025",
+        "duration": "9:27",
+        "thumbnail": "images/journal-videos/TkvNwGNckHY.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "_fr2T_wYF1s",
+        "url": "https://www.youtube.com/watch?v=_fr2T_wYF1s",
+        "title": "\"Survival In Writing\" | Nitish Bhushan | Abhinav Chaturvedi | Anish Kanjilal | Indore LitFest 2025",
+        "duration": "9:21",
+        "thumbnail": "images/journal-videos/_fr2T_wYF1s.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      }
+    ]
+  },
+  "one-nation-one-election": {
+    "match": "session-excerpts",
+    "heading": "Watch the conversation",
+    "description": "Continue the story with session excerpts from the official festival YouTube channel.",
+    "videos": [
+      {
+        "id": "0y0bByiIWPY",
+        "url": "https://www.youtube.com/watch?v=0y0bByiIWPY",
+        "title": "'एक राष्ट्र, एक चुनाव' | डॉ. शोभा जैन | Indian Election System | Indore Literature Festival 2025",
+        "duration": "9:58",
+        "thumbnail": "images/journal-videos/0y0bByiIWPY.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "MU1ji-y6yCs",
+        "url": "https://www.youtube.com/watch?v=MU1ji-y6yCs",
+        "title": "'कानूनी चुनाव प्रक्रिया' | हर्षिता दवे | Indian Election System | Indore Literature Festival",
+        "duration": "5:53",
+        "thumbnail": "images/journal-videos/MU1ji-y6yCs.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "i7dyXGmAKWU",
+        "url": "https://www.youtube.com/watch?v=i7dyXGmAKWU",
+        "title": "'गरीबी पर चुनाव नहीं होता' | डॉ. प्रतीक श्रीवास्तव | Indian Election System | Indore Literature Fest",
+        "duration": "4:51",
+        "thumbnail": "images/journal-videos/i7dyXGmAKWU.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      }
+    ]
+  },
+  "mera-rachna-dharm": {
+    "match": "session-excerpts",
+    "heading": "Watch the conversation",
+    "description": "Continue the story with session excerpts from the official festival YouTube channel.",
+    "videos": [
+      {
+        "id": "UGxNYsxTXL8",
+        "url": "https://www.youtube.com/watch?v=UGxNYsxTXL8",
+        "title": "'मेरा रचना धर्म' | Ajay Bhushan Shukla | Urmila Shirish | Indore Literature Festival 2025",
+        "duration": "11:07",
+        "thumbnail": "images/journal-videos/UGxNYsxTXL8.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "xjM1RCr9PD4",
+        "url": "https://www.youtube.com/watch?v=xjM1RCr9PD4",
+        "title": "'चुकी खुद सरकार का नौकर हूं मैं' | Mukesh Nema | 'मेरा रचना धर्म' | Indore Literature Festival 2025",
+        "duration": "12:27",
+        "thumbnail": "images/journal-videos/xjM1RCr9PD4.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      }
+    ]
+  },
+  "uday-mahurkar": {
+    "match": "session-excerpts",
+    "heading": "Watch the conversation",
+    "description": "Continue the story with session excerpts from the official festival YouTube channel.",
+    "videos": [
+      {
+        "id": "d2NvP9G7P_4",
+        "url": "https://www.youtube.com/watch?v=d2NvP9G7P_4",
+        "title": "'फिल्मों व वेबसीरिज में अश्लीलता का संकट' | Uday Mahurkar | Indore Literature Festival 2025",
+        "duration": "6:09",
+        "thumbnail": "images/journal-videos/d2NvP9G7P_4.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "NPc5G3iuGxU",
+        "url": "https://www.youtube.com/watch?v=NPc5G3iuGxU",
+        "title": "युवा पीढे को खोकला कर रहा है ये कंटेंट | Ban Pornography | Uday Mahurkar | Indore Literature Fest",
+        "duration": "6:10",
+        "thumbnail": "images/journal-videos/NPc5G3iuGxU.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "47esp--LTZM",
+        "url": "https://www.youtube.com/watch?v=47esp--LTZM",
+        "title": "Govt Should Also Impose Laws... | Ban Pornography | Uday Mahurkar | Indore Literature Festival 2025",
+        "duration": "6:39",
+        "thumbnail": "images/journal-videos/47esp--LTZM.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      }
+    ]
+  },
+  "ambi-parameswaran": {
+    "match": "session-excerpts",
+    "heading": "Watch the conversation",
+    "description": "Continue the story with session excerpts from the official festival YouTube channel.",
+    "videos": [
+      {
+        "id": "stVxJbszGzs",
+        "url": "https://www.youtube.com/watch?v=stVxJbszGzs",
+        "title": "Power of Branding | CEO | Ambi Parmeswaran | Marketing Mixology | Indore Literature Festival 2025",
+        "duration": "9:38",
+        "thumbnail": "images/journal-videos/stVxJbszGzs.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "FtIGjSAORa8",
+        "url": "https://www.youtube.com/watch?v=FtIGjSAORa8",
+        "title": "1% Wrong with Amul | CEO | Ambi Parmeswaran | Marketing Mixology | Indore Literature Festival 2025",
+        "duration": "8:57",
+        "thumbnail": "images/journal-videos/FtIGjSAORa8.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "g-RIiZjuWIY",
+        "url": "https://www.youtube.com/watch?v=g-RIiZjuWIY",
+        "title": "What Worked for Tanishq | CEO | Ambi Parmeswaran | Marketing Mixology | Indore Literature Fest' 25",
+        "duration": "13:00",
+        "thumbnail": "images/journal-videos/g-RIiZjuWIY.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      }
+    ]
+  },
+  "rahagir": {
+    "match": "session-excerpts",
+    "heading": "Watch the conversation",
+    "description": "Continue the story with session excerpts from the official festival YouTube channel.",
+    "videos": [
+      {
+        "id": "bw8UKjXwRNM",
+        "url": "https://www.youtube.com/watch?v=bw8UKjXwRNM",
+        "title": "'Call Centre Ki Job se Shuruwat' | The Rahgir Story | Rahgir Songs | Indore Literature Festival 2025",
+        "duration": "10:43",
+        "thumbnail": "images/journal-videos/bw8UKjXwRNM.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "pu27xuANtLY",
+        "url": "https://www.youtube.com/watch?v=pu27xuANtLY",
+        "title": "'RAHGIR Naam Kese Mila' | The Rahgir Story | Rahgir Songs | Indore Literature Festival 2025",
+        "duration": "14:07",
+        "thumbnail": "images/journal-videos/pu27xuANtLY.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      }
+    ]
+  },
+  "new-age-writing": {
+    "match": "session-excerpts",
+    "heading": "Watch the conversation",
+    "description": "Continue the story with session excerpts from the official festival YouTube channel.",
+    "videos": [
+      {
+        "id": "-j3sYJ1us04",
+        "url": "https://www.youtube.com/watch?v=-j3sYJ1us04",
+        "title": "New Age Writings | Kapil Raj | Bishal Paul | Authors | Indore Literature Festival | Season 11 | 2025",
+        "duration": "9:59",
+        "thumbnail": "images/journal-videos/-j3sYJ1us04.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "0aUCO-BYtew",
+        "url": "https://www.youtube.com/watch?v=0aUCO-BYtew",
+        "title": "Write Your Emotions Freely | New Age Writers | Bishal Paul | Kapil Raj | Indore Literature Festival",
+        "duration": "7:57",
+        "thumbnail": "images/journal-videos/0aUCO-BYtew.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "4CiHzOgHWaM",
+        "url": "https://www.youtube.com/watch?v=4CiHzOgHWaM",
+        "title": "Holding Space & Chasing Dreams | Kapil Raj | Bishhal Paul | Indore Literature Festival Season11 2025",
+        "duration": "4:35",
+        "thumbnail": "images/journal-videos/4CiHzOgHWaM.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      }
+    ]
+  },
+  "budding-authors": {
+    "match": "session-excerpts",
+    "heading": "Watch the conversation",
+    "description": "Continue the story with session excerpts from the official festival YouTube channel.",
+    "videos": [
+      {
+        "id": "13vjrVe2xSc",
+        "url": "https://www.youtube.com/watch?v=13vjrVe2xSc",
+        "title": "\"How many Hands Did that 500Rs Note Touch?\" | Aditi Shrivastav | Navisha Gupta | Indore Lit Fest 25",
+        "duration": "7:40",
+        "thumbnail": "images/journal-videos/13vjrVe2xSc.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "He4JDwyPMG0",
+        "url": "https://www.youtube.com/watch?v=He4JDwyPMG0",
+        "title": "\"Coping with Writer's Block\" | Aditi Shrivastav | Navisha Gupta | Indore Literature Festival 2025",
+        "duration": "6:41",
+        "thumbnail": "images/journal-videos/He4JDwyPMG0.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      }
+    ]
+  },
+  "vinay_blog": {
+    "match": "session-excerpts",
+    "heading": "Watch the conversation",
+    "description": "Continue the story with session excerpts from the official festival YouTube channel.",
+    "videos": [
+      {
+        "id": "KQFuA_pYpP0",
+        "url": "https://www.youtube.com/watch?v=KQFuA_pYpP0",
+        "title": "\"भारतीय सौम्य संपदा की सुगंध\" | Vinay Sahasrabuddhe | Indore Literature Festival Season 11 2025",
+        "duration": "9:37",
+        "thumbnail": "images/journal-videos/KQFuA_pYpP0.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "2MolMEQVDBw",
+        "url": "https://www.youtube.com/watch?v=2MolMEQVDBw",
+        "title": "\"भारतीय गुरु–शिष्य परंपरा\" | Vinay Sahasrabuddhe | Indore Literature Festival Season 11 2025",
+        "duration": "7:42",
+        "thumbnail": "images/journal-videos/2MolMEQVDBw.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "mTpWKZkh4Zc",
+        "url": "https://www.youtube.com/watch?v=mTpWKZkh4Zc",
+        "title": "\"अंतरराष्ट्रीय मंच पर योग परंपरा\" | Vinay Sahasrabuddhe | Indore Literature Festival Season 11 2025",
+        "duration": "7:59",
+        "thumbnail": "images/journal-videos/mTpWKZkh4Zc.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      }
+    ]
+  },
+  "vikas_blog": {
+    "match": "session-excerpts",
+    "heading": "Watch the conversation",
+    "description": "Continue the story with session excerpts from the official festival YouTube channel.",
+    "videos": [
+      {
+        "id": "meuTjWU9gZA",
+        "url": "https://www.youtube.com/watch?v=meuTjWU9gZA",
+        "title": "'संकल्प से बदल दी सूरत' | Dr. Vikas Dave | म.प्र. साहित्य अकादमी | Indore Literature Festival 2025",
+        "duration": "11:04",
+        "thumbnail": "images/journal-videos/meuTjWU9gZA.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "BKtyCSbhlqk",
+        "url": "https://www.youtube.com/watch?v=BKtyCSbhlqk",
+        "title": "'सिस्टम को जड़ से मज़बूत किया' | Dr. Vikas Dave | म.प्र. साहित्य अकादमी | Indore Literature Festival",
+        "duration": "7:41",
+        "thumbnail": "images/journal-videos/BKtyCSbhlqk.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "n2S3Gftvnt4",
+        "url": "https://www.youtube.com/watch?v=n2S3Gftvnt4",
+        "title": "'तकनीक, नई पीढ़ी और साहित्य' | Dr. Vikas Dave | म.प्र. साहित्य अकादमी | Indore Literature Festival",
+        "duration": "8:53",
+        "thumbnail": "images/journal-videos/n2S3Gftvnt4.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      }
+    ]
+  },
+  "kavita_blog": {
+    "match": "session-excerpts",
+    "heading": "Watch the conversation",
+    "description": "Continue the story with session excerpts from the official festival YouTube channel.",
+    "videos": [
+      {
+        "id": "Q04XMULypcA",
+        "url": "https://www.youtube.com/watch?v=Q04XMULypcA",
+        "title": "“कविता समाज को सुंदर कैसे बनाती है?\" | Poet Ashutosh Agnihotri | Indore Literature Festival 2025",
+        "duration": "9:03",
+        "thumbnail": "images/journal-videos/Q04XMULypcA.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "TP2byDYIxpE",
+        "url": "https://www.youtube.com/watch?v=TP2byDYIxpE",
+        "title": "कर्ण के अंतिम शब्द | Poet Ashutosh Agnihotri | Live Poetry | Mahabharat | Indore Literature Festival",
+        "duration": "7:54",
+        "thumbnail": "images/journal-videos/TP2byDYIxpE.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      },
+      {
+        "id": "mtjY4-rIv_c",
+        "url": "https://www.youtube.com/watch?v=mtjY4-rIv_c",
+        "title": "\"जो जीवन गाए वो शंकर हैं, जो काल बुलाएं वो शंकर हैं\" | Poet Ashutosh Agnihotri | Indore Lit Fest",
+        "duration": "7:13",
+        "thumbnail": "images/journal-videos/mtjY4-rIv_c.jpg",
+        "channel": "Hello Hindustan",
+        "channel_url": "https://www.youtube.com/@indorelitfest"
+      }
+    ]
+  }
+}

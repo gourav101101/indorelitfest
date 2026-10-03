@@ -1,0 +1,14 @@
+import fs from 'node:fs';
+const viewPath='resources/views/frontend/pages/home.blade.php';
+let view=fs.readFileSync(viewPath,'utf8');
+view=view.replace(/            <img class="ilf-hero-voices ilf-hero-voices-left"[^>]+>\r?\n            <img class="ilf-hero-voices ilf-hero-voices-right"[^>]+>/, '            <img class="ilf-hero-people is-current" data-hero-scene="0" src="{{ $image(\'images/rajwada-daly-hero-illustrated-v2.webp\') }}" alt="" width="2172" height="724" fetchpriority="high">');
+fs.writeFileSync(viewPath,view);
+const cssPath='resources/css/frontend/home-scenes.css';
+let css=fs.readFileSync(cssPath,'utf8');const marker="/* Seven past festival voices framed by Indore's landmarks. */";
+if(!css.includes(marker))throw new Error('Restoration marker missing');
+fs.writeFileSync(cssPath,css.slice(0,css.indexOf(marker)));
+const note='> Update, 2 October 2026: The user requested the original Rajwada/Daly College hero artwork and edge placement. The original hero image and responsive layout are restored. The generated speaker collages below are retained as unused artwork.\n\n';
+const docPath='docs/hero-seven-voices-2026-10-02.md';
+const doc=fs.readFileSync(docPath,'utf8');
+if(!doc.startsWith(note))fs.writeFileSync(docPath,note+doc);
+console.log('Restored original hero artwork and layout.');

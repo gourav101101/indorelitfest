@@ -7,7 +7,7 @@
     @include('frontend.partials.ilf-ornaments')
     <section class="ilf-hero" aria-labelledby="ilf-title">
         <div class="ilf-hero-sky" aria-hidden="true">
-            <img class="ilf-hero-people is-current" data-hero-scene="0" src="{{ $image('images/rajwada-daly-hero-2026.webp') }}" alt="" width="2171" height="724" fetchpriority="high">
+            <img class="ilf-hero-people is-current" data-hero-scene="0" src="{{ $image('images/hero-seven-voices-dc-raised-2026.webp') }}" alt="" width="2172" height="724" fetchpriority="high">
             <svg class="ilf-hero-mark ilf-hero-mark-book" viewBox="0 0 64 64" fill="none"><path d="M9 17q12-4 23 4 11-8 23-4v32q-12-4-23 4-11-8-23-4Z" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/><path d="M32 21v32M15 25q6-1 11 3M15 33q6-1 11 3M38 28q5-4 11-3M38 36q5-4 11-3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
             <svg class="ilf-hero-mark ilf-hero-mark-pen" viewBox="0 0 64 64" fill="none"><path d="m15 49 8-26L49 9l-6 28-28 12Z" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/><path d="m15 49 17-17M32 32l17-23" stroke="currentColor" stroke-width="2"/><circle cx="32" cy="32" r="4" fill="currentColor"/></svg>
             
@@ -54,10 +54,10 @@
             <p>Organised by the Indore Literary Program Organizing Society, ILF nurtures a love for art and literature, especially among young people. Join us for the <strong>12th edition at {{ $festival['venue'] }}, from {{ $festival['dates'] }}</strong>—three days of discovery, expression and shared stories.</p>
             <a class="ilf-text-link" href="{{ route('about') }}">More about our story <span aria-hidden="true">➜</span></a>
         </div>
-        <a class="ilf-film-card ilf-wrap" href="{{ $festival['journey_youtube'] ?: $festival['youtube'] }}" aria-label="{{ $festival['journey_youtube'] ? 'Watch the eleven-year festival journey on YouTube' : 'Explore festival recordings on YouTube' }}">
+        <a class="ilf-film-card ilf-wrap" href="https://www.youtube.com/watch?v=aPCUji_k5BQ" target="_blank" rel="noopener" aria-label="Watch the eleven-year festival journey on YouTube (opens in a new tab)">
             <img src="{{ $image('legacy/images/slideshow-main/6.jpg') }}" alt="An on-stage conversation from the Indore Literature Festival archive" width="1200" height="650" loading="lazy">
-            <span class="ilf-film-shade"></span><span class="ilf-play" aria-hidden="true">▶</span>
-            <span class="ilf-film-caption"><small>ELEVEN YEARS OF LITERATURE</small><strong>{{ $festival['journey_youtube'] ? 'Our journey. Our shared story.' : 'The conversations live on.' }}</strong><span>{{ $festival['journey_youtube'] ? 'Watch the journey film on YouTube ↗' : 'Explore the festival channel on YouTube ↗' }}</span></span>
+            <span class="ilf-film-shade"></span><span class="ilf-play" aria-hidden="true"><svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor" focusable="false"><path d="M8 4v16l12-8z"/></svg></span>
+            <span class="ilf-film-caption"><small>ELEVEN YEARS OF LITERATURE</small><strong>Our journey. Our shared story.</strong><span>Watch the journey film on YouTube &#8599;</span></span>
         </a>
     </section>
 
@@ -83,6 +83,7 @@
             <div class="ilf-join-options">
             @foreach(array_slice($festival['forms'],1) as $i=>$form)
                 <article class="ilf-join-option">
+                    <img class="client-join-photo" src="{{ $image(['images/client-2026-09/open-mic-sketch.webp','images/client-2026-09/stalls-sketch.webp','images/client-2026-09/volunteer-shirt-sketch.webp','images/client-2026-09/internship-sketch.webp'][$i]) }}" alt="{{ ['Illustration of an Open Mic participant on stage','Illustration of visitors browsing festival book stalls','Illustration of a volunteer wearing a black ILF shirt among the audience','Illustration of the festival team helping guests'][$i] }}" width="900" height="600" loading="lazy">
                     <svg viewBox="0 0 32 32" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
                     @if($i===0)<rect x="12" y="3" width="8" height="16" rx="4"/><path d="M8 14v2a8 8 0 0 0 16 0v-2M16 24v5m-5 0h10"/>
                     @elseif($i===1)<path d="M4 13 7 5h18l3 8M6 16v12h20V16M3 13q3 6 7 0 3 6 6 0 3 6 6 0 4 6 7 0M12 28v-9h8v9"/>
@@ -92,20 +93,22 @@
                     </svg>
                     <h3>{{ ['Open Mic','Book a Stall','Volunteer','Internship'][$i] }}</h3>
                     <p>{{ ['Bring your poetry, stories or spoken word to the stage.','Introduce your books, products or creative work.','Welcome our community and support the festival team.','Learn behind the scenes and contribute to the festival.'][$i] }}</p>
-                    <a class="ilf-text-link" href="{{ $form['url'] }}">{{ ['Apply for Open Mic','Enquire About a Stall','Become a Volunteer','Apply for an Internship'][$i] }} <span aria-hidden="true">&#8594;</span></a>
+                    <a class="ilf-text-link" href="{{ route('participation.detail', ['open-mic','stall-booking','volunteer','internship'][$i]) }}">{{ ['Explore Open Mic','Explore Stall Booking','Explore Volunteering','Explore Internships'][$i] }} <span aria-hidden="true">&#8594;</span></a>
                 </article>
             @endforeach
             </div>
         </div>
     </section>
 
+    @include('frontend.partials.youtube-milestone')
+
     <section id="voices" class="ilf-voices ilf-section">
         <img class="ilf-food-ornament ilf-food-jalebi ilf-food-voices" src="{{ asset('images/indore-jalebi-ornament.webp') }}" width="512" height="512" alt="" aria-hidden="true" loading="lazy">
         @include('frontend.partials.ilf-heading',['overline'=>'A legacy of remarkable voices','heading'=>'Festival voices'])
         <p class="ilf-intro">Since 2015, writers, poets, artists and thinkers have made this a meeting place for ideas. Revisit voices from across our editions, and look ahead to the next chapter.</p>
-        <div class="ilf-speakers ilf-wrap">
+        <div class="ilf-speakers ilf-wrap voices-all" aria-label="Seven prominent festival voices">
             @foreach($featuredSpeakers as $speaker)
-            <a href="{{ ($speaker['year'] ?? 2025) === 2024 ? route('speakers.archive.profile',[2024,$speaker['slug']]) : route('speaker',$speaker['slug']) }}" class="ilf-speaker"><div><img src="{{ $image($speaker['image']) }}" alt="{{ $speaker['name'] }}" width="360" height="420" loading="lazy" @if($speaker['slug']==='paritosh-tripathi') style="object-position:center top" @endif></div><small class="ilf-speaker-edition">{{ $speaker['year'] ?? 2025 }} EDITION</small><h3>{{ $speaker['name'] }}</h3><p>{{ $speaker['role'] }}</p></a>
+            <a href="{{ $speaker['profile_url'] }}" class="ilf-speaker"><div><img src="{{ $image($speaker['image']) }}" alt="{{ $speaker['name'] }}" width="360" height="420" loading="lazy"></div><small class="ilf-speaker-edition">FESTIVAL VOICE</small><h3>{{ $speaker['name'] }}</h3><p>{{ $speaker['role'] }}</p>@include('frontend.partials.speaker-years')</a>
             @endforeach
         </div><div class="voices-actions"><a class="ilf-button" href="{{ route('speakers.archive') }}">Our Past Speakers ➜</a><a class="ilf-text-link" href="{{ route('speakers') }}">2026 Speakers ↗</a></div>
     </section>
